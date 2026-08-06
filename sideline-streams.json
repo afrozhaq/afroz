@@ -19,8 +19,8 @@
           }
         },
         {
-          "label": "HD2",
-          "url": "https",
+          "label": "HD 2",
+          "url": "https:\/\/ftv.xyzstreams.st\/MLBTVBAL\/B0004\/master.m3u8?|Referer=https:\/\/xyzstreams.st\/&Origin=https:\/\/xyzstreams.st\/&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls"
         }
       ]
