@@ -1,10 +1,10 @@
 {
-  "minVersionCode": 1,
-  "latestVersionCode": 1,
-  "force": false,
+  "minVersionCode": 11,
+  "latestVersionCode": 22,
+  "force": true,
   "title": "Update available",
   "message": "A newer version is available.",
-  "updateUrl": "https://play.google.com/store/apps/details?id=com.goalmindstudios.livescores",
+  "updateUrl": "https:\/\/play.google.com\/store\/apps\/details?id=com.goalmindstudios.livescores",
   "buttonText": "Update",
   "maintenance": false,
   "maintenanceMessage": ""
