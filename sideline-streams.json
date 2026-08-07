@@ -10,32 +10,12 @@
       "endsAt": 0,
       "links": [
         {
-          "label": "HD",
-          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd",
+          "label": "HD MPD",
+          "subtitle": "Fhd",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
           "type": "dash",
-          "tokenApi": {
-            "type": "token",
-            "api": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36"
-          }
-        },
-        {
-          "label": "HD 2 M3",
-          "url": "https:\/\/ftv.xyzstreams.st\/MLBTVBAL\/B0004\/master.m3u8",
-          "type": "hls",
-          "headers": {
-            "Referer": "https:\/\/xyzstreams.st\/",
-            "Origin": "https:\/\/xyzstreams.st\/",
-            "User-agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0"
-          }
-        },
-        {
-          "label": "HD 3",
-          "url": "https:\/\/embed.st\/embed\/admin\/ppv-los-angeles-angels-vs-baltimore-orioles\/1",
-          "type": "hls",
-          "tokenApi": {
-            "type": "embed",
-            "api": "https:\/\/embed.st\/embed\/admin\/ppv-los-angeles-angels-vs-baltimore-orioles\/1"
-          }
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
         }
       ]
     },
@@ -50,6 +30,7 @@
       "links": [
         {
           "label": "HD",
+          "subtitle": "",
           "url": "test",
           "type": "hls"
         }
