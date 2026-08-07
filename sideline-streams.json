@@ -39,6 +39,25 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1786102659545",
+      "league": "nfl",
+      "gameId": "",
+      "away": "BENGALS",
+      "home": "LIONS",
+      "title": "NFL Preseason",
+      "poster": "",
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "HD",
+          "subtitle": "FHD ",
+          "url": "https",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
