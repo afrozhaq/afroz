@@ -7,6 +7,7 @@
       "away": "LAA",
       "home": "BAL",
       "title": "LAA at BAL",
+      "poster": "",
       "endsAt": 0,
       "links": [
         {
@@ -14,6 +15,7 @@
           "subtitle": "Fhd",
           "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
           "type": "dash",
+          "rewarded": false,
           "drmScheme": "clearkey",
           "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
         }
@@ -26,13 +28,15 @@
       "away": "NYM",
       "home": "CLE",
       "title": "NYM at CLE",
+      "poster": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEgyWQXf8Q3hivPX-5__cuSZj8T6NQjwnXqP6AoVkbeSOIXdyf2DvlYyrxmwfAgdijOxggK8LdO2lg7SIJ6kd1ri-1XfJqK-Y_9NVyWL3ZxuLvYfvicK2waNGgcJj9SYjk8mPQnAbesLe0ti6YZx7dZ7c4rH9WYpgefmkR4npwF2d3BrlSEdtjjUnOsV1qg\/s16000\/Football%2520Game%2520Action_%2520Running%2520Back%2520in%2520.jpg",
       "endsAt": 0,
       "links": [
         {
           "label": "HD",
           "subtitle": "",
           "url": "test",
-          "type": "hls"
+          "type": "hls",
+          "rewarded": false
         }
       ]
     }
