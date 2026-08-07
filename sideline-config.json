@@ -1,6 +1,6 @@
 {
-  "minVersionCode": 11,
-  "latestVersionCode": 22,
+  "minVersionCode": 1,
+  "latestVersionCode": 1,
   "force": false,
   "title": "Update available",
   "message": "A newer version is available.",
