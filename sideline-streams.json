@@ -11,9 +11,9 @@
       "endsAt": 0,
       "links": [
         {
-          "label": "HD",
+          "label": "Server 1",
           "subtitle": "FHD Auto Quality",
-          "url": "https",
+          "url": "https:\/\/dripcast.online\/stream\/server2-mlb-reds-vs-nationals-webcast\/index.m3u8?key=NOIR-HA6JAZ-2026",
           "type": "hls",
           "rewarded": false
         }
