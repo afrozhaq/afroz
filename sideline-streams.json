@@ -151,6 +151,25 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1786378648825",
+      "league": "mlb",
+      "gameId": "5059577",
+      "away": "HOU",
+      "home": "SF",
+      "title": "HOU at SF",
+      "poster": "",
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "HD",
+          "subtitle": "HD Auto Quality ",
+          "url": "httpss",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
