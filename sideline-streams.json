@@ -208,17 +208,6 @@
         },
         {
           "label": "Link 3",
-          "subtitle": "Live",
-          "url": "https:\/\/embed.st\/embed\/admin\/ppv-philadelphia-phillies-vs-st-louis-cardinals\/1",
-          "type": "hls",
-          "rewarded": false,
-          "tokenApi": {
-            "type": "embed",
-            "api": "https:\/\/embed.st\/embed\/admin\/ppv-philadelphia-phillies-vs-st-louis-cardinals\/1"
-          }
-        },
-        {
-          "label": "Link 4",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-10\/phi-stl",
           "type": "hls",
@@ -227,6 +216,20 @@
             "type": "embed",
             "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-10\/phi-stl"
           }
+        },
+        {
+          "label": "Link 4",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/node-5d763f4c.4587.website\/6a7accc5.0142be76i798bc8d0.a9d9.86dff833\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Link 5",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/node-88894cb5.4587.website\/6a7accc5.89eb528di798bc8d0.a9d6.668220c3\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
         }
       ]
     },
