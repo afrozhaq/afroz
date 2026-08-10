@@ -37,6 +37,25 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1786378360475",
+      "league": "mlb",
+      "gameId": "5059579",
+      "away": "BAL",
+      "home": "MIN",
+      "title": "BAL at MIN",
+      "poster": "",
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "HD",
+          "subtitle": "HD Auto Quality ",
+          "url": "htpp",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
