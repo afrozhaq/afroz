@@ -113,6 +113,25 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1786378549897",
+      "league": "mlb",
+      "gameId": "5059560",
+      "away": "MIL",
+      "home": "SD",
+      "title": "MIL at SD",
+      "poster": "",
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "HD",
+          "subtitle": "HD Auto Quality ",
+          "url": "Htt",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
