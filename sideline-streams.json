@@ -290,9 +290,9 @@
       "endsAt": 0,
       "links": [
         {
-          "label": "HD",
-          "subtitle": "HD Auto Quality ",
-          "url": "ht",
+          "label": "Link 1",
+          "subtitle": "Live",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2781d8192bb76cb34e\/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzRlOjE3ODY1NDg1NTY0Mzg6Y2RubGl2ZXR2LnR2OjA3NGVkMjAxMzBkYThjYjQuNWRjNDg3ZGQ5ZTVlZDU1MWI1OGFhMzY4MDVlNGFkMzQ1NDVmMmQ3NjFlM2ZjZjFmZjY5NDEwODY2OTg2ZjMyYg",
           "type": "hls",
           "rewarded": false
         }
