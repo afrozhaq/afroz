@@ -208,6 +208,25 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1786379077695",
+      "league": "nba",
+      "gameId": "5026482",
+      "away": "SS",
+      "home": "CS",
+      "title": "SS Vs CS",
+      "poster": "",
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "HD",
+          "subtitle": "HD Auto Quality ",
+          "url": "ht",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
