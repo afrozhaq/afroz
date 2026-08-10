@@ -370,6 +370,17 @@
             "type": "embed",
             "api": "https:\/\/embed.st\/embed\/admin\/ppv-tampa-bay-rays-vs-athletics\/1"
           }
+        },
+        {
+          "label": "Link 4",
+          "subtitle": "Live",
+          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-10\/tb-ath",
+          "type": "hls",
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-10\/tb-ath"
+          }
         }
       ]
     },
