@@ -132,6 +132,25 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1786378616653",
+      "league": "mlb",
+      "gameId": "5059576",
+      "away": "TB",
+      "home": "OAK",
+      "title": "TB at OAK",
+      "poster": "",
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "HD",
+          "subtitle": "HD Auto Quality ",
+          "url": "htt",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
