@@ -416,6 +416,17 @@
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2781d8192bb76cb34e\/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzRlOjE3ODY1NDg1NTY0Mzg6Y2RubGl2ZXR2LnR2OjA3NGVkMjAxMzBkYThjYjQuNWRjNDg3ZGQ5ZTVlZDU1MWI1OGFhMzY4MDVlNGFkMzQ1NDVmMmQ3NjFlM2ZjZjFmZjY5NDEwODY2OTg2ZjMyYg",
           "type": "hls",
           "rewarded": false
+        },
+        {
+          "label": "Link 2",
+          "subtitle": "Live ",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-chicago-sky-vs-seattle-storm\/1",
+          "type": "hls",
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-chicago-sky-vs-seattle-storm\/1"
+          }
         }
       ]
     }
