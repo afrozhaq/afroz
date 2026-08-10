@@ -34,6 +34,17 @@
             "type": "embed",
             "api": "https:\/\/embed.st\/embed\/admin\/ppv-boston-red-sox-vs-toronto-blue-jays\/1"
           }
+        },
+        {
+          "label": "Link 4",
+          "subtitle": "Live",
+          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-10\/bos-tor",
+          "type": "hls",
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-10\/bos-tor"
+          }
         }
       ]
     },
