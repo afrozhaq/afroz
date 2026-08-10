@@ -114,6 +114,20 @@
             "type": "embed",
             "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-10\/nym-atl"
           }
+        },
+        {
+          "label": "Link 5",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/node-5d763f4c.4587.website\/6a7ac934.b8f38799i798bc8d0.a9ce.78737b06\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Link 6",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/node-5d763f4c.4587.website\/6a7ac934.1e5635f3i798bc8d0.a9cd.458e3a38\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
         }
       ]
     },
