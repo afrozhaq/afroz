@@ -179,6 +179,13 @@
           "url": "https:\/\/node-88894cb5.4587.website\/6a7accc5.b33540a9i798bc8d0.a9d1.1f534933\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
+        },
+        {
+          "label": "Link 6",
+          "subtitle": "Live",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb624\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjI0OjE3ODY1NzczOTc3ODU6Y2RubGl2ZXR2LnR2OmVkODlkMTYxYTUwMjllZDAuZmRmMDFmZmNjNGIxZWE0NzA4ZGZjZTA5MDExNmQ3MDYyODhiYWZjNjljNzJhYTExYmI1Y2FiZWU5MjVmNzc5Yg",
+          "type": "hls",
+          "rewarded": false
         }
       ]
     },
