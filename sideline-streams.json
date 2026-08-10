@@ -141,9 +141,16 @@
       "endsAt": 0,
       "links": [
         {
-          "label": "HD",
-          "subtitle": "HD Auto Quality ",
-          "url": "https",
+          "label": "Link 1",
+          "subtitle": "Live",
+          "url": "https:\/\/ftv.xyzstreams.st\/MLBTVARI\/B0002\/master.m3u8?|Referer=https:\/\/xyzstreams.st\/&Origin=https:\/\/xyzstreams.st\/&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Link 2",
+          "subtitle": "Live",
+          "url": "https:\/\/ftv.xyzstreams.st\/MLBTVCOL\/B0010\/master.m3u8?|Referer=https:\/\/xyzstreams.st\/&Origin=https:\/\/xyzstreams.st\/&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         }
