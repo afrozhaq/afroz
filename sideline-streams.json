@@ -158,17 +158,6 @@
         {
           "label": "Link 3",
           "subtitle": "Live",
-          "url": "https:\/\/embed.st\/embed\/admin\/ppv-baltimore-orioles-vs-minnesota-twins\/1",
-          "type": "hls",
-          "rewarded": false,
-          "tokenApi": {
-            "type": "embed",
-            "api": "https:\/\/embed.st\/embed\/admin\/ppv-baltimore-orioles-vs-minnesota-twins\/1"
-          }
-        },
-        {
-          "label": "Link 4",
-          "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-10\/bal-min",
           "type": "hls",
           "rewarded": false,
@@ -176,6 +165,20 @@
             "type": "embed",
             "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-10\/bal-min"
           }
+        },
+        {
+          "label": "Link 4",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/node-88894cb5.4587.website\/6a7accc5.b552f2c0i798bc8d0.a9d8.3658650f\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Link 5",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/node-88894cb5.4587.website\/6a7accc5.b33540a9i798bc8d0.a9d1.1f534933\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
         }
       ]
     },
