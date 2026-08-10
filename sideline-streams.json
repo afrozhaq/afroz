@@ -75,6 +75,25 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1786378438432",
+      "league": "mlb",
+      "gameId": "5059558",
+      "away": "TEX",
+      "home": "LAA",
+      "title": "TEX at LAA",
+      "poster": "",
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "HD",
+          "subtitle": "HD Auto Quality ",
+          "url": "htt",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
