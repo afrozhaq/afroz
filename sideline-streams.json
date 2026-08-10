@@ -189,6 +189,25 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1786378956854",
+      "league": "nba",
+      "gameId": "5046482",
+      "away": "ALD",
+      "home": "TNT",
+      "title": "ALD Vs TNT",
+      "poster": "",
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "HD",
+          "subtitle": "HD Auto Quality ",
+          "url": "https",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
