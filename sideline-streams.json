@@ -386,6 +386,17 @@
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc176\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTc2OjE3ODY1NDg0NjM2MjM6Y2RubGl2ZXR2LnR2OjU2ZmRkYTU4ZjlmYzBkMzguMjY2MGFlYTNiMmMyZGUxZjUzNTk5ODc3N2ZhZWJjMGQyNmFkNThmZmUwZWViMDY0MTcwMzdhODAxZWJiZjNjYw",
           "type": "hls",
           "rewarded": false
+        },
+        {
+          "label": "Link 2",
+          "subtitle": "Live",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-toronto-tempo-vs-atlanta-dream\/1",
+          "type": "hls",
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-toronto-tempo-vs-atlanta-dream\/1"
+          }
         }
       ]
     },
