@@ -485,6 +485,20 @@
             "type": "embed",
             "api": "https:\/\/embed.st\/embed\/admin\/ppv-houston-astros-vs-san-francisco-giants\/1"
           }
+        },
+        {
+          "label": "Link 4",
+          "subtitle": "live ( Home )",
+          "url": "https:\/\/node-025d151e.4587.website\/6a7aec41.42c20050i798bc8d0.aa7b.6c565328\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Link 5",
+          "subtitle": "live ( Away )",
+          "url": "https:\/\/node-5d763f4c.4587.website\/6a7aec41.c85ab37bi798bc8d0.aa78.352cd078\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
         }
       ]
     },
