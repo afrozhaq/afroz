@@ -37,6 +37,25 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1786433050536",
+      "league": "mlb",
+      "gameId": "5059587",
+      "away": "CHC",
+      "home": "WSH",
+      "title": "CHC at WSH",
+      "poster": "",
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "HD",
+          "subtitle": "HD Auto Quality ",
+          "url": "htt",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
