@@ -1,3 +1,23 @@
 {
-  "streams": []
+  "streams": [
+    {
+      "id": "s1786432926422",
+      "league": "mlb",
+      "gameId": "5059585",
+      "away": "CLE",
+      "home": "DET",
+      "title": "CLE at DET",
+      "poster": "",
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "HD",
+          "subtitle": "HD Auto Quality ",
+          "url": "htt",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
+    }
+  ]
 }
