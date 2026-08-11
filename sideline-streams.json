@@ -172,6 +172,25 @@
       ]
     },
     {
+      "id": "s1786434435923",
+      "league": "mlb",
+      "gameId": "5059580",
+      "away": "PHI",
+      "home": "STL",
+      "title": "PHI at STL",
+      "poster": "",
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "HD",
+          "subtitle": "",
+          "url": "",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
+    },
+    {
       "id": "s1786434435918",
       "league": "mlb",
       "gameId": "5059582",
@@ -235,25 +254,6 @@
       "away": "MIL",
       "home": "SD",
       "title": "MIL at SD",
-      "poster": "",
-      "endsAt": 0,
-      "links": [
-        {
-          "label": "HD",
-          "subtitle": "",
-          "url": "",
-          "type": "hls",
-          "rewarded": false
-        }
-      ]
-    },
-    {
-      "id": "s1786434435923",
-      "league": "mlb",
-      "gameId": "5059580",
-      "away": "PHI",
-      "home": "STL",
-      "title": "PHI at STL",
       "poster": "",
       "endsAt": 0,
       "links": [
