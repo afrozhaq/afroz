@@ -353,6 +353,13 @@
           "url": "https:\/\/node-025d151e.4587.website\/6a7aec40.e710d9cbi798bc8d0.aa8a.16b4a09e\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
+        },
+        {
+          "label": "Link 6",
+          "subtitle": "Live",
+          "url": "https:\/\/edgestream2.pro\/hls\/ijfnakfidch22.m3u8?|Referer=https:\/\/streamecenter.live&Origin=https:\/\/streamecenter.live&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": false
         }
       ]
     },
