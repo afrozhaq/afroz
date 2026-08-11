@@ -356,11 +356,15 @@
       "endsAt": 0,
       "links": [
         {
-          "label": "HD",
-          "subtitle": "HD Auto Quality ",
-          "url": "http",
+          "label": "Link 1",
+          "subtitle": "Live",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-phoenix-mercury-vs-los-angeles-sparks\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-phoenix-mercury-vs-los-angeles-sparks\/1"
+          }
         }
       ]
     },
