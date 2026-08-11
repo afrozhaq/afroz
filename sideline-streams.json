@@ -20,6 +20,17 @@
             "type": "embed",
             "api": "https:\/\/embed.st\/embed\/admin\/ppv-cleveland-guardians-vs-detroit-tigers\/1"
           }
+        },
+        {
+          "label": "Link 2",
+          "subtitle": "Live",
+          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-11\/cle-det",
+          "type": "hls",
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-11\/cle-det"
+          }
         }
       ]
     },
