@@ -122,6 +122,17 @@
             "type": "embed",
             "api": "https:\/\/embed.st\/embed\/admin\/ppv-seattle-mariners-vs-new-york-yankees\/1"
           }
+        },
+        {
+          "label": "Link 2",
+          "subtitle": "Live",
+          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-11\/sea-nyy",
+          "type": "hls",
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-11\/sea-nyy"
+          }
         }
       ]
     },
