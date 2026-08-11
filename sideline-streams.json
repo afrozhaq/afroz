@@ -191,6 +191,44 @@
       ]
     },
     {
+      "id": "s1786434435926",
+      "league": "mlb",
+      "gameId": "5059593",
+      "away": "TEX",
+      "home": "LAA",
+      "title": "TEX at LAA",
+      "poster": "",
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "HD",
+          "subtitle": "",
+          "url": "",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
+    },
+    {
+      "id": "s1786434435921",
+      "league": "mlb",
+      "gameId": "5059584",
+      "away": "MIL",
+      "home": "SD",
+      "title": "MIL at SD",
+      "poster": "",
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "HD",
+          "subtitle": "",
+          "url": "",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
+    },
+    {
       "id": "s1786434435918",
       "league": "mlb",
       "gameId": "5059582",
@@ -248,50 +286,12 @@
       ]
     },
     {
-      "id": "s1786434435921",
-      "league": "mlb",
-      "gameId": "5059584",
-      "away": "MIL",
-      "home": "SD",
-      "title": "MIL at SD",
-      "poster": "",
-      "endsAt": 0,
-      "links": [
-        {
-          "label": "HD",
-          "subtitle": "",
-          "url": "",
-          "type": "hls",
-          "rewarded": false
-        }
-      ]
-    },
-    {
       "id": "s1786434435925",
       "league": "mlb",
       "gameId": "5059581",
       "away": "TB",
       "home": "OAK",
       "title": "TB at OAK",
-      "poster": "",
-      "endsAt": 0,
-      "links": [
-        {
-          "label": "HD",
-          "subtitle": "",
-          "url": "",
-          "type": "hls",
-          "rewarded": false
-        }
-      ]
-    },
-    {
-      "id": "s1786434435926",
-      "league": "mlb",
-      "gameId": "5059593",
-      "away": "TEX",
-      "home": "LAA",
-      "title": "TEX at LAA",
       "poster": "",
       "endsAt": 0,
       "links": [
