@@ -57,11 +57,15 @@
       "endsAt": 0,
       "links": [
         {
-          "label": "HD",
-          "subtitle": "HD Auto Quality ",
-          "url": "htt",
+          "label": "Link 1",
+          "subtitle": "Live",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-chicago-cubs-vs-washington-nationals\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-chicago-cubs-vs-washington-nationals\/1"
+          }
         }
       ]
     },
