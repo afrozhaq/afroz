@@ -248,6 +248,25 @@
       ]
     },
     {
+      "id": "s1786434435925",
+      "league": "mlb",
+      "gameId": "5059581",
+      "away": "TB",
+      "home": "OAK",
+      "title": "TB at OAK",
+      "poster": "",
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "HD",
+          "subtitle": "",
+          "url": "",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
+    },
+    {
       "id": "s1786434435919",
       "league": "mlb",
       "gameId": "5059583",
@@ -273,25 +292,6 @@
       "away": "KC",
       "home": "LAD",
       "title": "KC at LAD",
-      "poster": "",
-      "endsAt": 0,
-      "links": [
-        {
-          "label": "HD",
-          "subtitle": "",
-          "url": "",
-          "type": "hls",
-          "rewarded": false
-        }
-      ]
-    },
-    {
-      "id": "s1786434435925",
-      "league": "mlb",
-      "gameId": "5059581",
-      "away": "TB",
-      "home": "OAK",
-      "title": "TB at OAK",
       "poster": "",
       "endsAt": 0,
       "links": [
