@@ -18,6 +18,25 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1786432983243",
+      "league": "mlb",
+      "gameId": "5059586",
+      "away": "PIT",
+      "home": "MIA",
+      "title": "PIT at MIA",
+      "poster": "",
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "HD",
+          "subtitle": "HD Auto Quality ",
+          "url": "htps",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
