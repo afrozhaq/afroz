@@ -550,14 +550,14 @@
         {
           "label": "Link 1",
           "subtitle": "Live",
-          "url": "https:\/\/edgestream2.pro\/hls\/fskjanach24.m3u8?|Referer=https:\/\/streamecenter.live&Origin=https:\/\/streamecenter.live&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "url": "https:\/\/dripcast.online\/stream\/server2-mlb-royals-vs-dodgers-webcast\/index.m3u8?key=NOIR-HA6JAZ-2026",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Link 2",
           "subtitle": "Live",
-          "url": "https:\/\/ftv.xyzstreams.st\/MLBTVLAD\/B0015\/master.m3u8?|Referer=https:\/\/xyzstreams.st\/&Origin=https:\/\/xyzstreams.st\/&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "url": "https:\/\/edgestream2.pro\/hls\/fskjanach24.m3u8?|Referer=https:\/\/streamecenter.live&Origin=https:\/\/streamecenter.live&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
@@ -571,6 +571,20 @@
             "type": "embed",
             "api": "https:\/\/embed.st\/embed\/admin\/ppv-kansas-city-royals-vs-los-angeles-dodgers\/1"
           }
+        },
+        {
+          "label": "Link 4",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/node-9b5feb01.4587.website\/6a7af2c3.f5c97bd3i798bc8d0.aa82.1301e384\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Link 5",
+          "subtitle": "Live ",
+          "url": "https:\/\/ftv.xyzstreams.st\/MLBTVLAD\/B0015\/master.m3u8?|Referer=https:\/\/xyzstreams.st\/&Origin=https:\/\/xyzstreams.st\/&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": false
         }
       ]
     },
