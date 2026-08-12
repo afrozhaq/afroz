@@ -182,9 +182,9 @@
       "endsAt": 0,
       "links": [
         {
-          "label": "HD",
-          "subtitle": "",
-          "url": "",
+          "label": "Link 1",
+          "subtitle": "Live",
+          "url": "htt",
           "type": "hls",
           "rewarded": false
         }
