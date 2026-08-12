@@ -335,13 +335,27 @@
         },
         {
           "label": "Link 3",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/node-9b5feb01.4587.website\/6a7d33c6.4e0e543fi798bc8d0.ac82.ccf96f92\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Link 4",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/node-9b5feb01.4587.website\/6a7d33c6.d05cd5c1i798bc8d0.ac85.f6a10449\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Link 5",
           "subtitle": "Live",
           "url": "https:\/\/ftv.xyzstreams.st\/MLBTVHOU\/B0013\/master.m3u8?|Referer=https:\/\/xyzstreams.st\/&Origin=https:\/\/xyzstreams.st\/&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Link 4",
+          "label": "Link 6",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-houston-astros-vs-san-francisco-giants\/1",
           "type": "hls",
@@ -352,7 +366,7 @@
           }
         },
         {
-          "label": "Link 5",
+          "label": "Link 7",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-12\/hou-sf",
           "type": "hls",
