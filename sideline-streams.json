@@ -542,9 +542,13 @@
         {
           "label": "Link 1",
           "subtitle": "Live",
-          "url": "htt",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-toronto-tempo-vs-dallas-wings\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-toronto-tempo-vs-dallas-wings\/1"
+          }
         }
       ]
     }
