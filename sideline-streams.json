@@ -210,12 +210,19 @@
         {
           "label": "Link 5",
           "subtitle": "Live",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb622\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjIyOjE3ODY3MzMzNzkyNDI6Y2RubGl2ZXR2LnR2OjY4YzJmNDFlYjgwNzQ5ODkuYjRjYWVhODc5M2UwMzY1ODgyZWJkNmY3ZTA3MzM5M2YxMzUxOWRlZGI4ZDBlMDM5NGEyMzMwMjk4MWVhZjMxYg",
+          "url": "https:\/\/ftv.xyzstreams.st\/MLBTVTBR\/B0028\/master.m3u8?|Referer=https:\/\/xyzstreams.st\/&Origin=https:\/\/xyzstreams.st\/&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Link 6",
+          "subtitle": "Live",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb622\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjIyOjE3ODY3MzMzNzkyNDI6Y2RubGl2ZXR2LnR2OjY4YzJmNDFlYjgwNzQ5ODkuYjRjYWVhODc5M2UwMzY1ODgyZWJkNmY3ZTA3MzM5M2YxMzUxOWRlZGI4ZDBlMDM5NGEyMzMwMjk4MWVhZjMxYg",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Link 7",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-tampa-bay-rays-vs-athletics\/1",
           "type": "hls",
@@ -226,7 +233,7 @@
           }
         },
         {
-          "label": "Link 7",
+          "label": "Link 8",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-12\/tb-ath",
           "type": "hls",
