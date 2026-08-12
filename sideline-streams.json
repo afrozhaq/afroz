@@ -336,6 +336,17 @@
             "type": "embed",
             "api": "https:\/\/embed.st\/embed\/admin\/ppv-seattle-mariners-vs-new-york-yankees\/1"
           }
+        },
+        {
+          "label": "Link 2",
+          "subtitle": "Live",
+          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-12\/sea-nyy",
+          "type": "hls",
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-12\/sea-nyy"
+          }
         }
       ]
     },
@@ -360,6 +371,17 @@
             "type": "embed",
             "api": "https:\/\/embed.st\/embed\/admin\/ppv-boston-red-sox-vs-toronto-blue-jays\/1"
           }
+        },
+        {
+          "label": "Link 2",
+          "subtitle": "Live",
+          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-12\/bos-tor",
+          "type": "hls",
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-12\/bos-tor"
+          }
         }
       ]
     },
@@ -383,6 +405,17 @@
           "tokenApi": {
             "type": "embed",
             "api": "https:\/\/embed.st\/embed\/admin\/ppv-new-york-mets-vs-atlanta-braves\/1"
+          }
+        },
+        {
+          "label": "Link 2",
+          "subtitle": "Live",
+          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-12\/nym-atl",
+          "type": "hls",
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-12\/nym-atl"
           }
         }
       ]
