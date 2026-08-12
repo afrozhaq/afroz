@@ -496,6 +496,13 @@
         },
         {
           "label": "Link 4",
+          "subtitle": "Live",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb583\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNTgzOjE3ODY3NDU1NDM5ODA6Y2RubGl2ZXR2LnR2OmIyMWU2ZjJiZWI1YmMxOTMuYTVjM2MyNzBiZjdlZmRiNTJjMzM4MGM1YzU0ODgzZjQ3NzVkMjNkMTMzNjY0NGNhOTU3NzQ2ZDQxZjIwNTY0Mw",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Link 5",
           "subtitle": "live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-pittsburgh-pirates-vs-miami-marlins\/1",
           "type": "hls",
@@ -506,7 +513,7 @@
           }
         },
         {
-          "label": "Link 5",
+          "label": "Link 6",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-12\/pit-mia",
           "type": "hls",
