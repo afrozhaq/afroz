@@ -239,9 +239,9 @@
       "endsAt": 0,
       "links": [
         {
-          "label": "HD",
-          "subtitle": "",
-          "url": "",
+          "label": "Link 1",
+          "subtitle": "Livs",
+          "url": "gdt",
           "type": "hls",
           "rewarded": false
         }
