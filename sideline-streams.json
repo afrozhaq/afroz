@@ -946,20 +946,34 @@
         },
         {
           "label": "Link 3",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/node-025d151e.4587.website\/6a7d7239.c4b916b9i798bc8d0.acb9.302e0217\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Link 4",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/node-9b5feb01.4587.website\/6a7d7239.636667e8i798bc8d0.acd2.67ca1b46\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Link 5",
           "subtitle": "Live",
           "url": "https:\/\/ftv.xyzstreams.st\/MLBTVCHW\/B0007\/master.m3u8?|Referer=https:\/\/xyzstreams.st\/&Origin=https:\/\/xyzstreams.st\/&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Link 4",
+          "label": "Link 6",
           "subtitle": "Live",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb617\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjE3OjE3ODY3NDk5Mjc2NDU6Y2RubGl2ZXR2LnR2Ojc1NmFkMGNiNWNlOGNhN2IuNzYxMzE5OGRjYTg3YTc5YTU3ZDBiZjUzMThkMDJkZDllZjk3NDk2MmI5ZWI4YTc0MjM1YWE5ZTQ5NWUwMDQwZA",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Link 5",
+          "label": "Link 7",
           "subtitle": "Livs",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-cincinnati-reds-vs-chicago-white-sox\/1",
           "type": "hls",
@@ -970,7 +984,7 @@
           }
         },
         {
-          "label": "Link 6",
+          "label": "Link 8",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-12\/cin-chw",
           "type": "hls",
