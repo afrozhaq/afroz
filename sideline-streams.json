@@ -28,6 +28,13 @@
         {
           "label": "Link 3",
           "subtitle": "Live",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2781d8192bb76cb4dc\/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiNGRjOjE3ODY3MjQxMzUzNDU6Y2RubGl2ZXR2LnR2OjA1M2JlYjVhZDQ1NjgyMjcuMDIwMGFjMzBlY2FiOGQ1YTlmMGY4NzYwNDJkMWU2ZWQ2ODZhY2Q4MTdmOGQ2NWMwZTQ2YTYxYThlMjkzODAzNg",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Link 4",
+          "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-baltimore-orioles-vs-minnesota-twins\/1",
           "type": "hls",
           "rewarded": false,
@@ -37,7 +44,7 @@
           }
         },
         {
-          "label": "Link 4",
+          "label": "Link 5",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-12\/bal-min",
           "type": "hls",
