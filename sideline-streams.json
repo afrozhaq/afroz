@@ -144,9 +144,9 @@
       "endsAt": 0,
       "links": [
         {
-          "label": "HD",
-          "subtitle": "",
-          "url": "",
+          "label": "Link 1",
+          "subtitle": "live",
+          "url": "htt",
           "type": "hls",
           "rewarded": false
         }
