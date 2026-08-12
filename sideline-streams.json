@@ -126,6 +126,17 @@
             "type": "embed",
             "api": "https:\/\/embed.st\/embed\/admin\/ppv-colorado-rockies-vs-arizona-diamondbacks\/1"
           }
+        },
+        {
+          "label": "Link 2",
+          "subtitle": "Live",
+          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-12\/col-ari",
+          "type": "hls",
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-12\/col-ari"
+          }
         }
       ]
     },
@@ -150,6 +161,17 @@
             "type": "embed",
             "api": "https:\/\/embed.st\/embed\/admin\/ppv-houston-astros-vs-san-francisco-giants\/1"
           }
+        },
+        {
+          "label": "Link 2",
+          "subtitle": "Live",
+          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-12\/hou-sf",
+          "type": "hls",
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-12\/hou-sf"
+          }
         }
       ]
     },
@@ -173,6 +195,17 @@
           "tokenApi": {
             "type": "embed",
             "api": "https:\/\/embed.st\/embed\/admin\/ppv-milwaukee-brewers-vs-san-diego-padres\/1"
+          }
+        },
+        {
+          "label": "Link 2",
+          "subtitle": "Live",
+          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-12\/mil-sd",
+          "type": "hls",
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-12\/mil-sd"
           }
         }
       ]
