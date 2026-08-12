@@ -3,7 +3,7 @@
     {
       "id": "s1786432926422",
       "league": "mlb",
-      "gameId": "5059585",
+      "gameId": "",
       "away": "CLE",
       "home": "DET",
       "title": "CLE at DET",
@@ -72,7 +72,7 @@
     {
       "id": "s1786432983243",
       "league": "mlb",
-      "gameId": "5059586",
+      "gameId": "",
       "away": "PIT",
       "home": "MIA",
       "title": "PIT at MIA",
@@ -141,7 +141,7 @@
     {
       "id": "s1786433050536",
       "league": "mlb",
-      "gameId": "5059587",
+      "gameId": "",
       "away": "CHC",
       "home": "WSH",
       "title": "CHC at WSH",
@@ -210,7 +210,7 @@
     {
       "id": "s1786434435924",
       "league": "mlb",
-      "gameId": "5059588",
+      "gameId": "",
       "away": "SEA",
       "home": "NYY",
       "title": "SEA at NYY",
@@ -286,7 +286,7 @@
     {
       "id": "s1786434435916",
       "league": "mlb",
-      "gameId": "5059589",
+      "gameId": "",
       "away": "BOS",
       "home": "TOR",
       "title": "BOS at TOR",
@@ -355,7 +355,7 @@
     {
       "id": "s1786434435922",
       "league": "mlb",
-      "gameId": "5059590",
+      "gameId": "",
       "away": "NYM",
       "home": "ATL",
       "title": "NYM at ATL",
@@ -431,7 +431,7 @@
     {
       "id": "s1786434599044",
       "league": "nba",
-      "gameId": "5036358",
+      "gameId": "",
       "away": "IND",
       "home": "NYL",
       "title": "IND Vs NYL",
@@ -479,7 +479,7 @@
     {
       "id": "s1786434435915",
       "league": "mlb",
-      "gameId": "5059579",
+      "gameId": "",
       "away": "BAL",
       "home": "MIN",
       "title": "BAL at MIN",
@@ -548,7 +548,7 @@
     {
       "id": "s1786434435917",
       "league": "mlb",
-      "gameId": "5059591",
+      "gameId": "",
       "away": "CIN",
       "home": "CHW",
       "title": "CIN at CHW",
@@ -617,7 +617,7 @@
     {
       "id": "s1786434435923",
       "league": "mlb",
-      "gameId": "5059580",
+      "gameId": "",
       "away": "PHI",
       "home": "STL",
       "title": "PHI at STL",
@@ -686,7 +686,7 @@
     {
       "id": "s1786434435926",
       "league": "mlb",
-      "gameId": "5059593",
+      "gameId": "",
       "away": "TEX",
       "home": "LAA",
       "title": "TEX at LAA",
@@ -734,7 +734,7 @@
     {
       "id": "s1786434435921",
       "league": "mlb",
-      "gameId": "5059584",
+      "gameId": "",
       "away": "MIL",
       "home": "SD",
       "title": "MIL at SD",
@@ -782,7 +782,7 @@
     {
       "id": "s1786434435918",
       "league": "mlb",
-      "gameId": "5059582",
+      "gameId": "",
       "away": "COL",
       "home": "ARI",
       "title": "COL at ARI",
@@ -830,7 +830,7 @@
     {
       "id": "s1786434435925",
       "league": "mlb",
-      "gameId": "5059581",
+      "gameId": "",
       "away": "TB",
       "home": "OAK",
       "title": "TB at OAK",
@@ -878,7 +878,7 @@
     {
       "id": "s1786434435919",
       "league": "mlb",
-      "gameId": "5059583",
+      "gameId": "",
       "away": "HOU",
       "home": "SF",
       "title": "HOU at SF",
@@ -926,7 +926,7 @@
     {
       "id": "s1786434808269",
       "league": "nba",
-      "gameId": "5026528",
+      "gameId": "",
       "away": "LAS",
       "home": "PXM",
       "title": "LAS Vs PXM",
@@ -960,7 +960,7 @@
     {
       "id": "s1786434892104",
       "league": "nba",
-      "gameId": "5036527",
+      "gameId": "",
       "away": "LVA",
       "home": "WMY",
       "title": "LVA Vs WMY",
@@ -994,7 +994,7 @@
     {
       "id": "s1786434435920",
       "league": "mlb",
-      "gameId": "5059592",
+      "gameId": "",
       "away": "KC",
       "home": "LAD",
       "title": "KC at LAD",
