@@ -258,9 +258,9 @@
       "endsAt": 0,
       "links": [
         {
-          "label": "HD",
-          "subtitle": "",
-          "url": "",
+          "label": "Link 1",
+          "subtitle": "Live",
+          "url": "gst",
           "type": "hls",
           "rewarded": false
         }
