@@ -840,20 +840,34 @@
         },
         {
           "label": "Link 2",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/node-9b5feb01.4587.website\/6a7c3e3b.0f7d5a7ci798bc8d0.abef.8ef83a2d\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Link 3",
+          "subtitle": "live ( Away )",
+          "url": "https:\/\/node-9b5feb01.4587.website\/6a7c3e3b.6c2d929fi798bc8d0.abf8.d97b65d2\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Link 4",
           "subtitle": "Live",
           "url": "https:\/\/ftv.xyzstreams.st\/MLBTVARI\/B0002\/master.m3u8?|Referer=https:\/\/xyzstreams.st\/&Origin=https:\/\/xyzstreams.st\/&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Link 3",
+          "label": "Link 5",
           "subtitle": "Live",
           "url": "https:\/\/ftv.xyzstreams.st\/MLBTVCOL\/B0010\/master.m3u8?|Referer=https:\/\/xyzstreams.st\/&Origin=https:\/\/xyzstreams.st\/&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Link 4",
+          "label": "Link 6",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-colorado-rockies-vs-arizona-diamondbacks\/1",
           "type": "hls",
@@ -864,7 +878,7 @@
           }
         },
         {
-          "label": "Link 5",
+          "label": "Link 7",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-11\/col-ari",
           "type": "hls",
