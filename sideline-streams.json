@@ -476,33 +476,40 @@
         {
           "label": "Link 1",
           "subtitle": "Live",
-          "url": "https:\/\/edgestream2.pro\/hls\/ijfnakfidch22.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "url": "https:\/\/dripcast.online\/stream\/server2-mlb-pirates-vs-marlins-webcast\/index.m3u8?key=NOIR-VG32J6-2026",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Link 2",
           "subtitle": "Live",
-          "url": "https:\/\/ftv.xyzstreams.st\/MLBTVMIA\/B0012\/master.m3u8?|Referer=https:\/\/xyzstreams.st\/&Origin=https:\/\/xyzstreams.st\/&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "url": "https:\/\/edgestream2.pro\/hls\/ijfnakfidch22.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Link 3",
           "subtitle": "Live",
-          "url": "https:\/\/ftv.xyzstreams.st\/MLBTVPIT\/B0023\/master.m3u8?|Referer=https:\/\/xyzstreams.st\/&Origin=https:\/\/xyzstreams.st\/&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "url": "https:\/\/ftv.xyzstreams.st\/MLBTVMIA\/B0012\/master.m3u8?|Referer=https:\/\/xyzstreams.st\/&Origin=https:\/\/xyzstreams.st\/&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Link 4",
           "subtitle": "Live",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb583\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNTgzOjE3ODY3NDU1NDM5ODA6Y2RubGl2ZXR2LnR2OmIyMWU2ZjJiZWI1YmMxOTMuYTVjM2MyNzBiZjdlZmRiNTJjMzM4MGM1YzU0ODgzZjQ3NzVkMjNkMTMzNjY0NGNhOTU3NzQ2ZDQxZjIwNTY0Mw",
+          "url": "https:\/\/ftv.xyzstreams.st\/MLBTVPIT\/B0023\/master.m3u8?|Referer=https:\/\/xyzstreams.st\/&Origin=https:\/\/xyzstreams.st\/&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Link 5",
+          "subtitle": "Live",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb583\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNTgzOjE3ODY3NDU1NDM5ODA6Y2RubGl2ZXR2LnR2OmIyMWU2ZjJiZWI1YmMxOTMuYTVjM2MyNzBiZjdlZmRiNTJjMzM4MGM1YzU0ODgzZjQ3NzVkMjNkMTMzNjY0NGNhOTU3NzQ2ZDQxZjIwNTY0Mw",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Link 6",
           "subtitle": "live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-pittsburgh-pirates-vs-miami-marlins\/1",
           "type": "hls",
@@ -513,7 +520,7 @@
           }
         },
         {
-          "label": "Link 6",
+          "label": "Link 7",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-12\/pit-mia",
           "type": "hls",
