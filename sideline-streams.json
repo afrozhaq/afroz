@@ -742,6 +742,13 @@
         {
           "label": "Link 4",
           "subtitle": "Live",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc344\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzQ0OjE3ODY3NDgyNDk1NTg6Y2RubGl2ZXR2LnR2OmI5NzUwY2MyYzIxNTAxYzAuNGRhMTA3YmE2ODU5ZTRmYmQwMTI4ZTY3Y2NjMmFlMzNkOTAwZWM4NDkzYzM0YmYxOTU1MWNhZjI1YjZjMWQ5Yg",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Link 5",
+          "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-seattle-mariners-vs-new-york-yankees\/1",
           "type": "hls",
           "rewarded": false,
@@ -751,7 +758,7 @@
           }
         },
         {
-          "label": "Link 5",
+          "label": "Link 6",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-12\/sea-nyy",
           "type": "hls",
