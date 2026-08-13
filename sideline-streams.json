@@ -443,6 +443,13 @@
         {
           "label": "Link 1",
           "subtitle": "Live",
+          "url": "https:\/\/edgestream2.pro\/hls\/oipozuezeji33.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Link 2",
+          "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-los-angeles-chargers-at-houston-texans\/1",
           "type": "hls",
           "rewarded": false,
@@ -452,7 +459,7 @@
           }
         },
         {
-          "label": "Link 2",
+          "label": "Link 3",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-08-13\/lac-hou",
           "type": "hls",
