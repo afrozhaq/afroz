@@ -97,13 +97,27 @@
         },
         {
           "label": "Link 3",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/node-9b5feb01.4587.website\/6a7e68c4.a4e8e9eci798bc8d0.adb9.9ef867f2\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Link 4",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/node-8bba18be.4587.website\/6a7e68c4.b062a8a9i798bc8d0.adb6.d6fc68ce\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Link 5",
           "subtitle": "Live",
           "url": "https:\/\/ftv.xyzstreams.st\/MLBTVMIA\/B0012\/master.m3u8?|Referer=https:\/\/xyzstreams.st\/&Origin=https:\/\/xyzstreams.st\/&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Link 4",
+          "label": "Link 6",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-pittsburgh-pirates-vs-miami-marlins\/1",
           "type": "hls",
@@ -114,7 +128,7 @@
           }
         },
         {
-          "label": "Link 5",
+          "label": "Link 7",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-13\/pit-mia",
           "type": "hls",
