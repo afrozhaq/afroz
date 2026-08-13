@@ -471,6 +471,13 @@
         {
           "label": "Link 5",
           "subtitle": "Live",
+          "url": "https:\/\/dripcast.online\/stream\/server2-nfl-lions-vs-bengals-webcast\/index.m3u8?key=NOIR-VG32J6-2026",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Link 6",
+          "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-detroit-lions-at-cincinnati-bengals\/1",
           "type": "hls",
           "rewarded": false,
@@ -480,7 +487,7 @@
           }
         },
         {
-          "label": "Link 6",
+          "label": "Link 7",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-08-13\/det-cin",
           "type": "hls",
