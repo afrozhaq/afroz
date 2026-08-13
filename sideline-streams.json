@@ -244,6 +244,20 @@
         },
         {
           "label": "Link 3",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/node-5d763f4c.4587.website\/6a7e6e07.af4b8845i798bc8d0.adc2.2bdb3c64\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Link 4",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/node-8bba18be.4587.website\/6a7e6e07.3b8772fdi798bc8d0.adcd.4d13790f\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Link 5",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-cincinnati-reds-vs-chicago-white-sox\/1",
           "type": "hls",
@@ -254,7 +268,7 @@
           }
         },
         {
-          "label": "Link 4",
+          "label": "Link 6",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-13\/cin-chw",
           "type": "hls",
