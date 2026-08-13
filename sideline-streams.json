@@ -224,6 +224,15 @@
         {
           "label": "Link 1",
           "subtitle": "Live",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/5xrogwf1bx\/out\/v1\/d67356c474724ecc9ced667c7630dcab\/cenc.mpd",
+          "type": "dash",
+          "rewarded": false,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "66e14add60c30be992503fa9a0ae5e20:8c736ae52ce3cab1e918d5f9e8ed6c62"
+        },
+        {
+          "label": "Link 2",
+          "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-detroit-lions-at-cincinnati-bengals\/1",
           "type": "hls",
           "rewarded": false,
@@ -233,7 +242,7 @@
           }
         },
         {
-          "label": "Link 2",
+          "label": "Link 3",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-08-13\/det-cin",
           "type": "hls",
