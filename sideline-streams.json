@@ -768,6 +768,13 @@
             "type": "embed",
             "api": "https:\/\/embedindia.st\/embed\/nfl\/2026-08-13\/ind-ne"
           }
+        },
+        {
+          "label": "Link 8",
+          "subtitle": "Live",
+          "url": "http:\/\/193.47.62.193\/hls\/cacacaAA.m3u8?|Referer=http:\/\/www.fawanews.sc\/&Origin=http:\/\/www.fawanews.sc\/&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": false
         }
       ]
     },
