@@ -326,9 +326,13 @@
         {
           "label": "Link 1",
           "subtitle": "Live ",
-          "url": "ht",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-los-angeles-sparks-vs-new-york-liberty\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-los-angeles-sparks-vs-new-york-liberty\/1"
+          }
         }
       ]
     },
