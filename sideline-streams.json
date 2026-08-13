@@ -377,13 +377,27 @@
         },
         {
           "label": "Link 2",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/pixelstream-cast.b-cdn.net\/play\/pAVJjXWDXadNqa4ml_eoyKC_Xzx6izbNiZpWlFuGfcp_w5Q1SB53RWqnBor5LBt0\/945.m3u8|Referer=https:\/\/pixelsport.tv\/|User-Agent=Mozilla\/5.0 (Linux; Android 13) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/124.0.0.0 Mobile Safari\/537.36",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Link 3",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/pixelstream-cast.b-cdn.net\/play\/pAVJjXWDXadNqa4ml_eoyKC_Xzx6izbNiZpWlFuGfcqjbSNCn0gy0mgude0kozZJ\/920.m3u8|Referer=https:\/\/pixelsport.tv\/|User-Agent=Mozilla\/5.0 (Linux; Android 13) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/124.0.0.0 Mobile Safari\/537.36",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Link 4",
           "subtitle": "Live",
           "url": "https:\/\/ftv.xyzstreams.st\/MLBTVCHC\/B0006\/master.m3u8?|Referer=https:\/\/xyzstreams.st\/&Origin=https:\/\/xyzstreams.st\/&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Link 3",
+          "label": "Link 5",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-chicago-cubs-vs-washington-nationals\/1",
           "type": "hls",
@@ -394,7 +408,7 @@
           }
         },
         {
-          "label": "Link 4",
+          "label": "Link 6",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-13\/chc-wsh",
           "type": "hls",
