@@ -478,12 +478,19 @@
         {
           "label": "Link 6",
           "subtitle": "Live",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc173\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTczOjE3ODY2NjgxOTgzMTM6Y2RubGl2ZXR2LnR2OjI3MzIxY2Q3ODkxMGM0MTIuYWFmZWIxZDE1MDlkOTZjYmMxNjg5MDlkYzI2OTE1ZTlmYzdjYTA3YzIwZjExMzc2Y2RkMjAzYzFhOWMwZmVjNQ",
+          "url": "https:\/\/cdn10.zohanayaan.com:1686\/hls\/do2.m3u8?md5=xFdQ2L8YihAioktCNuarVQ&expires=1786667449|Referer=https:\/\/exposestrat.com&Origin=https:\/\/exposestrat.com&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Link 7",
+          "subtitle": "Live",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc173\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTczOjE3ODY2NjgxOTgzMTM6Y2RubGl2ZXR2LnR2OjI3MzIxY2Q3ODkxMGM0MTIuYWFmZWIxZDE1MDlkOTZjYmMxNjg5MDlkYzI2OTE1ZTlmYzdjYTA3YzIwZjExMzc2Y2RkMjAzYzFhOWMwZmVjNQ",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Link 8",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-detroit-lions-at-cincinnati-bengals\/1",
           "type": "hls",
@@ -494,7 +501,7 @@
           }
         },
         {
-          "label": "Link 8",
+          "label": "Link 9",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-08-13\/det-cin",
           "type": "hls",
