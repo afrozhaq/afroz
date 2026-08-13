@@ -726,6 +726,13 @@
         {
           "label": "Link 4",
           "subtitle": "Live",
+          "url": "https:\/\/dripcast.online\/stream\/server2-nfl-new-england-patriots-indianapolis-colts-embedhd\/index.m3u8?key=NOIR-VG32J6-2026",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Link 5",
+          "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-indianapolis-colts-at-new-england-patriots\/1",
           "type": "hls",
           "rewarded": false,
@@ -735,7 +742,7 @@
           }
         },
         {
-          "label": "Link 5",
+          "label": "Link 6",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-08-13\/ind-ne",
           "type": "hls",
