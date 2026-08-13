@@ -820,7 +820,7 @@
         {
           "label": "Link 4",
           "subtitle": "Live",
-          "url": "https:\/\/dripcast.online\/stream\/server2-nfl-chargers-vs-texans-webcast\/index.m3u8?key=NOIR-VG32J6-2026",
+          "url": "https:\/\/dripcast.online\/stream\/server2-nfl-houston-texans-los-angeles-chargers-embedhd\/index.m3u8?key=NOIR-VG32J6-2026",
           "type": "hls",
           "rewarded": false
         },
@@ -837,6 +837,13 @@
         },
         {
           "label": "Link 6",
+          "subtitle": "Live",
+          "url": "https:\/\/dripcast.online\/stream\/server2-nfl-chargers-vs-texans-webcast\/index.m3u8?key=NOIR-VG32J6-2026",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Link 7",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-08-13\/lac-hou",
           "type": "hls",
