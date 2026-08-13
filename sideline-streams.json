@@ -398,6 +398,13 @@
         },
         {
           "label": "Link 5",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/node-9b5feb01.4587.website\/6a7e8cf3.f657728ci798bc8d0.ade4.ead2119d\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Link 6",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-chicago-cubs-vs-washington-nationals\/1",
           "type": "hls",
@@ -408,7 +415,7 @@
           }
         },
         {
-          "label": "Link 6",
+          "label": "Link 7",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-13\/chc-wsh",
           "type": "hls",
