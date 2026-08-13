@@ -541,6 +541,13 @@
         {
           "label": "Link 5",
           "subtitle": "Live",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2b81d8192bb76ccb14\/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjYjE0OjE3ODY2NjgyNjUzMjE6Y2RubGl2ZXR2LnR2Ojc4YTYzMWVlMWNiYWI5NmUuYmYyMGQwOWNiMzY0NDA2NTU5Y2NlOGJhNWVmYTdmZGQ4YzcwN2UxYjcwMmU0ODZjYzYyNzI0NmE3NjVjOTk3YQ",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Link 6",
+          "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-green-bay-packers-at-pittsburgh-steelers\/1",
           "type": "hls",
           "rewarded": false,
@@ -550,7 +557,7 @@
           }
         },
         {
-          "label": "Link 6",
+          "label": "Link 7",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-08-13\/gb-pit",
           "type": "hls",
