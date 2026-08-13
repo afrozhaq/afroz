@@ -1087,6 +1087,13 @@
         {
           "label": "Link 4",
           "subtitle": "Live",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb626\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjI2OjE3ODY1OTM5MzMwNTE6Y2RubGl2ZXR2LnR2OjIzMWEzMGM5ZTM5Yzg3YWEuMTFhMjRjNTQ4MWIwNDRhZDc3ZTA3N2M4MjFlOTU5ZDM5ZDhiN2U1N2ZkNGY5MmYzZDlmMmM2MDM5MDUyMTgxNw",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Link 5",
+          "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-kansas-city-royals-vs-los-angeles-dodgers\/1",
           "type": "hls",
           "rewarded": false,
@@ -1096,7 +1103,7 @@
           }
         },
         {
-          "label": "Link 5",
+          "label": "Link 6",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-12\/kc-lad",
           "type": "hls",
