@@ -506,6 +506,13 @@
             "type": "embed",
             "api": "https:\/\/embedindia.st\/embed\/nfl\/2026-08-13\/det-cin"
           }
+        },
+        {
+          "label": "Link 10",
+          "subtitle": "Live",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc173\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTczOjE3ODY2NzczMzIzNjg6Y2RubGl2ZXR2LnR2OjA2YzZmMTJmMmQ4ZmE0ZWEuMWFjNGY1MTU4NzQ4ZTFjYjE3OWU0OWFmMjZiNjNjZTVjNjgxZWZmZjIxOTlmZDhiZjk3NjAxM2MxZmYwYjM0MQ",
+          "type": "hls",
+          "rewarded": false
         }
       ]
     },
