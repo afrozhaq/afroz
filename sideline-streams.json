@@ -371,6 +371,17 @@
             "type": "embed",
             "api": "https:\/\/embed.st\/embed\/admin\/ppv-indianapolis-colts-at-new-england-patriots\/1"
           }
+        },
+        {
+          "label": "Link 2",
+          "subtitle": "Live ",
+          "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-08-13\/ind-ne",
+          "type": "hls",
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/nfl\/2026-08-13\/ind-ne"
+          }
         }
       ]
     },
