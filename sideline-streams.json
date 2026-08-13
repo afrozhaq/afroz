@@ -492,6 +492,13 @@
         {
           "label": "Link 8",
           "subtitle": "Live",
+          "url": "https:\/\/cdn15.zohanayaan.com:1686\/hls\/mcincinnatibengals.m3u8?md5=Qbx6ekru9LODwKYCa_BYaQ&expires=1786667441|Referer=https:\/\/exposestrat.com&Origin=https:\/\/exposestrat.com&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Link 9",
+          "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-detroit-lions-at-cincinnati-bengals\/1",
           "type": "hls",
           "rewarded": false,
@@ -501,7 +508,7 @@
           }
         },
         {
-          "label": "Link 9",
+          "label": "Link 10",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-08-13\/det-cin",
           "type": "hls",
