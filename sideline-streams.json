@@ -1031,6 +1031,13 @@
         {
           "label": "Link 4",
           "subtitle": "Live",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2781d8192bb76cb34c\/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzRjOjE3ODY1OTQwNzE2Nzk6Y2RubGl2ZXR2LnR2OjZmOTJmNGJhZGExYTViNWQuZWJjNTcwYjQ1MjYwYWM4NzZjMzRiZGNjZjg2MjIwNWJhNTUxM2YwMDlkNmUzZTU3ZTExM2EzMDc2YzdjMDRlNw",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Link 5",
+          "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-texas-rangers-vs-los-angeles-angels\/1",
           "type": "hls",
           "rewarded": false,
@@ -1040,7 +1047,7 @@
           }
         },
         {
-          "label": "Link 5",
+          "label": "Link 6",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-12\/tex-laa",
           "type": "hls",
