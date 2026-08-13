@@ -147,40 +147,33 @@
         {
           "label": "Link 1",
           "subtitle": "Live",
-          "url": "https:\/\/dripcast.online\/stream\/server2-mlb-mariners-vs-yankees-webcast\/index.m3u8?key=NOIR-VG32J6-2026",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Link 2",
-          "subtitle": "Live",
           "url": "https:\/\/edgestream2.pro\/hls\/Czajafjihafch18.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Link 3",
+          "label": "Link 2",
           "subtitle": "Live ",
           "url": "https:\/\/ftv.xyzstreams.st\/MLBTVNYY\/B0020\/master.m3u8?|Referer=https:\/\/xyzstreams.st\/&Origin=https:\/\/xyzstreams.st\/&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Link 4",
+          "label": "Link 3",
           "subtitle": "Live",
           "url": "https:\/\/ftv.xyzstreams.st\/MLBTVSEA\/B0026\/master.m3u8?|Referer=https:\/\/xyzstreams.st\/&Origin=https:\/\/xyzstreams.st\/&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Link 5",
+          "label": "Link 4",
           "subtitle": "Live",
           "url": "https:\/\/messi.damitv.st\/live-hls\/channel\/mlb\/2026-08-13\/sea-nyy\/playlist.m3u8?tk=8Ml8ny8kJ4bc9yz5F-Fc_w&e=1786684845|Referer=https:\/\/damitv.st\/embed\/?id=mlb\/2026-08-13\/sea-nyy&Origin=https:\/\/damitv.st\/embed\/?id=mlb\/2026-08-13\/sea-nyy&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Link 6",
+          "label": "Link 5",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-seattle-mariners-vs-new-york-yankees\/1",
           "type": "hls",
@@ -191,7 +184,7 @@
           }
         },
         {
-          "label": "Link 7",
+          "label": "Link 6",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-13\/sea-nyy",
           "type": "hls",
