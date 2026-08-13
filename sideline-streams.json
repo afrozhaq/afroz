@@ -153,27 +153,41 @@
         },
         {
           "label": "Link 2",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/node-88894cb5.4587.website\/6a7e8700.3403147bi798bc8d0.adc4.e234bae0\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Link 3",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/node-88894cb5.4587.website\/6a7e8700.e2bb0143i798bc8d0.adc9.7d50aca2\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Link 4",
           "subtitle": "Live ",
           "url": "https:\/\/ftv.xyzstreams.st\/MLBTVNYY\/B0020\/master.m3u8?|Referer=https:\/\/xyzstreams.st\/&Origin=https:\/\/xyzstreams.st\/&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Link 3",
+          "label": "Link 5",
           "subtitle": "Live",
           "url": "https:\/\/ftv.xyzstreams.st\/MLBTVSEA\/B0026\/master.m3u8?|Referer=https:\/\/xyzstreams.st\/&Origin=https:\/\/xyzstreams.st\/&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Link 4",
+          "label": "Link 6",
           "subtitle": "Live",
           "url": "https:\/\/messi.damitv.st\/live-hls\/channel\/mlb\/2026-08-13\/sea-nyy\/playlist.m3u8?tk=8Ml8ny8kJ4bc9yz5F-Fc_w&e=1786684845|Referer=https:\/\/damitv.st\/embed\/?id=mlb\/2026-08-13\/sea-nyy&Origin=https:\/\/damitv.st\/embed\/?id=mlb\/2026-08-13\/sea-nyy&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Link 5",
+          "label": "Link 7",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-seattle-mariners-vs-new-york-yankees\/1",
           "type": "hls",
@@ -184,7 +198,7 @@
           }
         },
         {
-          "label": "Link 6",
+          "label": "Link 8",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-13\/sea-nyy",
           "type": "hls",
