@@ -126,6 +126,17 @@
             "type": "embed",
             "api": "https:\/\/embed.st\/embed\/admin\/ppv-cincinnati-reds-vs-chicago-white-sox\/1"
           }
+        },
+        {
+          "label": "Link 2",
+          "subtitle": "Live ",
+          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-13\/cin-chw",
+          "type": "hls",
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-13\/cin-chw"
+          }
         }
       ]
     },
@@ -150,6 +161,17 @@
             "type": "embed",
             "api": "https:\/\/embed.st\/embed\/admin\/ppv-boston-red-sox-vs-toronto-blue-jays\/1"
           }
+        },
+        {
+          "label": "Link 2",
+          "subtitle": "Live ",
+          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-13\/bos-tor",
+          "type": "hls",
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-13\/bos-tor"
+          }
         }
       ]
     },
@@ -173,6 +195,17 @@
           "tokenApi": {
             "type": "embed",
             "api": "https:\/\/embed.st\/embed\/admin\/ppv-chicago-cubs-vs-washington-nationals\/1"
+          }
+        },
+        {
+          "label": "Link 2",
+          "subtitle": "Live",
+          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-13\/chc-wsh",
+          "type": "hls",
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-13\/chc-wsh"
           }
         }
       ]
