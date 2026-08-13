@@ -319,6 +319,26 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1786605365493",
+      "league": "nba",
+      "gameId": "5074675",
+      "away": "NYL",
+      "home": "LAS ",
+      "title": "NYL VS LAS",
+      "poster": "",
+      "startsAt": 1786665600000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Link 1",
+          "subtitle": "Live ",
+          "url": "ht",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
