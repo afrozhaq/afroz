@@ -307,6 +307,20 @@
         },
         {
           "label": "Link 5",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/node-9b5feb01.4587.website\/6a7e83a1.7846c2c5i798bc8d0.add9.80ad484c\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Link 6",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/node-9b5feb01.4587.website\/6a7e83a2.538c0c19i798bc8d0.adca.df64ca88\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Link 7",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-boston-red-sox-vs-toronto-blue-jays\/1",
           "type": "hls",
@@ -317,7 +331,7 @@
           }
         },
         {
-          "label": "Link 6",
+          "label": "Link 8",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-13\/bos-tor",
           "type": "hls",
