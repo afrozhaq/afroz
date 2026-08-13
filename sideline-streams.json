@@ -108,11 +108,15 @@
       "endsAt": 0,
       "links": [
         {
-          "label": "HD",
-          "subtitle": "",
-          "url": "",
+          "label": "Link 1",
+          "subtitle": "Live",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-boston-red-sox-vs-toronto-blue-jays\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-boston-red-sox-vs-toronto-blue-jays\/1"
+          }
         }
       ]
     },
