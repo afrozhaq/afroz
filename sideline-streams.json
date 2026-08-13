@@ -911,6 +911,13 @@
         {
           "label": "Link 6",
           "subtitle": "Live",
+          "url": "https:\/\/cdn13.zohanayaan.com:1686\/hls\/marizonacardinals.m3u8?md5=GnkQZlD2rTxcTVkkSaKYTg&expires=1786671324|Referer=https:\/\/exposestrat.com&Origin=https:\/\/exposestrat.com&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Link 7",
+          "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-arizona-cardinals-at-las-vegas-raiders\/1",
           "type": "hls",
           "rewarded": false,
@@ -920,7 +927,7 @@
           }
         },
         {
-          "label": "Link 7",
+          "label": "Link 8",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-08-13\/ari-lv",
           "type": "hls",
