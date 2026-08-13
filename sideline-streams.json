@@ -299,6 +299,26 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1786605248368",
+      "league": "nba",
+      "gameId": "5826802",
+      "away": "CS",
+      "home": "AD",
+      "title": "CS VS AD",
+      "poster": "",
+      "startsAt": 1786662000000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Link 1",
+          "subtitle": "live",
+          "url": "ht",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
