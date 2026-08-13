@@ -478,6 +478,13 @@
         {
           "label": "Link 6",
           "subtitle": "Live",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc173\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTczOjE3ODY2NjgxOTgzMTM6Y2RubGl2ZXR2LnR2OjI3MzIxY2Q3ODkxMGM0MTIuYWFmZWIxZDE1MDlkOTZjYmMxNjg5MDlkYzI2OTE1ZTlmYzdjYTA3YzIwZjExMzc2Y2RkMjAzYzFhOWMwZmVjNQ",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Link 7",
+          "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-detroit-lions-at-cincinnati-bengals\/1",
           "type": "hls",
           "rewarded": false,
@@ -487,7 +494,7 @@
           }
         },
         {
-          "label": "Link 7",
+          "label": "Link 8",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-08-13\/det-cin",
           "type": "hls",
