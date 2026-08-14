@@ -854,14 +854,28 @@
           "rewarded": false
         },
         {
-          "label": "Link 2",
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "https:\/\/webcast-origin.b-cdn.net\/bcdn_token=03478E9QrJIisiDbEQ967PL2Zkf1eOJWSkSYNM3_byM&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhH96w88dsc5chl0bRbU8C4u%2F&expires=1786750246\/play\/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhH96w88dsc5chl0bRbU8C4u\/80.m3u8?|Referer=https:\/\/nflwebcast.com&Origin=https:\/\/nflwebcast.com&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live",
+          "url": "https:\/\/dripcast.online\/stream\/server2-nfl-washington-commanders-miami-dolphins-embedhd\/index.m3u8?key=NOIR-VG32J6-2026",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
           "subtitle": "Live",
           "url": "https:\/\/edgestream2.pro\/hls\/sfjnzabacah31.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Link 3",
+          "label": "Server 5",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-miami-dolphins-at-washington-commanders\/1",
           "type": "hls",
@@ -872,7 +886,7 @@
           }
         },
         {
-          "label": "Link 4",
+          "label": "Server 6",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-08-14\/mia-wsh",
           "type": "hls",
