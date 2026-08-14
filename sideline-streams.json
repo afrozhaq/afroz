@@ -144,20 +144,6 @@
             "type": "embed",
             "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-14\/mia-cin"
           }
-        },
-        {
-          "label": "Link 5",
-          "subtitle": "live (marlin)",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb628\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjI4OjE3ODY3NjA2NTk3NDM6Y2RubGl2ZXR2LnR2OjJiOWU2NGVhMGQyZTg0NTUuYjMwYWI1NGRjNGVjNzkzMDhlZDdjNTgxZmMwYTNhZWFmNzNjNzVjOTgxNmQ2OGNmNDk5NjJlOWJiMDdlNmNkNw",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Link 6",
-          "subtitle": "live (red)",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb617\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjE3OjE3ODY3NjA2MDEyOTA6Y2RubGl2ZXR2LnR2OmQyNWNkN2E4YjE1NTNmMTIuNzBlYzRjYWJjOWU3NGM2MTJlYTFiZDM2M2I4NmQyN2ExZGIxZTYyNDRmZTc2YjE4YmI5OTg2OTZmMjhhOGUyYw",
-          "type": "hls",
-          "rewarded": false
         }
       ]
     },
@@ -172,20 +158,6 @@
       "startsAt": 0,
       "endsAt": 0,
       "links": [
-        {
-          "label": "Link 2",
-          "subtitle": "live (home)",
-          "url": "https:\/\/node-025d151e.4587.website\/6a800770.24fef951i798bc8d0.af35.2b0e8a55\/free.live.espn\/master.m3u8",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Link 3",
-          "subtitle": "live (away)",
-          "url": "https:\/\/node-025d151e.4587.website\/6a800770.c364bb78i798bc8d0.af34.7df6a0e9\/free.live.espn\/master.m3u8",
-          "type": "hls",
-          "rewarded": false
-        },
         {
           "label": "Link 1",
           "subtitle": "Live ",
@@ -884,7 +856,7 @@
         {
           "label": "Fast Server",
           "subtitle": "FHD Auto Quality",
-          "url": "https:\/\/cileynasi.s3.us-east-1.amazonaws.com\/falcons.m3u8",
+          "url": "https:\/\/cherisetrevisone.s3.us-east-1.amazonaws.com\/falcons.m3u8",
           "type": "hls",
           "rewarded": false
         },
