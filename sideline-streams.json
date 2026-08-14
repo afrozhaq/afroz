@@ -348,6 +348,27 @@
       "endsAt": 0,
       "links": [
         {
+          "label": "Fast Server ",
+          "subtitle": "FHD Auto Quality",
+          "url": "https:\/\/cherisetrevisone.s3.us-east-1.amazonaws.com\/orioles.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Home ",
+          "subtitle": "Live",
+          "url": "https:\/\/node-9b5feb01.4587.website\/6a8011e6.1cf5aa61i798bc8d0.af40.dbc00d6d\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Away",
+          "subtitle": "Live",
+          "url": "https:\/\/node-9b5feb01.4587.website\/6a8011e6.24b628f1i798bc8d0.af3f.70dbfaa7\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
           "label": "Link 1",
           "subtitle": "Live",
           "url": "https:\/\/edgestream2.pro\/hls\/bzagLHzach19.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
@@ -375,7 +396,7 @@
         {
           "label": "Link 4",
           "subtitle": "Live",
-          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-14\/bal-tb",
+          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-14\/bal-tb8",
           "type": "hls",
           "rewarded": false,
           "tokenApi": {
