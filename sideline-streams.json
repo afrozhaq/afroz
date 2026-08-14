@@ -441,6 +441,17 @@
             "type": "embed",
             "api": "https:\/\/embed.st\/embed\/admin\/ppv-milwaukee-brewers-vs-los-angeles-dodgers\/1"
           }
+        },
+        {
+          "label": "Link 2",
+          "subtitle": "Live",
+          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-14\/mil-lad",
+          "type": "hls",
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-14\/mil-lad"
+          }
         }
       ]
     },
