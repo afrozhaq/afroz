@@ -784,14 +784,35 @@
           "rewarded": false
         },
         {
-          "label": "Link 2",
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "https:\/\/dripcast.online\/stream\/server2-nfl-new-york-jets-tampa-bay-buccaneers-embedhd\/index.m3u8?key=NOIR-VG32J6-2026",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb5de\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWRlOjE3ODY3NjIxMzU0ODY6Y2RubGl2ZXR2LnR2OjNmMzY2MGRlYzljZGU3ZDcuYThhOWRmMDU2YTllZmIxMGU2MWM5ODZhODExMjlhMzYyN2ZiYzJiMTEwNDk1Zjc0YTA0MTQ4ZjEwODQ3Njc2ZQ",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
           "subtitle": "Live",
           "url": "https:\/\/edgestream2.pro\/hls\/JHDAJBDnjdna30.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Link 3",
+          "label": "Server 5",
+          "subtitle": "Live",
+          "url": "http:\/\/193.47.62.192\/hls\/DFFFA.m3u8?|Referer=http:\/\/www.fawanews.sc\/&Origin=http:\/\/www.fawanews.sc\/&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 6",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-tampa-bay-buccaneers-at-new-york-jets\/1",
           "type": "hls",
@@ -802,7 +823,7 @@
           }
         },
         {
-          "label": "Link 4",
+          "label": "Server 7",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-08-14\/tb-nyj",
           "type": "hls",
