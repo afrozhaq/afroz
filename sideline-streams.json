@@ -1001,6 +1001,13 @@
         {
           "label": "Link 2",
           "subtitle": "Live",
+          "url": "https:\/\/dripcast.online\/stream\/server2-nfl-titans-vs-49ers-webcast\/index.m3u8?key=NOIR-VG32J6-2026",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Link 3",
+          "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-08-13\/ten-sf\/away-cbs-wreg-en",
           "type": "hls",
           "rewarded": false,
@@ -1010,14 +1017,14 @@
           }
         },
         {
-          "label": "Link 3",
+          "label": "Link 4",
           "subtitle": "Live",
           "url": "https:\/\/messi.damitv.st\/live-hls\/channel\/nfl\/2026-08-13\/ten-sf\/playlist.m3u8?tk=7aW_G3JXlIqXVBD4IdTJGg&e=1786701104|referer=https:\/\/ondemand.st\/",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Link 4",
+          "label": "Link 5",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-tennessee-titans-at-san-francisco-49-ers\/1",
           "type": "hls",
@@ -1028,7 +1035,7 @@
           }
         },
         {
-          "label": "Link 5",
+          "label": "Link 6",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-08-13\/ten-sf",
           "type": "hls",
