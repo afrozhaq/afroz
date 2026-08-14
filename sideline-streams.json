@@ -710,13 +710,6 @@
           "rewarded": false
         },
         {
-          "label": "Link 2",
-          "subtitle": "Live ( Home )",
-          "url": "https:\/\/pixelstream-cast.b-cdn.net\/play\/pAVJjXWDXadNqa4ml_eoyKC_Xzx6izbNiZpWlFuGfcoa-ke_wsdwwa--zHaglbBM\/651.m3u8|Referer=https:\/\/pixelsport.tv\/|User-Agent=Mozilla\/5.0 (Linux; Android 13) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/124.0.0.0 Mobile Safari\/537.36",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
           "label": "Link 3",
           "subtitle": "Live",
           "url": "https:\/\/dripcast.online\/stream\/server2-nfl-new-england-patriots-indianapolis-colts-embedhd\/index.m3u8?key=NOIR-VG32J6-2026",
