@@ -448,11 +448,11 @@
           "drmLicenseUrl": "66e14add60c30be992503fa9a0ae5e20:8c736ae52ce3cab1e918d5f9e8ed6c62"
         },
         {
-          "label": "Link 2",
-          "subtitle": "Live",
-          "url": "https:\/\/edgestream2.pro\/hls\/JHDAJBDnjdna30.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "label": "Fast Server",
+          "subtitle": "FHD Auto Quality",
+          "url": "https:\/\/cileynasi.s3.us-east-1.amazonaws.com\/bengals.m3u8",
           "type": "hls",
-          "rewarded": false
+          "rewarded": true
         },
         {
           "label": "Link 3",
