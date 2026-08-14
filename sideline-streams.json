@@ -1008,12 +1008,19 @@
         {
           "label": "Link 3",
           "subtitle": "Live",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2b81d8192bb76ccb14\/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjYjE0OjE3ODY2ODIyNjMxMDE6Y2RubGl2ZXR2LnR2OjVmYzFkODk0NDE5ZDBlN2MuMzdkNzYzZmI0M2Q1YjM4ODYxNGUzMzI1YmE4MGZjOTY3NjdmYWUxZTllNjU0NTM3MDUzMTgzYzg3NWE1NWFhMA",
+          "url": "https:\/\/instreams.live\/live\/NFLHD6\/mono.m3u8?st=27_Rfn4WFlGd3G1gzLc8-Q&e=1786678239|Referer=https:\/\/instream.click\/jwp-us.php?stream=NFLHD6&Origin=https:\/\/instream.click\/jwp-us.php?stream=NFLHD6&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Link 4",
+          "subtitle": "Live",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2b81d8192bb76ccb14\/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjYjE0OjE3ODY2ODIyNjMxMDE6Y2RubGl2ZXR2LnR2OjVmYzFkODk0NDE5ZDBlN2MuMzdkNzYzZmI0M2Q1YjM4ODYxNGUzMzI1YmE4MGZjOTY3NjdmYWUxZTllNjU0NTM3MDUzMTgzYzg3NWE1NWFhMA",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Link 5",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-08-13\/ten-sf\/away-cbs-wreg-en",
           "type": "hls",
@@ -1024,14 +1031,14 @@
           }
         },
         {
-          "label": "Link 5",
+          "label": "Link 6",
           "subtitle": "Live",
           "url": "https:\/\/messi.damitv.st\/live-hls\/channel\/nfl\/2026-08-13\/ten-sf\/playlist.m3u8?tk=7aW_G3JXlIqXVBD4IdTJGg&e=1786701104|referer=https:\/\/ondemand.st\/",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Link 6",
+          "label": "Link 7",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-tennessee-titans-at-san-francisco-49-ers\/1",
           "type": "hls",
@@ -1042,7 +1049,7 @@
           }
         },
         {
-          "label": "Link 7",
+          "label": "Link 8",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-08-13\/ten-sf",
           "type": "hls",
