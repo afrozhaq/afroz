@@ -221,12 +221,12 @@
       ]
     },
     {
-      "id": "s1786694680240",
+      "id": "s1786694680248",
       "league": "mlb",
       "gameId": "",
-      "away": "COL",
-      "home": "SF",
-      "title": "COL at SF",
+      "away": "TEX",
+      "home": "OAK",
+      "title": "TEX at OAK",
       "poster": "",
       "startsAt": 0,
       "endsAt": 0,
@@ -261,12 +261,12 @@
       ]
     },
     {
-      "id": "s1786694680248",
+      "id": "s1786694680240",
       "league": "mlb",
       "gameId": "",
-      "away": "TEX",
-      "home": "OAK",
-      "title": "TEX at OAK",
+      "away": "COL",
+      "home": "SF",
+      "title": "COL at SF",
       "poster": "",
       "startsAt": 0,
       "endsAt": 0,
