@@ -452,7 +452,7 @@
           "subtitle": "FHD Auto Quality",
           "url": "https:\/\/cileynasi.s3.us-east-1.amazonaws.com\/bengals.m3u8",
           "type": "hls",
-          "rewarded": true
+          "rewarded": false
         },
         {
           "label": "Link 3",
