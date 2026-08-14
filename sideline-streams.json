@@ -814,6 +814,13 @@
         {
           "label": "Server 6",
           "subtitle": "Live",
+          "url": "http:\/\/193.47.62.192\/hls\/DFFFA.m3u8?|Referer=http:\/\/www.fawanews.sc\/&Origin=http:\/\/www.fawanews.sc\/&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 7",
+          "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-tampa-bay-buccaneers-at-new-york-jets\/1",
           "type": "hls",
           "rewarded": false,
@@ -823,7 +830,7 @@
           }
         },
         {
-          "label": "Server 7",
+          "label": "Server 8",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-08-14\/tb-nyj",
           "type": "hls",
