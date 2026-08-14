@@ -379,6 +379,26 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1786698571122",
+      "league": "nfl",
+      "gameId": "",
+      "away": "DEMO",
+      "home": "DEM2",
+      "title": "",
+      "poster": "",
+      "startsAt": 1786698900000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "HD",
+          "subtitle": "",
+          "url": "http",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
