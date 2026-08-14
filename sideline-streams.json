@@ -1013,8 +1013,8 @@
         },
         {
           "label": "Link 4",
-          "subtitle": "Live",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2b81d8192bb76ccb14\/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjYjE0OjE3ODY2ODIyNjMxMDE6Y2RubGl2ZXR2LnR2OjVmYzFkODk0NDE5ZDBlN2MuMzdkNzYzZmI0M2Q1YjM4ODYxNGUzMzI1YmE4MGZjOTY3NjdmYWUxZTllNjU0NTM3MDUzMTgzYzg3NWE1NWFhMA",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/pixelstream-cast.b-cdn.net\/play\/pAVJjXWDXadNqa4ml_eoyKC_Xzx6izbNiZpWlFuGfcqkF4a4cAy_d8GbKr72b5g8\/608.m3u8|Referer=https:\/\/pixelsport.tv\/|User-Agent=Mozilla\/5.0 (Linux; Android 13) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/124.0.0.0 Mobile Safari\/537.36",
           "type": "hls",
           "rewarded": false
         },
