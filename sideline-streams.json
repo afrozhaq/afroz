@@ -299,6 +299,26 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1786697342418",
+      "league": "nfl",
+      "gameId": "",
+      "away": "WC",
+      "home": "MD",
+      "title": "WC Vs MD",
+      "poster": "",
+      "startsAt": 1786748400000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Link 1",
+          "subtitle": "Live",
+          "url": "https",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
