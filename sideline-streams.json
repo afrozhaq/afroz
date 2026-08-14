@@ -41,32 +41,12 @@
       ]
     },
     {
-      "id": "s1786694680236",
+      "id": "s1786694680239",
       "league": "mlb",
       "gameId": "",
-      "away": "ARI",
-      "home": "ATL",
-      "title": "ARI at ATL",
-      "poster": "",
-      "startsAt": 0,
-      "endsAt": 0,
-      "links": [
-        {
-          "label": "HD",
-          "subtitle": "",
-          "url": "",
-          "type": "hls",
-          "rewarded": false
-        }
-      ]
-    },
-    {
-      "id": "s1786694680237",
-      "league": "mlb",
-      "gameId": "",
-      "away": "BAL",
-      "home": "TB",
-      "title": "BAL at TB",
+      "away": "CHW",
+      "home": "DET",
+      "title": "CHW at DET",
       "poster": "",
       "startsAt": 0,
       "endsAt": 0,
@@ -101,12 +81,32 @@
       ]
     },
     {
-      "id": "s1786694680239",
+      "id": "s1786694680236",
       "league": "mlb",
       "gameId": "",
-      "away": "CHW",
-      "home": "DET",
-      "title": "CHW at DET",
+      "away": "ARI",
+      "home": "ATL",
+      "title": "ARI at ATL",
+      "poster": "",
+      "startsAt": 0,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "HD",
+          "subtitle": "",
+          "url": "",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
+    },
+    {
+      "id": "s1786694680237",
+      "league": "mlb",
+      "gameId": "",
+      "away": "BAL",
+      "home": "TB",
+      "title": "BAL at TB",
       "poster": "",
       "startsAt": 0,
       "endsAt": 0,
