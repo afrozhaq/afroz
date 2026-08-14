@@ -13,6 +13,20 @@
       "links": [
         {
           "label": "Link 1",
+          "subtitle": "Live",
+          "url": "https:\/\/edgestream2.pro\/hls\/dazhfiach15.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Link 2",
+          "subtitle": "Live",
+          "url": "https:\/\/ftv.xyzstreams.st\/MLBTVCHC\/B0006\/master.m3u8?|Referer=https:\/\/xyzstreams.st\/&Origin=https:\/\/xyzstreams.st\/&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Link 3",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-st-louis-cardinals-vs-chicago-cubs\/1",
           "type": "hls",
@@ -23,7 +37,7 @@
           }
         },
         {
-          "label": "Link 2",
+          "label": "Link 4",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-14\/stl-chc",
           "type": "hls",
