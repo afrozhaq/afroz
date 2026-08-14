@@ -422,9 +422,13 @@
         {
           "label": "link 1",
           "subtitle": "live ",
-          "url": "htt",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-dallas-wings-vs-indiana-fever\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-dallas-wings-vs-indiana-fever\/1"
+          }
         }
       ]
     },
