@@ -74,6 +74,13 @@
             "type": "embed",
             "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-14\/stl-chc"
           }
+        },
+        {
+          "label": "HD",
+          "subtitle": "Backup",
+          "url": "https:\/\/cileynasi.s3.us-east-1.amazonaws.com\/cubs.m3u8",
+          "type": "hls",
+          "rewarded": false
         }
       ]
     },
