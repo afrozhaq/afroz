@@ -398,9 +398,13 @@
         {
           "label": "Link 1",
           "subtitle": "Live",
-          "url": "https",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-denver-broncos-at-atlanta-falcons\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-denver-broncos-at-atlanta-falcons\/1"
+          }
         }
       ]
     },
