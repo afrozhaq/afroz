@@ -357,6 +357,17 @@
             "type": "embed",
             "api": "https:\/\/embed.st\/embed\/admin\/ppv-tampa-bay-buccaneers-at-new-york-jets\/1"
           }
+        },
+        {
+          "label": "Link 2",
+          "subtitle": "Live",
+          "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-08-14\/tb-nyj",
+          "type": "hls",
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/nfl\/2026-08-14\/tb-nyj"
+          }
         }
       ]
     },
