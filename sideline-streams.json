@@ -394,7 +394,7 @@
         {
           "label": "HD",
           "subtitle": "",
-          "url": "http",
+          "url": "https:\/\/cileynasi.s3.us-east-1.amazonaws.com\/bluejays.m3u8",
           "type": "hls",
           "rewarded": false
         }
