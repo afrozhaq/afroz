@@ -34,6 +34,13 @@
         },
         {
           "label": "Link 4",
+          "subtitle": "Live",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb5ce\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWNlOjE3ODY3NDQ5MjM3MzA6Y2RubGl2ZXR2LnR2OmJiMjY5MTBmZDI0OTZiZmYuNmI2N2NjYzJkM2EzZmFiODllNTI5ZDAwNTY0ZmZmNmZjYTAzYTA4ODMyNzc0ZDRkMmFlZjkwMDVmYmI4NWU3Zg",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Link 5",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-st-louis-cardinals-vs-chicago-cubs\/1",
           "type": "hls",
@@ -44,7 +51,7 @@
           }
         },
         {
-          "label": "Link 5",
+          "label": "Link 6",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-14\/stl-chc",
           "type": "hls",
