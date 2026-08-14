@@ -1,6 +1,46 @@
 {
   "streams": [
     {
+      "id": "s1786694680247",
+      "league": "mlb",
+      "gameId": "",
+      "away": "STL",
+      "home": "CHC",
+      "title": "STL at CHC",
+      "poster": "",
+      "startsAt": 0,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "HD",
+          "subtitle": "",
+          "url": "",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
+    },
+    {
+      "id": "s1786694680242",
+      "league": "mlb",
+      "gameId": "",
+      "away": "MIA",
+      "home": "CIN",
+      "title": "MIA at CIN",
+      "poster": "",
+      "startsAt": 0,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "HD",
+          "subtitle": "",
+          "url": "",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
+    },
+    {
       "id": "s1786694680236",
       "league": "mlb",
       "gameId": "",
@@ -121,26 +161,6 @@
       ]
     },
     {
-      "id": "s1786694680242",
-      "league": "mlb",
-      "gameId": "",
-      "away": "MIA",
-      "home": "CIN",
-      "title": "MIA at CIN",
-      "poster": "",
-      "startsAt": 0,
-      "endsAt": 0,
-      "links": [
-        {
-          "label": "HD",
-          "subtitle": "",
-          "url": "",
-          "type": "hls",
-          "rewarded": false
-        }
-      ]
-    },
-    {
       "id": "s1786694680243",
       "league": "mlb",
       "gameId": "",
@@ -207,26 +227,6 @@
       "away": "SEA",
       "home": "HOU",
       "title": "SEA at HOU",
-      "poster": "",
-      "startsAt": 0,
-      "endsAt": 0,
-      "links": [
-        {
-          "label": "HD",
-          "subtitle": "",
-          "url": "",
-          "type": "hls",
-          "rewarded": false
-        }
-      ]
-    },
-    {
-      "id": "s1786694680247",
-      "league": "mlb",
-      "gameId": "",
-      "away": "STL",
-      "home": "CHC",
-      "title": "STL at CHC",
       "poster": "",
       "startsAt": 0,
       "endsAt": 0,
