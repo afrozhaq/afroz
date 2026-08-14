@@ -790,20 +790,6 @@
           "rewarded": false
         },
         {
-          "label": "Link 2",
-          "subtitle": "Live ( Home )",
-          "url": "https:\/\/pixelstream-cast.b-cdn.net\/play\/pAVJjXWDXadNqa4ml_eoyDb7u6VSaCBgb5sa76p2TY0\/.m3u8|Referer=https:\/\/pixelsport.tv\/|User-Agent=Mozilla\/5.0 (Linux; Android 13) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/124.0.0.0 Mobile Safari\/537.36",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Link 3",
-          "subtitle": "Live ( Away )",
-          "url": "https:\/\/pixelstream-cast.b-cdn.net\/play\/pAVJjXWDXadNqa4ml_eoyKC_Xzx6izbNiZpWlFuGfcrm4oC65uNgI9YJdDgpRrT5\/588.m3u8|Referer=https:\/\/pixelsport.tv\/|User-Agent=Mozilla\/5.0 (Linux; Android 13) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/124.0.0.0 Mobile Safari\/537.36",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
           "label": "Link 4",
           "subtitle": "Live",
           "url": "https:\/\/dripcast.online\/stream\/server2-nfl-houston-texans-los-angeles-chargers-embedhd\/index.m3u8?key=NOIR-VG32J6-2026",
@@ -811,7 +797,7 @@
           "rewarded": false
         },
         {
-          "label": "Link 5",
+          "label": "Link 3",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-los-angeles-chargers-at-houston-texans\/1",
           "type": "hls",
@@ -822,21 +808,21 @@
           }
         },
         {
-          "label": "Link 6",
+          "label": "Link 4",
           "subtitle": "Live",
           "url": "https:\/\/dripcast.online\/stream\/server2-nfl-chargers-vs-texans-webcast\/index.m3u8?key=NOIR-VG32J6-2026",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Link 7",
+          "label": "Link 5",
           "subtitle": "Live",
           "url": "https:\/\/messi.damitv.st\/live-hls\/channel\/nfl\/2026-08-13\/lac-hou\/playlist.m3u8?tk=znm92fJaKEz1xseubjMyyQ&e=1786707044|Referer=https:\/\/damitv.st\/embed\/?id=nfl\/2026-08-13\/lac-hou&Origin=https:\/\/damitv.st\/embed\/?id=nfl\/2026-08-13\/lac-hou&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Link 8",
+          "label": "Link 6",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-08-13\/lac-hou",
           "type": "hls",
