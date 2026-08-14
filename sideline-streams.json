@@ -292,6 +292,20 @@
           "rewarded": false
         },
         {
+          "label": "Home",
+          "subtitle": "Live",
+          "url": "https:\/\/node-9b5feb01.4587.website\/6a8011e6.c1eee2e2i798bc8d0.af3e.4c4d3733\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Away",
+          "subtitle": "Live",
+          "url": "https:\/\/node-88894cb5.4587.website\/6a8011e6.50427400i798bc8d0.af47.bcf99e1d\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
           "label": "Link 2",
           "subtitle": "Live",
           "url": "https:\/\/ftv.xyzstreams.st\/MLBTVCLE\/B0009\/master.m3u8?|Referer=https:\/\/xyzstreams.st\/&Origin=https:\/\/xyzstreams.st\/&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
