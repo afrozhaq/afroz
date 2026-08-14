@@ -121,6 +121,26 @@
       ]
     },
     {
+      "id": "s1786694680249",
+      "league": "mlb",
+      "gameId": "",
+      "away": "WSH",
+      "home": "NYM",
+      "title": "WSH at NYM",
+      "poster": "",
+      "startsAt": 0,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "HD",
+          "subtitle": "",
+          "url": "",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
+    },
+    {
       "id": "s1786694680236",
       "league": "mlb",
       "gameId": "",
@@ -247,26 +267,6 @@
       "away": "TEX",
       "home": "OAK",
       "title": "TEX at OAK",
-      "poster": "",
-      "startsAt": 0,
-      "endsAt": 0,
-      "links": [
-        {
-          "label": "HD",
-          "subtitle": "",
-          "url": "",
-          "type": "hls",
-          "rewarded": false
-        }
-      ]
-    },
-    {
-      "id": "s1786694680249",
-      "league": "mlb",
-      "gameId": "",
-      "away": "WSH",
-      "home": "NYM",
-      "title": "WSH at NYM",
       "poster": "",
       "startsAt": 0,
       "endsAt": 0,
