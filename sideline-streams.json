@@ -581,6 +581,27 @@
       "endsAt": 0,
       "links": [
         {
+          "label": "Fast Server",
+          "subtitle": "FHD Auto Quality",
+          "url": "https:\/\/node-8bba18be.4587.website\/6a80182d.2b972f38i798bc8d0.af4f.9c8f28f7\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Home ",
+          "subtitle": "Live",
+          "url": "https:\/\/node-8bba18be.4587.website\/6a80182d.2b972f38i798bc8d0.af4f.9c8f28f7\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Away",
+          "subtitle": "Live",
+          "url": "https:\/\/node-8bba18be.4587.website\/6a80182d.2b972f38i798bc8d0.af4f.9c8f28f7\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
           "label": "Link 1",
           "subtitle": "Live",
           "url": "https:\/\/edgestream2.pro\/hls\/fskjanach24.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
