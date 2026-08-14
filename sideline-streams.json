@@ -1,83 +1,6 @@
 {
   "streams": [
     {
-      "id": "s1786694680247",
-      "league": "mlb",
-      "gameId": "",
-      "away": "STL",
-      "home": "CHC",
-      "title": "STL at CHC",
-      "poster": "",
-      "startsAt": 0,
-      "endsAt": 0,
-      "links": [
-        {
-          "label": "Fast Server",
-          "subtitle": "FHD Auto Quality ",
-          "url": "https:\/\/cileynasi.s3.us-east-1.amazonaws.com\/cubs.m3u8",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Link 1",
-          "subtitle": "Live",
-          "url": "https:\/\/dripcast.online\/stream\/server2-mlb-cardinals-vs-cubs-webcast\/index.m3u8?key=NOIR-VG32J6-2026",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Link 2",
-          "subtitle": "Live",
-          "url": "https:\/\/edgestream2.pro\/hls\/dazhfiach15.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Link 3",
-          "subtitle": "Live",
-          "url": "https:\/\/dripcast.online\/stream\/server2-mlb-chicago-cubs-st-louis-cardinals-embedhd\/index.m3u8?key=NOIR-VG32J6-2026",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Link 4",
-          "subtitle": "Live",
-          "url": "https:\/\/ftv.xyzstreams.st\/MLBTVCHC\/B0006\/master.m3u8?|Referer=https:\/\/xyzstreams.st\/&Origin=https:\/\/xyzstreams.st\/&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Link 5",
-          "subtitle": "Live",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb5ce\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWNlOjE3ODY3NDQ5MjM3MzA6Y2RubGl2ZXR2LnR2OmJiMjY5MTBmZDI0OTZiZmYuNmI2N2NjYzJkM2EzZmFiODllNTI5ZDAwNTY0ZmZmNmZjYTAzYTA4ODMyNzc0ZDRkMmFlZjkwMDVmYmI4NWU3Zg",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Link 6",
-          "subtitle": "Live ",
-          "url": "https:\/\/embed.st\/embed\/admin\/ppv-st-louis-cardinals-vs-chicago-cubs\/1",
-          "type": "hls",
-          "rewarded": false,
-          "tokenApi": {
-            "type": "embed",
-            "api": "https:\/\/embed.st\/embed\/admin\/ppv-st-louis-cardinals-vs-chicago-cubs\/1"
-          }
-        },
-        {
-          "label": "Link 7",
-          "subtitle": "HD",
-          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-14\/stl-chc",
-          "type": "hls",
-          "rewarded": false,
-          "tokenApi": {
-            "type": "embed",
-            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-14\/stl-chc"
-          }
-        }
-      ]
-    },
-    {
       "id": "s1786694680242",
       "league": "mlb",
       "gameId": "",
@@ -144,6 +67,20 @@
             "type": "embed",
             "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-14\/mia-cin"
           }
+        },
+        {
+          "label": "Link 5",
+          "subtitle": "live (marlin)",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb628\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjI4OjE3ODY3NjA2NTk3NDM6Y2RubGl2ZXR2LnR2OjJiOWU2NGVhMGQyZTg0NTUuYjMwYWI1NGRjNGVjNzkzMDhlZDdjNTgxZmMwYTNhZWFmNzNjNzVjOTgxNmQ2OGNmNDk5NjJlOWJiMDdlNmNkNw",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Link 6",
+          "subtitle": "live (red)",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb617\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjE3OjE3ODY3NjA2MDEyOTA6Y2RubGl2ZXR2LnR2OmQyNWNkN2E4YjE1NTNmMTIuNzBlYzRjYWJjOWU3NGM2MTJlYTFiZDM2M2I4NmQyN2ExZGIxZTYyNDRmZTc2YjE4YmI5OTg2OTZmMjhhOGUyYw",
+          "type": "hls",
+          "rewarded": false
         }
       ]
     },
@@ -159,9 +96,23 @@
       "endsAt": 0,
       "links": [
         {
-          "label": "Fast Server",
-          "subtitle": "Live",
+          "label": "Link 1",
+          "subtitle": "live",
           "url": "https:\/\/cherisetrevisone.s3.us-east-1.amazonaws.com\/whitesox.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Link 2",
+          "subtitle": "live (home)",
+          "url": "https:\/\/node-025d151e.4587.website\/6a800770.24fef951i798bc8d0.af35.2b0e8a55\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Link 3",
+          "subtitle": "live (away)",
+          "url": "https:\/\/node-025d151e.4587.website\/6a800770.c364bb78i798bc8d0.af34.7df6a0e9\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
@@ -215,43 +166,22 @@
       "endsAt": 0,
       "links": [
         {
-          "label": "Server 1",
-          "subtitle": "Live",
-          "url": "https:\/\/cherisetrevisone.s3.us-east-1.amazonaws.com\/redsox.m3u8",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 2",
-          "subtitle": "Live (home)",
-          "url": "https:\/\/node-5d763f4c.4587.website\/6a800771.1cf89d9fi798bc8d0.af2e.c50f7794\/free.live.espn\/master.m3u8",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 3",
-          "subtitle": "live (away)",
-          "url": "https:\/\/node-025d151e.4587.website\/6a800771.c66e06e2i798bc8d0.af30.52f877f7\/free.live.espn\/master.m3u8",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 4",
+          "label": "Link 1",
           "subtitle": "Live",
           "url": "https:\/\/edgestream2.pro\/hls\/ihfazugfyjcazich17.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
+          "label": "Link 2",
           "subtitle": "Live",
           "url": "https:\/\/ftv.xyzstreams.st\/MLBTVBOS\/B0005\/master.m3u8?|Referer=https:\/\/xyzstreams.st\/&Origin=https:\/\/xyzstreams.st\/&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 6",
-          "subtitle": "Live",
+          "label": "Link 3",
+          "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-boston-red-sox-vs-pittsburgh-pirates\/1",
           "type": "hls",
           "rewarded": false,
@@ -261,7 +191,7 @@
           }
         },
         {
-          "label": "Server 7",
+          "label": "Link 4",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-14\/bos-pit",
           "type": "hls",
@@ -288,20 +218,6 @@
           "label": "Link 1",
           "subtitle": "Live",
           "url": "https:\/\/edgestream2.pro\/hls\/jkzahzadach20.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Home",
-          "subtitle": "Live",
-          "url": "https:\/\/node-9b5feb01.4587.website\/6a8011e6.c1eee2e2i798bc8d0.af3e.4c4d3733\/free.live.espn\/master.m3u8",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Away",
-          "subtitle": "Live",
-          "url": "https:\/\/node-88894cb5.4587.website\/6a8011e6.50427400i798bc8d0.af47.bcf99e1d\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
@@ -348,27 +264,6 @@
       "endsAt": 0,
       "links": [
         {
-          "label": "Fast Server ",
-          "subtitle": "FHD Auto Quality",
-          "url": "https:\/\/cherisetrevisone.s3.us-east-1.amazonaws.com\/orioles.m3u8",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Home ",
-          "subtitle": "Live",
-          "url": "https:\/\/node-9b5feb01.4587.website\/6a8011e6.1cf5aa61i798bc8d0.af40.dbc00d6d\/free.live.espn\/master.m3u8",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Away",
-          "subtitle": "Live",
-          "url": "https:\/\/node-9b5feb01.4587.website\/6a8011e6.24b628f1i798bc8d0.af3f.70dbfaa7\/free.live.espn\/master.m3u8",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
           "label": "Link 1",
           "subtitle": "Live",
           "url": "https:\/\/edgestream2.pro\/hls\/bzagLHzach19.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
@@ -396,7 +291,7 @@
         {
           "label": "Link 4",
           "subtitle": "Live",
-          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-14\/bal-tb8",
+          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-14\/bal-tb",
           "type": "hls",
           "rewarded": false,
           "tokenApi": {
@@ -525,13 +420,6 @@
       "endsAt": 0,
       "links": [
         {
-          "label": "Fast Server",
-          "subtitle": "Live",
-          "url": "https:\/\/cherisetrevisone.s3.us-east-1.amazonaws.com\/yankees.m3u8",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
           "label": "Link 1",
           "subtitle": "Live ",
           "url": "https:\/\/edgestream2.pro\/hls\/jnzkdzjfanch23.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
@@ -580,27 +468,6 @@
       "startsAt": 0,
       "endsAt": 0,
       "links": [
-        {
-          "label": "Fast Server",
-          "subtitle": "FHD Auto Quality",
-          "url": "https:\/\/cherisetrevisone.s3.us-east-1.amazonaws.com\/astros.m3u8",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Home ",
-          "subtitle": "Live",
-          "url": "https:\/\/node-8bba18be.4587.website\/6a80182d.2b972f38i798bc8d0.af4f.9c8f28f7\/free.live.espn\/master.m3u8",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Away",
-          "subtitle": "Live",
-          "url": "https:\/\/node-8bba18be.4587.website\/6a80182d.2b972f38i798bc8d0.af4f.9c8f28f7\/free.live.espn\/master.m3u8",
-          "type": "hls",
-          "rewarded": false
-        },
         {
           "label": "Link 1",
           "subtitle": "Live",
@@ -849,47 +716,19 @@
         {
           "label": "Fast Server",
           "subtitle": "FHD Auto Quality",
-          "url": "https:\/\/cherisetrevisone.s3.us-east-1.amazonaws.com\/buccaneers.m3u8",
+          "url": "https:\/\/cileynasi.s3.us-east-1.amazonaws.com\/buccaneers.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 2",
-          "subtitle": "Live",
-          "url": "https:\/\/dripcast.online\/stream\/server2-nfl-new-york-jets-tampa-bay-buccaneers-embedhd\/index.m3u8?key=NOIR-VG32J6-2026",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 3",
-          "subtitle": "Live",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb5de\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWRlOjE3ODY3NjIxMzU0ODY6Y2RubGl2ZXR2LnR2OjNmMzY2MGRlYzljZGU3ZDcuYThhOWRmMDU2YTllZmIxMGU2MWM5ODZhODExMjlhMzYyN2ZiYzJiMTEwNDk1Zjc0YTA0MTQ4ZjEwODQ3Njc2ZQ",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 4",
+          "label": "Link 2",
           "subtitle": "Live",
           "url": "https:\/\/edgestream2.pro\/hls\/JHDAJBDnjdna30.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
-          "subtitle": "Live",
-          "url": "http:\/\/193.47.62.192\/hls\/DFFFA.m3u8?|Referer=http:\/\/www.fawanews.sc\/&Origin=http:\/\/www.fawanews.sc\/&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 6",
-          "subtitle": "Live",
-          "url": "http:\/\/193.47.62.192\/hls\/DFFFA.m3u8?|Referer=http:\/\/www.fawanews.sc\/&Origin=http:\/\/www.fawanews.sc\/&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 7",
+          "label": "Link 3",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-tampa-bay-buccaneers-at-new-york-jets\/1",
           "type": "hls",
@@ -900,7 +739,7 @@
           }
         },
         {
-          "label": "Server 8",
+          "label": "Link 4",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-08-14\/tb-nyj",
           "type": "hls",
@@ -926,33 +765,19 @@
         {
           "label": "Fast Server",
           "subtitle": "FHD Auto Quality",
-          "url": "https:\/\/cherisetrevisone.s3.us-east-1.amazonaws.com\/dolphins.m3u8",
+          "url": "https:\/\/cileynasi.s3.us-east-1.amazonaws.com\/dolphins.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 2",
-          "subtitle": "Live",
-          "url": "https:\/\/webcast-origin.b-cdn.net\/bcdn_token=03478E9QrJIisiDbEQ967PL2Zkf1eOJWSkSYNM3_byM&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhH96w88dsc5chl0bRbU8C4u%2F&expires=1786750246\/play\/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhH96w88dsc5chl0bRbU8C4u\/80.m3u8?|Referer=https:\/\/nflwebcast.com&Origin=https:\/\/nflwebcast.com&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 3",
-          "subtitle": "Live",
-          "url": "https:\/\/dripcast.online\/stream\/server2-nfl-washington-commanders-miami-dolphins-embedhd\/index.m3u8?key=NOIR-VG32J6-2026",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 4",
+          "label": "Link 2",
           "subtitle": "Live",
           "url": "https:\/\/edgestream2.pro\/hls\/sfjnzabacah31.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
+          "label": "Link 3",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-miami-dolphins-at-washington-commanders\/1",
           "type": "hls",
@@ -963,7 +788,7 @@
           }
         },
         {
-          "label": "Server 6",
+          "label": "Link 4",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-08-14\/mia-wsh",
           "type": "hls",
@@ -989,33 +814,19 @@
         {
           "label": "Fast Server",
           "subtitle": "FHD Auto Quality",
-          "url": "https:\/\/cherisetrevisone.s3.us-east-1.amazonaws.com\/falcons.m3u8",
+          "url": "https:\/\/cileynasi.s3.us-east-1.amazonaws.com\/falcons.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 2",
-          "subtitle": "Live",
-          "url": "https:\/\/webcast-origin.b-cdn.net\/bcdn_token=vA87iF2sLnOmynVRU59zl1HH43UvjgbK3BRkJXuSNPI&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEQZB3mjkC0iJ60dmnh-_Dv%2F&expires=1786750246\/play\/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEQZB3mjkC0iJ60dmnh-_Dv\/64.m3u8?|Referer=https:\/\/nflwebcast.com&Origin=https:\/\/nflwebcast.com&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 3",
-          "subtitle": "Live",
-          "url": "https:\/\/dripcast.online\/stream\/server2-nfl-atlanta-falcons-denver-broncos-embedhd\/index.m3u8?key=NOIR-VG32J6-2026",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 4",
+          "label": "Link 2",
           "subtitle": "Live",
           "url": "https:\/\/edgestream2.pro\/hls\/qsdnajbq32.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
+          "label": "Link 3",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-denver-broncos-at-atlanta-falcons\/1",
           "type": "hls",
@@ -1026,7 +837,7 @@
           }
         },
         {
-          "label": "Server 6",
+          "label": "Link 4",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-08-14\/den-atl",
           "type": "hls",
