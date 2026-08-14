@@ -279,6 +279,26 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1786697166253",
+      "league": "nfl",
+      "gameId": "",
+      "away": "NYJ",
+      "home": "TBB",
+      "title": "NYJ Vs TBB",
+      "poster": "",
+      "startsAt": 1786748400000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Link 1",
+          "subtitle": "Live",
+          "url": "https",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
