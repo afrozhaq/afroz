@@ -319,6 +319,26 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1786697504736",
+      "league": "nfl",
+      "gameId": "",
+      "away": "AF",
+      "home": "DB",
+      "title": "AF Vs DB",
+      "poster": "",
+      "startsAt": 1786748400000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Link 1",
+          "subtitle": "Live",
+          "url": "https",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
