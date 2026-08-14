@@ -691,7 +691,7 @@
       "endsAt": 0,
       "links": [
         {
-          "label": "Link 1",
+          "label": "Fast Server",
           "subtitle": "FHD Auto Quality",
           "url": "https:\/\/cileynasi.s3.us-east-1.amazonaws.com\/dolphins.m3u8",
           "type": "hls",
@@ -740,7 +740,7 @@
       "endsAt": 0,
       "links": [
         {
-          "label": "Link 1",
+          "label": "Fast Server",
           "subtitle": "FHD Auto Quality",
           "url": "https:\/\/cileynasi.s3.us-east-1.amazonaws.com\/falcons.m3u8",
           "type": "hls",
