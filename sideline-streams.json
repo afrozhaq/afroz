@@ -917,14 +917,28 @@
           "rewarded": false
         },
         {
-          "label": "Link 2",
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "https:\/\/webcast-origin.b-cdn.net\/bcdn_token=vA87iF2sLnOmynVRU59zl1HH43UvjgbK3BRkJXuSNPI&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEQZB3mjkC0iJ60dmnh-_Dv%2F&expires=1786750246\/play\/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEQZB3mjkC0iJ60dmnh-_Dv\/64.m3u8?|Referer=https:\/\/nflwebcast.com&Origin=https:\/\/nflwebcast.com&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live",
+          "url": "https:\/\/dripcast.online\/stream\/server2-nfl-atlanta-falcons-denver-broncos-embedhd\/index.m3u8?key=NOIR-VG32J6-2026",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
           "subtitle": "Live",
           "url": "https:\/\/edgestream2.pro\/hls\/qsdnajbq32.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Link 3",
+          "label": "Server 5",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-denver-broncos-at-atlanta-falcons\/1",
           "type": "hls",
@@ -935,7 +949,7 @@
           }
         },
         {
-          "label": "Link 4",
+          "label": "Server 6",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-08-14\/den-atl",
           "type": "hls",
