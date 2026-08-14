@@ -732,32 +732,43 @@
           "rewarded": false
         },
         {
-          "label": "Link 3",
+          "label": "Link 2",
           "subtitle": "Live",
           "url": "https:\/\/dripcast.online\/stream\/server2-nfl-new-england-patriots-indianapolis-colts-embedhd\/index.m3u8?key=NOIR-VG32J6-2026",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Link 4",
+          "label": "Link 3",
           "subtitle": "Live",
           "url": "https:\/\/cdn13.zohanayaan.com:1686\/hls\/mindianapoliscolts.m3u8?md5=5SAZPuj8zzomvO-6PFer-g&expires=1786669217|Referer=https:\/\/exposestrat.com&Origin=https:\/\/exposestrat.com&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Link 5",
+          "label": "Link 4",
           "subtitle": "live",
           "url": "https:\/\/cileynasi.s3.us-east-1.amazonaws.com\/patriots.m3u8?|Referer=https:\/\/sportspass.site\/nfl\/patriots.html&Origin=https:\/\/sportspass.site\/nfl\/patriots.html&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Link 6",
+          "label": "Link 5",
           "subtitle": "Live",
           "url": "https:\/\/messi.damitv.st\/live-hls\/channel\/nfl\/2026-08-13\/ind-ne\/playlist.m3u8?tk=cko7WAqoWtATk_BDYqildg&e=1786705207|Referer=https:\/\/damitv.st\/embed\/?id=nfl\/2026-08-13\/ind-ne&Origin=https:\/\/damitv.st\/embed\/?id=nfl\/2026-08-13\/ind-ne&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
+        },
+        {
+          "label": "Link 6",
+          "subtitle": "Live",
+          "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-08-13\/ind-ne\/away-fox-wxin-en",
+          "type": "hls",
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/nfl\/2026-08-13\/ind-ne\/away-fox-wxin-en"
+          }
         },
         {
           "label": "Link 7",
