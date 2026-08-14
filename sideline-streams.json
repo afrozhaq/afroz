@@ -868,41 +868,27 @@
         },
         {
           "label": "Link 2",
-          "subtitle": "Live ( Home )",
-          "url": "https:\/\/pixelstream-cast.b-cdn.net\/play\/pAVJjXWDXadNqa4ml_eoyKC_Xzx6izbNiZpWlFuGfcpNUBSpCOiztTu2LS-LNjFD\/653.m3u8|Referer=https:\/\/pixelsport.tv\/|User-Agent=Mozilla\/5.0 (Linux; Android 13) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/124.0.0.0 Mobile Safari\/537.36",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Link 3",
-          "subtitle": "Live ( Away )",
-          "url": "https:\/\/pixelstream-cast.b-cdn.net\/play\/pAVJjXWDXadNqa4ml_eoyKC_Xzx6izbNiZpWlFuGfcr-QxP09Q_z8Hu7nDxex6rP\/606.m3u8|Referer=https:\/\/pixelsport.tv\/|User-Agent=Mozilla\/5.0 (Linux; Android 13) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/124.0.0.0 Mobile Safari\/537.36",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Link 4",
           "subtitle": "Live",
           "url": "https:\/\/dripcast.online\/stream\/server2-nfl-cardinals-vs-raiders-webcast\/index.m3u8?key=NOIR-VG32J6-2026",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Link 5",
+          "label": "Link 3",
           "subtitle": "Live",
           "url": "https:\/\/dripcast.online\/stream\/server2-nfl-las-vegas-raiders-arizona-cardinals-embedhd\/index.m3u8?key=NOIR-VG32J6-2026",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Link 6",
+          "label": "Link 4",
           "subtitle": "Live",
           "url": "https:\/\/cdn13.zohanayaan.com:1686\/hls\/marizonacardinals.m3u8?md5=GnkQZlD2rTxcTVkkSaKYTg&expires=1786671324|Referer=https:\/\/exposestrat.com&Origin=https:\/\/exposestrat.com&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Link 7",
+          "label": "Link 5",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-arizona-cardinals-at-las-vegas-raiders\/1",
           "type": "hls",
@@ -913,7 +899,7 @@
           }
         },
         {
-          "label": "Link 8",
+          "label": "Link 6",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-08-13\/ari-lv",
           "type": "hls",
