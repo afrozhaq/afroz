@@ -444,11 +444,15 @@
       "endsAt": 0,
       "links": [
         {
-          "label": "HD",
+          "label": "Link 1",
           "subtitle": "live ",
-          "url": "h",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-portland-fire-vs-seattle-storm\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-portland-fire-vs-seattle-storm\/1"
+          }
         }
       ]
     },
