@@ -802,7 +802,7 @@
           "rewarded": false
         },
         {
-          "label": "Link 4",
+          "label": "Link 2",
           "subtitle": "Live",
           "url": "https:\/\/dripcast.online\/stream\/server2-nfl-houston-texans-los-angeles-chargers-embedhd\/index.m3u8?key=NOIR-VG32J6-2026",
           "type": "hls",
@@ -828,13 +828,24 @@
         },
         {
           "label": "Link 5",
+          "subtitle": "Live ",
+          "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-08-13\/lac-hou\/away-cbs-kcbs-en",
+          "type": "hls",
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/nfl\/2026-08-13\/lac-hou\/away-cbs-kcbs-en"
+          }
+        },
+        {
+          "label": "Link 6",
           "subtitle": "Live",
           "url": "https:\/\/messi.damitv.st\/live-hls\/channel\/nfl\/2026-08-13\/lac-hou\/playlist.m3u8?tk=znm92fJaKEz1xseubjMyyQ&e=1786707044|Referer=https:\/\/damitv.st\/embed\/?id=nfl\/2026-08-13\/lac-hou&Origin=https:\/\/damitv.st\/embed\/?id=nfl\/2026-08-13\/lac-hou&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Link 6",
+          "label": "Link 7",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-08-13\/lac-hou",
           "type": "hls",
