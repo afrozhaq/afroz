@@ -462,6 +462,17 @@
             "type": "embed",
             "api": "https:\/\/embed.st\/embed\/admin\/ppv-dallas-wings-vs-indiana-fever\/1"
           }
+        },
+        {
+          "label": "Link 2",
+          "subtitle": "Live",
+          "url": "https:\/\/embedindia.st\/embed\/wnba\/2026-08-14\/dal-ind",
+          "type": "hls",
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/wnba\/2026-08-14\/dal-ind"
+          }
         }
       ]
     },
