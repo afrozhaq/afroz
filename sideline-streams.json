@@ -97,8 +97,15 @@
         },
         {
           "label": "Fast Server 2",
-          "subtitle": "HD Quality",
+          "subtitle": "Home",
           "url": "https:\/\/node-8bba18be.4587.website\/6a7ffdbf.877668a7i798bc8d0.af2f.4909a7d8\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Away",
+          "subtitle": "HD Quality ",
+          "url": "https:\/\/node-5d763f4c.4587.website\/6a800103.fa3711fei798bc8d0.af33.7e0f320c\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
