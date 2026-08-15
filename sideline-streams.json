@@ -641,14 +641,14 @@
         },
         {
           "label": "Server 2",
-          "subtitle": "Live",
+          "subtitle": "Live ( Home )",
           "url": "https:\/\/node-5d763f4c.4587.website\/6a811bc2.cc7a2930i798bc8d0.b041.bae32fdb\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
-          "subtitle": "Live ",
+          "subtitle": "Live ( Away )",
           "url": "https:\/\/node-9b5feb01.4587.website\/6a811bc2.90f10f4ei798bc8d0.b050.237f9068\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
@@ -684,7 +684,7 @@
         {
           "label": "Server 8",
           "subtitle": "Live",
-          "url": "STRMCNTR ",
+          "url": "https:\/\/edgestream2.pro\/hls\/16yuitzaerghbhc16.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
