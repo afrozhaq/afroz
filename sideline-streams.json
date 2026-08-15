@@ -429,6 +429,26 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1786785492002",
+      "league": "nfl",
+      "gameId": "",
+      "away": "CHICAGO BEARS",
+      "home": "CLEVELAND BROWNS",
+      "title": "Chicago Bears at Cleveland Browns",
+      "poster": "",
+      "startsAt": 1786813200000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/cherisetrevisone.s3.us-east-1.amazonaws.com\/dodgers.m3u8",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
