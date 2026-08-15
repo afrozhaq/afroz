@@ -186,20 +186,6 @@
             "type": "embed",
             "api": "https:\/\/embed.st\/embed\/admin\/ppv-cleveland-browns-at-chicago-bears\/1"
           }
-        },
-        {
-          "label": "Link 7",
-          "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=browns=bears&s=home&sport=nfl",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Link 8",
-          "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=browns=bears&s=away&sport=nfl",
-          "type": "hls",
-          "rewarded": false
         }
       ]
     },
