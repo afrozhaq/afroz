@@ -743,12 +743,19 @@
         {
           "label": "Server 5",
           "subtitle": "Live",
-          "url": "STRMCNTR ",
+          "url": "https:\/\/dripcast.online\/stream\/live-mlb-toronto-blue-jays-new-york-yankees-embedhd\/index.m3u8?key=NOIR-VG32J6-2026",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 6",
+          "subtitle": "Live",
+          "url": "STRMCNTR ",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 7",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-15\/nyy-tor",
           "type": "hls",
@@ -759,7 +766,7 @@
           }
         },
         {
-          "label": "Server 7",
+          "label": "Server 8",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-new-york-yankees-vs-toronto-blue-jays\/1",
           "type": "hls",
