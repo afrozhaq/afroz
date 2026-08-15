@@ -123,20 +123,6 @@
             "type": "embed",
             "api": "https:\/\/embed.st\/embed\/admin\/ppv-minnesota-vikings-at-new-york-giants\/1"
           }
-        },
-        {
-          "label": "Server 7",
-          "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=vikings=giants&s=home&sport=nfl",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 8",
-          "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=vikings=giants&s=away&sport=nfl",
-          "type": "hls",
-          "rewarded": false
         }
       ]
     },
