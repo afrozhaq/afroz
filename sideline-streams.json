@@ -168,58 +168,66 @@
         {
           "label": "Link 1",
           "subtitle": "Live ",
-          "url": "https:\/\/cherisetrevisone.s3.us-east-1.amazonaws.com\/dodgers.m3u8",
+          "url": "https:\/\/cherisetrevisone.s3.us-east-1.amazonaws.com\/bears.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Link 2",
           "subtitle": "Live",
-          "url": "",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=browns=bears&s=home&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Link 3",
           "subtitle": "Live",
-          "url": "",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=browns=bears&s=away&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Link 4",
           "subtitle": "Live",
-          "url": "",
+          "url": "embed",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Link 5",
           "subtitle": "Live",
-          "url": "",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2b81d8192bb76ccb14\/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjYjE0OjE3ODY4MDU4MDQ5NDg6Y2RubGl2ZXR2LnR2OjllMDQ3MDJjYWRiNTljNjAuZmFkMTE5ZTFiNGI3ZDNjZWQ2MGQwNGJhMzBhZjg5OWNmNTIzZjFmMmRjZDEwZjYyYmY0OTMxZDk3NzJiNDYwYQ",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Link 6",
           "subtitle": "Live",
-          "url": "",
+          "url": "STRMCNTR ",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Link 7",
           "subtitle": "Live",
-          "url": "",
+          "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-08-15\/cle-chi",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/nfl\/2026-08-15\/cle-chi"
+          }
         },
         {
           "label": "Link 8",
           "subtitle": "Live",
-          "url": "",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-cleveland-browns-at-chicago-bears\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-cleveland-browns-at-chicago-bears\/1"
+          }
         }
       ]
     },
