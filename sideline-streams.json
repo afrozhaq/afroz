@@ -1151,48 +1151,34 @@
         },
         {
           "label": "Server 2",
-          "subtitle": "Live",
-          "url": "MP",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/node-5d763f4c.4587.website\/6a815f8e.6ba6ef66i798bc8d0.b085.cbec3336\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
-          "subtitle": "Live",
-          "url": "MP away ",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/node-88894cb5.4587.website\/6a815f8e.92d43f49i798bc8d0.b09e.062e0029\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
           "subtitle": "Live",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=padres=guardians&s=home&sport=mlb",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb5ff\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWZmOjE3ODY4MDkxOTI4MTA6Y2RubGl2ZXR2LnR2OmJlMGFlZjU2YzAxOWExNDEuODRiMDkwNmYxZWMwNzUyMGVhNjBkNmY3YTI4ODcxMDFlMjQ3YTBiZWIwMzA5ZTkyYTI1MjU5ODYzODIyZWNlZA",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
           "subtitle": "Live",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=padres=guardians&s=away&sport=mlb",
+          "url": "https:\/\/dripcast.online\/stream\/live-mlb-cleveland-guardians-san-diego-padres-embedhd\/index.m3u8?key=NOIR-VG32J6-2026",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 6",
-          "subtitle": "Live",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb5ff\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWZmOjE3ODY4MDkxOTI4MTA6Y2RubGl2ZXR2LnR2OmJlMGFlZjU2YzAxOWExNDEuODRiMDkwNmYxZWMwNzUyMGVhNjBkNmY3YTI4ODcxMDFlMjQ3YTBiZWIwMzA5ZTkyYTI1MjU5ODYzODIyZWNlZA",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 7",
-          "subtitle": "Live",
-          "url": "STRMCNTR ",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 8",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-15\/sd-cle",
           "type": "hls",
