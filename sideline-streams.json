@@ -1379,6 +1379,15 @@
       "endsAt": 0,
       "links": [
         {
+          "label": "Main Server Fast",
+          "subtitle": "Live",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/puehlftk5j\/out\/v1\/f7f0da1ee112481ca0024e6d4dd97f4a\/cenc.mpd",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b"
+        },
+        {
           "label": "Server 1",
           "subtitle": "Live",
           "url": "https:\/\/cherisetrevisone.s3.us-east-1.amazonaws.com\/dodgers.m3u8",
@@ -1386,35 +1395,21 @@
           "rewarded": false
         },
         {
-          "label": "Server 2",
-          "subtitle": "Live",
-          "url": "MP",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
           "label": "Server 3",
-          "subtitle": "Live",
-          "url": "MP away ",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 4",
           "subtitle": "Live",
           "url": "https:\/\/dripcast.online\/stream\/live-mlb-los-angeles-dodgers-milwaukee-brewers-embedhd\/index.m3u8?key=NOIR-VG32J6-2026",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
+          "label": "Server 4",
           "subtitle": "Live ",
           "url": "https:\/\/edgestream2.pro\/hls\/jzabfazkbf27.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 6",
+          "label": "Server 5",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-15\/mil-lad",
           "type": "hls",
