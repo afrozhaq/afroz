@@ -492,20 +492,6 @@
           "rewarded": false
         },
         {
-          "label": "Server 3",
-          "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=cowboys=seahawks&s=home&sport=nfl",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 4",
-          "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=cowboys=seahawks&s=away&sport=nfl",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
           "label": "Server 5",
           "subtitle": "Live",
           "url": "Embed ",
