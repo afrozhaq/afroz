@@ -60,20 +60,6 @@
             "type": "embed",
             "api": "https:\/\/embedindia.st\/embed\/nfl\/2026-08-15\/car-buf"
           }
-        },
-        {
-          "label": "Server 7",
-          "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=panthers=bills&s=home&sport=nfl",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 8",
-          "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=panthers=bills&s=away&sport=nfl",
-          "type": "hls",
-          "rewarded": false
         }
       ]
     },
