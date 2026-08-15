@@ -744,21 +744,14 @@
         {
           "label": "Home",
           "subtitle": "Live",
-          "url": "https:\/\/webcast-origin.b-cdn.net\/bcdn_token=mVsWa8f0XxhflX0X2r8G0g8evEbsYf3Donn4Jm41G_A&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhF-u7n6hzdamqIEEb0FLN2u%2F&expires=1786767102\/play\/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhF-u7n6hzdamqIEEb0FLN2u\/128.m3u8",
+          "url": "https:\/\/node-9b5feb01.4587.website\/6a802dfa.7179e9d0i798bc8d0.afc5.b0480c2c\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Away",
           "subtitle": "Live",
-          "url": "https:\/\/webcast-origin.b-cdn.net\/bcdn_token=mVsWa8f0XxhflX0X2r8G0g8evEbsYf3Donn4Jm41G_A&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhF-u7n6hzdamqIEEb0FLN2u%2F&expires=1786767102\/play\/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhF-u7n6hzdamqIEEb0FLN2u\/128.m3u8",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 4",
-          "subtitle": "Live",
-          "url": "https:\/\/webcast-origin.b-cdn.net\/bcdn_token=mVsWa8f0XxhflX0X2r8G0g8evEbsYf3Donn4Jm41G_A&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhF-u7n6hzdamqIEEb0FLN2u%2F&expires=1786767102\/play\/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhF-u7n6hzdamqIEEb0FLN2u\/128.m3u8",
+          "url": "https:\/\/node-9b5feb01.4587.website\/6a802dfb.6a4948eai798bc8d0.afc9.f9eb8e1f\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
