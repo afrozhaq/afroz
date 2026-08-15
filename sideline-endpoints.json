@@ -1,3 +1,4 @@
 {
-  "worker": "https://sideline.tujhsalam.workers.dev"
+  "worker": "https://sideline.goalmind-sideline.workers.dev",
+  "direct": false
 }
