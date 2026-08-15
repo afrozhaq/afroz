@@ -174,22 +174,22 @@
         },
         {
           "label": "Link 2",
+          "subtitle": "Live",
+          "url": "https:\/\/dripcast.online\/stream\/live-nfl-chicago-bears-cleveland-browns-embedhd\/index.m3u8?key=NOIR-VG32J6-2026",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Link 3",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=browns=bears&s=home&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Link 3",
+          "label": "Link 4",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=browns=bears&s=away&sport=nfl",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Link 4",
-          "subtitle": "Live",
-          "url": "https:\/\/dripcast.online\/stream\/live-nfl-chicago-bears-cleveland-browns-embedhd\/index.m3u8?key=NOIR-VG32J6-2026",
           "type": "hls",
           "rewarded": false
         },
