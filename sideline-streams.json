@@ -559,41 +559,27 @@
         },
         {
           "label": "Server 4",
-          "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=cardinals=cubs&s=home&sport=mlb",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 5",
-          "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=cardinals=cubs&s=away&sport=mlb",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 6",
           "subtitle": "Live ",
           "url": "https:\/\/dripcast.online\/stream\/live-mlb-chicago-cubs-st-louis-cardinals-embedhd\/index.m3u8?key=NOIR-VG32J6-2026",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 7",
+          "label": "Server 5",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb631\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjMxOjE3ODY4MDYyMDA3NTU6Y2RubGl2ZXR2LnR2OjE0MDc5M2UwYmYyZDQzY2IuNjk3YjJlNGU2YmIyNmYxYTliOWQyZWNlODdiMzAzNzQzNzM2ZWUwYzY1ZWE3YjQ2MzcyYWExYWMxMjIxYWI4Yw",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 8",
+          "label": "Server 6",
           "subtitle": "Live",
           "url": "https:\/\/edgestream2.pro\/hls\/16yuitzaerghbhc16.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 9",
+          "label": "Server 7",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-15\/stl-chc",
           "type": "hls",
