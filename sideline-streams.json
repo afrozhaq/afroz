@@ -1086,54 +1086,40 @@
         {
           "label": "Server 1",
           "subtitle": "Live",
-          "url": "not available ",
+          "url": "https:\/\/cherisetrevisone.s3.us-east-1.amazonaws.com\/phillies.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 2",
-          "subtitle": "Live",
-          "url": "MP",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/node-025d151e.4587.website\/6a8159a0.50a33b7ci798bc8d0.b087.5fa4bdec\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
-          "subtitle": "Live",
-          "url": "MP away ",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/node-025d151e.4587.website\/6a8159a0.0c0a7957i798bc8d0.b088.36253721\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
           "subtitle": "Live",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=phillies=twins&s=home&sport=mlb",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb624\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjI0OjE3ODY4MDgxODQzODI6Y2RubGl2ZXR2LnR2OjY4NTFjN2EwNzM4OWFjNjAuY2MzNzdjMGRmN2U2MzQxNTdjOGJhODM1YzA2NDE0ODQ5OTE1OTA3Y2Q5NjEyNTUwOGFlZjFlZTI2YTg1MzNhYQ",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
           "subtitle": "Live",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=phillies=twins&s=away&sport=mlb",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 6",
-          "subtitle": "Live",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb624\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjI0OjE3ODY4MDgxODQzODI6Y2RubGl2ZXR2LnR2OjY4NTFjN2EwNzM4OWFjNjAuY2MzNzdjMGRmN2U2MzQxNTdjOGJhODM1YzA2NDE0ODQ5OTE1OTA3Y2Q5NjEyNTUwOGFlZjFlZTI2YTg1MzNhYQ",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 7",
-          "subtitle": "Live",
           "url": "STRMCNTR ",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 8",
+          "label": "Server 6",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-15\/phi-min",
           "type": "hls",
