@@ -91,58 +91,66 @@
         {
           "label": "Server 1",
           "subtitle": "Live",
-          "url": "https:\/\/dice-live-oc.akamaized.net\/hdntl=exp=1786840698~acl=*dash%2flive%2f2093688%2f219032-326332%2f*!*dash%2flive%2f2093688-b%2f219032-326332-b%2f*!%2fv1%2fdashsegment%2f*~id=3b785ca5-6890-4667-8c21-9635cd0c78c4~data=hdntl,dWlkPWpuS2Fldnw1ODZjMjFiNy1kY2MxLTQzOWMtYWFmMS1lMThkZjJkZjE5YjMmc3JjPWRnZSZpcD0xMTguMTQ4LjE1NC44MiZleHA9MTc4Njg0MDcyNiZlaWQ9MjE5MDMyJmNpZD1kY2Uuc2t5bnomb2lkPTMxOCZ0eXBlPUxJVkU~hmac=7cdd8391997fe02b3f22a32d9f3fbf1bb36bfb68595ca39c49d454d05c9d8c0c\/dash\/live\/2093688\/219032-326332\/manifest-d.mpd",
+          "url": "https:\/\/cherisetrevisone.s3.us-east-1.amazonaws.com\/vikings.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 2",
           "subtitle": "Live",
-          "url": "",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=vikings=giants&s=home&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
           "subtitle": "Live",
-          "url": "",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=vikings=giants&s=away&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
           "subtitle": "Live",
-          "url": "",
+          "url": "Embed",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
           "subtitle": "Live",
-          "url": "",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2781d8192bb76cb3d1\/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiM2QxOjE3ODY4MDU0NTUzODE6Y2RubGl2ZXR2LnR2OmRhZjlkODI2ZTgyNzA3NDAuMjY0M2ZlNjM3ODgwOWQ0N2IwN2Y4NDQ4Y2U3OTc1MzhhNWMwNDY2M2RkMGU4MWFiNjE5YTcyMjEzYjhjZWNjNw",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 6",
           "subtitle": "Live",
-          "url": "",
+          "url": "STRMCNTR ",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 7",
           "subtitle": "Live",
-          "url": "",
+          "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-08-15\/min-nyg",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/nfl\/2026-08-15\/min-nyg"
+          }
         },
         {
           "label": "Server 8",
           "subtitle": "Live",
-          "url": "",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-minnesota-vikings-at-new-york-giants\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-minnesota-vikings-at-new-york-giants\/1"
+          }
         }
       ]
     },
