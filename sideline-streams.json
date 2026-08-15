@@ -279,6 +279,28 @@
       ]
     },
     {
+      "id": "s1786778343764",
+      "league": "mlb",
+      "gameId": "",
+      "away": "SEA",
+      "home": "HOU",
+      "title": "SEA at HOU",
+      "poster": "",
+      "startsAt": 0,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Link 1",
+          "subtitle": "Live ",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        }
+      ]
+    },
+    {
       "id": "s1786778343754",
       "league": "mlb",
       "gameId": "",
@@ -351,28 +373,6 @@
       "away": "MIL",
       "home": "LAD",
       "title": "MIL at LAD",
-      "poster": "",
-      "startsAt": 0,
-      "endsAt": 0,
-      "links": [
-        {
-          "label": "Link 1",
-          "subtitle": "Live ",
-          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd",
-          "type": "dash",
-          "rewarded": true,
-          "drmScheme": "clearkey",
-          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
-        }
-      ]
-    },
-    {
-      "id": "s1786778343764",
-      "league": "mlb",
-      "gameId": "",
-      "away": "SEA",
-      "home": "HOU",
-      "title": "SEA at HOU",
       "poster": "",
       "startsAt": 0,
       "endsAt": 0,
