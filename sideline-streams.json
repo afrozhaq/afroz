@@ -977,14 +977,14 @@
         },
         {
           "label": "Server 2",
-          "subtitle": "Live ",
+          "subtitle": "Live ( Home )",
           "url": "MP",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
-          "subtitle": "Live ",
+          "subtitle": "Live ( Away ) ",
           "url": "MP away",
           "type": "hls",
           "rewarded": false
@@ -992,14 +992,14 @@
         {
           "label": "Server 4",
           "subtitle": "Live",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=marlins=reds&s=home&sport=mlb",
+          "url": "Embed ",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
-          "subtitle": "Live",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=marlins=reds&s=away&sport=mlb",
+          "subtitle": "Live ",
+          "url": "STRMCNTR ",
           "type": "hls",
           "rewarded": false
         },
@@ -1012,13 +1012,6 @@
         },
         {
           "label": "Server 7",
-          "subtitle": "Live ",
-          "url": "STRMCNTR ",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 8",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-15\/mia-cin",
           "type": "hls",
