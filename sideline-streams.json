@@ -1620,11 +1620,15 @@
           "rewarded": false
         },
         {
-          "label": "HD",
-          "subtitle": "",
-          "url": "",
+          "label": "Server 3",
+          "subtitle": "Live",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-new-york-liberty-vs-connecticut-sun\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-new-york-liberty-vs-connecticut-sun\/1"
+          }
         }
       ]
     },
