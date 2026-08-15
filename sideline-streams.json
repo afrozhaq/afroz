@@ -698,33 +698,40 @@
         {
           "label": "Server 2",
           "subtitle": "Live",
-          "url": "MP",
+          "url": "https:\/\/dripcast.online\/stream\/live-mlb-san-francisco-giants-colorado-rockies-embedhd\/index.m3u8?key=NOIR-VG32J6-2026",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
-          "subtitle": "Live ",
-          "url": "MP away ",
+          "subtitle": "Live",
+          "url": "MP",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
           "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb607\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjA3OjE3ODY4MDczMzAzNDM6Y2RubGl2ZXR2LnR2OjEwYzRjMzI1OGM2YjE4OGMuZmMyNWQzYjQxMTQxMDZhNjI4ZjNlZDc4YzY5ZWY3YzQ3YWE5ZDRlMTIzNTZhODRhMmJhODAxOWViNzI2OTAzZA",
+          "url": "MP away ",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
+          "subtitle": "Live ",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb607\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjA3OjE3ODY4MDczMzAzNDM6Y2RubGl2ZXR2LnR2OjEwYzRjMzI1OGM2YjE4OGMuZmMyNWQzYjQxMTQxMDZhNjI4ZjNlZDc4YzY5ZWY3YzQ3YWE5ZDRlMTIzNTZhODRhMmJhODAxOWViNzI2OTAzZA",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 6",
           "subtitle": "Live",
           "url": "STRMCNTR ",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 6",
+          "label": "Server 7",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-15\/col-sf",
           "type": "hls",
