@@ -469,6 +469,26 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1786779265336",
+      "league": "nfl",
+      "gameId": "",
+      "away": "SS",
+      "home": "DC",
+      "title": "SS Vs DC",
+      "poster": "",
+      "startsAt": 1786838400000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Link 1",
+          "subtitle": "Live",
+          "url": "https",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
