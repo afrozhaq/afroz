@@ -946,48 +946,20 @@
         },
         {
           "label": "Server 2",
-          "subtitle": "Live",
-          "url": "MP",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/node-9b5feb01.4587.website\/6a81525b.fef2f6cai798bc8d0.b077.0ebb7f24\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
-          "subtitle": "Live",
-          "url": "MP away ",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/node-9b5feb01.4587.website\/6a81525b.4e047738i798bc8d0.b07b.1e752a32\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
-          "subtitle": "Live",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=orioles=rays&s=home&sport=mlb",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 5",
-          "subtitle": "Live",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=orioles=rays&s=away&sport=mlb",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 6",
-          "subtitle": "Live",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb600\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjAwOjE3ODY4MDc2NDkwODE6Y2RubGl2ZXR2LnR2OjYyYmQ1NjgxNGY5ZTc3MmIuYzM5ZWEyMDM3NTA1ODUzY2YyMjNmMWI4YTZmYTliNmZiZTJlMGNlZmM4MDUwYjhlNjNhY2ZlZTQ0OWEyNDUxYw",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 7",
-          "subtitle": "Live",
-          "url": "CDN",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 8",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-15\/bal-tb",
           "type": "hls",
