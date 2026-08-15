@@ -449,6 +449,26 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1786779202600",
+      "league": "nfl",
+      "gameId": "",
+      "away": "BR",
+      "home": "PE",
+      "title": "BR Vs PE",
+      "poster": "",
+      "startsAt": 1786834800000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Link 1",
+          "subtitle": "Live",
+          "url": "htt",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
