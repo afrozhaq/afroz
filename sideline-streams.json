@@ -81,6 +81,26 @@
       ]
     },
     {
+      "id": "s1786785855716",
+      "league": "nfl",
+      "gameId": "",
+      "away": "KANSAS CITY",
+      "home": "LOS ANGELES RAMS",
+      "title": "Kansas City Chiefs at Los Angeles Rams",
+      "poster": "",
+      "startsAt": 1786824000000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "HD",
+          "subtitle": "fhd",
+          "url": "https:\/\/dripcast.online\/stream\/server2-nfl-dolphins-vs-washington-webcast\/index.m3u8?key=NOIR-VG32J6-2026",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
+    },
+    {
       "id": "s1786784217599",
       "league": "mlb",
       "gameId": "",
