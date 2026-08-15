@@ -150,9 +150,58 @@
       "endsAt": 0,
       "links": [
         {
-          "label": "HD",
-          "subtitle": "FHD",
+          "label": "Link 1",
+          "subtitle": "Live ",
           "url": "https:\/\/cherisetrevisone.s3.us-east-1.amazonaws.com\/dodgers.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Link 2",
+          "subtitle": "Live",
+          "url": "",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Link 3",
+          "subtitle": "Live",
+          "url": "",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Link 4",
+          "subtitle": "Live",
+          "url": "",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Link 5",
+          "subtitle": "Live",
+          "url": "",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Link 6",
+          "subtitle": "Live",
+          "url": "",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Link 7",
+          "subtitle": "Live",
+          "url": "",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Link 8",
+          "subtitle": "Live",
+          "url": "",
           "type": "hls",
           "rewarded": false
         }
