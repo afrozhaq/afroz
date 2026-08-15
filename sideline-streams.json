@@ -431,6 +431,55 @@
           "url": "https:\/\/webcast-origin.b-cdn.net\/bcdn_token=mVsWa8f0XxhflX0X2r8G0g8evEbsYf3Donn4Jm41G_A&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhF-u7n6hzdamqIEEb0FLN2u%2F&expires=1786767102\/play\/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhF-u7n6hzdamqIEEb0FLN2u\/128.m3u8",
           "type": "hls",
           "rewarded": false
+        },
+        {
+          "label": "HD",
+          "subtitle": "",
+          "url": "",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "HD",
+          "subtitle": "",
+          "url": "",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "HD",
+          "subtitle": "",
+          "url": "",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "HD",
+          "subtitle": "",
+          "url": "",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "HD",
+          "subtitle": "",
+          "url": "",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "HD",
+          "subtitle": "",
+          "url": "",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "HD",
+          "subtitle": "",
+          "url": "",
+          "type": "hls",
+          "rewarded": false
         }
       ]
     },
