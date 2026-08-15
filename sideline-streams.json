@@ -706,6 +706,20 @@
             "type": "embed",
             "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-14\/kc-laa"
           }
+        },
+        {
+          "label": "Link 7",
+          "subtitle": "home",
+          "url": "https:\/\/node-9b5feb01.4587.website\/6a802d2d.5da1fd1ci798bc8d0.afc4.95169c85\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "link 8",
+          "subtitle": "away",
+          "url": "https:\/\/node-9b5feb01.4587.website\/6a802d2d.5da1fd1ci798bc8d0.afc4.95169c85\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
         }
       ]
     },
