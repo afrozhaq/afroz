@@ -798,21 +798,49 @@
       "endsAt": 0,
       "links": [
         {
-          "label": "Link 1",
+          "label": "Fast Server",
+          "subtitle": "Live",
+          "url": "https:\/\/cherisetrevisone.s3.us-east-1.amazonaws.com\/dodgers.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Home",
+          "subtitle": "Live",
+          "url": "https:\/\/webcast-origin.b-cdn.net\/bcdn_token=-swiuUeHHfCRdWTRpRk490mDx11qfvlOBJXU8rKaqoI&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhElkJJ36sE5m_ABEhUzYefj%2F&expires=1786762869\/play\/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhElkJJ36sE5m_ABEhUzYefj\/133.m3u8?|Referer=https:\/\/mlbwebcast.com&Origin=https:\/\/mlbwebcast.com&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Away",
+          "subtitle": "Live",
+          "url": "https:\/\/webcast-origin.b-cdn.net\/bcdn_token=-swiuUeHHfCRdWTRpRk490mDx11qfvlOBJXU8rKaqoI&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhElkJJ36sE5m_ABEhUzYefj%2F&expires=1786762869\/play\/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhElkJJ36sE5m_ABEhUzYefj\/133.m3u8?|Referer=https:\/\/mlbwebcast.com&Origin=https:\/\/mlbwebcast.com&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
+          "subtitle": "Live",
+          "url": "https:\/\/webcast-origin.b-cdn.net\/bcdn_token=-swiuUeHHfCRdWTRpRk490mDx11qfvlOBJXU8rKaqoI&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhElkJJ36sE5m_ABEhUzYefj%2F&expires=1786762869\/play\/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhElkJJ36sE5m_ABEhUzYefj\/133.m3u8?|Referer=https:\/\/mlbwebcast.com&Origin=https:\/\/mlbwebcast.com&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 5",
           "subtitle": "Live",
           "url": "https:\/\/edgestream2.pro\/hls\/jzabfazkbf27.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Link 2",
+          "label": "Server 6",
           "subtitle": "Live",
           "url": "https:\/\/ftv.xyzstreams.st\/MLBTVLAD\/B0015\/master.m3u8?|Referer=https:\/\/xyzstreams.st\/&Origin=https:\/\/xyzstreams.st\/&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Link 3",
+          "label": "Server 7",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-milwaukee-brewers-vs-los-angeles-dodgers\/1",
           "type": "hls",
@@ -823,7 +851,7 @@
           }
         },
         {
-          "label": "Link 4",
+          "label": "Server 8",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-14\/mil-lad",
           "type": "hls",
