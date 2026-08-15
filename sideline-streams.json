@@ -266,7 +266,7 @@
         {
           "label": "Main Server Fast",
           "subtitle": "Live",
-          "url": "https:\/\/dice-live-oc.akamaized.net\/hdntl=exp=1786895708~acl=*dash%2flive%2f2093693%2f219038-326337%2f*!*dash%2flive%2f2093693-b%2f219038-326337-b%2f*~id=370d4a12-9beb-486a-b36c-0490deb8a15b~data=hdntl,dWlkPUg3d0g0OXw1YzRmMTNiZS05YmIwLTRiMTUtYTUyYy03Y2Q0NjlmMDk5ODkmc3JjPWRnZSZpcD0xMjIuNTkuMTkwLjM3JmV4cD0xNzg2ODk1NzM3JmVpZD0yMTkwMzgmY2lkPWRjZS5za3lueiZvaWQ9MzE4JnR5cGU9TElWRQ~hmac=87c47973c1452a2f477b29e2084493399d82ff1a70df98d26a24ccf3f1b12e2c\/dash\/live\/2093693\/219038-326337\/manifest-d.mpd",
+          "url": "https:\/\/dice-live-oc.akamaized.net\/hdntl=exp=1786910478~acl=*dash%2flive%2f2093693%2f219038-326337%2f*!*dash%2flive%2f2093693-b%2f219038-326337-b%2f*~id=da105297-f9c5-4a1f-93d0-62006c3b2191~data=hdntl,dWlkPUg3d0g0OXw1YzRmMTNiZS05YmIwLTRiMTUtYTUyYy03Y2Q0NjlmMDk5ODkmc3JjPWRnZSZpcD0yNDA0OjQ0MDg6NzMwMDo5OGNhOmEwMDA6ZDI1NToyMjExOjJkYWYmZXhwPTE3ODY5MTA1MDcmZWlkPTIxOTAzOCZjaWQ9ZGNlLnNreW56Jm9pZD0zMTgmdHlwZT1MSVZF~hmac=d9f1fb4c80eb0c16021b49f0e84c62040cd89356a6d3018ae4059a36c39345e5\/dash\/live\/2093693\/219038-326337\/manifest-d.mpd",
           "type": "dash",
           "rewarded": true,
           "drmScheme": "clearkey",
