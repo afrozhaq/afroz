@@ -644,6 +644,55 @@
           "rewarded": true,
           "drmScheme": "clearkey",
           "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "",
+          "url": "",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "HD",
+          "subtitle": "",
+          "url": "",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "HD",
+          "subtitle": "",
+          "url": "",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "HD",
+          "subtitle": "",
+          "url": "",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "HD",
+          "subtitle": "",
+          "url": "",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "HD",
+          "subtitle": "",
+          "url": "",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "HD",
+          "subtitle": "",
+          "url": "",
+          "type": "hls",
+          "rewarded": false
         }
       ]
     },
