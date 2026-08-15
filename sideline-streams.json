@@ -705,14 +705,14 @@
         {
           "label": "Server 3",
           "subtitle": "Live ( Home )",
-          "url": "https:\/\/node-8bba18be.4587.website\/6a8134cf.6da8ffc4i798bc8d0.b067.682e4c5f\/free.live.espn\/master.m3u8",
+          "url": "https:\/\/node-8bba18be.4587.website\/6a813669.4fef8184i798bc8d0.b067.05206e97\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
-          "subtitle": "Live ",
-          "url": "MP away ",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/node-8bba18be.4587.website\/6a813669.1a836dc2i798bc8d0.b06a.29acd4a7\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
