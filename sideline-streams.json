@@ -27,34 +27,20 @@
         },
         {
           "label": "Server 3",
-          "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=panthers=bills&s=home&sport=nfl",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 4",
-          "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=panthers=bills&s=away&sport=nfl",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 5",
           "subtitle": "Live",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2781d8192bb76cb3d1\/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiM2QxOjE3ODY4MDQwOTI5MzM6Y2RubGl2ZXR2LnR2OjIwMDM0NTg2MTliNzE5NjUuZDY0MGU2ZWQ0MDYwYTk2ZjI0OTE0ZGVhZThmZDgxMDAxNmFjZjZhZmRiYzA4MjhiYmY1NDI4NTRjYjdiNjBiMg",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 6",
+          "label": "Server 4",
           "subtitle": "Live",
           "url": "https:\/\/edgestream2.pro\/hls\/sfjnzabacah31.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 7",
+          "label": "Server 5",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-carolina-panthers-at-buffalo-bills\/1",
           "type": "hls",
@@ -65,7 +51,7 @@
           }
         },
         {
-          "label": "Server 8",
+          "label": "Server 6",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-08-15\/car-buf",
           "type": "hls",
@@ -74,6 +60,20 @@
             "type": "embed",
             "api": "https:\/\/embedindia.st\/embed\/nfl\/2026-08-15\/car-buf"
           }
+        },
+        {
+          "label": "Server 7",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=panthers=bills&s=home&sport=nfl",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 8",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=panthers=bills&s=away&sport=nfl",
+          "type": "hls",
+          "rewarded": false
         }
       ]
     },
