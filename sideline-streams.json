@@ -452,60 +452,70 @@
       "endsAt": 0,
       "links": [
         {
-          "label": "HD",
-          "subtitle": "hd",
-          "url": "https:\/\/webcast-origin.b-cdn.net\/bcdn_token=mVsWa8f0XxhflX0X2r8G0g8evEbsYf3Donn4Jm41G_A&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhF-u7n6hzdamqIEEb0FLN2u%2F&expires=1786767102\/play\/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhF-u7n6hzdamqIEEb0FLN2u\/128.m3u8",
+          "label": "Main Server Fast ",
+          "subtitle": "FHD Auto Quality ",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/5xrogwf1bx\/out\/v1\/d67356c474724ecc9ced667c7630dcab\/cenc.mpd",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "66e14add60c30be992503fa9a0ae5e20:8c736ae52ce3cab1e918d5f9e8ed6c62"
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "https:\/\/cherisetrevisone.s3.us-east-1.amazonaws.com\/cowboys.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "HD",
-          "subtitle": "",
-          "url": "",
+          "label": "Server 3",
+          "subtitle": "Live",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=cowboys=seahawks&s=home&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "HD",
-          "subtitle": "",
-          "url": "",
+          "label": "Server 4",
+          "subtitle": "Live",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=cowboys=seahawks&s=away&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "HD",
-          "subtitle": "",
-          "url": "",
+          "label": "Server 5",
+          "subtitle": "Live",
+          "url": "Embed ",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "HD",
-          "subtitle": "",
-          "url": "",
+          "label": "Server 6",
+          "subtitle": "Live",
+          "url": "STRMCNTR ",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "HD",
-          "subtitle": "",
-          "url": "",
+          "label": "Server 7",
+          "subtitle": "Live",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-dallas-cowboys-at-seattle-seahawks\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-dallas-cowboys-at-seattle-seahawks\/1"
+          }
         },
         {
-          "label": "HD",
-          "subtitle": "",
-          "url": "",
+          "label": "Server 8",
+          "subtitle": "Live",
+          "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-08-15\/dal-sea",
           "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "HD",
-          "subtitle": "",
-          "url": "",
-          "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/nfl\/2026-08-15\/dal-sea"
+          }
         }
       ]
     },
