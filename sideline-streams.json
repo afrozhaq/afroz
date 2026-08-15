@@ -1,3 +1,24 @@
 {
-  "streams": []
+  "streams": [
+    {
+      "id": "s1786777775286",
+      "league": "nfl",
+      "gameId": "",
+      "away": "BB",
+      "home": "CP",
+      "title": "Buffalo Bills Vs Carolina Panthers ",
+      "poster": "",
+      "startsAt": 1786813200000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Link 1",
+          "subtitle": "Live",
+          "url": "https",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
+    }
+  ]
 }
