@@ -245,7 +245,7 @@
         {
           "label": "Server 1",
           "subtitle": "Live",
-          "url": "https:\/\/cherisetrevisone.s3.us-east-1.amazonaws.com\/vikings.m3u8",
+          "url": "https:\/\/cherisetrevisone.s3.us-east-1.amazonaws.com\/redsox.m3u8",
           "type": "hls",
           "rewarded": false
         },
@@ -308,7 +308,7 @@
         {
           "label": "Server 1",
           "subtitle": "Live",
-          "url": "https:\/\/cherisetrevisone.s3.us-east-1.amazonaws.com\/panthers.m3u8",
+          "url": "https:\/\/cherisetrevisone.s3.us-east-1.amazonaws.com\/bears.m3u8",
           "type": "hls",
           "rewarded": false
         },
