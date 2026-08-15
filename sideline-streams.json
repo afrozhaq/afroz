@@ -386,60 +386,57 @@
       "endsAt": 0,
       "links": [
         {
-          "label": "HD",
-          "subtitle": "fh",
-          "url": "https:\/\/dripcast.online\/stream\/server2-nfl-dolphins-vs-washington-webcast\/index.m3u8?key=NOIR-VG32J6-2026",
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "https:\/\/cherisetrevisone.s3.us-east-1.amazonaws.com\/eagles.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "HD",
-          "subtitle": "",
-          "url": "",
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=eagles=ravens&s=home&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "HD",
-          "subtitle": "",
-          "url": "",
+          "label": "Server 3",
+          "subtitle": "Live",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=eagles=ravens&s=away&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "HD",
-          "subtitle": "",
-          "url": "",
+          "label": "Server 4",
+          "subtitle": "Live",
+          "url": "Embed",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "HD",
-          "subtitle": "",
-          "url": "",
+          "label": "Server 5",
+          "subtitle": "Live",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2e81d8192bb76ce888\/playlist.m3u8?token=NmEyODhkMmU4MWQ4MTkyYmI3NmNlODg4OjE3ODY4MDc5OTA4OTg6Y2RubGl2ZXR2LnR2OjVjYTE3OWVkZTNhNjM0OTQuOGYwYTM5ODk3MDRlNmQ0OWE1NmU3ZjQ2Yzc3NTdjNmViMWRlZmQ2ZThkYjFhNGFlNWY3NTczODY1NDQ0MzcxNA",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "HD",
-          "subtitle": "",
-          "url": "",
+          "label": "Server 6",
+          "subtitle": "Live",
+          "url": "STRMCNTR ",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "HD",
-          "subtitle": "",
-          "url": "",
+          "label": "Server 7",
+          "subtitle": "Live",
+          "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-08-15\/phi-bal",
           "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "HD",
-          "subtitle": "",
-          "url": "",
-          "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/nfl\/2026-08-15\/phi-bal"
+          }
         }
       ]
     },
