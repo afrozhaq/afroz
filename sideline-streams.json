@@ -1039,62 +1039,64 @@
       "endsAt": 0,
       "links": [
         {
-          "label": "HD",
-          "subtitle": "FHD",
-          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
-          "type": "dash",
-          "rewarded": true,
-          "drmScheme": "clearkey",
-          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
-        },
-        {
-          "label": "HD",
-          "subtitle": "",
-          "url": "",
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "not available ",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "HD",
-          "subtitle": "",
-          "url": "",
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "MP",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "HD",
-          "subtitle": "",
-          "url": "",
+          "label": "Server 3",
+          "subtitle": "Live",
+          "url": "MP away ",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "HD",
-          "subtitle": "",
-          "url": "",
+          "label": "Server 4",
+          "subtitle": "Live",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=phillies=twins&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "HD",
-          "subtitle": "",
-          "url": "",
+          "label": "Server 5",
+          "subtitle": "Live",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=phillies=twins&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "HD",
-          "subtitle": "",
-          "url": "",
+          "label": "Server 6",
+          "subtitle": "Live",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb624\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjI0OjE3ODY4MDgxODQzODI6Y2RubGl2ZXR2LnR2OjY4NTFjN2EwNzM4OWFjNjAuY2MzNzdjMGRmN2U2MzQxNTdjOGJhODM1YzA2NDE0ODQ5OTE1OTA3Y2Q5NjEyNTUwOGFlZjFlZTI2YTg1MzNhYQ",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "HD",
-          "subtitle": "",
-          "url": "",
+          "label": "Server 7",
+          "subtitle": "Live",
+          "url": "STRMCNTR ",
           "type": "hls",
           "rewarded": false
+        },
+        {
+          "label": "Server 8",
+          "subtitle": "Live",
+          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-15\/phi-min",
+          "type": "hls",
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-15\/phi-min"
+          }
         }
       ]
     },
