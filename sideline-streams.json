@@ -590,19 +590,26 @@
         {
           "label": "Server 6",
           "subtitle": "Live",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb5fc\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWZjOjE3ODY4MDQ1MDM1MDE6Y2RubGl2ZXR2LnR2OjAwZWEyNzA1MmE5YjY4MjguMDIzMjYwNGFiYjg4NThjNjJhM2ZhYTI3MzA5MzQxY2YxOTUxZjU4ZGYxZDRlODg5YzI1Mzk4YWEyYTBlNmYwYQ",
+          "url": "https:\/\/dripcast.online\/stream\/live-mlb-detroit-tigers-chicago-white-sox-embedhd\/index.m3u8?key=NOIR-VG32J6-2026",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 7",
           "subtitle": "Live",
-          "url": "STRMCNTR ",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb5fc\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWZjOjE3ODY4MDQ1MDM1MDE6Y2RubGl2ZXR2LnR2OjAwZWEyNzA1MmE5YjY4MjguMDIzMjYwNGFiYjg4NThjNjJhM2ZhYTI3MzA5MzQxY2YxOTUxZjU4ZGYxZDRlODg5YzI1Mzk4YWEyYTBlNmYwYQ",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 8",
+          "subtitle": "Live",
+          "url": "STRMCNTR ",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 9",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-15\/chw-det",
           "type": "hls",
