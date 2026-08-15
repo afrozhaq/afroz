@@ -448,6 +448,17 @@
             "type": "embed",
             "api": "https:\/\/embedindia.st\/embed\/nfl\/2026-08-15\/phi-bal"
           }
+        },
+        {
+          "label": "Server 8",
+          "subtitle": "Live ",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-philadelphia-eagles-at-baltimore-ravens\/1",
+          "type": "hls",
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-philadelphia-eagles-at-baltimore-ravens\/1"
+          }
         }
       ]
     },
