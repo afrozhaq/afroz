@@ -489,6 +489,26 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1786786140431",
+      "league": "nfl",
+      "gameId": "",
+      "away": "BALTIMORE RAVENS",
+      "home": "PHILADELPHIA EAGLES",
+      "title": "Baltimore Ravens at Philadelphia Eagles",
+      "poster": "",
+      "startsAt": 1786834800000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "HD",
+          "subtitle": "fh",
+          "url": "https:\/\/dripcast.online\/stream\/server2-nfl-dolphins-vs-washington-webcast\/index.m3u8?key=NOIR-VG32J6-2026",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
