@@ -251,14 +251,14 @@
         },
         {
           "label": "Server 2",
-          "subtitle": "Live",
+          "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=jaguars=saints&s=home&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
-          "subtitle": "Live",
+          "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=jaguars=saints&s=away&sport=nfl",
           "type": "hls",
           "rewarded": false
