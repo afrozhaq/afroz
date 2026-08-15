@@ -485,28 +485,35 @@
           "drmLicenseUrl": "66e14add60c30be992503fa9a0ae5e20:8c736ae52ce3cab1e918d5f9e8ed6c62"
         },
         {
-          "label": "Server 2",
+          "label": "Server 1",
           "subtitle": "Live",
           "url": "https:\/\/cherisetrevisone.s3.us-east-1.amazonaws.com\/cowboys.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
+          "label": "Server 2",
           "subtitle": "Live",
-          "url": "Embed ",
+          "url": "https:\/\/dripcast.online\/stream\/live-nfl-seattle-seahawks-dallas-cowboys-embedhd\/index.m3u8?key=NOIR-VG32J6-2026",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 6",
+          "label": "Server 3",
           "subtitle": "Live",
           "url": "https:\/\/edgestream2.pro\/hls\/jkhazabcka36.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 7",
+          "label": "Server 4",
+          "subtitle": "Live",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc173\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTczOjE3ODY4MjMyOTkwMTA6Y2RubGl2ZXR2LnR2OjA3ODg5YjE0NDI4Mjg2YTYuNzVmM2MxYjlkMTJhN2VjYjg2MzM4NTUwYjlmMTc2ZTM4ZjlkZjU2M2ZmNjY4YTVjODNlNTNkMTIyMjIxMDQ3NQ",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 5",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-dallas-cowboys-at-seattle-seahawks\/1",
           "type": "hls",
@@ -517,7 +524,7 @@
           }
         },
         {
-          "label": "Server 8",
+          "label": "Server 6",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-08-15\/dal-sea",
           "type": "hls",
