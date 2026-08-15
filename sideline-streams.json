@@ -19,6 +19,26 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1786777921588",
+      "league": "nfl",
+      "gameId": "",
+      "away": "NYG",
+      "home": "MV",
+      "title": "New York Vs Minnesota Vikings ",
+      "poster": "",
+      "startsAt": 1786813200000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Link 1",
+          "subtitle": "Live",
+          "url": "https",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
