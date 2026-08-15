@@ -301,12 +301,12 @@
       ]
     },
     {
-      "id": "s1786778343754",
+      "id": "s1786778343756",
       "league": "mlb",
       "gameId": "",
-      "away": "ARI",
-      "home": "ATL",
-      "title": "ARI at ATL",
+      "away": "BOS",
+      "home": "PIT",
+      "title": "BOS at PIT",
       "poster": "",
       "startsAt": 0,
       "endsAt": 0,
@@ -323,12 +323,12 @@
       ]
     },
     {
-      "id": "s1786778343756",
+      "id": "s1786778343754",
       "league": "mlb",
       "gameId": "",
-      "away": "BOS",
-      "home": "PIT",
-      "title": "BOS at PIT",
+      "away": "ARI",
+      "home": "ATL",
+      "title": "ARI at ATL",
       "poster": "",
       "startsAt": 0,
       "endsAt": 0,
