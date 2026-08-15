@@ -345,12 +345,12 @@
       ]
     },
     {
-      "id": "s1786778343758",
+      "id": "s1786778343760",
       "league": "mlb",
       "gameId": "",
-      "away": "KC",
-      "home": "LAA",
-      "title": "KC at LAA",
+      "away": "MIL",
+      "home": "LAD",
+      "title": "MIL at LAD",
       "poster": "",
       "startsAt": 0,
       "endsAt": 0,
@@ -367,12 +367,12 @@
       ]
     },
     {
-      "id": "s1786778343760",
+      "id": "s1786778343758",
       "league": "mlb",
       "gameId": "",
-      "away": "MIL",
-      "home": "LAD",
-      "title": "MIL at LAD",
+      "away": "KC",
+      "home": "LAA",
+      "title": "KC at LAA",
       "poster": "",
       "startsAt": 0,
       "endsAt": 0,
