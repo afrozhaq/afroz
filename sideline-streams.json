@@ -642,14 +642,14 @@
         {
           "label": "Server 2",
           "subtitle": "Live",
-          "url": "MP",
+          "url": "https:\/\/node-5d763f4c.4587.website\/6a811bc2.cc7a2930i798bc8d0.b041.bae32fdb\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
           "subtitle": "Live ",
-          "url": "MP Away ",
+          "url": "https:\/\/node-9b5feb01.4587.website\/6a811bc2.90f10f4ei798bc8d0.b050.237f9068\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
