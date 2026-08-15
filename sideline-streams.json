@@ -1674,23 +1674,16 @@
       "endsAt": 0,
       "links": [
         {
-          "label": "HD",
-          "subtitle": "HD",
-          "url": "https:\/\/dice-live-oc.akamaized.net\/hdntl=exp=1786840698~acl=*dash%2flive%2f2093688%2f219032-326332%2f*!*dash%2flive%2f2093688-b%2f219032-326332-b%2f*!%2fv1%2fdashsegment%2f*~id=3b785ca5-6890-4667-8c21-9635cd0c78c4~data=hdntl,dWlkPWpuS2Fldnw1ODZjMjFiNy1kY2MxLTQzOWMtYWFmMS1lMThkZjJkZjE5YjMmc3JjPWRnZSZpcD0xMTguMTQ4LjE1NC44MiZleHA9MTc4Njg0MDcyNiZlaWQ9MjE5MDMyJmNpZD1kY2Uuc2t5bnomb2lkPTMxOCZ0eXBlPUxJVkU~hmac=7cdd8391997fe02b3f22a32d9f3fbf1bb36bfb68595ca39c49d454d05c9d8c0c\/dash\/live\/2093688\/219032-326332\/manifest-d.mpd",
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "https:\/\/edgestream2.pro\/hls\/pllmazjkdzajh72.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "HD",
-          "subtitle": "",
-          "url": "",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "HD",
-          "subtitle": "",
-          "url": "",
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "https:\/\/247v2.xyzstreams.st\/?stream_id=lasvegasaces&pro_id=sling&index.m3u8|Referer=https:\/\/xyzstreams.st\/&Origin=https:\/\/xyzstreams.st\/&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
