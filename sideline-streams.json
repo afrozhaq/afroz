@@ -1658,11 +1658,15 @@
           "rewarded": false
         },
         {
-          "label": "HD",
-          "subtitle": "",
-          "url": "",
+          "label": "Server 3",
+          "subtitle": "Live",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-los-angeles-sparks-vs-washington-mystics\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-los-angeles-sparks-vs-washington-mystics\/1"
+          }
         }
       ]
     },
