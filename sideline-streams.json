@@ -429,6 +429,26 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1786779154983",
+      "league": "nfl",
+      "gameId": "",
+      "away": "KCC",
+      "home": "LAR ",
+      "title": "KCC Vs LAR",
+      "poster": "",
+      "startsAt": 1786824000000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Link 1",
+          "subtitle": "Live",
+          "url": "Httpss",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
