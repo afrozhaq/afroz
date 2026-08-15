@@ -275,6 +275,26 @@
       ]
     },
     {
+      "id": "s1786779202600",
+      "league": "nfl",
+      "gameId": "",
+      "away": "BR",
+      "home": "PE",
+      "title": "BR Vs PE",
+      "poster": "",
+      "startsAt": 1786834800000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Link 1",
+          "subtitle": "Live",
+          "url": "htt",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
+    },
+    {
       "id": "s1786778343762",
       "league": "mlb",
       "gameId": "",
@@ -447,26 +467,6 @@
           "rewarded": true,
           "drmScheme": "clearkey",
           "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
-        }
-      ]
-    },
-    {
-      "id": "s1786779202600",
-      "league": "nfl",
-      "gameId": "",
-      "away": "BR",
-      "home": "PE",
-      "title": "BR Vs PE",
-      "poster": "",
-      "startsAt": 1786834800000,
-      "endsAt": 0,
-      "links": [
-        {
-          "label": "Link 1",
-          "subtitle": "Live",
-          "url": "htt",
-          "type": "hls",
-          "rewarded": false
         }
       ]
     },
