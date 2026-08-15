@@ -203,7 +203,7 @@
         {
           "label": "Server 1",
           "subtitle": "Live",
-          "url": "https:\/\/dripcast.online\/stream\/live-nfl-new-orleans-saints-jacksonville-jaguars-embedhd\/index.m3u8?key=NOIR-VG32J6-2026",
+          "url": "https:\/\/cherisetrevisone.s3.us-east-1.amazonaws.com\/vikings.m3u8",
           "type": "hls",
           "rewarded": false
         },
@@ -275,7 +275,7 @@
         {
           "label": "Server 1",
           "subtitle": "Live",
-          "url": "https:\/\/dripcast.online\/stream\/live-nfl-kansas-city-chiefs-los-angeles-rams-embedhd\/index.m3u8?key=NOIR-VG32J6-2026",
+          "url": "https:\/\/cherisetrevisone.s3.us-east-1.amazonaws.com\/panthers.m3u8",
           "type": "hls",
           "rewarded": false
         },
