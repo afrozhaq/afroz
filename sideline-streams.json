@@ -349,6 +349,26 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1786870048291",
+      "league": "nba",
+      "gameId": "",
+      "away": "AD",
+      "home": "IF",
+      "title": "Atlanta Dream Vs Indiana Fever",
+      "poster": "",
+      "startsAt": 1786914000000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "Watch now ",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
