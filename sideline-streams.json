@@ -1471,34 +1471,6 @@
         {
           "label": "Server 2",
           "subtitle": "Live",
-          "url": "MP",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 3",
-          "subtitle": "Live",
-          "url": "MP away ",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 4",
-          "subtitle": "Live",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=rangers=athletics&s=home&sport=mlb",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 5",
-          "subtitle": "Live",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=rangers=athletics&s=away&sport=mlb",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 6",
-          "subtitle": "Live",
           "url": "STRMCNTR ",
           "type": "hls",
           "rewarded": false
