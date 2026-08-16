@@ -646,13 +646,6 @@
           "rewarded": false
         },
         {
-          "label": "Server 6",
-          "subtitle": "Live",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb603\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjAzOjE3ODY4OTc1MTEyMDk6Y2RubGl2ZXR2LnR2OjIxOTMxZjE0ZjhkZTVmNzQuOGE4MGEzY2IyMDJiYTUxZjZjNDNlZTJiYTU4MGY3NTE5YjMzOWQ0N2EzZjViYjJkY2NlZmIxYThlMmMyMDQ3Zg",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
           "label": "Server 7",
           "subtitle": "Live",
           "url": "strmcntr ",
