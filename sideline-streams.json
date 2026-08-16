@@ -94,7 +94,7 @@
         {
           "label": "Server 1",
           "subtitle": "Live",
-          "url": "https:\/\/cherisetrevisone.s3.us-east-1.amazonaws.com\/braves.m3u8",
+          "url": "https:\/\/dripcast.online\/stream\/live-mlb-atlanta-braves-arizona-diamondbacks-embedhd\/index.m3u8?key=NOIR-VG32J6-2026",
           "type": "hls",
           "rewarded": false
         },
@@ -136,19 +136,12 @@
         {
           "label": "Server 7",
           "subtitle": "Live",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb605\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjA1OjE3ODY4OTQ2OTY5MTc6Y2RubGl2ZXR2LnR2OjkzNjY4NTUwM2Y4OThiY2MuNTllOTg5YjRlMDZkYTAyZjg5Zjk0MGRlNGFmZWI2MDAwZWFiNTJjZTlhMGVkMDAyYTNkODc0MmRjOWQwMDA3OA",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 8",
-          "subtitle": "Live",
           "url": "https:\/\/edgestream2.pro\/hls\/16yuitzaerghbhc16.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 9",
+          "label": "Server 8",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-16\/ari-atl",
           "type": "hls",
