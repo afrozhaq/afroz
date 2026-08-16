@@ -613,21 +613,21 @@
         {
           "label": "Server 1",
           "subtitle": "Live",
-          "url": "https:\/\/cherisetrevisone.s3.us-east-1.amazonaws.com\/astros.m3u8",
+          "url": "https:\/\/dripcast.online\/stream\/live-mlb-minnesota-twins-philadelphia-phillies-embedhd\/index.m3u8?key=NOIR-VG32J6-2026",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 2",
           "subtitle": "Live ( Home )",
-          "url": "mp",
+          "url": "https:\/\/node-8bba18be.4587.website\/6a8263bb.63183cafi798bc8d0.b212.a50edd66\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
           "subtitle": "Live ( Away )",
-          "url": "mp",
+          "url": "https:\/\/node-9b5feb01.4587.website\/6a8263bb.45f94fb5i798bc8d0.b214.71723d0b\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
@@ -648,26 +648,19 @@
         {
           "label": "Server 6",
           "subtitle": "Live",
-          "url": "https:\/\/dripcast.online\/stream\/live-mlb-minnesota-twins-philadelphia-phillies-embedhd\/index.m3u8?key=NOIR-VG32J6-2026",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb603\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjAzOjE3ODY4OTc1MTEyMDk6Y2RubGl2ZXR2LnR2OjIxOTMxZjE0ZjhkZTVmNzQuOGE4MGEzY2IyMDJiYTUxZjZjNDNlZTJiYTU4MGY3NTE5YjMzOWQ0N2EzZjViYjJkY2NlZmIxYThlMmMyMDQ3Zg",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 7",
           "subtitle": "Live",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb603\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjAzOjE3ODY4OTc1MTEyMDk6Y2RubGl2ZXR2LnR2OjIxOTMxZjE0ZjhkZTVmNzQuOGE4MGEzY2IyMDJiYTUxZjZjNDNlZTJiYTU4MGY3NTE5YjMzOWQ0N2EzZjViYjJkY2NlZmIxYThlMmMyMDQ3Zg",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 8",
-          "subtitle": "Live",
           "url": "strmcntr ",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 9",
+          "label": "Server 8",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-16\/phi-min",
           "type": "hls",
