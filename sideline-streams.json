@@ -1111,6 +1111,13 @@
         {
           "label": "Server 2",
           "subtitle": "Live",
+          "url": "https:\/\/247v2.xyzstreams.st\/?stream_id=atlantadream&pro_id=sling&index.m3u8|Referer=https:\/\/xyzstreams.st\/&Origin=https:\/\/xyzstreams.st\/&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/wnba\/2026-08-16\/ind-atl",
           "type": "hls",
           "rewarded": false,
@@ -1120,7 +1127,7 @@
           }
         },
         {
-          "label": "Server 3",
+          "label": "Server 4",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-indiana-fever-vs-atlanta-dream\/1",
           "type": "hls",
