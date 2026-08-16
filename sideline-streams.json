@@ -261,7 +261,7 @@
         {
           "label": "Server 2",
           "subtitle": "Live ( Home )",
-          "url": "MP",
+          "url": "https:\/\/node-5d763f4c.4587.website\/6a825ee1.063af87di798bc8d0.b1ff.57d27d49\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
