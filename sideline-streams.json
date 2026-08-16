@@ -20,29 +20,29 @@
         },
         {
           "label": "Server 2",
-          "subtitle": "Live",
-          "url": "",
+          "subtitle": "Live ( Home )",
+          "url": "MP",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
-          "subtitle": "Live",
-          "url": "",
+          "subtitle": "Live ( Away )",
+          "url": "MP",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
-          "subtitle": "Live",
-          "url": "",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=orioles=rays&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
-          "subtitle": "Live ",
-          "url": "",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=orioles=rays&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
