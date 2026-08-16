@@ -75,13 +75,6 @@
           "url": "",
           "type": "hls",
           "rewarded": false
-        },
-        {
-          "label": "Server 10",
-          "subtitle": "Live",
-          "url": "",
-          "type": "hls",
-          "rewarded": false
         }
       ]
     },
@@ -260,6 +253,78 @@
           "rewarded": true,
           "drmScheme": "clearkey",
           "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
         }
       ]
     },
@@ -274,6 +339,78 @@
       "startsAt": 1786902000000,
       "endsAt": 0,
       "links": [
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
         {
           "label": "HD",
           "subtitle": "FHD",
@@ -304,6 +441,78 @@
           "rewarded": true,
           "drmScheme": "clearkey",
           "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
         }
       ]
     },
@@ -318,6 +527,78 @@
       "startsAt": 1786902000000,
       "endsAt": 0,
       "links": [
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
         {
           "label": "HD",
           "subtitle": "FHD",
@@ -348,6 +629,78 @@
           "rewarded": true,
           "drmScheme": "clearkey",
           "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
         }
       ]
     },
@@ -362,6 +715,78 @@
       "startsAt": 1786903800000,
       "endsAt": 0,
       "links": [
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
         {
           "label": "HD",
           "subtitle": "FHD",
@@ -392,6 +817,78 @@
           "rewarded": true,
           "drmScheme": "clearkey",
           "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
         }
       ]
     },
@@ -406,6 +903,78 @@
       "startsAt": 1786910700000,
       "endsAt": 0,
       "links": [
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
         {
           "label": "HD",
           "subtitle": "FHD",
@@ -436,6 +1005,78 @@
           "rewarded": true,
           "drmScheme": "clearkey",
           "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
         }
       ]
     },
@@ -458,6 +1099,78 @@
           "rewarded": true,
           "drmScheme": "clearkey",
           "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
         }
       ]
     },
@@ -472,6 +1185,78 @@
       "startsAt": 1786911000000,
       "endsAt": 0,
       "links": [
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
         {
           "label": "HD",
           "subtitle": "FHD",
@@ -638,6 +1423,78 @@
       "startsAt": 1786922400000,
       "endsAt": 0,
       "links": [
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
         {
           "label": "HD",
           "subtitle": "FHD",
