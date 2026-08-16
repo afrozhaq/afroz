@@ -1139,9 +1139,13 @@
         {
           "label": "Server 2",
           "subtitle": "Live",
-          "url": "",
+          "url": "https:\/\/embedindia.st\/embed\/wnba\/2026-08-16\/chi-sea",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/wnba\/2026-08-16\/chi-sea"
+          }
         },
         {
           "label": "Server 3",
