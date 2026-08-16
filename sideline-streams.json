@@ -329,6 +329,26 @@
           "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
         }
       ]
+    },
+    {
+      "id": "s1786869973909",
+      "league": "nba",
+      "gameId": "",
+      "away": "SS",
+      "home": "CS",
+      "title": "S Storm Vs C Sky",
+      "poster": "",
+      "startsAt": 1786914000000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "Watch Now ",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
