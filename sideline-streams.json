@@ -825,7 +825,7 @@
         {
           "label": "Server 1",
           "subtitle": "Live",
-          "url": "https:\/\/cherisetrevisone.s3.us-east-1.amazonaws.com\/rangers.m3u8",
+          "url": "https:\/\/dripcast.online\/stream\/live-mlb-san-francisco-giants-colorado-rockies-embedhd\/index.m3u8?key=NOIR-VG32J6-2026",
           "type": "hls",
           "rewarded": false
         },
@@ -873,13 +873,6 @@
         },
         {
           "label": "Server 8",
-          "subtitle": "Live",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb5fc\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWZjOjE3ODY4OTkzNDMwODY6Y2RubGl2ZXR2LnR2OjQ0ZjUxNjNhZWRiOGVmNDEuZjg0NzU4NTA0ZmI0MjQ2MjBiMzY0MzE0MmRkNGU0MDRiNjgyY2Y4M2M0Nzc2YzhkOWI1NmMxNmM0ODA2MDUyYg",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 9",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-16\/col-sf",
           "type": "hls",
