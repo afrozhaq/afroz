@@ -1177,9 +1177,13 @@
         {
           "label": "Server 2",
           "subtitle": "Live",
-          "url": "bs",
+          "url": "https:\/\/embedindia.st\/embed\/wnba\/2026-08-16\/ind-atl",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/wnba\/2026-08-16\/ind-atl"
+          }
         },
         {
           "label": "Server 3",
