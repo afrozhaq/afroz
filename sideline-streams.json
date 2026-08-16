@@ -1150,9 +1150,13 @@
         {
           "label": "Server 3",
           "subtitle": "Live",
-          "url": "hs",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-chicago-sky-vs-seattle-storm\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-chicago-sky-vs-seattle-storm\/1"
+          }
         }
       ]
     },
