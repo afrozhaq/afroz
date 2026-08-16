@@ -49,30 +49,34 @@
         {
           "label": "Server 6",
           "subtitle": "Live",
-          "url": "",
+          "url": "embed",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 7",
           "subtitle": "Live",
-          "url": "",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb5ff\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWZmOjE3ODY5MDExMzEzOTM6Y2RubGl2ZXR2LnR2OmFlYjA4YTNmNjIzNmM3Y2UuZGI0OTE5MTNhMjdiZDhiZDU3ZGU1MDk2OTEwYjM4ODg4NDZjYWU3MGFhOWZjMTFlYjExNzRkNWFmMjk3ZjJiMg",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 8",
           "subtitle": "Live",
-          "url": "",
+          "url": "strmcntr ",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 9",
           "subtitle": "Live",
-          "url": "",
+          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-16\/bal-tb",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-16\/bal-tb"
+          }
         }
       ]
     },
