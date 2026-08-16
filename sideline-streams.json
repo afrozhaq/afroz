@@ -1166,7 +1166,7 @@
         {
           "label": "Server 1",
           "subtitle": "Live",
-          "url": "Watch now ",
+          "url": "https:\/\/edgestream2.pro\/hls\/ztyarueaghj71.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
@@ -1181,13 +1181,6 @@
           "label": "Server 3",
           "subtitle": "Live ",
           "url": "bs",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 4",
-          "subtitle": "Live",
-          "url": "",
           "type": "hls",
           "rewarded": false
         }
