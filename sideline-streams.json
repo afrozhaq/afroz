@@ -21,14 +21,14 @@
         {
           "label": "Server 2",
           "subtitle": "Live ( Home )",
-          "url": "MP",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=orioles=rays&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
           "subtitle": "Live ( Away )",
-          "url": "MP",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=orioles=rays&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
