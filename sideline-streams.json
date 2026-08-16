@@ -75,6 +75,13 @@
           "url": "",
           "type": "hls",
           "rewarded": false
+        },
+        {
+          "label": "Server 10",
+          "subtitle": "Live",
+          "url": "",
+          "type": "hls",
+          "rewarded": false
         }
       ]
     },
