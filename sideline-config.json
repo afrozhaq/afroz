@@ -1,6 +1,6 @@
 {
-  "minVersionCode": 7,
-  "latestVersionCode": 7,
+  "minVersionCode": 1,
+  "latestVersionCode": 1,
   "force": false,
   "title": "Update available",
   "message": "In New Update you can favourites your teams separately stream",
