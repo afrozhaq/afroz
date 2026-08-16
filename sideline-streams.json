@@ -1388,27 +1388,6 @@
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=rams=chiefs&s=home&sport=nfl",
           "type": "hls",
           "rewarded": false
-        },
-        {
-          "label": "Server 5",
-          "subtitle": "Live",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=rams=chiefs&s=home&sport=nfl",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 6",
-          "subtitle": "Live",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=rams=chiefs&s=home&sport=nfl",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 7",
-          "subtitle": "Live",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=rams=chiefs&s=home&sport=nfl",
-          "type": "hls",
-          "rewarded": false
         }
       ]
     },
