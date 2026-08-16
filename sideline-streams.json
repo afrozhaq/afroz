@@ -1234,9 +1234,13 @@
         {
           "label": "Server 3",
           "subtitle": "Live",
-          "url": "",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-portland-fire-vs-phoenix-mercury\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-portland-fire-vs-phoenix-mercury\/1"
+          }
         }
       ]
     },
