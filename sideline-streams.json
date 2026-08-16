@@ -1502,6 +1502,41 @@
           "url": "https:\/\/cherisetrevisone.s3.us-east-1.amazonaws.com\/chiefs.m3u8",
           "type": "hls",
           "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "HD",
+          "url": "https:\/\/cherisetrevisone.s3.us-east-1.amazonaws.com\/chiefs.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "HD",
+          "url": "https:\/\/cherisetrevisone.s3.us-east-1.amazonaws.com\/chiefs.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
+          "subtitle": "HD",
+          "url": "https:\/\/cherisetrevisone.s3.us-east-1.amazonaws.com\/chiefs.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 5",
+          "subtitle": "HD",
+          "url": "https:\/\/cherisetrevisone.s3.us-east-1.amazonaws.com\/chiefs.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 6",
+          "subtitle": "HD",
+          "url": "https:\/\/cherisetrevisone.s3.us-east-1.amazonaws.com\/chiefs.m3u8",
+          "type": "hls",
+          "rewarded": false
         }
       ]
     },
