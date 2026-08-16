@@ -679,7 +679,7 @@
         {
           "label": "Server 1",
           "subtitle": "Live",
-          "url": "https:\/\/cherisetrevisone.s3.us-east-1.amazonaws.com\/cubs.m3u8",
+          "url": "https:\/\/dripcast.online\/stream\/live-mlb-chicago-cubs-st-louis-cardinals-embedhd\/index.m3u8?key=NOIR-VG32J6-2026",
           "type": "hls",
           "rewarded": false
         },
@@ -721,19 +721,12 @@
         {
           "label": "Server 7",
           "subtitle": "Live",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb5fa\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWZhOjE3ODY4OTc4MzA2OTA6Y2RubGl2ZXR2LnR2Ojk3ZmFiMDM1YWM3NWZiZWUuZTkxYjkzMTJiZGQyMjhmYjVhNDQ4YWYyOTVmOGNjZjg0NGNiNTlhYjI1NDk2OGNkNGZmYzM4YWNjMzU3N2QwNA",
+          "url": "https:\/\/edgestream2.pro\/hls\/fskjanach24.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 8",
-          "subtitle": "Live",
-          "url": "strmcntr ",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 9",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-16\/stl-chc",
           "type": "hls",
