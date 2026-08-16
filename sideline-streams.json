@@ -322,7 +322,28 @@
         {
           "label": "Server 1",
           "subtitle": "Live",
-          "url": "Watch Now ",
+          "url": "hs",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live",
+          "url": "hs",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4 ",
+          "subtitle": "Live",
+          "url": "h",
           "type": "hls",
           "rewarded": false
         }
