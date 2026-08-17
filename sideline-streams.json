@@ -602,7 +602,7 @@
         {
           "label": "Server 1",
           "subtitle": "Live ",
-          "url": "https:\/\/cherisetrevisone.s3.us-east-1.amazonaws.com\/braves.m3u8",
+          "url": "https:\/\/dripcast.online\/stream\/live-mlb-minnesota-twins-atlanta-braves-embedhd\/index.m3u8?key=NOIR-VG32J6-2026",
           "type": "hls",
           "rewarded": false
         },
@@ -637,7 +637,7 @@
         {
           "label": "Server 6",
           "subtitle": "Live ",
-          "url": "embed",
+          "url": "https:\/\/dripcast.online\/stream\/live-mlb-minnesota-twins-atlanta-braves-embedhd\/index.m3u8?key=NOIR-VG32J6-2026",
           "type": "hls",
           "rewarded": false
         },
@@ -686,7 +686,7 @@
         {
           "label": "Server 1",
           "subtitle": "Live ",
-          "url": "https:\/\/cherisetrevisone.s3.us-east-1.amazonaws.com\/vikings.m3u8",
+          "url": "https:\/\/dripcast.online\/stream\/live-mlb-kansas-city-royals-athletics-embedhd\/index.m3u8?key=NOIR-VG32J6-2026",
           "type": "hls",
           "rewarded": false
         },
@@ -721,7 +721,7 @@
         {
           "label": "Server 6",
           "subtitle": "Live ",
-          "url": "embed",
+          "url": "https:\/\/dripcast.online\/stream\/live-mlb-kansas-city-royals-athletics-embedhd\/index.m3u8?key=NOIR-VG32J6-2026",
           "type": "hls",
           "rewarded": false
         },
