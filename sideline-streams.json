@@ -672,14 +672,14 @@
         {
           "label": "Server 2",
           "subtitle": "Live ( Home )",
-          "url": "mp",
+          "url": "https:\/\/node-8bba18be.4587.website\/6a840501.d4d3d7f1i798bc8d0.b390.f5915863\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
           "subtitle": "Live ( Away )",
-          "url": "mp",
+          "url": "https:\/\/node-8bba18be.4587.website\/6a840501.860eddd1i798bc8d0.b38f.4895eb97\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
