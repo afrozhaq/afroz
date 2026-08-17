@@ -749,7 +749,7 @@
         {
           "label": "Server 1",
           "subtitle": "Live ",
-          "url": "https:\/\/cherisetrevisone.s3.us-east-1.amazonaws.com\/cubs.m3u8",
+          "url": "https:\/\/dripcast.online\/stream\/live-mlb-chicago-cubs-chicago-white-sox-embedhd\/index.m3u8?key=NOIR-VG32J6-2026",
           "type": "hls",
           "rewarded": false
         },
@@ -769,29 +769,29 @@
         },
         {
           "label": "Server 4",
-          "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=whitesox=cubs&s=home&sport=mlb",
+          "subtitle": "Live ",
+          "url": "https:\/\/edgestream2.pro\/hls\/fskjanach24.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
-          "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=whitesox=cubs&s=away&sport=mlb",
+          "subtitle": "Live ",
+          "url": "https:\/\/ftv.dlhd.net\/MLBTVCHC\/B0006\/master.m3u8?|Referer=https:\/\/xyzstreams.st\/&Origin=https:\/\/xyzstreams.st\/&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 6",
           "subtitle": "Live ",
-          "url": "embed",
+          "url": "https:\/\/dripcast.online\/stream\/live-mlb-chicago-cubs-chicago-white-sox-embedhd\/index.m3u8?key=NOIR-VG32J6-2026",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 7",
           "subtitle": "Live ",
-          "url": "strmcntr ",
+          "url": "https:\/\/ftv.dlhd.net\/MLBTVCHW\/B0007\/master.m3u8?|Referer=https:\/\/xyzstreams.st\/&Origin=https:\/\/xyzstreams.st\/&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
