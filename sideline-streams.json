@@ -74,9 +74,13 @@
         {
           "label": "Server 9",
           "subtitle": "Live ",
-          "url": "ppv2",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-st-louis-cardinals-vs-cincinnati-reds\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-st-louis-cardinals-vs-cincinnati-reds\/1"
+          }
         }
       ]
     },
@@ -154,9 +158,13 @@
         {
           "label": "Server 9",
           "subtitle": "Live ",
-          "url": "ppv2",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-baltimore-orioles-vs-tampa-bay-rays\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-baltimore-orioles-vs-tampa-bay-rays\/1"
+          }
         }
       ]
     },
@@ -234,9 +242,13 @@
         {
           "label": "Server 9",
           "subtitle": "Live ",
-          "url": "ppv2",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-miami-marlins-vs-philadelphia-phillies\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-miami-marlins-vs-philadelphia-phillies\/1"
+          }
         }
       ]
     },
@@ -314,9 +326,13 @@
         {
           "label": "Server 9",
           "subtitle": "Live ",
-          "url": "ppv2",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-st-louis-cardinals-vs-cincinnati-reds\/2",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-st-louis-cardinals-vs-cincinnati-reds\/2"
+          }
         }
       ]
     },
