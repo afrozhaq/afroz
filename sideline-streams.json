@@ -783,9 +783,13 @@
         {
           "label": "Server 8",
           "subtitle": "Live ",
-          "url": "ppv",
+          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-17\/chw-chc",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-17\/chw-chc"
+          }
         },
         {
           "label": "Server 9",
@@ -859,9 +863,13 @@
         {
           "label": "Server 8",
           "subtitle": "Live ",
-          "url": "ppv",
+          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-17\/lad-col",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-17\/lad-col"
+          }
         },
         {
           "label": "Server 9",
