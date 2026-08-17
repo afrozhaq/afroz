@@ -294,6 +294,40 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1786943610622",
+      "league": "nba",
+      "gameId": "",
+      "away": "GOLDEN STATE VALKYRIES ",
+      "home": "DALLS WINGS ",
+      "title": "GOLDEN STATE VALKYRIES Vs DALLAS WINGS",
+      "poster": "",
+      "startsAt": 1787018400000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
