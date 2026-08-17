@@ -976,16 +976,24 @@
         {
           "label": "Server 2",
           "subtitle": "Live",
-          "url": "h",
+          "url": "https:\/\/embedindia.st\/embed\/wnba\/2026-08-17\/dal-gs",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/wnba\/2026-08-17\/dal-gs"
+          }
         },
         {
           "label": "Server 3",
           "subtitle": "Live",
-          "url": "h",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-dallas-wings-vs-golden-state-valkyries\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-dallas-wings-vs-golden-state-valkyries\/1"
+          }
         }
       ]
     }
