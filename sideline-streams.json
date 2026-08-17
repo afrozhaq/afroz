@@ -350,7 +350,7 @@
         {
           "label": "Server 1",
           "subtitle": "Live ",
-          "url": "https:\/\/cherisetrevisone.s3.us-east-1.amazonaws.com\/mets.m3u8",
+          "url": "https:\/\/dripcast.online\/stream\/live-mlb-pittsburgh-pirates-detroit-tigers-embedhd\/index.m3u8?key=NOIR-VG32J6-2026",
           "type": "hls",
           "rewarded": false
         },
@@ -385,7 +385,7 @@
         {
           "label": "Server 6",
           "subtitle": "Live ",
-          "url": "embed",
+          "url": "https:\/\/dripcast.online\/stream\/live-mlb-pittsburgh-pirates-detroit-tigers-embedhd\/index.m3u8?key=NOIR-VG32J6-2026",
           "type": "hls",
           "rewarded": false
         },
@@ -434,7 +434,7 @@
         {
           "label": "Server 1",
           "subtitle": "Live ",
-          "url": "https:\/\/cherisetrevisone.s3.us-east-1.amazonaws.com\/mets.m3u8",
+          "url": "https:\/\/dripcast.online\/stream\/live-mlb-boston-red-sox-arizona-diamondbacks-embedhd\/index.m3u8?key=NOIR-VG32J6-2026",
           "type": "hls",
           "rewarded": false
         },
@@ -469,7 +469,7 @@
         {
           "label": "Server 6",
           "subtitle": "Live ",
-          "url": "embed",
+          "url": "https:\/\/dripcast.online\/stream\/live-mlb-boston-red-sox-arizona-diamondbacks-embedhd\/index.m3u8?key=NOIR-VG32J6-2026",
           "type": "hls",
           "rewarded": false
         },
@@ -518,7 +518,7 @@
         {
           "label": "Server 1",
           "subtitle": "Live ",
-          "url": "https:\/\/cherisetrevisone.s3.us-east-1.amazonaws.com\/mets.m3u8",
+          "url": "https:\/\/dripcast.online\/stream\/live-mlb-new-york-mets-san-diego-padres-embedhd\/index.m3u8?key=NOIR-VG32J6-2026",
           "type": "hls",
           "rewarded": false
         },
@@ -553,7 +553,7 @@
         {
           "label": "Server 6",
           "subtitle": "Live ",
-          "url": "embed",
+          "url": "https:\/\/dripcast.online\/stream\/live-mlb-new-york-mets-san-diego-padres-embedhd\/index.m3u8?key=NOIR-VG32J6-2026",
           "type": "hls",
           "rewarded": false
         },
