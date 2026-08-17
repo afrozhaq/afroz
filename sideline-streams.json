@@ -63,9 +63,13 @@
         {
           "label": "Server 8",
           "subtitle": "Live ",
-          "url": "ppv",
+          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-17\/stl-cin",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-17\/stl-cin"
+          }
         },
         {
           "label": "Server 9",
@@ -139,9 +143,13 @@
         {
           "label": "Server 8",
           "subtitle": "Live ",
-          "url": "ppv",
+          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-17\/bal-tb",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-17\/bal-tb"
+          }
         },
         {
           "label": "Server 9",
@@ -291,9 +299,13 @@
         {
           "label": "Server 8",
           "subtitle": "Live ",
-          "url": "ppv",
+          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-17\/stl-cin\/game-2",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-17\/stl-cin\/game-2"
+          }
         },
         {
           "label": "Server 9",
