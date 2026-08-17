@@ -746,9 +746,13 @@
         {
           "label": "Server 9",
           "subtitle": "Live ",
-          "url": "ppv2",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-athletics-vs-kansas-city-royals\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-athletics-vs-kansas-city-royals\/1"
+          }
         }
       ]
     },
@@ -826,9 +830,13 @@
         {
           "label": "Server 9",
           "subtitle": "Live ",
-          "url": "ppv2",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-chicago-white-sox-vs-chicago-cubs\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-chicago-white-sox-vs-chicago-cubs\/1"
+          }
         }
       ]
     },
@@ -906,9 +914,13 @@
         {
           "label": "Server 9",
           "subtitle": "Live ",
-          "url": "ppv2",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-los-angeles-dodgers-vs-colorado-rockies\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-los-angeles-dodgers-vs-colorado-rockies\/1"
+          }
         }
       ]
     },
