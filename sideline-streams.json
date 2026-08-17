@@ -223,9 +223,13 @@
         {
           "label": "Server 8",
           "subtitle": "Live ",
-          "url": "ppv",
+          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-17\/mia-phi",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-17\/mia-phi"
+          }
         },
         {
           "label": "Server 9",
@@ -379,9 +383,13 @@
         {
           "label": "Server 8",
           "subtitle": "Live ",
-          "url": "ppv",
+          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-17\/det-pit",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-17\/det-pit"
+          }
         },
         {
           "label": "Server 9",
@@ -455,9 +463,13 @@
         {
           "label": "Server 8",
           "subtitle": "Live ",
-          "url": "ppv",
+          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-17\/ari-bos",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-17\/ari-bos"
+          }
         },
         {
           "label": "Server 9",
