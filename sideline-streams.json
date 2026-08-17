@@ -410,9 +410,13 @@
         {
           "label": "Server 9",
           "subtitle": "Live ",
-          "url": "ppv2",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-detroit-tigers-vs-pittsburgh-pirates\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-detroit-tigers-vs-pittsburgh-pirates\/1"
+          }
         }
       ]
     },
@@ -490,9 +494,13 @@
         {
           "label": "Server 9",
           "subtitle": "Live ",
-          "url": "ppv2",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-arizona-diamondbacks-vs-boston-red-sox\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-arizona-diamondbacks-vs-boston-red-sox\/1"
+          }
         }
       ]
     },
@@ -570,9 +578,13 @@
         {
           "label": "Server 9",
           "subtitle": "Live ",
-          "url": "ppv2",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-san-diego-padres-vs-new-york-mets\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-san-diego-padres-vs-new-york-mets\/1"
+          }
         }
       ]
     },
@@ -650,9 +662,13 @@
         {
           "label": "Server 9",
           "subtitle": "Live ",
-          "url": "ppv2",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-atlanta-braves-vs-minnesota-twins\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-atlanta-braves-vs-minnesota-twins\/1"
+          }
         }
       ]
     },
