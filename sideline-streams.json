@@ -704,57 +704,57 @@
         },
         {
           "label": "Server 2",
-          "subtitle": "Live ",
-          "url": "",
+          "subtitle": "Live ( Home )",
+          "url": "mp",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
-          "subtitle": "Live ",
-          "url": "",
+          "subtitle": "Live ( Away )",
+          "url": "mp",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
-          "subtitle": "Live ",
-          "url": "",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=whitesox=cubs&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
-          "subtitle": "Live ",
-          "url": "",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=whitesox=cubs&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 6",
           "subtitle": "Live ",
-          "url": "",
+          "url": "embed",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 7",
           "subtitle": "Live ",
-          "url": "",
+          "url": "strmcntr ",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 8",
           "subtitle": "Live ",
-          "url": "",
+          "url": "ppv",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 9",
           "subtitle": "Live ",
-          "url": "",
+          "url": "ppv2",
           "type": "hls",
           "rewarded": false
         }
