@@ -101,81 +101,6 @@
       ]
     },
     {
-      "id": "s1786879638367",
-      "league": "nfl",
-      "gameId": "",
-      "away": "TEXANS",
-      "home": "RAIDERS",
-      "title": "Texans vs Raiders",
-      "poster": "",
-      "startsAt": 1787270400000,
-      "endsAt": 0,
-      "links": [
-        {
-          "label": "Server 1",
-          "subtitle": "HD",
-          "url": "https:\/\/cherisetrevisone.s3.us-east-1.amazonaws.com\/chiefs.m3u8",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 2",
-          "subtitle": "HD",
-          "url": "https:\/\/cherisetrevisone.s3.us-east-1.amazonaws.com\/chiefs.m3u8",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 3",
-          "subtitle": "HD",
-          "url": "https:\/\/cherisetrevisone.s3.us-east-1.amazonaws.com\/chiefs.m3u8",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 4",
-          "subtitle": "HD",
-          "url": "https:\/\/cherisetrevisone.s3.us-east-1.amazonaws.com\/chiefs.m3u8",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 5",
-          "subtitle": "HD",
-          "url": "https:\/\/cherisetrevisone.s3.us-east-1.amazonaws.com\/chiefs.m3u8",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 6",
-          "subtitle": "HD",
-          "url": "https:\/\/cherisetrevisone.s3.us-east-1.amazonaws.com\/chiefs.m3u8",
-          "type": "hls",
-          "rewarded": false
-        }
-      ]
-    },
-    {
-      "id": "s1786880499886",
-      "league": "nfl",
-      "gameId": "",
-      "away": "CHARGERS",
-      "home": "49ERS",
-      "title": "Chargers vs 49ers",
-      "poster": "",
-      "startsAt": 1787277600000,
-      "endsAt": 0,
-      "links": [
-        {
-          "label": "Server 1",
-          "subtitle": "HD",
-          "url": "https:\/\/cherisetrevisone.s3.us-east-1.amazonaws.com\/chiefs.m3u8",
-          "type": "hls",
-          "rewarded": false
-        }
-      ]
-    },
-    {
       "id": "s1786943393503",
       "league": "mlb",
       "gameId": "",
@@ -292,6 +217,81 @@
           "url": "https:\/\/edgestream2.pro\/hls\/jkzahzadach20.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": true
+        }
+      ]
+    },
+    {
+      "id": "s1786880499886",
+      "league": "nfl",
+      "gameId": "",
+      "away": "CHARGERS",
+      "home": "49ERS",
+      "title": "Chargers vs 49ers",
+      "poster": "",
+      "startsAt": 1787277600000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "HD",
+          "url": "https:\/\/cherisetrevisone.s3.us-east-1.amazonaws.com\/chiefs.m3u8",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
+    },
+    {
+      "id": "s1786879638367",
+      "league": "nfl",
+      "gameId": "",
+      "away": "TEXANS",
+      "home": "RAIDERS",
+      "title": "Texans vs Raiders",
+      "poster": "",
+      "startsAt": 1787270400000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "HD",
+          "url": "https:\/\/cherisetrevisone.s3.us-east-1.amazonaws.com\/chiefs.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "HD",
+          "url": "https:\/\/cherisetrevisone.s3.us-east-1.amazonaws.com\/chiefs.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "HD",
+          "url": "https:\/\/cherisetrevisone.s3.us-east-1.amazonaws.com\/chiefs.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
+          "subtitle": "HD",
+          "url": "https:\/\/cherisetrevisone.s3.us-east-1.amazonaws.com\/chiefs.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 5",
+          "subtitle": "HD",
+          "url": "https:\/\/cherisetrevisone.s3.us-east-1.amazonaws.com\/chiefs.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 6",
+          "subtitle": "HD",
+          "url": "https:\/\/cherisetrevisone.s3.us-east-1.amazonaws.com\/chiefs.m3u8",
+          "type": "hls",
+          "rewarded": false
         }
       ]
     }
