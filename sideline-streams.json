@@ -144,9 +144,13 @@
         {
           "label": "Server 8",
           "subtitle": "Live ",
-          "url": "he",
+          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-18\/mia-phi",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-18\/mia-phi"
+          }
         }
       ]
     },
@@ -600,9 +604,13 @@
         {
           "label": "Server 8",
           "subtitle": "Live ",
-          "url": "ya",
+          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-18\/ari-bos",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-18\/ari-bos"
+          }
         }
       ]
     },
@@ -673,9 +681,13 @@
         {
           "label": "Server 8",
           "subtitle": "Live ",
-          "url": "vastaganahuiyaaan",
+          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-18\/sd-nym",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-18\/sd-nym"
+          }
         }
       ]
     },
@@ -746,9 +758,13 @@
         {
           "label": "Server 8",
           "subtitle": "Live ",
-          "url": "omyyess",
+          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-18\/atl-min",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-18\/atl-min"
+          }
         }
       ]
     },
@@ -819,9 +835,13 @@
         {
           "label": "Server 8",
           "subtitle": "Live ",
-          "url": "haha",
+          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-18\/ath-kc",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-18\/ath-kc"
+          }
         }
       ]
     },
