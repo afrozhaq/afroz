@@ -961,14 +961,14 @@
         {
           "label": "Server 3",
           "subtitle": "Live ( Home )",
-          "url": "mp",
+          "url": "https:\/\/node-88894cb5.4587.website\/6a855c6d.c8872ccbi798bc8d0.b4b9.f20f3871\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
           "subtitle": "Live ( Away )",
-          "url": "mp",
+          "url": "https:\/\/node-88894cb5.4587.website\/6a855c6d.92e823b7i798bc8d0.b4be.f559f7cf\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
