@@ -56,9 +56,13 @@
         {
           "label": "Server 7",
           "subtitle": "Live ",
-          "url": "he",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-new-york-yankees-vs-baltimore-orioles\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-new-york-yankees-vs-baltimore-orioles\/1"
+          }
         },
         {
           "label": "Server 8",
@@ -194,9 +198,13 @@
         {
           "label": "Server 7",
           "subtitle": "Live ",
-          "url": "he",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-detroit-tigers-vs-pittsburgh-pirates\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-detroit-tigers-vs-pittsburgh-pirates\/1"
+          }
         },
         {
           "label": "Server 8",
@@ -263,9 +271,13 @@
         {
           "label": "Server 7",
           "subtitle": "Live ",
-          "url": "he",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-san-francisco-giants-vs-cleveland-guardians\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-san-francisco-giants-vs-cleveland-guardians\/1"
+          }
         },
         {
           "label": "Server 8",
@@ -332,9 +344,13 @@
         {
           "label": "Server 7",
           "subtitle": "Live ",
-          "url": "he",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-st-louis-cardinals-vs-cincinnati-reds\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-st-louis-cardinals-vs-cincinnati-reds\/1"
+          }
         },
         {
           "label": "Server 8",
@@ -401,9 +417,13 @@
         {
           "label": "Server 7",
           "subtitle": "Live ",
-          "url": "ha",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-toronto-blue-jays-vs-tampa-bay-rays\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-toronto-blue-jays-vs-tampa-bay-rays\/1"
+          }
         },
         {
           "label": "Server 8",
