@@ -217,9 +217,13 @@
         {
           "label": "Server 8",
           "subtitle": "Live ",
-          "url": "he",
+          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-18\/det-pit",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-18\/det-pit"
+          }
         }
       ]
     },
@@ -290,9 +294,13 @@
         {
           "label": "Server 8",
           "subtitle": "Live ",
-          "url": "he",
+          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-18\/sf-cle",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-18\/sf-cle"
+          }
         }
       ]
     },
