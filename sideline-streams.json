@@ -1127,6 +1127,20 @@
           "url": "hkd",
           "type": "hls",
           "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "live ",
+          "url": "hkd",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "live ",
+          "url": "hkd",
+          "type": "hls",
+          "rewarded": false
         }
       ]
     },
@@ -1143,6 +1157,20 @@
       "links": [
         {
           "label": "Server 1",
+          "subtitle": "Live ",
+          "url": "hsgz",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live ",
+          "url": "hsgz",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
           "subtitle": "Live ",
           "url": "hsgz",
           "type": "hls",
@@ -1167,6 +1195,20 @@
           "url": "https",
           "type": "hls",
           "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live ",
+          "url": "https",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live ",
+          "url": "https",
+          "type": "hls",
+          "rewarded": false
         }
       ]
     },
@@ -1183,6 +1225,20 @@
       "links": [
         {
           "label": "Server 1",
+          "subtitle": "Live ",
+          "url": "https",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live ",
+          "url": "https",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
           "subtitle": "Live ",
           "url": "https",
           "type": "hls",
