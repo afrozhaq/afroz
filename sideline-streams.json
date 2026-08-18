@@ -711,36 +711,36 @@
         },
         {
           "label": "Server 2",
-          "subtitle": "Live ",
-          "url": "omyyess",
+          "subtitle": "Live ( Home )",
+          "url": "mp",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
-          "subtitle": "Live ",
-          "url": "omyyess",
+          "subtitle": "Live ( Away )",
+          "url": "mp",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
-          "subtitle": "Live ",
-          "url": "omyyess",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=braves=twins&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
-          "subtitle": "Live ",
-          "url": "omyyess",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=braves=twins&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 6",
           "subtitle": "Live ",
-          "url": "omyyess",
+          "url": "embed",
           "type": "hls",
           "rewarded": false
         },
@@ -942,36 +942,36 @@
         },
         {
           "label": "Server 2",
-          "subtitle": "Live ",
-          "url": "ya ya",
+          "subtitle": "Live ( Home )",
+          "url": "mp",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
-          "subtitle": "Live ",
-          "url": "ya ya",
+          "subtitle": "Live ( Away )",
+          "url": "mp",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
-          "subtitle": "Live ",
-          "url": "ya ya",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=whitesox=cubs&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
-          "subtitle": "Live ",
-          "url": "ya ya",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=whitesox=cubs&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 6",
           "subtitle": "Live ",
-          "url": "ya ya",
+          "url": "embed",
           "type": "hls",
           "rewarded": false
         },
