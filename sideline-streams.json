@@ -371,9 +371,13 @@
         {
           "label": "Server 8",
           "subtitle": "Live ",
-          "url": "he",
+          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-18\/stl-cin",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-18\/stl-cin"
+          }
         }
       ]
     },
@@ -444,9 +448,13 @@
         {
           "label": "Server 8",
           "subtitle": "Live ",
-          "url": "ha",
+          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-18\/tor-tb",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-18\/tor-tb"
+          }
         }
       ]
     },
