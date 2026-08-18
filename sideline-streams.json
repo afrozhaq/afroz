@@ -1267,9 +1267,13 @@
         {
           "label": "Server 2",
           "subtitle": "Live ",
-          "url": "https",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-atlanta-dream-vs-las-vegas-aces\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-atlanta-dream-vs-las-vegas-aces\/1"
+          }
         },
         {
           "label": "Server 3",
@@ -1301,9 +1305,13 @@
         {
           "label": "Server 2",
           "subtitle": "Live ",
-          "url": "https",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-new-york-liberty-vs-chicago-sky\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-new-york-liberty-vs-chicago-sky\/1"
+          }
         },
         {
           "label": "Server 3",
