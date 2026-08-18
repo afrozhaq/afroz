@@ -434,6 +434,26 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1787030384627",
+      "league": "nba",
+      "gameId": "",
+      "away": "CHICAGO SKY ",
+      "home": "NEW YORK LIBERTY ",
+      "title": "CHICAGO SKY Vs NEW YORK LIBERTY ",
+      "poster": "",
+      "startsAt": 1787101200000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live ",
+          "url": "https",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
