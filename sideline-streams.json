@@ -859,47 +859,56 @@
         {
           "label": "Server 1",
           "subtitle": "Live ",
+          "url": "https:\/\/dice-live-oc.akamaized.net\/hdntl=exp=1787155645~acl=*dash%2flive%2f2093694%2f219039-326339%2f*!*dash%2flive%2f2093694-b%2f219039-326339-b%2f*~id=0d068aee-8dca-4585-bb33-340be743c714~data=hdntl,dWlkPUg3d0g0OXw1YzRmMTNiZS05YmIwLTRiMTUtYTUyYy03Y2Q0NjlmMDk5ODkmc3JjPWRnZSZpcD04NS4yOC41NC4yMzUmZXhwPTE3ODcxNTU2NzMmZWlkPTIxOTAzOSZjaWQ9ZGNlLnNreW56Jm9pZD0zMTgmdHlwZT1MSVZF~hmac=43447a33a7ddd53dcf9b713af4c1bc901cfccfa6c329ce365c25cb7a4c8d8be8\/dash\/live\/2093694\/219039-326339\/manifest-d.mpd",
+          "type": "dash",
+          "rewarded": false,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "515ed0408c9e4d68b07e73ad82f69da4:7cfbdf9cce624e11925b775cfe34eb91"
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live ",
           "url": "https:\/\/edgestream2.pro\/hls\/fskjanach24.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 2",
-          "subtitle": "Live ( Home )",
-          "url": "haha",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
           "label": "Server 3",
-          "subtitle": "Live ( Away )",
+          "subtitle": "Live ( Home )",
           "url": "haha",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
+          "subtitle": "Live ( Away )",
+          "url": "haha",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 5",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=mariners=brewers&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
+          "label": "Server 6",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=mariners=brewers&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 6",
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "haha",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 7",
+          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-seattle-mariners-vs-milwaukee-brewers\/1",
           "type": "hls",
@@ -910,7 +919,7 @@
           }
         },
         {
-          "label": "Server 8",
+          "label": "Server 9",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-18\/sea-mil",
           "type": "hls",
