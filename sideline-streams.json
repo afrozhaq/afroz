@@ -1262,9 +1262,13 @@
         {
           "label": "Server 3",
           "subtitle": "live ",
-          "url": "hkd",
+          "url": "https:\/\/embedindia.st\/embed\/wnba\/2026-08-18\/la-con",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/wnba\/2026-08-18\/la-con"
+          }
         }
       ]
     },
@@ -1300,9 +1304,13 @@
         {
           "label": "Server 3",
           "subtitle": "Live ",
-          "url": "hsgz",
+          "url": "https:\/\/embedindia.st\/embed\/wnba\/2026-08-18\/ind-tor",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/wnba\/2026-08-18\/ind-tor"
+          }
         }
       ]
     },
@@ -1338,9 +1346,13 @@
         {
           "label": "Server 3",
           "subtitle": "Live ",
-          "url": "https",
+          "url": "https:\/\/embedindia.st\/embed\/wnba\/2026-08-18\/atl-lv",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/wnba\/2026-08-18\/atl-lv"
+          }
         }
       ]
     },
@@ -1376,9 +1388,13 @@
         {
           "label": "Server 3",
           "subtitle": "Live ",
-          "url": "https",
+          "url": "https:\/\/embedindia.st\/embed\/wnba\/2026-08-18\/ny-chi",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/wnba\/2026-08-18\/ny-chi"
+          }
         }
       ]
     }
