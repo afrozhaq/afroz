@@ -414,6 +414,26 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1787030299010",
+      "league": "nba",
+      "gameId": "",
+      "away": "LAS VEGAS ACES ",
+      "home": "ATLANTA DREAM ",
+      "title": "LAS VEGAS ACES Vs ATLANTA DREAM ",
+      "poster": "",
+      "startsAt": 1787101200000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live ",
+          "url": "https",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
