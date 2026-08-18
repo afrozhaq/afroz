@@ -374,6 +374,26 @@
           "rewarded": true
         }
       ]
+    },
+    {
+      "id": "s1787030098393",
+      "league": "nba",
+      "gameId": "",
+      "away": "CONNECTICUT SUN",
+      "home": "LOS ANGELES SPARKS",
+      "title": "CONNECTICUT SUN Vs LOS ANGELES SPARKS ",
+      "poster": "",
+      "startsAt": 1787094000000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "live ",
+          "url": "hkd",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
