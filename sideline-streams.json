@@ -74,48 +74,6 @@
           "rewarded": false
         }
       ]
-    },
-    {
-      "id": "s1786943610622",
-      "league": "nba",
-      "gameId": "",
-      "away": "GOLDEN STATE VALKYRIES ",
-      "home": "DALLS WINGS ",
-      "title": "GOLDEN STATE VALKYRIES Vs DALLAS WINGS",
-      "poster": "",
-      "startsAt": 1787018400000,
-      "endsAt": 0,
-      "links": [
-        {
-          "label": "Server 1",
-          "subtitle": "Live",
-          "url": "https:\/\/edgestream2.pro\/hls\/bvnsqdfvgha70.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 2",
-          "subtitle": "Live",
-          "url": "https:\/\/embedindia.st\/embed\/wnba\/2026-08-17\/dal-gs",
-          "type": "hls",
-          "rewarded": false,
-          "tokenApi": {
-            "type": "embed",
-            "api": "https:\/\/embedindia.st\/embed\/wnba\/2026-08-17\/dal-gs"
-          }
-        },
-        {
-          "label": "Server 3",
-          "subtitle": "Live",
-          "url": "https:\/\/embed.st\/embed\/admin\/ppv-dallas-wings-vs-golden-state-valkyries\/1",
-          "type": "hls",
-          "rewarded": false,
-          "tokenApi": {
-            "type": "embed",
-            "api": "https:\/\/embed.st\/embed\/admin\/ppv-dallas-wings-vs-golden-state-valkyries\/1"
-          }
-        }
-      ]
     }
   ]
 }
