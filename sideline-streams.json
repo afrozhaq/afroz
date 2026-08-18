@@ -129,9 +129,13 @@
         {
           "label": "Server 7",
           "subtitle": "Live ",
-          "url": "he",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-miami-marlins-vs-philadelphia-phillies\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-miami-marlins-vs-philadelphia-phillies\/1"
+          }
         },
         {
           "label": "Server 8",
@@ -565,9 +569,13 @@
         {
           "label": "Server 7",
           "subtitle": "Live ",
-          "url": "ya",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-arizona-diamondbacks-vs-boston-red-sox\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-arizona-diamondbacks-vs-boston-red-sox\/1"
+          }
         },
         {
           "label": "Server 8",
@@ -1151,9 +1159,13 @@
         {
           "label": "Server 2",
           "subtitle": "live ",
-          "url": "hkd",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-los-angeles-sparks-vs-connecticut-sun\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-los-angeles-sparks-vs-connecticut-sun\/1"
+          }
         },
         {
           "label": "Server 3",
@@ -1185,9 +1197,13 @@
         {
           "label": "Server 2",
           "subtitle": "Live ",
-          "url": "hsgz",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-indiana-fever-vs-toronto-tempo\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-indiana-fever-vs-toronto-tempo\/1"
+          }
         },
         {
           "label": "Server 3",
