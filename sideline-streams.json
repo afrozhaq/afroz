@@ -1019,29 +1019,29 @@
         },
         {
           "label": "Server 2",
-          "subtitle": "Live ",
-          "url": "yass",
+          "subtitle": "Live ( Home )",
+          "url": "mp",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
-          "subtitle": "Live ",
-          "url": "yass",
+          "subtitle": "Live ( Away )",
+          "url": "mp",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
-          "subtitle": "Live ",
-          "url": "yass",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=nationals=rangers&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
-          "subtitle": "Live ",
-          "url": "yass",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=nationals=rangers&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
@@ -1096,36 +1096,36 @@
         },
         {
           "label": "Server 2",
-          "subtitle": "Live ",
-          "url": "nono",
+          "subtitle": "Live ( Home )",
+          "url": "mp",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
-          "subtitle": "Live ",
-          "url": "nono",
+          "subtitle": "Live ( Away )",
+          "url": "mp",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
-          "subtitle": "Live ",
-          "url": "nono",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=angels=astros&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
-          "subtitle": "Live ",
-          "url": "nono",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=angels=astros&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 6",
           "subtitle": "Live ",
-          "url": "nono",
+          "url": "embed",
           "type": "hls",
           "rewarded": false
         },
