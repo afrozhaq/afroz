@@ -642,9 +642,13 @@
         {
           "label": "Server 7",
           "subtitle": "Live ",
-          "url": "vastaganahuiyaaan",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-san-diego-padres-vs-new-york-mets\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-san-diego-padres-vs-new-york-mets\/1"
+          }
         },
         {
           "label": "Server 8",
@@ -711,9 +715,13 @@
         {
           "label": "Server 7",
           "subtitle": "Live ",
-          "url": "omyyess",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-atlanta-braves-vs-minnesota-twins\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-atlanta-braves-vs-minnesota-twins\/1"
+          }
         },
         {
           "label": "Server 8",
@@ -780,9 +788,13 @@
         {
           "label": "Server 7",
           "subtitle": "Live ",
-          "url": "haha",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-athletics-vs-kansas-city-royals\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-athletics-vs-kansas-city-royals\/1"
+          }
         },
         {
           "label": "Server 8",
@@ -849,9 +861,13 @@
         {
           "label": "Server 7",
           "subtitle": "Live ",
-          "url": "haha",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-seattle-mariners-vs-milwaukee-brewers\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-seattle-mariners-vs-milwaukee-brewers\/1"
+          }
         },
         {
           "label": "Server 8",
