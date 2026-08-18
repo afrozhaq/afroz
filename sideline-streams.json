@@ -934,9 +934,13 @@
         {
           "label": "Server 7",
           "subtitle": "Live ",
-          "url": "ya ya",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-chicago-white-sox-vs-chicago-cubs\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-chicago-white-sox-vs-chicago-cubs\/1"
+          }
         },
         {
           "label": "Server 8",
@@ -1003,9 +1007,13 @@
         {
           "label": "Server 7",
           "subtitle": "Live ",
-          "url": "yass",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-washington-nationals-vs-texas-rangers\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-washington-nationals-vs-texas-rangers\/1"
+          }
         },
         {
           "label": "Server 8",
@@ -1072,9 +1080,13 @@
         {
           "label": "Server 7",
           "subtitle": "Live ",
-          "url": "nono",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-los-angeles-angels-vs-houston-astros\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-los-angeles-angels-vs-houston-astros\/1"
+          }
         },
         {
           "label": "Server 8",
@@ -1141,9 +1153,13 @@
         {
           "label": "Server 7",
           "subtitle": "Live ",
-          "url": "haha very funny",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-los-angeles-dodgers-vs-colorado-rockies\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-los-angeles-dodgers-vs-colorado-rockies\/1"
+          }
         },
         {
           "label": "Server 8",
