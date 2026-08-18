@@ -912,9 +912,13 @@
         {
           "label": "Server 8",
           "subtitle": "Live ",
-          "url": "haha",
+          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-18\/sea-mil",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-18\/sea-mil"
+          }
         }
       ]
     },
@@ -985,9 +989,13 @@
         {
           "label": "Server 8",
           "subtitle": "Live ",
-          "url": "ya ya",
+          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-18\/chw-chc",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-18\/chw-chc"
+          }
         }
       ]
     },
@@ -1058,9 +1066,13 @@
         {
           "label": "Server 8",
           "subtitle": "Live ",
-          "url": "yass",
+          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-18\/wsh-tex",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-18\/wsh-tex"
+          }
         }
       ]
     },
@@ -1131,9 +1143,13 @@
         {
           "label": "Server 8",
           "subtitle": "Live ",
-          "url": "nono",
+          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-18\/laa-hou",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-18\/laa-hou"
+          }
         }
       ]
     },
@@ -1204,9 +1220,13 @@
         {
           "label": "Server 8",
           "subtitle": "Live ",
-          "url": "haha very funny",
+          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-18\/lad-col",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-18\/lad-col"
+          }
         }
       ]
     },
