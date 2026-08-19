@@ -408,6 +408,40 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1787119209384",
+      "league": "nba",
+      "gameId": "",
+      "away": "GOLDEN STATE VALKYRIES ",
+      "home": "MINNESOTA LYNX ",
+      "title": "GOLDEN STATE VALKYRIES Vs MINNESOTA LYNX ",
+      "poster": "",
+      "startsAt": 1787191200000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "hshshsbs",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "hshshsbs",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live",
+          "url": "hshshsbs",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
