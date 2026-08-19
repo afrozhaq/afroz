@@ -21,14 +21,14 @@
         {
           "label": "Server 2",
           "subtitle": "Live ( Home )",
-          "url": "",
+          "url": "fhjr",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
           "subtitle": "Live ( Away )",
-          "url": "",
+          "url": "eghr",
           "type": "hls",
           "rewarded": false
         },
