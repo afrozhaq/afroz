@@ -1344,14 +1344,7 @@
         {
           "label": "Server 2",
           "subtitle": "Live",
-          "url": "https:\/\/247v2.xyzstreams.st\/?stream_id=atlantadream&pro_id=sling&index.m3u8|Referer=https:\/\/xyzstreams.st\/&Origin=https:\/\/xyzstreams.st\/&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 3",
-          "subtitle": "Live",
-          "url": "https:\/\/247v2.xyzstreams.st\/?stream_id=atlantadream&pro_id=sling&index.m3u8|Referer=https:\/\/xyzstreams.st\/&Origin=https:\/\/xyzstreams.st\/&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2b81d8192bb76cce46\/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjZTQ2OjE3ODcxMTI4NjY5NTk6Y2RubGl2ZXR2LnR2OjViYTZjZWQwNmQyNDgwOTEuMmY4NjNlNzNjMzUwNDYyNDgzNjZmMzk2NWFjZGY4MWIyZjQxZjdjZDJmNDExZGYzZDFjMDQ5ZDczMmMzZTdhYQ",
           "type": "hls",
           "rewarded": false
         }
