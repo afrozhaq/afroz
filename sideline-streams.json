@@ -187,14 +187,14 @@
         {
           "label": "Server 4",
           "subtitle": "Live ( Home )",
-          "url": "sir",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=braves=twins&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
           "subtitle": "Live ( Away )",
-          "url": "sir",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=braves=twins&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
@@ -263,14 +263,14 @@
         {
           "label": "Server 4",
           "subtitle": "Live ( Home )",
-          "url": "sir",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=whitesox=cubs&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
           "subtitle": "Live ( Away )",
-          "url": "sir",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=whitesox=cubs&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
