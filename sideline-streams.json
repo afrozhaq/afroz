@@ -1367,9 +1367,13 @@
         {
           "label": "Server 3",
           "subtitle": "Live",
-          "url": "shshsyshsbsh",
+          "url": "https:\/\/embedindia.st\/embed\/wnba\/2026-08-19\/tor-wsh",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/wnba\/2026-08-19\/tor-wsh"
+          }
         }
       ]
     },
@@ -1405,7 +1409,7 @@
         {
           "label": "Server 3",
           "subtitle": "Live",
-          "url": "hshshsbs",
+          "url": "https:\/\/embedindia.st\/embed\/wnba\/2026-08-19\/min-gs",
           "type": "hls",
           "rewarded": false
         }
