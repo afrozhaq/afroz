@@ -74,9 +74,13 @@
         {
           "label": "Server 9",
           "subtitle": "Live ",
-          "url": "sir",
+          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-19\/det-pit",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-19\/det-pit"
+          }
         }
       ]
     },
@@ -154,9 +158,13 @@
         {
           "label": "Server 9",
           "subtitle": "Live ",
-          "url": "sir ",
+          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-19\/sd-nym",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-19\/sd-nym"
+          }
         }
       ]
     },
@@ -234,9 +242,13 @@
         {
           "label": "Server 9",
           "subtitle": "Live ",
-          "url": "sir",
+          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-19\/atl-min",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-19\/atl-min"
+          }
         }
       ]
     },
@@ -314,9 +326,13 @@
         {
           "label": "Server 9",
           "subtitle": "Live ",
-          "url": "sir",
+          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-19\/chw-chc",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-19\/chw-chc"
+          }
         }
       ]
     },
@@ -414,9 +430,13 @@
         {
           "label": "Server 9",
           "subtitle": "Live ",
-          "url": "sir",
+          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-19\/ari-bos",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-19\/ari-bos"
+          }
         }
       ]
     },
