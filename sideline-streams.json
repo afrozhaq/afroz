@@ -1296,9 +1296,13 @@
         {
           "label": "Server 2",
           "subtitle": "Live",
-          "url": "shshsyshsbsh",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-toronto-tempo-vs-washington-mystics\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-toronto-tempo-vs-washington-mystics\/1"
+          }
         },
         {
           "label": "Server 3",
@@ -1330,9 +1334,13 @@
         {
           "label": "Server 2",
           "subtitle": "Live",
-          "url": "hshshsbs",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-minnesota-lynx-vs-golden-state-valkyries\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-minnesota-lynx-vs-golden-state-valkyries\/1"
+          }
         },
         {
           "label": "Server 3",
