@@ -21,28 +21,28 @@
         {
           "label": "Server 2",
           "subtitle": "Live ( Home )",
-          "url": "sir",
+          "url": "",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
           "subtitle": "Live ( Away )",
-          "url": "sir",
+          "url": "",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
           "subtitle": "Live ( Home )",
-          "url": "ha",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=tigers=pirates&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
           "subtitle": "Live ( Away )",
-          "url": "sir",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=tigers=pirates&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
@@ -111,14 +111,14 @@
         {
           "label": "Server 4",
           "subtitle": "Live ( Home )",
-          "url": "sir ",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=padres=mets&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
           "subtitle": "Live ( Away )",
-          "url": "sir ",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=padres=mets&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
