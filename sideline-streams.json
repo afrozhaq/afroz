@@ -514,9 +514,13 @@
         {
           "label": "Server 9",
           "subtitle": "Live ",
-          "url": "sir",
+          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-19\/mia-phi",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-19\/mia-phi"
+          }
         }
       ]
     },
@@ -594,9 +598,13 @@
         {
           "label": "Server 9",
           "subtitle": "Live ",
-          "url": "sir",
+          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-19\/nyy-bal",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-19\/nyy-bal"
+          }
         }
       ]
     },
@@ -674,9 +682,13 @@
         {
           "label": "Server 9",
           "subtitle": "Live ",
-          "url": "sir",
+          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-19\/stl-cin",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-19\/stl-cin"
+          }
         }
       ]
     },
@@ -754,9 +766,13 @@
         {
           "label": "Server 9",
           "subtitle": "Live ",
-          "url": "sir",
+          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-19\/sf-cle",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-19\/sf-cle"
+          }
         }
       ]
     },
@@ -834,9 +850,13 @@
         {
           "label": "Server 9",
           "subtitle": "Live ",
-          "url": "sir",
+          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-19\/tor-tb",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-19\/tor-tb"
+          }
         }
       ]
     },
