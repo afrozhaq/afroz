@@ -815,14 +815,14 @@
         {
           "label": "Server 4",
           "subtitle": "Live ( Home )",
-          "url": "sir",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=mariners=brewers&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
           "subtitle": "Live ( Away )",
-          "url": "sir",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=mariners=brewers&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
@@ -891,14 +891,14 @@
         {
           "label": "Server 4",
           "subtitle": "Live ( Home )",
-          "url": "sir",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=athletics=royals&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
           "subtitle": "Live ( Away )",
-          "url": "sir",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=athletics=royals&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
