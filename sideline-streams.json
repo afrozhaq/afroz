@@ -883,9 +883,13 @@
         {
           "label": "Server 8",
           "subtitle": "Live ",
-          "url": "sir",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-seattle-mariners-vs-milwaukee-brewers\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-seattle-mariners-vs-milwaukee-brewers\/1"
+          }
         },
         {
           "label": "Server 9",
@@ -959,9 +963,13 @@
         {
           "label": "Server 8",
           "subtitle": "Live ",
-          "url": "sir",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-athletics-vs-kansas-city-royals\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-athletics-vs-kansas-city-royals\/1"
+          }
         },
         {
           "label": "Server 9",
@@ -1035,9 +1043,13 @@
         {
           "label": "Server 8",
           "subtitle": "Live ",
-          "url": "sir",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-washington-nationals-vs-texas-rangers\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-washington-nationals-vs-texas-rangers\/1"
+          }
         },
         {
           "label": "Server 9",
@@ -1166,9 +1178,13 @@
         {
           "label": "Server 8",
           "subtitle": "Live ",
-          "url": "sir",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-los-angeles-angels-vs-houston-astros\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-los-angeles-angels-vs-houston-astros\/1"
+          }
         },
         {
           "label": "Server 9",
@@ -1242,9 +1258,13 @@
         {
           "label": "Server 8",
           "subtitle": "Live ",
-          "url": "sir",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-los-angeles-dodgers-vs-colorado-rockies\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-los-angeles-dodgers-vs-colorado-rockies\/1"
+          }
         },
         {
           "label": "Server 9",
