@@ -21,14 +21,14 @@
         {
           "label": "Server 2",
           "subtitle": "Live ( Home )",
-          "url": "https:\/\/node-5d763f4c.4587.website\/6a8645fb.8e5a1f0di798bc8d0.b5e7.8905bac5\/free.live.espn\/master.m3u8",
+          "url": "https:\/\/node-5d763f4c.4587.website\/6a864ade.e68687c5i798bc8d0.b5e7.52451b8f\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
-          "subtitle": "Live ",
-          "url": "https:\/\/dripcast.online\/stream\/live-mlb-pittsburgh-pirates-detroit-tigers-embedhd\/index.m3u8?key=NOIR-6L6B3K-2026",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/node-9b5feb01.4587.website\/6a864ade.b6b9de4di798bc8d0.b5f1.b2488a5b\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
