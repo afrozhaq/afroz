@@ -288,6 +288,40 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1787208810674",
+      "league": "nba",
+      "gameId": "",
+      "away": "LAS VEGAS ACES ",
+      "home": "CONNECTICUT SUN ",
+      "title": "LAS VEGAS ACES Vs CONNECTICUT SUN ",
+      "poster": "",
+      "startsAt": 1787277600000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "hsysk",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "hsysk",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live",
+          "url": "hsysk",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
