@@ -410,9 +410,13 @@
         {
           "label": "Server 9",
           "subtitle": "Live ",
-          "url": "hsjs",
+          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-20\/atl-chw",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-20\/atl-chw"
+          }
         }
       ]
     },
@@ -574,9 +578,13 @@
         {
           "label": "Server 9",
           "subtitle": "Live ",
-          "url": "hsns",
+          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-20\/nyy-bal",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-20\/nyy-bal"
+          }
         }
       ]
     },
@@ -734,9 +742,13 @@
         {
           "label": "Server 9",
           "subtitle": "Live ",
-          "url": "hsushs",
+          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-20\/wsh-tex",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-20\/wsh-tex"
+          }
         }
       ]
     },
@@ -814,9 +826,13 @@
         {
           "label": "Server 9",
           "subtitle": "Live ",
-          "url": "isushs",
+          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-20\/laa-hou",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-20\/laa-hou"
+          }
         }
       ]
     },
