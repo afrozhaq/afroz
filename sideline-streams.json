@@ -628,29 +628,29 @@
         },
         {
           "label": "Server 2",
-          "subtitle": "Live ",
+          "subtitle": "Live ( Home )",
           "url": "hsushs",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
-          "subtitle": "Live ",
+          "subtitle": "Live ( Away )",
           "url": "hsushs",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
-          "subtitle": "Live ",
-          "url": "hsushs",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=nationals=rangers&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
-          "subtitle": "Live ",
-          "url": "hsushs",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=nationals=rangers&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
@@ -704,29 +704,29 @@
         },
         {
           "label": "Server 2",
-          "subtitle": "Live ",
+          "subtitle": "Live ( Home )",
           "url": "isushs",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
-          "subtitle": "Live ",
+          "subtitle": "Live ( Away )",
           "url": "isushs",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
-          "subtitle": "Live ",
-          "url": "isushs",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=angels=astros&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
-          "subtitle": "Live ",
-          "url": "isushs",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=angels=astros&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
