@@ -1219,6 +1219,40 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1787239530254",
+      "league": "nfl",
+      "gameId": "",
+      "away": "BUFFALO BILLS ",
+      "home": "CLEVELAND BROWNS",
+      "title": "",
+      "poster": "",
+      "startsAt": 1787418000000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "httttt",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "httttt",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live",
+          "url": "httttt",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
