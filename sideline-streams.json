@@ -1371,6 +1371,40 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1787268238408",
+      "league": "nfl",
+      "gameId": "",
+      "away": "PHILADELPHIA EAGLES",
+      "home": "NEW ENGLAND PATRIOTS ",
+      "title": "PHILADELPHIA EAGLES Vs NEW ENGLAND PATRIOTS ",
+      "poster": "",
+      "startsAt": 1787439600000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "htt",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "htt",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live",
+          "url": "htt",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
