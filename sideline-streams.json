@@ -1083,6 +1083,40 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1787238918724",
+      "league": "nfl",
+      "gameId": "",
+      "away": "CAROLINA PANTHERS ",
+      "home": "JACKSONVILLE JAGUARS",
+      "title": "CAROLINA PANTHERS Vs JACKSONVILLE JAGUARS ",
+      "poster": "",
+      "startsAt": 1787355000000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "hss",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "hss",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live",
+          "url": "hss",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
