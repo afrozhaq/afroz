@@ -1439,6 +1439,40 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1787268483161",
+      "league": "nfl",
+      "gameId": "",
+      "away": "KANSAS CITY CHIEFS ",
+      "home": "TAMPA BAY BUCCANEERS ",
+      "title": "KANSAS CITY CHIEFS Vs TAMPA BAY BUCCANEERS ",
+      "poster": "",
+      "startsAt": 1787441400000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "hy",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "hy",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live",
+          "url": "hy",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
