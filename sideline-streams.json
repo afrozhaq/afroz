@@ -63,9 +63,13 @@
         {
           "label": "Server 8",
           "subtitle": "Live ",
-          "url": "dhsh",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-st-louis-cardinals-vs-cincinnati-reds\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-st-louis-cardinals-vs-cincinnati-reds\/1"
+          }
         },
         {
           "label": "Server 9",
@@ -139,9 +143,13 @@
         {
           "label": "Server 8",
           "subtitle": "Live ",
-          "url": "sshhsh",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-san-francisco-giants-vs-cleveland-guardians\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-san-francisco-giants-vs-cleveland-guardians\/1"
+          }
         },
         {
           "label": "Server 9",
@@ -215,9 +223,13 @@
         {
           "label": "Server 8",
           "subtitle": "Live ",
-          "url": "jsjsjs",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-toronto-blue-jays-vs-tampa-bay-rays\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-toronto-blue-jays-vs-tampa-bay-rays\/1"
+          }
         },
         {
           "label": "Server 9",
@@ -291,9 +303,13 @@
         {
           "label": "Server 8",
           "subtitle": "Live ",
-          "url": "hsjsjs",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-seattle-mariners-vs-milwaukee-brewers\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-seattle-mariners-vs-milwaukee-brewers\/1"
+          }
         },
         {
           "label": "Server 9",
@@ -443,9 +459,13 @@
         {
           "label": "Server 8",
           "subtitle": "Live ",
-          "url": "jsjs",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-athletics-vs-kansas-city-royals\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-athletics-vs-kansas-city-royals\/1"
+          }
         },
         {
           "label": "Server 9",
