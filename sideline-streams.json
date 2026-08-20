@@ -1049,6 +1049,40 @@
           }
         }
       ]
+    },
+    {
+      "id": "s1787238818985",
+      "league": "nfl",
+      "gameId": "",
+      "away": "NEW YORK JETS",
+      "home": "PITTSBURGH STEELERS ",
+      "title": "NEW YORK JETS Vs PITTSBURGH STEELERS ",
+      "poster": "",
+      "startsAt": 1787353200000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "gshs",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "gshs",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live",
+          "url": "gshs",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
