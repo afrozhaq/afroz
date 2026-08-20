@@ -383,9 +383,13 @@
         {
           "label": "Server 8",
           "subtitle": "Live ",
-          "url": "hsjs",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-atlanta-braves-vs-chicago-white-sox\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-atlanta-braves-vs-chicago-white-sox\/1"
+          }
         },
         {
           "label": "Server 9",
@@ -539,9 +543,13 @@
         {
           "label": "Server 8",
           "subtitle": "Live ",
-          "url": "hsns",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-new-york-yankees-vs-baltimore-orioles\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-new-york-yankees-vs-baltimore-orioles\/1"
+          }
         },
         {
           "label": "Server 9",
@@ -691,9 +699,13 @@
         {
           "label": "Server 8",
           "subtitle": "Live ",
-          "url": "hsushs",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-washington-nationals-vs-texas-rangers\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-washington-nationals-vs-texas-rangers\/1"
+          }
         },
         {
           "label": "Server 9",
@@ -767,9 +779,13 @@
         {
           "label": "Server 8",
           "subtitle": "Live ",
-          "url": "isushs",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-los-angeles-angels-vs-houston-astros\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-los-angeles-angels-vs-houston-astros\/1"
+          }
         },
         {
           "label": "Server 9",
