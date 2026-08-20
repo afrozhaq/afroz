@@ -1253,6 +1253,40 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1787239627989",
+      "league": "nfl",
+      "gameId": "",
+      "away": "BALTIMORE RAVENS ",
+      "home": "MINNESOTA VIKINGS ",
+      "title": "BALTIMORE RAVENS Vs MINNESOTA VIKINGS ",
+      "poster": "",
+      "startsAt": 1787418000000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "hsysts",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "hsysts",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live",
+          "url": "hsysts",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
