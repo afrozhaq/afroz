@@ -1117,6 +1117,40 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1787239031858",
+      "league": "nfl",
+      "gameId": "",
+      "away": "GREEN BAY PACKERS ",
+      "home": "DENVER BRONCOS ",
+      "title": "GREEN BAY PACKERS Vs DENVER BRONCOS ",
+      "poster": "",
+      "startsAt": 1787360400000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "hs",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "hs",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live",
+          "url": "hs",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
