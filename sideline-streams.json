@@ -21,14 +21,14 @@
         {
           "label": "Server 2",
           "subtitle": "Live ( Home )",
-          "url": "dhsh",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=cardinals=reds&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
-          "subtitle": "Live ( Away )",
-          "url": "dhsh",
+          "subtitle": "Live ",
+          "url": "https:\/\/dripcast.online\/stream\/live-mlb-cincinnati-reds-st-louis-cardinals-embedhd\/index.m3u8?key=NOIR-6L6B3K-2026",
           "type": "hls",
           "rewarded": false
         },
