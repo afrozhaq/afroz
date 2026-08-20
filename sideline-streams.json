@@ -893,9 +893,13 @@
         {
           "label": "Server 2",
           "subtitle": "Live",
-          "url": "https",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-indiana-fever-vs-dallas-wings\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-indiana-fever-vs-dallas-wings\/1"
+          }
         },
         {
           "label": "Server 3",
@@ -927,9 +931,13 @@
         {
           "label": "Server 2",
           "subtitle": "Live",
-          "url": "hsysk",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-connecticut-sun-vs-las-vegas-aces\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-connecticut-sun-vs-las-vegas-aces\/1"
+          }
         },
         {
           "label": "Server 3",
@@ -961,9 +969,13 @@
         {
           "label": "Server 2",
           "subtitle": "Live",
-          "url": "httpsssssss",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-atlanta-dream-vs-los-angeles-sparks\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-atlanta-dream-vs-los-angeles-sparks\/1"
+          }
         },
         {
           "label": "Server 3",
