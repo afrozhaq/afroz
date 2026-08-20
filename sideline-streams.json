@@ -364,7 +364,7 @@
         {
           "label": "Server 3",
           "subtitle": "Live ( Away )",
-          "url": "hsjs",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=braves=whitesox&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
