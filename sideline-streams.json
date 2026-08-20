@@ -1337,6 +1337,40 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1787268090180",
+      "league": "nfl",
+      "gameId": "",
+      "away": "NEW YORK GIANTS ",
+      "home": "MIAMI DOLPHINS ",
+      "title": "NEW YORK GIANTS Vs MIAMI DOLPHINS ",
+      "poster": "",
+      "startsAt": 1787428800000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "hahat",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "hahat",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live",
+          "url": "hahat",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
