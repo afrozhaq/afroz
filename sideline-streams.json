@@ -1405,6 +1405,40 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1787268371186",
+      "league": "nfl",
+      "gameId": "",
+      "away": "CHICAGO BEARS",
+      "home": "CINCINNATI BENGALS ",
+      "title": "CHICAGO BEARS Vs CINCINNATI BENGALS",
+      "poster": "",
+      "startsAt": 1787439600000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "http",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "http",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live",
+          "url": "http",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
