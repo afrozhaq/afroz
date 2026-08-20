@@ -254,6 +254,40 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1787208739776",
+      "league": "nba",
+      "gameId": "",
+      "away": "DALLS WINGS",
+      "home": "INDIANA FEVER ",
+      "title": "DALLAS WINGS Vs INDIANA FEVER ",
+      "poster": "",
+      "startsAt": 1787270400000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "https",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "https",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live",
+          "url": "https",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
