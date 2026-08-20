@@ -773,63 +773,63 @@
       "links": [
         {
           "label": "Server 1",
-          "subtitle": "HD",
+          "subtitle": "Live",
           "url": "https:\/\/cherisetrevisone.s3.us-east-1.amazonaws.com\/chiefs.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 2",
-          "subtitle": "HD",
-          "url": "https:\/\/cherisetrevisone.s3.us-east-1.amazonaws.com\/chiefs.m3u8",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=49ers=chargers&s=home&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
-          "subtitle": "HD",
-          "url": "https:\/\/cherisetrevisone.s3.us-east-1.amazonaws.com\/chiefs.m3u8",
+          "subtitle": "Live ( Away ) ",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=49ers=chargers&s=away&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
-          "subtitle": "HD",
+          "subtitle": "Live ",
           "url": "https:\/\/cherisetrevisone.s3.us-east-1.amazonaws.com\/chiefs.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
-          "subtitle": "HD",
+          "subtitle": "Live ",
           "url": "https:\/\/cherisetrevisone.s3.us-east-1.amazonaws.com\/chiefs.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 6",
-          "subtitle": "HD",
+          "subtitle": "Live ",
           "url": "https:\/\/cherisetrevisone.s3.us-east-1.amazonaws.com\/chiefs.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 7",
-          "subtitle": "HD",
+          "subtitle": "Live ",
           "url": "https:\/\/cherisetrevisone.s3.us-east-1.amazonaws.com\/chiefs.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 8",
-          "subtitle": "HD",
+          "subtitle": "Live ",
           "url": "https:\/\/cherisetrevisone.s3.us-east-1.amazonaws.com\/chiefs.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 9",
-          "subtitle": "HD",
+          "subtitle": "Live ",
           "url": "https:\/\/cherisetrevisone.s3.us-east-1.amazonaws.com\/chiefs.m3u8",
           "type": "hls",
           "rewarded": false
