@@ -525,14 +525,14 @@
         {
           "label": "Server 2",
           "subtitle": "Live ( Home )",
-          "url": "https:\/\/node-5d763f4c.4587.website\/6a87edc1.346ed0fai798bc8d0.b76f.fa07cd4a\/free.live.espn\/master.m3u8",
+          "url": "https:\/\/node-5d763f4c.4587.website\/6a87f08b.0aa89327i798bc8d0.b76f.dc2c8f64\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
           "subtitle": "Live ( Away )",
-          "url": "hsns",
+          "url": "https:\/\/node-025d151e.4587.website\/6a87f08b.277be539i798bc8d0.b793.c08ce80b\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
