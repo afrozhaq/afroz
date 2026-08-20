@@ -1151,6 +1151,40 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1787239257721",
+      "league": "nfl",
+      "gameId": "",
+      "away": "DETROIT LIONS ",
+      "home": "WASHINGTON COMMANDERS",
+      "title": "DETROIT LIONS Vs WASHINGTON COMMANDERS ",
+      "poster": "",
+      "startsAt": 1787414400000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live ",
+          "url": "httpssgshs",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live ",
+          "url": "httpssgshs",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live ",
+          "url": "httpssgshs",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
