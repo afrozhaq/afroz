@@ -709,14 +709,14 @@
         {
           "label": "Server 2",
           "subtitle": "Live ( Home )",
-          "url": "https:\/\/node-88894cb5.4587.website\/6a88037f.36025406i798bc8d0.b7d3.957b4a4b\/free.live.espn\/master.m3u8",
+          "url": "https:\/\/node-88894cb5.4587.website\/6a8804e5.429ab94ai798bc8d0.b7d3.0c349247\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
           "subtitle": "Live ( Away )",
-          "url": "hsushs",
+          "url": "https:\/\/node-88894cb5.4587.website\/6a8804e5.65addc77i798bc8d0.b828.db04b8f8\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
