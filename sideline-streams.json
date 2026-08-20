@@ -948,9 +948,13 @@
         {
           "label": "Server 3",
           "subtitle": "Live",
-          "url": "https",
+          "url": "https:\/\/embedindia.st\/embed\/wnba\/2026-08-20\/ind-dal",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/wnba\/2026-08-20\/ind-dal"
+          }
         }
       ]
     },
@@ -986,9 +990,13 @@
         {
           "label": "Server 3",
           "subtitle": "Live",
-          "url": "hsysk",
+          "url": "https:\/\/embedindia.st\/embed\/wnba\/2026-08-20\/con-lv",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/wnba\/2026-08-20\/con-lv"
+          }
         }
       ]
     },
@@ -1024,9 +1032,13 @@
         {
           "label": "Server 3",
           "subtitle": "Live",
-          "url": "httpsssssss",
+          "url": "https:\/\/embedindia.st\/embed\/wnba\/2026-08-20\/atl-la",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/wnba\/2026-08-20\/atl-la"
+          }
         }
       ]
     }
