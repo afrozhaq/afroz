@@ -553,7 +553,7 @@
         {
           "label": "Server 6",
           "subtitle": "Live ",
-          "url": "hsns",
+          "url": "https:\/\/dripcast.online\/stream\/live-mlb-baltimore-orioles-new-york-yankees-embedhd\/index.m3u8?key=NOIR-6L6B3K-2026",
           "type": "hls",
           "rewarded": false
         },
@@ -721,7 +721,7 @@
         {
           "label": "Server 6",
           "subtitle": "Live ",
-          "url": "hsushs",
+          "url": "https:\/\/dripcast.online\/stream\/live-mlb-texas-rangers-washington-nationals-embedhd\/index.m3u8?key=NOIR-6L6B3K-2026",
           "type": "hls",
           "rewarded": false
         },
@@ -805,7 +805,7 @@
         {
           "label": "Server 6",
           "subtitle": "Live ",
-          "url": "isushs",
+          "url": "https:\/\/dripcast.online\/stream\/live-mlb-houston-astros-los-angeles-angels-embedhd\/index.m3u8?key=NOIR-6L6B3K-2026",
           "type": "hls",
           "rewarded": false
         },
