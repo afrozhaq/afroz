@@ -96,29 +96,29 @@
         },
         {
           "label": "Server 2",
-          "subtitle": "Live ",
+          "subtitle": "Live ( Home )",
           "url": "sshhsh",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
-          "subtitle": "Live ",
+          "subtitle": "Live ( Away )",
           "url": "sshhsh",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
-          "subtitle": "Live ",
-          "url": "sshhsh",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=giants=guardians&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
-          "subtitle": "Live ",
-          "url": "sshhsh",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=giants=guardians&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
@@ -400,29 +400,29 @@
         },
         {
           "label": "Server 2",
-          "subtitle": "Live ",
+          "subtitle": "Live ( Home )",
           "url": "jsjs",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
-          "subtitle": "Live ",
+          "subtitle": "Live ( Away )",
           "url": "jsjs",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
-          "subtitle": "Live ",
-          "url": "jsjs",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=athletics=royals&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
-          "subtitle": "Live ",
-          "url": "jsjs",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=athletics=royals&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
