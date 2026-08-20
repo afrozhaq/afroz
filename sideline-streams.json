@@ -20,29 +20,29 @@
         },
         {
           "label": "Server 2",
-          "subtitle": "Live ",
+          "subtitle": "Live ( Home )",
           "url": "dhsh",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
-          "subtitle": "Live ",
+          "subtitle": "Live ( Away )",
           "url": "dhsh",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
-          "subtitle": "Live ",
-          "url": "dhsh",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=cardinals=reds&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
-          "subtitle": "Live ",
-          "url": "dhsh",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=cardinals=reds&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
@@ -172,29 +172,29 @@
         },
         {
           "label": "Server 2",
-          "subtitle": "Live ",
+          "subtitle": "Live ( Home )",
           "url": "jsjsjs",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
-          "subtitle": "Live ",
+          "subtitle": "Live ( Away )",
           "url": "jsjsjs",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
-          "subtitle": "Live ",
-          "url": "jsjsjs",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=jays=rays&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
-          "subtitle": "Live ",
-          "url": "jsjsjs",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=jays=rays&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
