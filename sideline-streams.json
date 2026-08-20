@@ -623,9 +623,13 @@
         {
           "label": "Server 8",
           "subtitle": "Live",
-          "url": "https:\/\/cherisetrevisone.s3.us-east-1.amazonaws.com\/chiefs.m3u8",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-las-vegas-raiders-at-houston-texans\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-las-vegas-raiders-at-houston-texans\/1"
+          }
         },
         {
           "label": "Server 9",
@@ -859,9 +863,13 @@
         {
           "label": "Server 8",
           "subtitle": "Live ",
-          "url": "https:\/\/cherisetrevisone.s3.us-east-1.amazonaws.com\/chiefs.m3u8",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-san-francisco-49-ers-at-los-angeles-chargers\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-san-francisco-49-ers-at-los-angeles-chargers\/1"
+          }
         },
         {
           "label": "Server 9",
