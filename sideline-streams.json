@@ -525,7 +525,7 @@
         {
           "label": "Server 2",
           "subtitle": "Live ( Home )",
-          "url": "hsns",
+          "url": "https:\/\/node-5d763f4c.4587.website\/6a87edc1.346ed0fai798bc8d0.b76f.fa07cd4a\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
