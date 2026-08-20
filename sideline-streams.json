@@ -322,6 +322,40 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1787208881118",
+      "league": "nba",
+      "gameId": "",
+      "away": "ATLANTA DREAM ",
+      "home": "LOS ANGELES SPARKS ",
+      "title": "ATLANTA DREAM Vs LOS ANGELES SPARKS ",
+      "poster": "",
+      "startsAt": 1787277600000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "httpsssssss",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "httpsssssss",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live",
+          "url": "httpsssssss",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
