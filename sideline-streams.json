@@ -1473,6 +1473,40 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1787268609386",
+      "league": "nfl",
+      "gameId": "",
+      "away": "DALLAS COWBOYS",
+      "home": "ARIZONA CARDINALS ",
+      "title": "DALLAS COWBOYS Vs ARIZONA CARDINALS ",
+      "poster": "",
+      "startsAt": 1787450400000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "hsysts",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "hsysts",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live",
+          "url": "hsysts",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
