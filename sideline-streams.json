@@ -638,8 +638,8 @@
         },
         {
           "label": "Server 5",
-          "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=raiders=texans&s=away&sport=nfl",
+          "subtitle": "Live ",
+          "url": "https:\/\/instreams.pro\/live\/NFLHD1\/mono.m3u8?st=NDC_qwNjnvAuNzeFh1kRGw&e=1787279465|Referer=https:\/\/instream.click\/jwp3-us.php?stream=NFLHD1&Origin=https:\/\/instream.click\/jwp3-us.php?stream=NFLHD1&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
