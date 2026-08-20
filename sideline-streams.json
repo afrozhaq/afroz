@@ -1303,6 +1303,40 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1787267974485",
+      "league": "nfl",
+      "gameId": "",
+      "away": "NEW ORLEANS SAINTS ",
+      "home": "LOS ANGELES RAMS",
+      "title": "NEW ORLEANS SAINTS Vs LOS ANGELES RAMS ",
+      "poster": "",
+      "startsAt": 1787428800000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "htt",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "htt",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live",
+          "url": "htt",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
