@@ -662,9 +662,13 @@
         {
           "label": "Server 9",
           "subtitle": "Live",
-          "url": "https:\/\/cherisetrevisone.s3.us-east-1.amazonaws.com\/chiefs.m3u8",
+          "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-08-20\/lv-hou",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/nfl\/2026-08-20\/lv-hou"
+          }
         }
       ]
     },
@@ -910,9 +914,13 @@
         {
           "label": "Server 9",
           "subtitle": "Live ",
-          "url": "https:\/\/cherisetrevisone.s3.us-east-1.amazonaws.com\/chiefs.m3u8",
+          "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-08-20\/sf-lac",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/nfl\/2026-08-20\/sf-lac"
+          }
         }
       ]
     },
