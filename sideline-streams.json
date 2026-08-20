@@ -623,28 +623,28 @@
         {
           "label": "Server 4",
           "subtitle": "Live",
-          "url": "https:\/\/cherisetrevisone.s3.us-east-1.amazonaws.com\/chiefs.m3u8",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2781d8192bb76cb34c\/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzRjOjE3ODcyMzg0MzM0NjM6Y2RubGl2ZXR2LnR2OjRlNDk2ZDNkMDllZDJhZjQuMTNkY2NmNDg1Y2ZmYjA4MTllMDFlOTFlNDhhY2UyMzk3MmU0OGRjYzZkZDJmNDBjOGRjODAzNDgyYmM1MmZjMg",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
           "subtitle": "Live",
-          "url": "https:\/\/cherisetrevisone.s3.us-east-1.amazonaws.com\/chiefs.m3u8",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2781d8192bb76cb34c\/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzRjOjE3ODcyMzg0MzM0NjM6Y2RubGl2ZXR2LnR2OjRlNDk2ZDNkMDllZDJhZjQuMTNkY2NmNDg1Y2ZmYjA4MTllMDFlOTFlNDhhY2UyMzk3MmU0OGRjYzZkZDJmNDBjOGRjODAzNDgyYmM1MmZjMg",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 6",
           "subtitle": "Live",
-          "url": "https:\/\/cherisetrevisone.s3.us-east-1.amazonaws.com\/chiefs.m3u8",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2781d8192bb76cb34c\/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzRjOjE3ODcyMzg0MzM0NjM6Y2RubGl2ZXR2LnR2OjRlNDk2ZDNkMDllZDJhZjQuMTNkY2NmNDg1Y2ZmYjA4MTllMDFlOTFlNDhhY2UyMzk3MmU0OGRjYzZkZDJmNDBjOGRjODAzNDgyYmM1MmZjMg",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 7",
           "subtitle": "Live",
-          "url": "https:\/\/cherisetrevisone.s3.us-east-1.amazonaws.com\/chiefs.m3u8",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2781d8192bb76cb34c\/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzRjOjE3ODcyMzg0MzM0NjM6Y2RubGl2ZXR2LnR2OjRlNDk2ZDNkMDllZDJhZjQuMTNkY2NmNDg1Y2ZmYjA4MTllMDFlOTFlNDhhY2UyMzk3MmU0OGRjYzZkZDJmNDBjOGRjODAzNDgyYmM1MmZjMg",
           "type": "hls",
           "rewarded": false
         },
