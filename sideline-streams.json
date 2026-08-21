@@ -849,9 +849,13 @@
         {
           "label": "Server 8",
           "subtitle": "Live ",
-          "url": "https ",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-cleveland-guardians-vs-colorado-rockies\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-cleveland-guardians-vs-colorado-rockies\/1"
+          }
         },
         {
           "label": "Server 9",
@@ -925,9 +929,13 @@
         {
           "label": "Server 8",
           "subtitle": "Live ",
-          "url": "https",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-minnesota-twins-vs-san-diego-padres\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-minnesota-twins-vs-san-diego-padres\/1"
+          }
         },
         {
           "label": "Server 9",
@@ -1001,9 +1009,13 @@
         {
           "label": "Server 8",
           "subtitle": "Live ",
-          "url": "https",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-cincinnati-reds-vs-arizona-diamondbacks\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-cincinnati-reds-vs-arizona-diamondbacks\/1"
+          }
         },
         {
           "label": "Server 9",
@@ -1077,9 +1089,13 @@
         {
           "label": "Server 8",
           "subtitle": "Live ",
-          "url": "https",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-pittsburgh-pirates-vs-los-angeles-dodgers\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-pittsburgh-pirates-vs-los-angeles-dodgers\/1"
+          }
         },
         {
           "label": "Server 9",
@@ -1153,9 +1169,13 @@
         {
           "label": "Server 8",
           "subtitle": "Live ",
-          "url": "https",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-chicago-cubs-vs-seattle-mariners\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-chicago-cubs-vs-seattle-mariners\/1"
+          }
         },
         {
           "label": "Server 9",
