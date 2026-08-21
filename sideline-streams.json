@@ -156,7 +156,7 @@
         {
           "label": "Server 7",
           "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb5de\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWRlOjE3ODcyOTA1MjY0MzI6Y2RubGl2ZXR2LnR2OmY5MWY1OTQ0ZWVjMGIzOTMuZmY5YWVlYjY3YTgyM2JlMWI3ZTQwN2FhYmZlNWU5NjNhY2EzODkwNDBhOTE3NjNiMTFlOTUxNzIwNjI1MDkwNA",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb5de\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWRlOjE3ODcyOTAyNTc1NDY6Y2RubGl2ZXR2LnR2OjMwMjA0MDBjN2RhYTE1NmYuY2VjYmQzYjA4YWRjM2JmZjgwY2QyNTRiNDcwMzgyYzAzODdhZjZlYWZkZjYzYTI4OWQ5Yzk0ZjY1MDMxMDc2Mg|Referer=https:\/\/cdnlivetv.tv\/api\/v1\/channels\/player\/?name=NFL%20Network%20HD%20US&code=us&user=cdnlivetv&plan=free&Origin=https:\/\/cdnlivetv.tv\/api\/v1\/channels\/player\/?name=NFL%20Network%20HD%20US&code=us&user=cdnlivetv&plan=free&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
