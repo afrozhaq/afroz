@@ -1,193 +1,62 @@
 {
   "streams": [
     {
-      "id": "s1786879638367",
-      "league": "nfl",
+      "id": "s1787297737775",
+      "league": "mlb",
       "gameId": "",
-      "away": "TEXANS",
-      "home": "RAIDERS",
-      "title": "Texans vs Raiders",
+      "away": "ATL",
+      "home": "MIL",
+      "title": "Braves at Brewers",
       "poster": "",
-      "startsAt": 1787270400000,
+      "startsAt": 1787343000000,
       "endsAt": 0,
       "links": [
         {
-          "label": "Server Main",
-          "subtitle": "Live",
-          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/5xrogwf1bx\/out\/v1\/d67356c474724ecc9ced667c7630dcab\/cenc.mpd",
-          "type": "dash",
-          "rewarded": false,
-          "drmScheme": "clearkey",
-          "drmLicenseUrl": "66e14add60c30be992503fa9a0ae5e20:8c736ae52ce3cab1e918d5f9e8ed6c62"
-        },
-        {
-          "label": "Server 1",
-          "subtitle": "Live",
-          "url": "https:\/\/cirkel996.s3.us-east-1.amazonaws.com\/btsport.m3u8",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 2",
-          "subtitle": "Live",
-          "url": "https:\/\/edgestream2.pro\/hls\/JHDAJBDnjdna30.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 3",
-          "subtitle": "Live",
-          "url": "https:\/\/dripcast.online\/stream\/live-nfl-houston-texans-las-vegas-raiders-embedhd\/index.m3u8?key=NOIR-6L6B3K-2026",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 4",
-          "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=raiders=texans&s=home&sport=nfl",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 5",
+          "label": "Server ",
           "subtitle": "Live ",
-          "url": "https:\/\/instreams.pro\/live\/NFLHD1\/mono.m3u8?st=NDC_qwNjnvAuNzeFh1kRGw&e=1787279465|Referer=https:\/\/instream.click\/jwp3-us.php?stream=NFLHD1&Origin=https:\/\/instream.click\/jwp3-us.php?stream=NFLHD1&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "url": "https:\/\/edgestream2.pro\/hls\/jkzahzadach20.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 6",
-          "subtitle": "Live",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb59f\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNTlmOjE3ODcyNzk5NzYzNDc6Y2RubGl2ZXR2LnR2OjYzNWY3OTFkZGJhOTVhZDIuMDI0MTZmYzc2MmQ1YzBmY2M2MzNjMjdmNzA0MmViZGU1YTY4MTY3YTFmYTBmNWRlNGZlZDk0MTNiYjFjYWQ3ZA",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 7",
-          "subtitle": "Live",
-          "url": "https:\/\/dripcast.online\/stream\/live-nfl-houston-texans-las-vegas-raiders-2-embedhd\/index.m3u8?key=NOIR-6L6B3K-2026",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 8",
-          "subtitle": "Live",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc173\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTczOjE3ODcyODQ1NjcxMzM6Y2RubGl2ZXR2LnR2OjdiZTU4OGFjZThkYTYxMTYuN2M1NGU0NGRlYmI5M2M5OWFiZTIwNDNmYmFjNWNlNGVhZjJkNzVkZGRjOGE5YjFjY2YzN2Y0ZGIyZDI1NWY4OA",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 9",
-          "subtitle": "Live",
-          "url": "https:\/\/embed.st\/embed\/admin\/ppv-las-vegas-raiders-at-houston-texans\/1",
-          "type": "hls",
-          "rewarded": false,
-          "tokenApi": {
-            "type": "embed",
-            "api": "https:\/\/embed.st\/embed\/admin\/ppv-las-vegas-raiders-at-houston-texans\/1"
-          }
-        },
-        {
-          "label": "Server 10",
-          "subtitle": "Live",
-          "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-08-20\/lv-hou",
-          "type": "hls",
-          "rewarded": false,
-          "tokenApi": {
-            "type": "embed",
-            "api": "https:\/\/embedindia.st\/embed\/nfl\/2026-08-20\/lv-hou"
-          }
+          "rewarded": true
         }
       ]
     },
     {
-      "id": "s1786880499886",
-      "league": "nfl",
+      "id": "s1787297737786",
+      "league": "mlb",
       "gameId": "",
-      "away": "CHARGERS",
-      "home": "49ERS",
-      "title": "Chargers vs 49ers",
+      "away": "STL",
+      "home": "PHI",
+      "title": "Cardinals at Phillies",
       "poster": "",
-      "startsAt": 1787277600000,
+      "startsAt": 1787352000000,
       "endsAt": 0,
       "links": [
         {
-          "label": "Server 1",
-          "subtitle": "Live",
-          "url": "https:\/\/instreams.pro\/live\/NFLHD2\/mono.m3u8?st=zu7hqlTFJp51xCtRrwctCw&e=1787286657|Referer=https:\/\/instream.click\/jwp-us.php?stream=NFLHD2&Origin=https:\/\/instream.click\/jwp-us.php?stream=NFLHD2&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 2",
+          "label": "Server ",
           "subtitle": "Live ",
-          "url": "https:\/\/dripcast.online\/stream\/live-nfl-los-angeles-chargers-san-francisco-49ers-2-embedhd\/index.m3u8?key=NOIR-6L6B3K-2026",
+          "url": "https:\/\/edgestream2.pro\/hls\/jkzahzadach20.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
-          "rewarded": false
-        },
+          "rewarded": true
+        }
+      ]
+    },
+    {
+      "id": "s1787297737788",
+      "league": "mlb",
+      "gameId": "",
+      "away": "TOR",
+      "home": "NYY",
+      "title": "Blue Jays at Yankees",
+      "poster": "",
+      "startsAt": 1787353500000,
+      "endsAt": 0,
+      "links": [
         {
-          "label": "Server 3",
-          "subtitle": "Live",
-          "url": "https:\/\/edgestream2.pro\/hls\/sfjnzabacah31.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 4",
-          "subtitle": "Live",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb5de\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWRlOjE3ODcyOTA1MjY0MzI6Y2RubGl2ZXR2LnR2OmY5MWY1OTQ0ZWVjMGIzOTMuZmY5YWVlYjY3YTgyM2JlMWI3ZTQwN2FhYmZlNWU5NjNhY2EzODkwNDBhOTE3NjNiMTFlOTUxNzIwNjI1MDkwNA",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 5",
-          "subtitle": "Live ( Away ) ",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=49ers=chargers&s=away&sport=nfl",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 6",
+          "label": "Server ",
           "subtitle": "Live ",
-          "url": "https:\/\/cdn2.zohanayaan.com:1686\/hls\/do1.m3u8?md5=C3zMC6xIbBZHNam67NBNig&expires=1787283060|Referer=https:\/\/exposestrat.com&Origin=https:\/\/exposestrat.com&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "url": "https:\/\/edgestream2.pro\/hls\/jkzahzadach20.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 7",
-          "subtitle": "Live ",
-          "url": "https:\/\/dripcast.online\/stream\/live-nfl-los-angeles-chargers-san-francisco-49ers-embedhd\/index.m3u8?key=NOIR-6L6B3K-2026",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 8",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb5de\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWRlOjE3ODcyOTAyNTc1NDY6Y2RubGl2ZXR2LnR2OjMwMjA0MDBjN2RhYTE1NmYuY2VjYmQzYjA4YWRjM2JmZjgwY2QyNTRiNDcwMzgyYzAzODdhZjZlYWZkZjYzYTI4OWQ5Yzk0ZjY1MDMxMDc2Mg|Referer=https:\/\/cdnlivetv.tv\/api\/v1\/channels\/player\/?name=NFL%20Network%20HD%20US&code=us&user=cdnlivetv&plan=free&Origin=https:\/\/cdnlivetv.tv\/api\/v1\/channels\/player\/?name=NFL%20Network%20HD%20US&code=us&user=cdnlivetv&plan=free&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 9",
-          "subtitle": "Live ",
-          "url": "https:\/\/embed.st\/embed\/admin\/ppv-san-francisco-49-ers-at-los-angeles-chargers\/1",
-          "type": "hls",
-          "rewarded": false,
-          "tokenApi": {
-            "type": "embed",
-            "api": "https:\/\/embed.st\/embed\/admin\/ppv-san-francisco-49-ers-at-los-angeles-chargers\/1"
-          }
-        },
-        {
-          "label": "Server 10",
-          "subtitle": "Live ",
-          "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-08-20\/sf-lac",
-          "type": "hls",
-          "rewarded": false,
-          "tokenApi": {
-            "type": "embed",
-            "api": "https:\/\/embedindia.st\/embed\/nfl\/2026-08-20\/sf-lac"
-          }
+          "rewarded": true
         }
       ]
     },
@@ -668,26 +537,6 @@
       ]
     },
     {
-      "id": "s1787297737775",
-      "league": "mlb",
-      "gameId": "",
-      "away": "ATL",
-      "home": "MIL",
-      "title": "Braves at Brewers",
-      "poster": "",
-      "startsAt": 1787343000000,
-      "endsAt": 0,
-      "links": [
-        {
-          "label": "Server ",
-          "subtitle": "Live ",
-          "url": "https:\/\/edgestream2.pro\/hls\/jkzahzadach20.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
-          "type": "hls",
-          "rewarded": true
-        }
-      ]
-    },
-    {
       "id": "s1787297737776",
       "league": "mlb",
       "gameId": "",
@@ -888,26 +737,6 @@
       ]
     },
     {
-      "id": "s1787297737786",
-      "league": "mlb",
-      "gameId": "",
-      "away": "STL",
-      "home": "PHI",
-      "title": "Cardinals at Phillies",
-      "poster": "",
-      "startsAt": 1787352000000,
-      "endsAt": 0,
-      "links": [
-        {
-          "label": "Server ",
-          "subtitle": "Live ",
-          "url": "https:\/\/edgestream2.pro\/hls\/jkzahzadach20.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
-          "type": "hls",
-          "rewarded": true
-        }
-      ]
-    },
-    {
       "id": "s1787297737787",
       "league": "mlb",
       "gameId": "",
@@ -916,26 +745,6 @@
       "title": "Rays at Orioles",
       "poster": "",
       "startsAt": 1787354100000,
-      "endsAt": 0,
-      "links": [
-        {
-          "label": "Server ",
-          "subtitle": "Live ",
-          "url": "https:\/\/edgestream2.pro\/hls\/jkzahzadach20.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
-          "type": "hls",
-          "rewarded": true
-        }
-      ]
-    },
-    {
-      "id": "s1787297737788",
-      "league": "mlb",
-      "gameId": "",
-      "away": "TOR",
-      "home": "NYY",
-      "title": "Blue Jays at Yankees",
-      "poster": "",
-      "startsAt": 1787353500000,
       "endsAt": 0,
       "links": [
         {
