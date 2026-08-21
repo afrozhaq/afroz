@@ -1859,9 +1859,13 @@
         {
           "label": "Server 2",
           "subtitle": "Live",
-          "url": "jy",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-golden-state-valkyries-vs-chicago-sky\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-golden-state-valkyries-vs-chicago-sky\/1"
+          }
         },
         {
           "label": "Server 3",
