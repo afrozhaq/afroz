@@ -449,9 +449,13 @@
         {
           "label": "Server 8",
           "subtitle": "Live ",
-          "url": "https",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-tampa-bay-rays-vs-baltimore-orioles\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-tampa-bay-rays-vs-baltimore-orioles\/1"
+          }
         },
         {
           "label": "Server 9",
@@ -525,9 +529,13 @@
         {
           "label": "Server 8",
           "subtitle": "Live ",
-          "url": "https",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-new-york-mets-vs-chicago-white-sox\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-new-york-mets-vs-chicago-white-sox\/1"
+          }
         },
         {
           "label": "Server 9",
@@ -601,9 +609,13 @@
         {
           "label": "Server 8",
           "subtitle": "Live ",
-          "url": "https ",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-athletics-vs-houston-astros\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-athletics-vs-houston-astros\/1"
+          }
         },
         {
           "label": "Server 9",
@@ -677,9 +689,13 @@
         {
           "label": "Server 8",
           "subtitle": "Live ",
-          "url": "https ",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-detroit-tigers-vs-kansas-city-royals\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-detroit-tigers-vs-kansas-city-royals\/1"
+          }
         },
         {
           "label": "Server 9",
@@ -753,9 +769,13 @@
         {
           "label": "Server 8",
           "subtitle": "Live ",
-          "url": "https",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-los-angeles-angels-vs-texas-rangers\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-los-angeles-angels-vs-texas-rangers\/1"
+          }
         },
         {
           "label": "Server 9",
