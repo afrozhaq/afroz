@@ -128,21 +128,21 @@
         {
           "label": "Server 3",
           "subtitle": "Live",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb5de\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWRlOjE3ODcyOTA1MjY0MzI6Y2RubGl2ZXR2LnR2OmY5MWY1OTQ0ZWVjMGIzOTMuZmY5YWVlYjY3YTgyM2JlMWI3ZTQwN2FhYmZlNWU5NjNhY2EzODkwNDBhOTE3NjNiMTFlOTUxNzIwNjI1MDkwNA",
+          "url": "https:\/\/instreams.pro\/live\/NFLHD2\/mono.m3u8?st=zu7hqlTFJp51xCtRrwctCw&e=1787286657|Referer=https:\/\/instream.click\/jwp-us.php?stream=NFLHD2&Origin=https:\/\/instream.click\/jwp-us.php?stream=NFLHD2&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
-          "subtitle": "Live ( Away ) ",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=49ers=chargers&s=away&sport=nfl",
+          "subtitle": "Live",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb5de\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWRlOjE3ODcyOTA1MjY0MzI6Y2RubGl2ZXR2LnR2OmY5MWY1OTQ0ZWVjMGIzOTMuZmY5YWVlYjY3YTgyM2JlMWI3ZTQwN2FhYmZlNWU5NjNhY2EzODkwNDBhOTE3NjNiMTFlOTUxNzIwNjI1MDkwNA",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
-          "subtitle": "Live",
-          "url": "https:\/\/instreams.pro\/live\/NFLHD2\/mono.m3u8?st=zu7hqlTFJp51xCtRrwctCw&e=1787286657|Referer=https:\/\/instream.click\/jwp-us.php?stream=NFLHD2&Origin=https:\/\/instream.click\/jwp-us.php?stream=NFLHD2&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "subtitle": "Live ( Away ) ",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=49ers=chargers&s=away&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
