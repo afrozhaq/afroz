@@ -70,13 +70,6 @@
             "type": "embed",
             "api": "https:\/\/embed.st\/embed\/admin\/ppv-atlanta-braves-vs-milwaukee-brewers\/1"
           }
-        },
-        {
-          "label": "Server 9",
-          "subtitle": "Live ",
-          "url": "https",
-          "type": "hls",
-          "rewarded": false
         }
       ]
     },
@@ -150,13 +143,6 @@
             "type": "embed",
             "api": "https:\/\/embed.st\/embed\/admin\/ppv-st-louis-cardinals-vs-philadelphia-phillies\/1"
           }
-        },
-        {
-          "label": "Server 9",
-          "subtitle": "Live ",
-          "url": "https",
-          "type": "hls",
-          "rewarded": false
         }
       ]
     },
@@ -216,13 +202,6 @@
             "type": "embed",
             "api": "https:\/\/embed.st\/embed\/admin\/ppv-toronto-blue-jays-vs-new-york-yankees\/1"
           }
-        },
-        {
-          "label": "Server 7",
-          "subtitle": "Live ",
-          "url": "https",
-          "type": "hls",
-          "rewarded": false
         }
       ]
     },
@@ -296,13 +275,6 @@
             "type": "embed",
             "api": "https:\/\/embed.st\/embed\/admin\/ppv-san-francisco-giants-vs-boston-red-sox\/1"
           }
-        },
-        {
-          "label": "Server 9",
-          "subtitle": "Live ",
-          "url": "httpsssss",
-          "type": "hls",
-          "rewarded": false
         }
       ]
     },
@@ -376,13 +348,6 @@
             "type": "embed",
             "api": "https:\/\/embed.st\/embed\/admin\/ppv-washington-nationals-vs-miami-marlins\/1"
           }
-        },
-        {
-          "label": "Server 9",
-          "subtitle": "Live ",
-          "url": "http",
-          "type": "hls",
-          "rewarded": false
         }
       ]
     },
@@ -456,13 +421,6 @@
             "type": "embed",
             "api": "https:\/\/embed.st\/embed\/admin\/ppv-tampa-bay-rays-vs-baltimore-orioles\/1"
           }
-        },
-        {
-          "label": "Server 9",
-          "subtitle": "Live ",
-          "url": "https",
-          "type": "hls",
-          "rewarded": false
         }
       ]
     },
@@ -536,13 +494,6 @@
             "type": "embed",
             "api": "https:\/\/embed.st\/embed\/admin\/ppv-new-york-mets-vs-chicago-white-sox\/1"
           }
-        },
-        {
-          "label": "Server 9",
-          "subtitle": "Live ",
-          "url": "https",
-          "type": "hls",
-          "rewarded": false
         }
       ]
     },
@@ -616,13 +567,6 @@
             "type": "embed",
             "api": "https:\/\/embed.st\/embed\/admin\/ppv-athletics-vs-houston-astros\/1"
           }
-        },
-        {
-          "label": "Server 9",
-          "subtitle": "Live ",
-          "url": "https ",
-          "type": "hls",
-          "rewarded": false
         }
       ]
     },
@@ -696,13 +640,6 @@
             "type": "embed",
             "api": "https:\/\/embed.st\/embed\/admin\/ppv-detroit-tigers-vs-kansas-city-royals\/1"
           }
-        },
-        {
-          "label": "Server 9",
-          "subtitle": "Live ",
-          "url": "https ",
-          "type": "hls",
-          "rewarded": false
         }
       ]
     },
@@ -776,13 +713,6 @@
             "type": "embed",
             "api": "https:\/\/embed.st\/embed\/admin\/ppv-los-angeles-angels-vs-texas-rangers\/1"
           }
-        },
-        {
-          "label": "Server 9",
-          "subtitle": "Live ",
-          "url": "https",
-          "type": "hls",
-          "rewarded": false
         }
       ]
     },
@@ -856,13 +786,6 @@
             "type": "embed",
             "api": "https:\/\/embed.st\/embed\/admin\/ppv-cleveland-guardians-vs-colorado-rockies\/1"
           }
-        },
-        {
-          "label": "Server 9",
-          "subtitle": "Live ",
-          "url": "https ",
-          "type": "hls",
-          "rewarded": false
         }
       ]
     },
@@ -936,13 +859,6 @@
             "type": "embed",
             "api": "https:\/\/embed.st\/embed\/admin\/ppv-minnesota-twins-vs-san-diego-padres\/1"
           }
-        },
-        {
-          "label": "Server 9",
-          "subtitle": "Live ",
-          "url": "https",
-          "type": "hls",
-          "rewarded": false
         }
       ]
     },
@@ -1016,13 +932,6 @@
             "type": "embed",
             "api": "https:\/\/embed.st\/embed\/admin\/ppv-cincinnati-reds-vs-arizona-diamondbacks\/1"
           }
-        },
-        {
-          "label": "Server 9",
-          "subtitle": "Live ",
-          "url": "https",
-          "type": "hls",
-          "rewarded": false
         }
       ]
     },
@@ -1096,13 +1005,6 @@
             "type": "embed",
             "api": "https:\/\/embed.st\/embed\/admin\/ppv-pittsburgh-pirates-vs-los-angeles-dodgers\/1"
           }
-        },
-        {
-          "label": "Server 9",
-          "subtitle": "Live ",
-          "url": "https",
-          "type": "hls",
-          "rewarded": false
         }
       ]
     },
@@ -1176,13 +1078,6 @@
             "type": "embed",
             "api": "https:\/\/embed.st\/embed\/admin\/ppv-chicago-cubs-vs-seattle-mariners\/1"
           }
-        },
-        {
-          "label": "Server 9",
-          "subtitle": "Live ",
-          "url": "https",
-          "type": "hls",
-          "rewarded": false
         }
       ]
     },
