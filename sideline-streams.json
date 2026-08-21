@@ -1147,14 +1147,14 @@
         {
           "label": "Server 2",
           "subtitle": "Live ( Home )",
-          "url": "gshs",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=jets=steelers&s=home&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
           "subtitle": "Live ( Away )",
-          "url": "gshs",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=jets=steelers&s=away&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
