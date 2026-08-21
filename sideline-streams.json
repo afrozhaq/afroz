@@ -234,29 +234,29 @@
         },
         {
           "label": "Server 2",
-          "subtitle": "Live ",
+          "subtitle": "Live ( Home )",
           "url": "httpsssss",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
-          "subtitle": "Live ",
+          "subtitle": "Live ( Away )",
           "url": "httpsssss",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
-          "subtitle": "Live ",
-          "url": "httpsssss",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=giants=redsox&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
-          "subtitle": "Live ",
-          "url": "httpsssss",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=giants=redsox&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
