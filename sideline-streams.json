@@ -775,6 +775,40 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1787298518649",
+      "league": "nba",
+      "gameId": "",
+      "away": "WASHINGTON MYSTICS ",
+      "home": "MINNESOTA LYNX ",
+      "title": "WASHINGTON MYSTICS Vs MINNESOTA LYNX ",
+      "poster": "",
+      "startsAt": 1787355000000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "htt",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "htt",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live",
+          "url": "htt",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
