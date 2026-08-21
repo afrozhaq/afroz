@@ -1821,9 +1821,13 @@
         {
           "label": "Server 2",
           "subtitle": "Live",
-          "url": "htt",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-minnesota-lynx-vs-washington-mystics\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-minnesota-lynx-vs-washington-mystics\/1"
+          }
         },
         {
           "label": "Server 3",
