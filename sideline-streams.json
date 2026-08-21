@@ -1788,9 +1788,13 @@
         {
           "label": "Server 3",
           "subtitle": "Live",
-          "url": "jy",
+          "url": "https:\/\/embedindia.st\/embed\/wnba\/2026-08-21\/gs-chi",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/wnba\/2026-08-21\/gs-chi"
+          }
         }
       ]
     },
