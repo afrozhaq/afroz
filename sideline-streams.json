@@ -63,9 +63,13 @@
         {
           "label": "Server 8",
           "subtitle": "Live ",
-          "url": "https",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-atlanta-braves-vs-milwaukee-brewers\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-atlanta-braves-vs-milwaukee-brewers\/1"
+          }
         },
         {
           "label": "Server 9",
@@ -139,9 +143,13 @@
         {
           "label": "Server 8",
           "subtitle": "Live ",
-          "url": "https",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-st-louis-cardinals-vs-philadelphia-phillies\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-st-louis-cardinals-vs-philadelphia-phillies\/1"
+          }
         },
         {
           "label": "Server 9",
@@ -201,9 +209,13 @@
         {
           "label": "Server 6",
           "subtitle": "Live ",
-          "url": "https",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-toronto-blue-jays-vs-new-york-yankees\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-toronto-blue-jays-vs-new-york-yankees\/1"
+          }
         },
         {
           "label": "Server 7",
@@ -277,9 +289,13 @@
         {
           "label": "Server 8",
           "subtitle": "Live ",
-          "url": "httpsssss",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-san-francisco-giants-vs-boston-red-sox\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-san-francisco-giants-vs-boston-red-sox\/1"
+          }
         },
         {
           "label": "Server 9",
@@ -353,9 +369,13 @@
         {
           "label": "Server 8",
           "subtitle": "Live ",
-          "url": "http",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-washington-nationals-vs-miami-marlins\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-washington-nationals-vs-miami-marlins\/1"
+          }
         },
         {
           "label": "Server 9",
