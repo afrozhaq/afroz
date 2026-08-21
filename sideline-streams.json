@@ -1102,47 +1102,54 @@
         {
           "label": "Server 1",
           "subtitle": "Live",
-          "url": "https:\/\/edgestream2.pro\/hls\/JHDAJBDnjdna30.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "url": "https:\/\/cirkel996.s3.us-east-1.amazonaws.com\/btsport.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 2",
+          "subtitle": "Live",
+          "url": "https:\/\/edgestream2.pro\/hls\/JHDAJBDnjdna30.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=jets=steelers&s=home&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 3",
+          "label": "Server 4",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=jets=steelers&s=away&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
-          "subtitle": "Live",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2781d8192bb76cb375\/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzc1OjE3ODczNjQ3MTAxMzE6Y2RubGl2ZXR2LnR2OmU3OTBmMDkwMDg2OTM1ZGYuY2RiNmU1MTAxMzI0YWY5MDYwZGQ0MjNmMGU4MWVkMTk2ZjAwNGE2YmFmNjExNzQ4ODViYjBiMWY0MzMxODJmMg",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
           "label": "Server 5",
           "subtitle": "Live",
-          "url": "https:\/\/dripcast.online\/stream\/live-nfl-pittsburgh-steelers-new-york-jets-2-embedhd\/index.m3u8?key=NOIR-6L6B3K-2026",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2781d8192bb76cb375\/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzc1OjE3ODczNjQ3MTAxMzE6Y2RubGl2ZXR2LnR2OmU3OTBmMDkwMDg2OTM1ZGYuY2RiNmU1MTAxMzI0YWY5MDYwZGQ0MjNmMGU4MWVkMTk2ZjAwNGE2YmFmNjExNzQ4ODViYjBiMWY0MzMxODJmMg",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 6",
           "subtitle": "Live",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2781d8192bb76cb375\/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzc1OjE3ODczNjQ3MTAxMzE6Y2RubGl2ZXR2LnR2OmU3OTBmMDkwMDg2OTM1ZGYuY2RiNmU1MTAxMzI0YWY5MDYwZGQ0MjNmMGU4MWVkMTk2ZjAwNGE2YmFmNjExNzQ4ODViYjBiMWY0MzMxODJmMg",
+          "url": "https:\/\/dripcast.online\/stream\/live-nfl-pittsburgh-steelers-new-york-jets-2-embedhd\/index.m3u8?key=NOIR-6L6B3K-2026",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 7",
+          "subtitle": "Live",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2781d8192bb76cb375\/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzc1OjE3ODczNjQ3MTAxMzE6Y2RubGl2ZXR2LnR2OmU3OTBmMDkwMDg2OTM1ZGYuY2RiNmU1MTAxMzI0YWY5MDYwZGQ0MjNmMGU4MWVkMTk2ZjAwNGE2YmFmNjExNzQ4ODViYjBiMWY0MzMxODJmMg",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 8",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-new-york-jets-at-pittsburgh-steelers\/1",
           "type": "hls",
@@ -1153,7 +1160,7 @@
           }
         },
         {
-          "label": "Server 8",
+          "label": "Server 9",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-08-21\/nyj-pit",
           "type": "hls",
