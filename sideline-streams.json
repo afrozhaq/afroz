@@ -1123,7 +1123,7 @@
         {
           "label": "Server 4",
           "subtitle": "Live",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2781d8192bb76cb375\/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzc1OjE3ODczMjU1MTQwNzM6Y2RubGl2ZXR2LnR2OmIxNDAxMzgwYTQ1NDc4NTMuMmQ4MTg2NGQzYjY1Y2FmMTZmYWZjZWRmNWU4Y2QwYzFiZjNjYTlmYTQ0NTkzNjE1ODllNjE3ODk2NDAxYTY3ZA",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2781d8192bb76cb375\/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzc1OjE3ODczNjQ3MTAxMzE6Y2RubGl2ZXR2LnR2OmU3OTBmMDkwMDg2OTM1ZGYuY2RiNmU1MTAxMzI0YWY5MDYwZGQ0MjNmMGU4MWVkMTk2ZjAwNGE2YmFmNjExNzQ4ODViYjBiMWY0MzMxODJmMg",
           "type": "hls",
           "rewarded": false
         },
@@ -1137,19 +1137,12 @@
         {
           "label": "Server 6",
           "subtitle": "Live",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2781d8192bb76cb375\/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzc1OjE3ODczMjU1MTQwNzM6Y2RubGl2ZXR2LnR2OmIxNDAxMzgwYTQ1NDc4NTMuMmQ4MTg2NGQzYjY1Y2FmMTZmYWZjZWRmNWU4Y2QwYzFiZjNjYTlmYTQ0NTkzNjE1ODllNjE3ODk2NDAxYTY3ZA",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2781d8192bb76cb375\/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzc1OjE3ODczNjQ3MTAxMzE6Y2RubGl2ZXR2LnR2OmU3OTBmMDkwMDg2OTM1ZGYuY2RiNmU1MTAxMzI0YWY5MDYwZGQ0MjNmMGU4MWVkMTk2ZjAwNGE2YmFmNjExNzQ4ODViYjBiMWY0MzMxODJmMg",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 7",
-          "subtitle": "Live",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2781d8192bb76cb375\/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzc1OjE3ODczMjU1MTQwNzM6Y2RubGl2ZXR2LnR2OmIxNDAxMzgwYTQ1NDc4NTMuMmQ4MTg2NGQzYjY1Y2FmMTZmYWZjZWRmNWU4Y2QwYzFiZjNjYTlmYTQ0NTkzNjE1ODllNjE3ODk2NDAxYTY3ZA",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 8",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-new-york-jets-at-pittsburgh-steelers\/1",
           "type": "hls",
@@ -1160,7 +1153,7 @@
           }
         },
         {
-          "label": "Server 9",
+          "label": "Server 8",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-08-21\/nyj-pit",
           "type": "hls",
