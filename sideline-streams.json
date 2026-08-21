@@ -809,6 +809,40 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1787298598918",
+      "league": "nba",
+      "gameId": "",
+      "away": "CHICAGO SKY ",
+      "home": "GOLDEN STATE VALKYRIES ",
+      "title": "CHICAGO SKY Vs GOLDEN STATE VALKYRIES ",
+      "poster": "",
+      "startsAt": 1787355000000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "jy",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "jy",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live",
+          "url": "jy",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
