@@ -1249,9 +1249,13 @@
         {
           "label": "Server 8",
           "subtitle": "Live",
-          "url": "gshs",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-new-york-jets-at-pittsburgh-steelers\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-new-york-jets-at-pittsburgh-steelers\/1"
+          }
         },
         {
           "label": "Server 9",
@@ -1325,9 +1329,13 @@
         {
           "label": "Server 8",
           "subtitle": "Live",
-          "url": "hss",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-carolina-panthers-at-jacksonville-jaguars\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-carolina-panthers-at-jacksonville-jaguars\/1"
+          }
         },
         {
           "label": "Server 9",
@@ -1401,9 +1409,13 @@
         {
           "label": "Server 8",
           "subtitle": "Live",
-          "url": "hs",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-green-bay-packers-at-denver-broncos\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-green-bay-packers-at-denver-broncos\/1"
+          }
         },
         {
           "label": "Server 9",
