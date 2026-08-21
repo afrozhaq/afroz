@@ -614,29 +614,29 @@
         },
         {
           "label": "Server 2",
-          "subtitle": "Live ",
-          "url": "https ",
+          "subtitle": "Live ( Home )",
+          "url": "hsys",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
-          "subtitle": "Live ",
+          "subtitle": "Live ( Away )",
           "url": "https ",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
-          "subtitle": "Live ",
-          "url": "https ",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=tigers=royals&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
-          "subtitle": "Live ",
-          "url": "https ",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=tigers=royals&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
