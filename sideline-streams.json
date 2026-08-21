@@ -1260,9 +1260,13 @@
         {
           "label": "Server 9",
           "subtitle": "Live",
-          "url": "gshs",
+          "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-08-21\/nyj-pit",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/nfl\/2026-08-21\/nyj-pit"
+          }
         }
       ]
     },
