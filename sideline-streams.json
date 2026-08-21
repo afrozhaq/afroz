@@ -306,14 +306,14 @@
         {
           "label": "Server 2",
           "subtitle": "Live ( Home )",
-          "url": "https:\/\/node-9b5feb01.4587.website\/6a8947b3.76ef65c6i798bc8d0.b8e7.afd7eae4\/free.live.espn\/master.m3u8",
+          "url": "https:\/\/node-9b5feb01.4587.website\/6a8949cd.d3986287i798bc8d0.b8e7.3c0c2b65\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
           "subtitle": "Live ( Away )",
-          "url": "http",
+          "url": "https:\/\/node-5d763f4c.4587.website\/6a8949cd.0dc5cb01i798bc8d0.b8ef.9b6084c3\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
