@@ -1214,40 +1214,47 @@
         {
           "label": "Server 3",
           "subtitle": "Live",
-          "url": "https:\/\/dripcast.online\/stream\/live-nfl-jacksonville-jaguars-carolina-panthers-embedhd\/index.m3u8?key=NOIR-6L6B3K-2026",
+          "url": "https:\/\/instreams.pro\/live\/NFLHD2\/mono.m3u8?st=NVuMAM2SdfER2UxoIVCjbQ&e=1787364030|Referer=https:\/\/instream.click\/jwp-us.php?stream=NFLHD2&Origin=https:\/\/instream.click\/jwp-us.php?stream=NFLHD2&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
+          "subtitle": "Live",
+          "url": "https:\/\/dripcast.online\/stream\/live-nfl-jacksonville-jaguars-carolina-panthers-embedhd\/index.m3u8?key=NOIR-6L6B3K-2026",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 5",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=panthers=jaguars&s=home&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
+          "label": "Server 6",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=panthers=jaguars&s=away&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 6",
+          "label": "Server 7",
           "subtitle": "Live",
           "url": "https:\/\/dripcast.online\/stream\/live-nfl-jacksonville-jaguars-carolina-panthers-2-embedhd\/index.m3u8?key=NOIR-6L6B3K-2026",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 7",
+          "label": "Server 8",
           "subtitle": "Live",
           "url": "https:\/\/cdn6.zohanayaan.com:1686\/hls\/do2.m3u8?md5=ifffvla9jutHzjwDd1WJuQ&expires=1787360434|Referer=https:\/\/exposestrat.com&Origin=https:\/\/exposestrat.com&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 8",
+          "label": "Server 9",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-carolina-panthers-at-jacksonville-jaguars\/1",
           "type": "hls",
@@ -1258,7 +1265,7 @@
           }
         },
         {
-          "label": "Server 9",
+          "label": "Server 10",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-08-21\/car-jax",
           "type": "hls",
