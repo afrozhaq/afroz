@@ -1428,9 +1428,13 @@
         {
           "label": "Server 9",
           "subtitle": "Live",
-          "url": "hs",
+          "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-08-21\/gb-den",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/nfl\/2026-08-21\/gb-den"
+          }
         }
       ]
     },
