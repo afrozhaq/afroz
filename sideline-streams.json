@@ -1746,9 +1746,13 @@
         {
           "label": "Server 3",
           "subtitle": "Live",
-          "url": "htt",
+          "url": "https:\/\/embedindia.st\/embed\/wnba\/2026-08-21\/min-wsh",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/wnba\/2026-08-21\/min-wsh"
+          }
         }
       ]
     },
