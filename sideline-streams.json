@@ -1146,14 +1146,14 @@
         },
         {
           "label": "Server 2",
-          "subtitle": "Live",
+          "subtitle": "Live ( Home )",
           "url": "gshs",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
-          "subtitle": "Live",
+          "subtitle": "Live ( Away )",
           "url": "gshs",
           "type": "hls",
           "rewarded": false
