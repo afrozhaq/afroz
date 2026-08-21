@@ -1222,15 +1222,15 @@
         },
         {
           "label": "Server 2",
-          "subtitle": "Live",
-          "url": "hss",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=panthers=jaguars&s=home&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
-          "subtitle": "Live",
-          "url": "hss",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=panthers=jaguars&s=away&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
