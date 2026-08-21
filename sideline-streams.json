@@ -114,7 +114,7 @@
         {
           "label": "Server 1",
           "subtitle": "Live",
-          "url": "https:\/\/edgestream2.pro\/hls\/sfjnzabacah31.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "url": "https:\/\/instreams.pro\/live\/NFLHD2\/mono.m3u8?st=zu7hqlTFJp51xCtRrwctCw&e=1787286657|Referer=https:\/\/instream.click\/jwp-us.php?stream=NFLHD2&Origin=https:\/\/instream.click\/jwp-us.php?stream=NFLHD2&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
@@ -128,7 +128,7 @@
         {
           "label": "Server 3",
           "subtitle": "Live",
-          "url": "https:\/\/instreams.pro\/live\/NFLHD2\/mono.m3u8?st=zu7hqlTFJp51xCtRrwctCw&e=1787286657|Referer=https:\/\/instream.click\/jwp-us.php?stream=NFLHD2&Origin=https:\/\/instream.click\/jwp-us.php?stream=NFLHD2&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "url": "https:\/\/edgestream2.pro\/hls\/sfjnzabacah31.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
