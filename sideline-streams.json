@@ -789,13 +789,68 @@
       "endsAt": 0,
       "links": [
         {
-          "label": "HD",
-          "subtitle": "FHD",
-          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
-          "type": "dash",
-          "rewarded": true,
-          "drmScheme": "clearkey",
-          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+          "label": "Server 1",
+          "subtitle": "Live Now",
+          "url": "https:\/\/edgestream2.pro\/hls\/dzjhkfazbka26.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 1",
+          "subtitle": "Live Now ( Home )",
+          "url": "http",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live Now ( Away )",
+          "url": "http",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
+          "subtitle": "Live Now",
+          "url": "https:\/\/dripcast.online\/stream\/live-mlb-los-angeles-dodgers-pittsburgh-pirates-embedhd\/index.m3u8?key=NOIR-6L6B3K-2026",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 5",
+          "subtitle": "Live Now ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=pirates=dodgers&s=home&sport=mlb",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 6",
+          "subtitle": "Live Now ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=pirates=dodgers&s=away&sport=mlb",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 7",
+          "subtitle": "Live Now",
+          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-22\/pit-lad",
+          "type": "hls",
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-22\/pit-lad"
+          }
+        },
+        {
+          "label": "Server 8",
+          "subtitle": "Live Now",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-pittsburgh-pirates-vs-los-angeles-dodgers\/1",
+          "type": "hls",
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-pittsburgh-pirates-vs-los-angeles-dodgers\/1"
+          }
         }
       ]
     },
