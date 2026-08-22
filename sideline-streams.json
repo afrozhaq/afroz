@@ -276,6 +276,15 @@
       "endsAt": 0,
       "links": [
         {
+          "label": "Server Main",
+          "subtitle": "live",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/ihys8nw4wv\/out\/v1\/fde190f369484bc6b6117cc16cd82a9f\/cenc.mpd",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7"
+        },
+        {
           "label": "Server 1",
           "subtitle": "Live ",
           "url": "https:\/\/hrfdddcsd.s3.us-east-1.amazonaws.com\/lions.m3u8",
