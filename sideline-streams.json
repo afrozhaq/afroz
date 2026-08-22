@@ -584,14 +584,14 @@
         {
           "label": "Server 2",
           "subtitle": "Live ( Home )",
-          "url": "hsys",
+          "url": "https:\/\/node-5d763f4c.4587.website\/6a89576d.2bb9ce84i798bc8d0.b8fc.e62d64f1\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
           "subtitle": "Live ( Away )",
-          "url": "https ",
+          "url": "https:\/\/node-5d763f4c.4587.website\/6a89576d.9f37a4f2i798bc8d0.b95e.dedf4e12\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
