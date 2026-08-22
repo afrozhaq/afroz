@@ -967,7 +967,7 @@
         {
           "label": "Server 3",
           "subtitle": "Live",
-          "url": "embed",
+          "url": "https:\/\/instreams.pro\/live\/NFLHD11\/mono.m3u8?st=nNCbNJ7Pvv9TP1vlc5Ls9A&e=1787450279|Referer=https:\/\/instream.click\/jwp-us.php?stream=NFLHD11&Origin=https:\/\/instream.click\/jwp-us.php?stream=NFLHD11&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
@@ -1044,7 +1044,7 @@
         {
           "label": "Server 3",
           "subtitle": "Live",
-          "url": "embddhd",
+          "url": "https:\/\/instreams.live\/live\/NFLHD10\/mono.m3u8?st=TKXoWYWqby0CII6OJCfgqA&e=1787450279|Referer=https:\/\/instream.click\/jwp-us.php?stream=NFLHD10&Origin=https:\/\/instream.click\/jwp-us.php?stream=NFLHD10&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
