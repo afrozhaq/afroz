@@ -1074,7 +1074,7 @@
         {
           "label": "Server 1",
           "subtitle": "Live",
-          "url": "https:\/\/cirkel996.s3.us-east-1.amazonaws.com\/btsport.m3u8",
+          "url": "https:\/\/cirkel996.s3.us-east-1.amazonaws.com\/espn.m3u8",
           "type": "hls",
           "rewarded": false
         },
