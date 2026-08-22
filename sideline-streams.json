@@ -1360,7 +1360,7 @@
         {
           "label": "Server 1",
           "subtitle": "Live",
-          "url": "hahat",
+          "url": "https:\/\/hrfdddcsd.s3.us-east-1.amazonaws.com\/dodgers.m3u8",
           "type": "hls",
           "rewarded": false
         },
