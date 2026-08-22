@@ -1,7 +1,7 @@
 {
   "minVersionCode": 9,
   "latestVersionCode": 9,
-  "force": false,
+  "force": true,
   "title": "Update available",
   "message": "In New Update you can favourites your teams separately stream",
   "updateUrl": "https:\/\/play.google.com\/store\/apps\/details?id=com.goalmindstudios.livescores",
