@@ -824,51 +824,59 @@
         {
           "label": "Server 2",
           "subtitle": "Live",
-          "url": "http",
+          "url": "https:\/\/edgestream2.pro\/hls\/jkhazabcka36.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
           "subtitle": "Live",
-          "url": "http",
+          "url": "embddhd",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
-          "subtitle": "Live",
-          "url": "http",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=bears=bengals&s=home&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
-          "subtitle": "Live",
-          "url": "http",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=bears=bengals&s=away&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 6",
           "subtitle": "Live",
-          "url": "http",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2e81d8192bb76ce888\/playlist.m3u8?token=NmEyODhkMmU4MWQ4MTkyYmI3NmNlODg4OjE3ODc0MTMxNDUwNzE6Y2RubGl2ZXR2LnR2OmI2NzNiMzY5YTI2ZDE0YjIuNmRhNWIzYjVhMDcwNTA3OTc1M2NmMzUwMTlkZjA4ZmJlMmVjMDAzMmU3N2RkZmJhZDU4M2MyMTViNDE3NDJlNw",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 7",
           "subtitle": "Live",
-          "url": "http",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-chicago-bears-at-cincinnati-bengals\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-chicago-bears-at-cincinnati-bengals\/1"
+          }
         },
         {
           "label": "Server 8",
           "subtitle": "Live",
-          "url": "http",
+          "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-08-22\/chi-cin",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/nfl\/2026-08-22\/chi-cin"
+          }
         }
       ]
     },
