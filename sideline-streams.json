@@ -162,9 +162,13 @@
         {
           "label": "Server 9",
           "subtitle": "Live",
-          "url": "https:\/\/instreams.live\/live\/NFLHD14\/mono.m3u8?st=1iCoEeiGwY6qyj8BMoTpzQ&e=1787436599|Referer=https:\/\/instream.click\/jwp-us.php?stream=NFLHD14&Origin=https:\/\/instream.click\/jwp-us.php?stream=NFLHD14&User-agent=Mozilla\/5.0",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-new-york-giants-at-miami-dolphins\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-new-york-giants-at-miami-dolphins\/1"
+          }
         }
       ]
     },
