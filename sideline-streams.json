@@ -1276,7 +1276,7 @@
         {
           "label": "Server 1",
           "subtitle": "Live",
-          "url": "htt",
+          "url": "https:\/\/hrfdddcsd.s3.us-east-1.amazonaws.com\/lions.m3u8",
           "type": "hls",
           "rewarded": false
         },
