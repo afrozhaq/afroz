@@ -1168,6 +1168,20 @@
             "type": "embed",
             "api": "https:\/\/embed.st\/embed\/admin\/ppv-buffalo-bills-at-cleveland-browns\/1"
           }
+        },
+        {
+          "label": "Server 9",
+          "subtitle": "Live",
+          "url": "https:\/\/node-8bba18be.4587.website\/6a8a4864.ec0d2051i798bc8d0.ba01.7eac2ee7\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 10",
+          "subtitle": "live",
+          "url": "https:\/\/instreams.pro\/live\/NFLHD13\/mono.m3u8?st=ok3NyGP7c0MVx6ysPFnnXg&e=1787428946|Referer=https:\/\/instream.click\/jwp-us.php?stream=NFLHD13&Origin=https:\/\/instream.click\/jwp-us.php?stream=NFLHD13&User-agent=Mozilla\/5.0",
+          "type": "hls",
+          "rewarded": false
         }
       ]
     },
