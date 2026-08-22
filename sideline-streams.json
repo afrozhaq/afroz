@@ -890,14 +890,7 @@
         {
           "label": "Server 2",
           "subtitle": "Live Now ( Home )",
-          "url": "https",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 3",
-          "subtitle": "Live Now ( Away )",
-          "url": "https",
+          "url": "https:\/\/node-5d763f4c.4587.website\/6a8a9b85.9be07032i798bc8d0.ba42.17787281\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
