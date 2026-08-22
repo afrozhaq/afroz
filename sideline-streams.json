@@ -1355,6 +1355,13 @@
             "type": "embed",
             "api": "https:\/\/embed.st\/embed\/admin\/ppv-indiana-fever-vs-new-york-liberty\/1"
           }
+        },
+        {
+          "label": "Server 4",
+          "subtitle": "Live",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc32b\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzJiOjE3ODc0NTUwMjU5MjM6Y2RubGl2ZXR2LnR2OjgzMTRhYzFiZDFhOTAxODkuMDA2YjEyMmU4NzNjN2MyZDFkM2YxM2Y2ZDg0YjZiODY1YWU1Nzk3Y2I1OGExMTZhMTk2YzIyNGMyNWNlYjdkZA",
+          "type": "hls",
+          "rewarded": false
         }
       ]
     },
