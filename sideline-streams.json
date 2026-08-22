@@ -285,51 +285,59 @@
         {
           "label": "Server 2",
           "subtitle": "Live ",
-          "url": "httpssgshs",
+          "url": "https:\/\/edgestream2.pro\/hls\/JHDAJBDnjdna30.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
           "subtitle": "Live ",
-          "url": "httpssgshs",
+          "url": "https:\/\/dripcast.online\/stream\/live-nfl-detroit-lions-washington-commanders-embedhd\/index.m3u8?key=NOIR-6L6B3K-2026",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
           "subtitle": "Live ",
-          "url": "httpssgshs",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=washington=lions&s=home&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
           "subtitle": "Live ",
-          "url": "httpssgshs",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=washington=lions&s=away&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 6",
           "subtitle": "Live ",
-          "url": "httpssgshs",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc177\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTc3OjE3ODc0MTI5NzMxMDY6Y2RubGl2ZXR2LnR2OjNhOGZhMjU1YTIxYzBiMDEuZjA3M2YxNjI1MWQxNTRjYmMwMmZkZmU2NWJlMmY2YjUzZThlMzhjNzgzMmNmOTdiZmZjOGRiMWJkODc1YTdhNw",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 7",
           "subtitle": "Live ",
-          "url": "httpssgshs",
+          "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-08-22\/wsh-det",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/nfl\/2026-08-22\/wsh-det"
+          }
         },
         {
           "label": "Server 8",
           "subtitle": "Live ",
-          "url": "httpssgshs",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-washington-commanders-at-detroit-lions\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-washington-commanders-at-detroit-lions\/1"
+          }
         }
       ]
     },
