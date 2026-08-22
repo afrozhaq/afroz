@@ -606,14 +606,14 @@
         },
         {
           "label": "Server 4",
-          "subtitle": "Live",
+          "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=saints=rams&s=home&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
-          "subtitle": "Live",
+          "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=saints=rams&s=away&sport=nfl",
           "type": "hls",
           "rewarded": false
