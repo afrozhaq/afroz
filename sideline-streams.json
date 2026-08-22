@@ -1133,23 +1133,23 @@
         {
           "label": "Server 2",
           "subtitle": "Live",
-          "url": "https:\/\/embed.st\/embed\/admin\/ppv-minnesota-lynx-vs-washington-mystics\/1",
+          "url": "https:\/\/embedindia.st\/embed\/wnba\/2026-08-22\/ind-ny",
           "type": "hls",
           "rewarded": false,
           "tokenApi": {
             "type": "embed",
-            "api": "https:\/\/embed.st\/embed\/admin\/ppv-minnesota-lynx-vs-washington-mystics\/1"
+            "api": "https:\/\/embedindia.st\/embed\/wnba\/2026-08-22\/ind-ny"
           }
         },
         {
           "label": "Server 3",
           "subtitle": "Live",
-          "url": "https:\/\/embedindia.st\/embed\/wnba\/2026-08-21\/min-wsh",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-indiana-fever-vs-new-york-liberty\/1",
           "type": "hls",
           "rewarded": false,
           "tokenApi": {
             "type": "embed",
-            "api": "https:\/\/embedindia.st\/embed\/wnba\/2026-08-21\/min-wsh"
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-indiana-fever-vs-new-york-liberty\/1"
           }
         }
       ]
