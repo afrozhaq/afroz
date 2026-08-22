@@ -1217,23 +1217,23 @@
         {
           "label": "Server 2",
           "subtitle": "Live",
-          "url": "https:\/\/embed.st\/embed\/admin\/ppv-portland-fire-vs-toronto-tempo\/1",
+          "url": "https:\/\/embedindia.st\/embed\/wnba\/2026-08-22\/atl-phx",
           "type": "hls",
           "rewarded": false,
           "tokenApi": {
             "type": "embed",
-            "api": "https:\/\/embed.st\/embed\/admin\/ppv-portland-fire-vs-toronto-tempo\/1"
+            "api": "https:\/\/embedindia.st\/embed\/wnba\/2026-08-22\/atl-phx"
           }
         },
         {
           "label": "Server 3",
           "subtitle": "Live",
-          "url": "https:\/\/embedindia.st\/embed\/wnba\/2026-08-21\/por-tor",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-atlanta-dream-vs-phoenix-mercury\/1",
           "type": "hls",
           "rewarded": false,
           "tokenApi": {
             "type": "embed",
-            "api": "https:\/\/embedindia.st\/embed\/wnba\/2026-08-21\/por-tor"
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-atlanta-dream-vs-phoenix-mercury\/1"
           }
         }
       ]
