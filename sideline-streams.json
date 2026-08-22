@@ -1175,23 +1175,23 @@
         {
           "label": "Server 2",
           "subtitle": "Live",
-          "url": "https:\/\/embed.st\/embed\/admin\/ppv-golden-state-valkyries-vs-chicago-sky\/1",
+          "url": "https:\/\/embedindia.st\/embed\/wnba\/2026-08-22\/con-la",
           "type": "hls",
           "rewarded": false,
           "tokenApi": {
             "type": "embed",
-            "api": "https:\/\/embed.st\/embed\/admin\/ppv-golden-state-valkyries-vs-chicago-sky\/1"
+            "api": "https:\/\/embedindia.st\/embed\/wnba\/2026-08-22\/con-la"
           }
         },
         {
           "label": "Server 3",
           "subtitle": "Live",
-          "url": "https:\/\/embedindia.st\/embed\/wnba\/2026-08-21\/gs-chi",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-connecticut-sun-vs-los-angeles-sparks\/1",
           "type": "hls",
           "rewarded": false,
           "tokenApi": {
             "type": "embed",
-            "api": "https:\/\/embedindia.st\/embed\/wnba\/2026-08-21\/gs-chi"
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-connecticut-sun-vs-los-angeles-sparks\/1"
           }
         }
       ]
