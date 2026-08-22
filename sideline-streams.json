@@ -1107,7 +1107,7 @@
         {
           "label": "Server 1",
           "subtitle": "Live",
-          "url": "hy",
+          "url": "https:\/\/hrfdddcsd.s3.us-east-1.amazonaws.com\/vikings.m3u8",
           "type": "hls",
           "rewarded": false
         },
@@ -1121,7 +1121,7 @@
         {
           "label": "Server 3",
           "subtitle": "Live",
-          "url": "Embed hd",
+          "url": "https:\/\/instreams.pro\/live\/NFLHD12\/mono.m3u8?st=rzmA10Cs0O1RYluH8jid1A&e=1787450279|Referer=https:\/\/instream.click\/jwp-us.php?stream=NFLHD12&Origin=https:\/\/instream.click\/jwp-us.php?stream=NFLHD12&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
