@@ -1044,7 +1044,7 @@
         {
           "label": "Server 1",
           "subtitle": "Live",
-          "url": "http",
+          "url": "https:\/\/hrfdddcsd.s3.us-east-1.amazonaws.com\/falcons.m3u8",
           "type": "hls",
           "rewarded": false
         },
