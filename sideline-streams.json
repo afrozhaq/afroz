@@ -1319,7 +1319,7 @@
         {
           "label": "Server 7",
           "subtitle": "Live",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb5de\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWRlOjE3ODczNzE3MDY2NzQ6Y2RubGl2ZXR2LnR2OmRjNGRhYzA2N2Q4MWFlZWYuOWQxZjhjNTVjNTY4ZGQ4MmUzMmM0OTUzNDFmMzJjNDcwZTlhYTY3MjY2ZmZhYzU3MDI0Y2JmZjZkMmVlZGM0ZQ",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2781d8192bb76cb306\/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzA2OjE3ODczNzMwMjQxNDE6Y2RubGl2ZXR2LnR2OjliN2M5ZWU2ODMwM2ZmODQuMTk2ZTZlYmNmMjNkODVlZTVmOWFjYWFkZTY1MjhiNmFlOTFlMjVhNzBlZjcwY2FlYTc2YTE5ZDljNjA5OTU4ZA|Referer=https:\/\/cdnlivetv.tv\/api\/v1\/channels\/player\/?name=NFL%20Network%20US&code=us&user=cdnlivetv&plan=free&Origin=https:\/\/cdnlivetv.tv\/api\/v1\/channels\/player\/?name=NFL%20Network%20US&code=us&user=cdnlivetv&plan=free&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
@@ -1333,7 +1333,7 @@
         {
           "label": "Server 9",
           "subtitle": "Live",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb5de\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWRlOjE3ODczNzE3MDY2NzQ6Y2RubGl2ZXR2LnR2OmRjNGRhYzA2N2Q4MWFlZWYuOWQxZjhjNTVjNTY4ZGQ4MmUzMmM0OTUzNDFmMzJjNDcwZTlhYTY3MjY2ZmZhYzU3MDI0Y2JmZjZkMmVlZGM0ZQ",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2781d8192bb76cb306\/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzA2OjE3ODczNzMwMjQxNDE6Y2RubGl2ZXR2LnR2OjliN2M5ZWU2ODMwM2ZmODQuMTk2ZTZlYmNmMjNkODVlZTVmOWFjYWFkZTY1MjhiNmFlOTFlMjVhNzBlZjcwY2FlYTc2YTE5ZDljNjA5OTU4ZA|Referer=https:\/\/cdnlivetv.tv\/api\/v1\/channels\/player\/?name=NFL%20Network%20US&code=us&user=cdnlivetv&plan=free&Origin=https:\/\/cdnlivetv.tv\/api\/v1\/channels\/player\/?name=NFL%20Network%20US&code=us&user=cdnlivetv&plan=free&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
