@@ -114,14 +114,14 @@
         {
           "label": "Server 2",
           "subtitle": "Live ( Home )",
-          "url": "",
+          "url": "https ",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
           "subtitle": "Live ( Away )",
-          "url": "",
+          "url": "https ",
           "type": "hls",
           "rewarded": false
         },
