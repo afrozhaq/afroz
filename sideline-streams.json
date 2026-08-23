@@ -194,6 +194,26 @@
           }
         }
       ]
+    },
+    {
+      "id": "s1787463968374",
+      "league": "nba",
+      "gameId": "",
+      "away": "PORTLAND FIRE",
+      "home": "WASHINGTON MYSTICS",
+      "title": "Portland Fire vs Washington Mystics",
+      "poster": "",
+      "startsAt": 1787526000000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live Now",
+          "url": "https",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
