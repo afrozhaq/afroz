@@ -221,6 +221,48 @@
       ]
     },
     {
+      "id": "s1787298518649",
+      "league": "nba",
+      "gameId": "",
+      "away": "DALLAS WINGS",
+      "home": "SEATTLE STORM",
+      "title": "Dallas Wings vs Seattle Storm",
+      "poster": "",
+      "startsAt": 1787515200000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "https:\/\/edgestream2.pro\/hls\/bvnsqdfvgha70.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "https:\/\/embedindia.st\/embed\/wnba\/2026-08-22\/ind-ny",
+          "type": "hls",
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/wnba\/2026-08-22\/ind-ny"
+          }
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-indiana-fever-vs-new-york-liberty\/1",
+          "type": "hls",
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-indiana-fever-vs-new-york-liberty\/1"
+          }
+        }
+      ]
+    },
+    {
       "id": "s1787464162330",
       "league": "mlb",
       "gameId": "",
@@ -327,117 +369,6 @@
           "rewarded": true,
           "drmScheme": "clearkey",
           "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
-        }
-      ]
-    },
-    {
-      "id": "s1787268701188",
-      "league": "nfl",
-      "gameId": "",
-      "away": "SEATTLE SEAHAWKS ",
-      "home": "TENNESSEE TITANS ",
-      "title": "SEATTLE SEAHAWKS Vs TENNESSEE TITANS ",
-      "poster": "",
-      "startsAt": 1787529600000,
-      "endsAt": 0,
-      "links": [
-        {
-          "label": "Server 1",
-          "subtitle": "Live",
-          "url": "hatss",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 2",
-          "subtitle": "Live",
-          "url": "hatss",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 3",
-          "subtitle": "Live",
-          "url": "hatss",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 4",
-          "subtitle": "Live",
-          "url": "hatss",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 5",
-          "subtitle": "Live",
-          "url": "hatss",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 6",
-          "subtitle": "Live",
-          "url": "hatss",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 7",
-          "subtitle": "Live",
-          "url": "hatss",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 8",
-          "subtitle": "Live",
-          "url": "hatss",
-          "type": "hls",
-          "rewarded": false
-        }
-      ]
-    },
-    {
-      "id": "s1787298518649",
-      "league": "nba",
-      "gameId": "",
-      "away": "DALLAS WINGS",
-      "home": "SEATTLE STORM",
-      "title": "Dallas Wings vs Seattle Storm",
-      "poster": "",
-      "startsAt": 1787515200000,
-      "endsAt": 0,
-      "links": [
-        {
-          "label": "Server 1",
-          "subtitle": "Live",
-          "url": "https:\/\/edgestream2.pro\/hls\/bvnsqdfvgha70.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 2",
-          "subtitle": "Live",
-          "url": "https:\/\/embedindia.st\/embed\/wnba\/2026-08-22\/ind-ny",
-          "type": "hls",
-          "rewarded": false,
-          "tokenApi": {
-            "type": "embed",
-            "api": "https:\/\/embedindia.st\/embed\/wnba\/2026-08-22\/ind-ny"
-          }
-        },
-        {
-          "label": "Server 3",
-          "subtitle": "Live",
-          "url": "https:\/\/embed.st\/embed\/admin\/ppv-indiana-fever-vs-new-york-liberty\/1",
-          "type": "hls",
-          "rewarded": false,
-          "tokenApi": {
-            "type": "embed",
-            "api": "https:\/\/embed.st\/embed\/admin\/ppv-indiana-fever-vs-new-york-liberty\/1"
-          }
         }
       ]
     },
@@ -554,6 +485,75 @@
           "label": "Server 3",
           "subtitle": "Live Now",
           "url": "https",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
+    },
+    {
+      "id": "s1787268701188",
+      "league": "nfl",
+      "gameId": "",
+      "away": "SEATTLE SEAHAWKS ",
+      "home": "TENNESSEE TITANS ",
+      "title": "SEATTLE SEAHAWKS Vs TENNESSEE TITANS ",
+      "poster": "",
+      "startsAt": 1787529600000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "hatss",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "hatss",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live",
+          "url": "hatss",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
+          "subtitle": "Live",
+          "url": "hatss",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 5",
+          "subtitle": "Live",
+          "url": "hatss",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 6",
+          "subtitle": "Live",
+          "url": "hatss",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 7",
+          "subtitle": "Live",
+          "url": "hatss",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 8",
+          "subtitle": "Live",
+          "url": "hatss",
           "type": "hls",
           "rewarded": false
         }
