@@ -974,58 +974,75 @@
         {
           "label": "Server 1",
           "subtitle": "Live",
-          "url": "hatss",
-          "type": "hls",
-          "rewarded": false
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/zbc6muqib6\/out\/v1\/f5774813052f4d5499e7611d0db33b2f\/cenc.mpd",
+          "type": "dash",
+          "rewarded": false,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8"
         },
         {
           "label": "Server 2",
           "subtitle": "Live",
-          "url": "hatss",
+          "url": "https:\/\/hrfdddcsd.s3.us-east-1.amazonaws.com\/lions.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
           "subtitle": "Live",
-          "url": "hatss",
+          "url": "https:\/\/edgestream2.pro\/hls\/JHDAJBDnjdna30.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
           "subtitle": "Live",
-          "url": "hatss",
+          "url": "https:\/\/dripcast.online\/stream\/live-nfl-tennessee-titans-seattle-seahawks-embedhd\/index.m3u8?key=NOIR-6L6B3K-2026",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
-          "subtitle": "Live",
-          "url": "hatss",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=seahawks=titans&s=home&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 6",
-          "subtitle": "Live",
-          "url": "hatss",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=seahawks=titans&s=away&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 7",
           "subtitle": "Live",
-          "url": "hatss",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2781d8192bb76cb38e\/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzhlOjE3ODc0OTkzNTUxMjk6Y2RubGl2ZXR2LnR2OjlkM2E0Zjk3YWMxYjlmNDcuNjQ1NGZhNGUxNWYwZWM4NTU0Y2Y4MGMxZDFiNzQ5MTljNmU3ZGM1ZTEwYzczNmYwYjM1ZjA5YzBiYTk4ODk4Yg",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 8",
           "subtitle": "Live",
-          "url": "hatss",
+          "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-08-23\/sea-ten",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/nfl\/2026-08-23\/sea-ten"
+          }
+        },
+        {
+          "label": "Server 9",
+          "subtitle": "Live",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-seattle-seahawks-at-tennessee-titans\/1",
+          "type": "hls",
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-seattle-seahawks-at-tennessee-titans\/1"
+          }
         }
       ]
     }
