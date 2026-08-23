@@ -1214,6 +1214,13 @@
           "drmLicenseUrl": "66e14add60c30be992503fa9a0ae5e20:8c736ae52ce3cab1e918d5f9e8ed6c62"
         },
         {
+          "label": "Server 10",
+          "subtitle": "Live",
+          "url": "https:\/\/hrfdddcsd.s3.us-east-1.amazonaws.com\/lions.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
           "label": "Server 2",
           "subtitle": "Live",
           "url": "https:\/\/edgestream2.pro\/hls\/cwxcnbscbsq39.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
@@ -1278,16 +1285,9 @@
           "rewarded": false
         },
         {
-          "label": "Server 10",
-          "subtitle": "Live",
-          "url": "https:\/\/hrfdddcsd.s3.us-east-1.amazonaws.com\/lions.m3u8",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
           "label": "Server 11",
           "subtitle": "Live",
-          "url": "https:\/\/edgestream2.pro\/hls\/cwxcnbscbsq39.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "url": "https:\/\/instreams.live\/live\/NFLHD13\/mono.m3u8?st=WFaGiMbi6YkpKnKB1IhXWQ&e=1787462332|Referer=https:\/\/instream.click\/jwp-us.php?stream=NFLHD13&Origin=https:\/\/instream.click\/jwp-us.php?stream=NFLHD13&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         }
