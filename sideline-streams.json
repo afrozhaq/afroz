@@ -73,11 +73,11 @@
       "id": "s1787298518649",
       "league": "nba",
       "gameId": "",
-      "away": "LIBERTY",
-      "home": "FEVER ",
-      "title": "Liberty vs Fever",
+      "away": "DALLAS WINGS",
+      "home": "SEATTLE STORM",
+      "title": "Dallas Wings vs Seattle Storm",
       "poster": "",
-      "startsAt": 1787439600000,
+      "startsAt": 1787515200000,
       "endsAt": 0,
       "links": [
         {
@@ -115,11 +115,11 @@
       "id": "s1787298598918",
       "league": "nba",
       "gameId": "",
-      "away": "SPARKS",
-      "home": "SUN",
-      "title": "Sparks vs Sun",
+      "away": "CHICAGO SKY",
+      "home": "INDIANA FEVER",
+      "title": "Chicago Sky vs Indiana Fever",
       "poster": "",
-      "startsAt": 1787446800000,
+      "startsAt": 1787526000000,
       "endsAt": 0,
       "links": [
         {
@@ -157,11 +157,11 @@
       "id": "s1787298661789",
       "league": "nba",
       "gameId": "",
-      "away": "MERCURY",
-      "home": "DREAM",
-      "title": "Mercury vs Dream",
+      "away": "TORONTO TEMPO",
+      "home": "LAS VEGAS ACES",
+      "title": "Toronto Tempo vs Las Vegas Aces",
       "poster": "",
-      "startsAt": 1787450400000,
+      "startsAt": 1787526000000,
       "endsAt": 0,
       "links": [
         {
