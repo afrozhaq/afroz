@@ -919,32 +919,39 @@
       "endsAt": 0,
       "links": [
         {
-          "label": "Server 1",
-          "subtitle": "Live",
-          "url": "https:\/\/edgestream2.pro\/hls\/pllmazjkdzajh72.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "label": "Server 1 ",
+          "subtitle": "Live ",
+          "url": "https:\/\/edgestream2.pro\/hls\/fdgsqdfawa73.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 2",
-          "subtitle": "Live",
-          "url": "https:\/\/embedindia.st\/embed\/wnba\/2026-08-22\/atl-phx",
+          "subtitle": "Live ",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc177\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTc3OjE3ODc0OTk0OTQ4NzI6Y2RubGl2ZXR2LnR2OjQxN2FkZjhjNGE4N2M2ZGMuMWU1YWI5YTMyZmVjNjdhZmQ2NjA1N2VhMWUxYWZmYTMyNGYxYzI0ZjcxNGU2NzliMzFkZjFiZGVjZDAxMWQ3NQ",
           "type": "hls",
-          "rewarded": false,
-          "tokenApi": {
-            "type": "embed",
-            "api": "https:\/\/embedindia.st\/embed\/wnba\/2026-08-22\/atl-phx"
-          }
+          "rewarded": false
         },
         {
           "label": "Server 3",
-          "subtitle": "Live",
-          "url": "https:\/\/embed.st\/embed\/admin\/ppv-atlanta-dream-vs-phoenix-mercury\/1",
+          "subtitle": "Live ",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-las-vegas-aces-vs-toronto-tempo\/1",
           "type": "hls",
           "rewarded": false,
           "tokenApi": {
             "type": "embed",
-            "api": "https:\/\/embed.st\/embed\/admin\/ppv-atlanta-dream-vs-phoenix-mercury\/1"
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-las-vegas-aces-vs-toronto-tempo\/1"
+          }
+        },
+        {
+          "label": "Server 4",
+          "subtitle": "Live ",
+          "url": "https:\/\/embedindia.st\/embed\/wnba\/2026-08-23\/lv-tor",
+          "type": "hls",
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/wnba\/2026-08-23\/lv-tor"
           }
         }
       ]
