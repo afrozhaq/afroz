@@ -182,56 +182,63 @@
           "drmLicenseUrl": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
         },
         {
-          "label": "Server 1 ",
+          "label": "Server 2",
           "subtitle": "Live ",
           "url": "https:\/\/edgestream2.pro\/hls\/hfzljfahzcax29.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 2 ",
-          "subtitle": "Live ( Home )",
+          "label": "Server 3",
+          "subtitle": "Live",
           "url": "https:\/\/node-88894cb5.4587.website\/6a8becdb.a31541f1i798bc8d0.bc16.d3fc51b1\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 3",
-          "subtitle": "Live ( Away )",
-          "url": "https ",
+          "label": "Server 4",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/ftv.dlhd.net\/MLBTVATL\/B0003\/master.m3u8?|Referer=https:\/\/xyzstreams.st\/&Origin=https:\/\/xyzstreams.st\/&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
+          "label": "Server 5",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/ftv.dlhd.net\/MLBTVMIL\/B0016\/master.m3u8?|Referer=https:\/\/xyzstreams.st\/&Origin=https:\/\/xyzstreams.st\/&User-agent=Mozilla\/5.0",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 6",
           "subtitle": "Live ",
           "url": "https:\/\/dripcast.online\/stream\/live-mlb-milwaukee-brewers-atlanta-braves-embedhd\/index.m3u8?key=NOIR-6L6B3K-2026",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
+          "label": "Server 7",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=braves=brewers&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 6",
+          "label": "Server 8",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=braves=brewers&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 7",
+          "label": "Server 9",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb59c\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNTljOjE3ODc0OTkzMDM2MjI6Y2RubGl2ZXR2LnR2OjU3NjkwYjI4NGQ2MDg5YjMuMTczMWIyMDhiNzhhYTMzMjU1NmQ5YWY0ZWU0OTE3ZmJjYzU1N2EzZDYzZDMxNjU4OTY3MzFmYzFiNTlhYzg2Yw",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 8",
+          "label": "Server 10",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-23\/atl-mil",
           "type": "hls",
@@ -242,7 +249,7 @@
           }
         },
         {
-          "label": "Server 9",
+          "label": "Server 11",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-atlanta-braves-vs-milwaukee-brewers\/1",
           "type": "hls",
