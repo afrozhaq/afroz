@@ -212,6 +212,20 @@
           "url": "https",
           "type": "hls",
           "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live Now",
+          "url": "https",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live Now",
+          "url": "https",
+          "type": "hls",
+          "rewarded": false
         }
       ]
     }
