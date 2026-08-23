@@ -265,6 +265,28 @@
       ]
     },
     {
+      "id": "s1787464162327",
+      "league": "mlb",
+      "gameId": "",
+      "away": "MIN",
+      "home": "SD",
+      "title": "Twins at Padres",
+      "poster": "",
+      "startsAt": 1787515800000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        }
+      ]
+    },
+    {
       "id": "s1787464162323",
       "league": "mlb",
       "gameId": "",
@@ -295,28 +317,6 @@
       "title": "Braves at Brewers",
       "poster": "",
       "startsAt": 1787526000000,
-      "endsAt": 0,
-      "links": [
-        {
-          "label": "HD",
-          "subtitle": "FHD",
-          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
-          "type": "dash",
-          "rewarded": true,
-          "drmScheme": "clearkey",
-          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
-        }
-      ]
-    },
-    {
-      "id": "s1787464162327",
-      "league": "mlb",
-      "gameId": "",
-      "away": "MIN",
-      "home": "SD",
-      "title": "Twins at Padres",
-      "poster": "",
-      "startsAt": 1787515800000,
       "endsAt": 0,
       "links": [
         {
