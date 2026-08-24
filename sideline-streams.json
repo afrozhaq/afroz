@@ -569,6 +569,26 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1787531010536",
+      "league": "nba",
+      "gameId": "",
+      "away": "MINNESOTA LYNX",
+      "home": "GOLDEN STATE VALKYRIES",
+      "title": "Minnesota Lynx vs Golden State Valkyries",
+      "poster": "",
+      "startsAt": 1787616000000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live Now",
+          "url": "https",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
