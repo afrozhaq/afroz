@@ -323,8 +323,50 @@
       "links": [
         {
           "label": "Server 1",
-          "subtitle": "Live Now",
-          "url": "https",
+          "subtitle": "Live ",
+          "url": "https:\/\/edgestream2.pro\/hls\/jkzahzadach20.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live ",
+          "url": "https:\/\/dripcast.online\/stream\/live-mlb-arizona-diamondbacks-chicago-cubs-embedhd\/index.m3u8?key=NOIR-6L6B3K-2026",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live ( home )",
+          "url": "https:\/\/ftv.xyzstreams.blog\/MLBTVARI\/B0002\/master.m3u8?|Referer=https:\/\/xyzstreams.st\/&Origin=https:\/\/xyzstreams.st\/&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
+          "subtitle": "Live ( away )",
+          "url": "https:\/\/ftv.xyzstreams.blog\/MLBTVCHC\/B0006\/master.m3u8?|Referer=https:\/\/xyzstreams.st\/&Origin=https:\/\/xyzstreams.st\/&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 5",
+          "subtitle": "Live ",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb630\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjMwOjE3ODc2MDcwODQ0Mjc6Y2RubGl2ZXR2LnR2OjczMWYxMTVhYjY2MDZkNmUuMmE1ZmYyMzY5MTU4NGE5NDRhZmM0ZjFmMDk1ZWU3YWQ3YzA0NTEwMjM4NjVlMjU5ZTI4M2U3ZmQ3ZTg4YTVjZA",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 6",
+          "subtitle": "Live ( home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=cubs=diamondbacks&s=home&sport=mlb",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 7",
+          "subtitle": "Live ( away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=cubs=diamondbacks&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         }
