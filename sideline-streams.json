@@ -589,6 +589,26 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1787531446513",
+      "league": "nba",
+      "gameId": "",
+      "away": "LOS ANGELES SPARKS",
+      "home": "ATLANTA DREAM",
+      "title": "Los Angeles Sparks vs Atlanta Dream",
+      "poster": "",
+      "startsAt": 1787623200000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live Now",
+          "url": "https",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
