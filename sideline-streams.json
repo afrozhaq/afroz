@@ -385,8 +385,50 @@
       "links": [
         {
           "label": "Server 1",
-          "subtitle": "Live Now",
-          "url": "https",
+          "subtitle": "Live",
+          "url": "https:\/\/edgestream2.pro\/hls\/ojzkajnach21.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "https:\/\/dripcast.online\/stream\/live-mlb-athletics-minnesota-twins-embedhd\/index.m3u8?key=NOIR-6L6B3K-2026",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live ( home )",
+          "url": "https:\/\/ftv.xyzstreams.blog\/MLBTVATH\/B0021\/master.m3u8?|Referer=https:\/\/xyzstreams.st\/&Origin=https:\/\/xyzstreams.st\/&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
+          "subtitle": "Live ( away )",
+          "url": "https:\/\/ftv.xyzstreams.blog\/MLBTVMIN\/B0017\/master.m3u8?|Referer=https:\/\/xyzstreams.st\/&Origin=https:\/\/xyzstreams.st\/&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 5",
+          "subtitle": "Live",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb622\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjIyOjE3ODc2MDcwNjIxNDQ6Y2RubGl2ZXR2LnR2OmNjZmFlYThiZWJmNTNlZjEuODcyNjBiMTc0ZmY4YWE2ZmFmYzY2YzBmODExNWU2YjEzMDZiOWU3MTUwNWU3ODMyZjkyY2ExNjY1ZjY4MTA5Ng",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 6",
+          "subtitle": "Live ( home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=twins=athletics&s=home&sport=mlb",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 7",
+          "subtitle": "Live ( away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=twins=athletics&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         }
