@@ -13,8 +13,50 @@
       "links": [
         {
           "label": "Server 1",
-          "subtitle": "Live Now",
-          "url": "https",
+          "subtitle": "Live ",
+          "url": "https:\/\/edgestream2.pro\/hls\/dazhfiach15.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live ",
+          "url": "https:\/\/dripcast.online\/stream\/live-mlb-miami-marlins-boston-red-sox-embedhd\/index.m3u8?key=NOIR-6L6B3K-2026",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live ( home )",
+          "url": "https:\/\/ftv.xyzstreams.blog\/MLBTVBOS\/B0005\/master.m3u8?|Referer=https:\/\/xyzstreams.st\/&Origin=https:\/\/xyzstreams.st\/&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
+          "subtitle": "Live ( away )",
+          "url": "https:\/\/ftv.xyzstreams.blog\/MLBTVMIA\/B0012\/master.m3u8?|Referer=https:\/\/xyzstreams.st\/&Origin=https:\/\/xyzstreams.st\/&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 5",
+          "subtitle": "Live ",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb628\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjI4OjE3ODc2MDY5NjEwODQ6Y2RubGl2ZXR2LnR2OjBlOGE3MTI2MjNlOTUwMGQuODZmMjZjNjI4N2M4NGI0MTgzYWUzNDBlMzkxZTBkMDNjZTFlMTA2NjgxYmQwNDY1MzA5NjM1OTNiYTg1MjU2NA",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 6",
+          "subtitle": "Live ( home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=redsox=marlins&s=home&sport=mlb",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 7",
+          "subtitle": "Live ( away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=redsox=marlins&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         }
