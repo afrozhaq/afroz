@@ -286,7 +286,7 @@
         {
           "label": "Server 2",
           "subtitle": "Live",
-          "url": "https:\/\/kingsmania.s3.us-east-1.amazonaws.com\/btsport.m3u8",
+          "url": "https:\/\/kingsmania.s3.us-east-1.amazonaws.com\/sportsnet.m3u8",
           "type": "hls",
           "rewarded": false
         },
