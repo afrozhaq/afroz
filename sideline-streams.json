@@ -609,6 +609,26 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1787532390731",
+      "league": "nfl",
+      "gameId": "",
+      "away": "BILLS",
+      "home": "STEELERS",
+      "title": "Bills vs Steelers",
+      "poster": "",
+      "startsAt": 1787871600000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live Now",
+          "url": "https",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
