@@ -436,6 +436,40 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1787655824775",
+      "league": "nba",
+      "gameId": "",
+      "away": "DALLAS WINGS ",
+      "home": "PORTLAND FIRE ",
+      "title": "DALLAS WINGS VS PORTLAND FIRE ",
+      "poster": "",
+      "startsAt": 1787702400000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live ",
+          "url": "https ",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live ",
+          "url": "https ",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live ",
+          "url": "https ",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
