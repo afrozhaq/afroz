@@ -402,6 +402,40 @@
           "rewarded": true
         }
       ]
+    },
+    {
+      "id": "s1787655635684",
+      "league": "nba",
+      "gameId": "",
+      "away": "CONNECTICUT SUN ",
+      "home": "CHICAGO SKY ",
+      "title": "CONNECTICUT SUN VS CHICAGO SKY ",
+      "poster": "",
+      "startsAt": 1787698800000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "https ",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "https ",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live",
+          "url": "https ",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
