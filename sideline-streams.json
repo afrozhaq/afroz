@@ -470,6 +470,40 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1787655929337",
+      "league": "nba",
+      "gameId": "",
+      "away": "PHOENIX MERCURY ",
+      "home": "WASHINGTON MYSTICS ",
+      "title": "PHOENIX MERCURY VS WASHINGTON MYSTICS ",
+      "poster": "",
+      "startsAt": 1787709600000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "https",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "https",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live",
+          "url": "https",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
