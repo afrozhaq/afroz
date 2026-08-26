@@ -604,22 +604,22 @@
         },
         {
           "label": "Server 2",
-          "subtitle": "Live ",
-          "url": "https:\/\/dripcast.online\/stream\/live-mlb-toronto-blue-jays-kansas-city-royals-embedhd\/index.m3u8?key=NOIR-QHBGWN-2026",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 3",
           "subtitle": "Live (home)",
           "url": "https:\/\/node-8bba18be.4587.website\/6a8fd9e4.0b30109fi798bc8d0.c229.94257074\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
+          "label": "Server 3",
           "subtitle": "Live (away)",
           "url": "https:\/\/node-8bba18be.4587.website\/6a8fde64.fda2d9d4i798bc8d0.c22a.9c809fb2\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
+          "subtitle": "Live ",
+          "url": "https:\/\/dripcast.online\/stream\/live-mlb-toronto-blue-jays-kansas-city-royals-embedhd\/index.m3u8?key=NOIR-QHBGWN-2026",
           "type": "hls",
           "rewarded": false
         },
