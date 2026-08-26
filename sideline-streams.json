@@ -238,13 +238,6 @@
           "rewarded": false
         },
         {
-          "label": "Server 2",
-          "subtitle": "Live",
-          "url": "https:\/\/dripcast.online\/stream\/live-mlb-los-angeles-angels-cleveland-guardians-embedhd\/index.m3u8?key=NOIR-QHBGWN-2026",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
           "label": "Server 3",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/node-9b5feb01.4587.website\/6a8faef2.a3a57fdbi798bc8d0.c203.c314f741\/free.live.espn\/master.m3u8",
@@ -255,6 +248,13 @@
           "label": "Server 4",
           "subtitle": "Live ( Away )",
           "url": "mp",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "https:\/\/dripcast.online\/stream\/live-mlb-los-angeles-angels-cleveland-guardians-embedhd\/index.m3u8?key=NOIR-QHBGWN-2026",
           "type": "hls",
           "rewarded": false
         },
