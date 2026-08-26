@@ -531,22 +531,22 @@
         },
         {
           "label": "Server 2",
-          "subtitle": "Live ",
-          "url": "https:\/\/dripcast.online\/stream\/live-mlb-new-york-yankees-houston-astros-embedhd\/index.m3u8?key=NOIR-QHBGWN-2026",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 3",
           "subtitle": "Live (home)",
           "url": "https:\/\/node-8bba18be.4587.website\/6a8fdfdb.dc913436i798bc8d0.c22f.6ad9fb35\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
+          "label": "Server 3",
           "subtitle": "Live (away)",
           "url": "https:\/\/node-8bba18be.4587.website\/6a8fdaf5.f3abcc3fi798bc8d0.c226.bd266cd3\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
+          "subtitle": "Live ",
+          "url": "https:\/\/dripcast.online\/stream\/live-mlb-new-york-yankees-houston-astros-embedhd\/index.m3u8?key=NOIR-QHBGWN-2026",
           "type": "hls",
           "rewarded": false
         },
