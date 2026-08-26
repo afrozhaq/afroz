@@ -969,34 +969,41 @@
         },
         {
           "label": "Server 3",
+          "subtitle": "Live (home)",
+          "url": "https:\/\/node-88894cb5.4587.website\/6a8fe180.e66e4742i798bc8d0.c23d.2557a9e6\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
           "subtitle": "Live (away)",
           "url": "https:\/\/node-88894cb5.4587.website\/6a8fdfd9.39f0c6fai798bc8d0.c23a.729c30af\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
+          "label": "Server 5",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=orioles=cardinals&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
+          "label": "Server 6",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=orioles=cardinals&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 6",
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb61b\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjFiOjE3ODc3NzYxODY4NjI6Y2RubGl2ZXR2LnR2OmQ4MWY1ZGI5NmY2NTYyOGYuYjE3NzBlNzU0ZGJhYzNiYjkyYTQ3YjIyYjdlMzA0MjAxOGU4MTZlNDA1M2E4YmQ2MmUzNmNjNTAxNDllMTYyZA",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 7",
+          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-26\/bal-stl",
           "type": "hls",
