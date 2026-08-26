@@ -994,6 +994,40 @@
           "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
         }
       ]
+    },
+    {
+      "id": "s1787765803733",
+      "league": "nba",
+      "gameId": "",
+      "away": "CONNECTICUT SUN ",
+      "home": "GOLDEN STATE VALKYRIES ",
+      "title": "CONNECTICUT SUN Vs GOLDEN STATE VALKYRIES ",
+      "poster": "",
+      "startsAt": 1787785200000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live ",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live ",
+          "url": "",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live ",
+          "url": "",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
