@@ -896,27 +896,41 @@
         },
         {
           "label": "Server 3",
+          "subtitle": "Live (home)",
+          "url": "https:\/\/node-8bba18be.4587.website\/6a8fdfda.a2610694i798bc8d0.c22b.56595f7e\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
+          "subtitle": "Live (away)",
+          "url": "https:\/\/node-88894cb5.4587.website\/6a8fdfdb.7961c6b0i798bc8d0.c23c.2062e8a7\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 5",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=rangers=whitesox&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
+          "label": "Server 6",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=rangers=whitesox&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb62d\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjJkOjE3ODc3NzYxNjA4NzU6Y2RubGl2ZXR2LnR2OjY5YmFmNzk3OWNkZjBkMTQuNzYwNmYxMmVlOTNmMmE2MTg1NDJkNGEwZTY1ZmQ0NGNjMDlhNzdmNTk3YzlmZjNjNmI3ZTE5NTkxMjA0NDVlOQ",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 6",
+          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-26\/tex-chw",
           "type": "hls",
