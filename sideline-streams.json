@@ -101,14 +101,14 @@
         {
           "label": "Server 3",
           "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=cubs=diamondbacks&s=home&sport=mlb",
+          "url": "https:\/\/node-88894cb5.4587.website\/6a8facc0.df34d4edi798bc8d0.c1f9.c60c9706\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
           "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=cubs=diamondbacks&s=away&sport=mlb",
+          "url": "https:\/\/node-88894cb5.4587.website\/6a8facc0.df34d4edi798bc8d0.c1f9.c60c9706\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
