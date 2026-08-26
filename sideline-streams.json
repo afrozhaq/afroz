@@ -1,79 +1,6 @@
 {
   "streams": [
     {
-      "id": "s1787725993891",
-      "league": "mlb",
-      "gameId": "",
-      "away": "TB",
-      "home": "DET",
-      "title": "Rays at Tigers",
-      "poster": "",
-      "startsAt": 1787764200000,
-      "endsAt": 0,
-      "links": [
-        {
-          "label": "Server 1",
-          "subtitle": "Live",
-          "url": "https:\/\/edgestream2.pro\/hls\/dazhfiach15.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 2",
-          "subtitle": "Live ( Home )",
-          "url": "https:\/\/node-5d763f4c.4587.website\/6a8f854f.f8b9e580i798bc8d0.c1e4.84ca53e9\/free.live.espn\/master.m3u8",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 3",
-          "subtitle": "Live ( Away )",
-          "url": "https:\/\/node-88894cb5.4587.website\/6a8f8be5.e5821a80i798bc8d0.c1e8.d7bf9ebb\/free.live.espn\/master.m3u8",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 4",
-          "subtitle": "Live",
-          "url": "https:\/\/dripcast.online\/stream\/live-mlb-detroit-tigers-tampa-bay-rays-embedhd\/index.m3u8?key=NOIR-QHBGWN-2026",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 5",
-          "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=rays=tigers&s=home&sport=mlb",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 6",
-          "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=rays=tigers&s=away&sport=mlb",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 7",
-          "subtitle": "Live",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb629\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjI5OjE3ODc3NzU4NTc3ODg6Y2RubGl2ZXR2LnR2OmMzNzIxNjRlMDQ0ZjQxMWYuODU4MWViMGI3NGM0YjUzYTc4Yjg2NzI4NTAxYWJiMTRiMzEwZTBhYTBlNGQ0ZTJhZTQwMjlhYWRmMDVlNzIzYQ",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 8",
-          "subtitle": "Live",
-          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-26\/tb-det",
-          "type": "hls",
-          "rewarded": false,
-          "tokenApi": {
-            "type": "embed",
-            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-26\/tb-det"
-          }
-        }
-      ]
-    },
-    {
       "id": "s1787725993880",
       "league": "mlb",
       "gameId": "",
@@ -962,22 +889,22 @@
         },
         {
           "label": "Server 2",
-          "subtitle": "Live ",
-          "url": "https:\/\/dripcast.online\/stream\/live-mlb-st-louis-cardinals-baltimore-orioles-embedhd\/index.m3u8?key=NOIR-QHBGWN-2026",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 3",
           "subtitle": "Live (home)",
           "url": "https:\/\/node-88894cb5.4587.website\/6a8fe180.e66e4742i798bc8d0.c23d.2557a9e6\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
+          "label": "Server 3",
           "subtitle": "Live (away)",
           "url": "https:\/\/node-88894cb5.4587.website\/6a8fdfd9.39f0c6fai798bc8d0.c23a.729c30af\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
+          "subtitle": "Live ",
+          "url": "https:\/\/dripcast.online\/stream\/live-mlb-st-louis-cardinals-baltimore-orioles-embedhd\/index.m3u8?key=NOIR-QHBGWN-2026",
           "type": "hls",
           "rewarded": false
         },
