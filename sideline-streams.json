@@ -254,19 +254,33 @@
         {
           "label": "Server 4",
           "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=guardians=angels&s=away&sport=mlb",
+          "url": "mp",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=guardians=angels&s=home&sport=mlb",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 6",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=guardians=angels&s=away&sport=mlb",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 7",
           "subtitle": "Live",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb632\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjMyOjE3ODc3NzU5NjA0NDg6Y2RubGl2ZXR2LnR2OjkzZTgzZTA2OWQ3ZTNhNzIuMjE1MmI0OThmYTRiNjE3NzAzY2M2ODhiMzFhNTQ4YTE1NjFiMDYwNjRhMWQzMWE5ODc5MjA2MTc0ZTRiNTQwYw",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 6",
+          "label": "Server 8",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-26\/cle-laa",
           "type": "hls",
