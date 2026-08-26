@@ -312,34 +312,48 @@
         },
         {
           "label": "Server 2",
-          "subtitle": "Live",
-          "url": "https:\/\/dripcast.online\/stream\/live-mlb-seattle-mariners-philadelphia-phillies-embedhd\/index.m3u8?key=NOIR-QHBGWN-2026",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 3",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/node-9b5feb01.4587.website\/6a8faf4e.5f97f7a8i798bc8d0.c201.99b7184d\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
+          "label": "Server 3",
           "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=phillies=mariners&s=away&sport=mlb",
+          "url": "mp",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
+          "subtitle": "Live",
+          "url": "https:\/\/dripcast.online\/stream\/live-mlb-seattle-mariners-philadelphia-phillies-embedhd\/index.m3u8?key=NOIR-QHBGWN-2026",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
+          "subtitle": "Live (home)",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=phillies=mariners&s=home&sport=mlb",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 6",
+          "subtitle": "Live (away)",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=phillies=mariners&s=away&sport=mlb",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 7",
           "subtitle": "Live",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb61c\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjFjOjE3ODc3NzU5ODI0NjI6Y2RubGl2ZXR2LnR2OjNiZTJjYjQ3NGQyZWRiY2IuNDVjOGU3YWNlNTJhZmEwOWMyNjM4ZTA0ODBkYmU5NGEyYmUzOTRkNTRkNWQyYmNjNzJmN2JkYmNkYzQ3MDVjYg",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 6",
+          "label": "Server 8",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-26\/phi-sea",
           "type": "hls",
