@@ -684,20 +684,27 @@
         },
         {
           "label": "Server 4",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb618\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjE4OjE3ODc3NzYwODA0NzI6Y2RubGl2ZXR2LnR2OmQ2NzgwN2E1MTNmM2UyNWEuMGQ2ZDM2Zjg3NTljYjQzZjRhZjZiM2UyYjQxNGUyZGIxZWZmNTJiZDMwMjUwYmZkNGVhYjU0MTA4MjRiNjJlNA",
+          "subtitle": "Live (away)",
+          "url": "https:\/\/node-8bba18be.4587.website\/6a8fde64.fda2d9d4i798bc8d0.c22a.9c809fb2\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
           "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb615\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjE1OjE3ODc3NzYwOTI0MjU6Y2RubGl2ZXR2LnR2OjAzYzEwM2MzZWU2MmIwZjguM2Y2ZjJjNzQ4YjlmNzMwMTlmNWFjZjY2NjkwY2MwODRkY2MzMjUyZTNmOTE2NWZlYzk3M2U5ZjY5ZWMxZjdhYQ",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb618\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjE4OjE3ODc3NzYwODA0NzI6Y2RubGl2ZXR2LnR2OmQ2NzgwN2E1MTNmM2UyNWEuMGQ2ZDM2Zjg3NTljYjQzZjRhZjZiM2UyYjQxNGUyZGIxZWZmNTJiZDMwMjUwYmZkNGVhYjU0MTA4MjRiNjJlNA",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 6",
+          "subtitle": "Live ",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb615\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjE1OjE3ODc3NzYwOTI0MjU6Y2RubGl2ZXR2LnR2OjAzYzEwM2MzZWU2MmIwZjguM2Y2ZjJjNzQ4YjlmNzMwMTlmNWFjZjY2NjkwY2MwODRkY2MzMjUyZTNmOTE2NWZlYzk3M2U5ZjY5ZWMxZjdhYQ",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-26\/kc-tor",
           "type": "hls",
