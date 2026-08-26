@@ -729,27 +729,34 @@
         },
         {
           "label": "Server 3",
+          "subtitle": "Live (home)",
+          "url": "https:\/\/node-8bba18be.4587.website\/6a8fd9e5.981fce80i798bc8d0.c228.f3c99700\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=brewers=mets&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
+          "label": "Server 5",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=brewers=mets&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
+          "label": "Server 6",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb625\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjI1OjE3ODc3NzYxMDk5OTQ6Y2RubGl2ZXR2LnR2OmM2MmNkMTBjNGQ2MjlmMjIuODYyMTc2NDU0MzU4MTRkMTYxODZhY2VmYmNlNDllMDdiZmE4ODkyNWMxZjVkYTVjZTRkYWVkYzUwMDIxNzZmYw",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 6",
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-26\/mil-nym",
           "type": "hls",
