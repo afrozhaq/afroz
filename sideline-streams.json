@@ -458,22 +458,22 @@
         },
         {
           "label": "Server 2",
-          "subtitle": "Live ",
-          "url": "https:\/\/dripcast.online\/stream\/live-mlb-washington-nationals-colorado-rockies-embedhd\/index.m3u8?key=NOIR-QHBGWN-2026",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 3",
           "subtitle": "Live (home)",
           "url": "https:\/\/node-8bba18be.4587.website\/6a8fd906.a421de41i798bc8d0.c221.ce55bb67\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
+          "label": "Server 3",
           "subtitle": "Live (away)",
           "url": "https:\/\/node-8bba18be.4587.website\/6a8fd906.19a16647i798bc8d0.c227.ef875c41\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
+          "subtitle": "Live ",
+          "url": "https:\/\/dripcast.online\/stream\/live-mlb-washington-nationals-colorado-rockies-embedhd\/index.m3u8?key=NOIR-QHBGWN-2026",
           "type": "hls",
           "rewarded": false
         },
