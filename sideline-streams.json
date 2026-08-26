@@ -114,13 +114,27 @@
         },
         {
           "label": "Server 5",
+          "subtitle": "Live ( home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=cubs=diamondbacks&s=home&sport=mlb",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 6",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=cubs=diamondbacks&s=away&sport=mlb",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 7",
           "subtitle": "Live",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb630\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjMwOjE3ODc3NzU5MTMzNzM6Y2RubGl2ZXR2LnR2OjllMjU4ZGU0OWI5ZWUyYTkuYmVjMWUwNTU0NjI0NTM5MzkwNzUzN2YxNTAzMGM2MWU0ZjEwNmMxNjA3MTRiZmQ0YTQ0YjU3MDM5MjY0NDQzYw",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 6",
+          "label": "Server 8",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-26\/chc-ari",
           "type": "hls",
@@ -173,13 +187,27 @@
         },
         {
           "label": "Server 5",
+          "subtitle": "Live ( home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=reds=giants&s=home&sport=mlb",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 6",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=reds=giants&s=away&sport=mlb",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 7",
           "subtitle": "Live",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb61d\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjFkOjE3ODc3NzU5MzY1NDE6Y2RubGl2ZXR2LnR2OjFjMzM2ZjJiNDY3MmM5NDYuM2FmNzBiNmViMWRmYjYzNmNmNWFjOTUwMDYxYmFlY2Y1NmQxYWNhODFhNzJiMTNjYzJkNDczYjU0ZjEyZjU3MQ",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 6",
+          "label": "Server 8",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-26\/cin-sf",
           "type": "hls",
