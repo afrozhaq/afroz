@@ -1487,6 +1487,40 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1787843722045",
+      "league": "nba",
+      "gameId": "",
+      "away": "NEW YORK LIBERTY ",
+      "home": "GOLDEN STATE VALKYRIES ",
+      "title": "New York Liberty Vs Golden State Valkyries ",
+      "poster": "",
+      "startsAt": 1787875200000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "https",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "https",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live",
+          "url": "https",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
