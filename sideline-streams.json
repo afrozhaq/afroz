@@ -1804,23 +1804,27 @@
         {
           "label": "Server 1",
           "subtitle": "Live",
-          "url": "https",
+          "url": "https:\/\/edgestream2.pro\/hls\/bvnsqdfvgha70.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 2",
           "subtitle": "Live",
-          "url": "https",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2781d8192bb76cb305\/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzA1OjE3ODc4NjA1MTM3NTc6Y2RubGl2ZXR2LnR2OmE3MjNjNDM3YjVmZjY5ODAuYmU5YjhmMTZhNjk2YzE3NDFkYmQyMzdkZDA0MjY4OWU5YzY1ODg5MTQ2M2QyZjllZDhhNjgyNjhlMjJmY2RkYg",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
           "subtitle": "Live",
-          "url": "https",
+          "url": "https:\/\/embedindia.st\/embed\/wnba\/2026-08-27\/gs-ny",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/wnba\/2026-08-27\/gs-ny"
+          }
         }
       ]
     },
