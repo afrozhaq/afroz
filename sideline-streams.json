@@ -301,11 +301,43 @@
       "endsAt": 0,
       "links": [
         {
-          "label": "Server ",
+          "label": "Server 1",
           "subtitle": "Live ",
-          "url": "https:\/\/edgestream2.pro\/hls\/jkzahzadach20.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "url": "https:\/\/edgestream2.pro\/hls\/Czajafjihafch18.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
-          "rewarded": true
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live ",
+          "url": "https:\/\/dripcast.online\/stream\/live-mlb-toronto-blue-jays-kansas-city-royals-embedhd\/index.m3u8?key=NOIR-QHBGWN-2026",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live ",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc275\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMjc1OjE3ODc4NjAzODEzNTA6Y2RubGl2ZXR2LnR2OjcyMGY1ZmMzMzlmZjAwYTYuYWE0YjQ3NTEyNTc4MTdjODgxZjUyMGFmMzlmYTFiNDQ2ZGQ5ODQxMTM1ZmU4MDc4ZTVkNDI1MmI2MjRhYTBkOQ",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
+          "subtitle": "Live ",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb615\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjE1OjE3ODc4NjAzOTAzNzM6Y2RubGl2ZXR2LnR2OjE0MDAxY2E4YjhmYThlMWMuMWE2Y2JmOWYyZmE2ZWVhYWY4YzkxMjZiOWNkYWUwMDllODQ5MTU0YWRjYjMxODc1M2I4ODE0MDQwMjNmYzA5NQ",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 5",
+          "subtitle": "Live ",
+          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-27\/kc-tor",
+          "type": "hls",
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-27\/kc-tor"
+          }
         }
       ]
     },
