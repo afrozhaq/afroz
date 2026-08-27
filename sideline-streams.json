@@ -248,34 +248,41 @@
         },
         {
           "label": "Server 3",
+          "subtitle": "Live (away)",
+          "url": "https:\/\/node-8bba18be.4587.website\/6a9131a6.9f483c56i798bc8d0.c400.caa6a35b\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
           "subtitle": "Live ",
           "url": "https:\/\/dripcast.online\/stream\/live-mlb-new-york-mets-milwaukee-brewers-embedhd\/index.m3u8?key=NOIR-QHBGWN-2026",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
+          "label": "Server 5",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=brewers=mets&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
+          "label": "Server 6",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=brewers=mets&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 6",
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb625\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjI1OjE3ODc4NjA0MTA4MzQ6Y2RubGl2ZXR2LnR2OjljODNkMWZmNmE0ODRhMmEuYjRmZGMzZDI1YjY4OTM5MGM1ZmZmNzZmODY5MzUxMGNiY2EzZTg3NjcyMWVlZDE5ODhmZTViOGY1NDIzNjA2Zg",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 7",
+          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-27\/mil-nym",
           "type": "hls",
