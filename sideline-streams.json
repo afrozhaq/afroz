@@ -141,92 +141,48 @@
         {
           "label": "Server 1",
           "subtitle": "Live ",
-          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd",
-          "type": "dash",
-          "rewarded": false,
-          "drmScheme": "clearkey",
-          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+          "url": "https:\/\/edgestream2.pro\/hls\/JHDAJBDnjdna30.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": false
         },
         {
           "label": "Server 2",
           "subtitle": "Live ",
-          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd",
-          "type": "dash",
-          "rewarded": false,
-          "drmScheme": "clearkey",
-          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+          "url": "https:\/\/dripcast.online\/stream\/live-nfl-buffalo-bills-pittsburgh-steelers-embedhd\/index.m3u8?key=NOIR-QHBGWN-2026",
+          "type": "hls",
+          "rewarded": false
         },
         {
           "label": "Server 3",
-          "subtitle": "Live ",
-          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd",
-          "type": "dash",
-          "rewarded": false,
-          "drmScheme": "clearkey",
-          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=steelers=bills&s=home&sport=nfl",
+          "type": "hls",
+          "rewarded": false
         },
         {
           "label": "Server 4",
-          "subtitle": "Live ",
-          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd",
-          "type": "dash",
-          "rewarded": false,
-          "drmScheme": "clearkey",
-          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=steelers=bills&s=away&sport=nfl",
+          "type": "hls",
+          "rewarded": false
         },
         {
           "label": "Server 5",
           "subtitle": "Live ",
-          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd",
-          "type": "dash",
-          "rewarded": false,
-          "drmScheme": "clearkey",
-          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb5de\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWRlOjE3ODc4NjAzMjA2MTE6Y2RubGl2ZXR2LnR2OmIyZTJkNDQ5OTQzMDg1MWEuZGVmMzNjNjM1MTNmZTkwZmE2YjkwMTlmNDlkOGU3MmMxMDliMGNmYmI5YWUzZmNhZTE1ZmE4M2MyYWUzYTRkYg",
+          "type": "hls",
+          "rewarded": false
         },
         {
           "label": "Server 6",
           "subtitle": "Live ",
-          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd",
-          "type": "dash",
+          "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-08-27\/pit-buf",
+          "type": "hls",
           "rewarded": false,
-          "drmScheme": "clearkey",
-          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
-        },
-        {
-          "label": "Server 7",
-          "subtitle": "Live ",
-          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd",
-          "type": "dash",
-          "rewarded": false,
-          "drmScheme": "clearkey",
-          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
-        },
-        {
-          "label": "Server 8",
-          "subtitle": "Live ",
-          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd",
-          "type": "dash",
-          "rewarded": false,
-          "drmScheme": "clearkey",
-          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
-        },
-        {
-          "label": "Server 9",
-          "subtitle": "Live ",
-          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd",
-          "type": "dash",
-          "rewarded": false,
-          "drmScheme": "clearkey",
-          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
-        },
-        {
-          "label": "Server 10",
-          "subtitle": "Live ",
-          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd",
-          "type": "dash",
-          "rewarded": false,
-          "drmScheme": "clearkey",
-          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/nfl\/2026-08-27\/pit-buf"
+          }
         }
       ]
     },
