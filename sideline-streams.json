@@ -413,7 +413,7 @@
         {
           "label": "Server 2",
           "subtitle": "Live",
-          "url": "https:\/\/donelliosaavedra.s3.us-east-1.amazonaws.com\/espn.m3u8",
+          "url": "https:\/\/donelliosaavedra.s3.us-east-1.amazonaws.com\/patriots.m3u8",
           "type": "hls",
           "rewarded": false
         },
