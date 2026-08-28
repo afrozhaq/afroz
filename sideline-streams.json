@@ -655,6 +655,17 @@
             "type": "embed",
             "api": "https:\/\/embedindia.st\/embed\/nfl\/2026-08-27\/lar-lac"
           }
+        },
+        {
+          "label": "Server 7",
+          "subtitle": "Live",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-los-angeles-rams-at-los-angeles-chargers\/1",
+          "type": "hls",
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-los-angeles-rams-at-los-angeles-chargers\/1"
+          }
         }
       ]
     },
