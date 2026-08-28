@@ -357,40 +357,33 @@
         {
           "label": "Server 1",
           "subtitle": "Live ",
-          "url": "https:\/\/instreams.pro\/live\/NFLHD22\/mono.m3u8?st=s9yzO68XwFvkbztcZGrWVA&e=1787968408|Referer=https:\/\/instream.click\/jwp-us.php?stream=NFLHD22&Origin=https:\/\/instream.click\/jwp-us.php?stream=NFLHD22&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "url": "https:\/\/edgestream2.pro\/hls\/qsdnajbq32.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 2",
           "subtitle": "Live ",
-          "url": "https:\/\/edgestream2.pro\/hls\/qsdnajbq32.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "url": "https:\/\/dripcast.online\/stream\/live-nfl-carolina-panthers-houston-texans-embedhd\/index.m3u8?key=NOIR-QHBGWN-2026",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
           "subtitle": "Live ",
-          "url": "https:\/\/dripcast.online\/stream\/live-nfl-carolina-panthers-houston-texans-embedhd\/index.m3u8?key=NOIR-QHBGWN-2026",
+          "url": "https:\/\/livecdn-tc-iptv.rumsport10.live\/live_abr\/52461\/720p\/chunks.m3u8?is_vip=false&token=1788042762-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b2ce90059f9fc4bf58899433ee1b9640|Referer=https:\/\/iframe.rumsport8.live\/&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/120.0.0.0 Safari\/537.36",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
           "subtitle": "Live ",
-          "url": "https:\/\/livecdn-tc-iptv.rumsport10.live\/live_abr\/52461\/720p\/chunks.m3u8?is_vip=false&token=1788042762-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b2ce90059f9fc4bf58899433ee1b9640|Referer=https:\/\/iframe.rumsport8.live\/&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/120.0.0.0 Safari\/537.36",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 5",
-          "subtitle": "Live ",
           "url": "https:\/\/dripcast.online\/stream\/live-nfl-carolina-panthers-houston-texans-2-embedhd\/index.m3u8?key=NOIR-QHBGWN-2026",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 6",
+          "label": "Server 5",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-08-28\/hou-car",
           "type": "hls",
@@ -401,21 +394,21 @@
           }
         },
         {
-          "label": "Server 7",
+          "label": "Server 6",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=texans=panthers&s=home&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 8",
+          "label": "Server 7",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=texans=panthers&s=away&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 9",
+          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-houston-texans-at-carolina-panthers\/1",
           "type": "hls",
