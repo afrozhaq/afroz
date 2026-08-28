@@ -785,72 +785,52 @@
         {
           "label": "Server 1",
           "subtitle": "Live",
-          "url": "https ",
+          "url": "https:\/\/edgestream2.pro\/hls\/yetehznecs37.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 2",
           "subtitle": "Live",
-          "url": "https ",
+          "url": "https:\/\/dripcast.online\/stream\/live-nfl-dallas-cowboys-new-orleans-saints-embedhd\/index.m3u8?key=NOIR-QHBGWN-2026",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
           "subtitle": "Live",
-          "url": "https ",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2681d8192bb76ca98a\/playlist.m3u8?token=NmEyODhkMjY4MWQ4MTkyYmI3NmNhOThhOjE3ODc5MzIwNDM1NDE6Y2RubGl2ZXR2LnR2OmFlMzg5ZmJjYmYzNjhiYmUuZWQ0NjczMTIxNDQ3YmFhNDlmYThkZjY2ZDhjYmFiOWUxZjRlNzIyMTUzZTQ5ZGJhNWVhODJlY2RiNDE4ZTMzNA",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
           "subtitle": "Live",
-          "url": "https ",
+          "url": "https:\/\/dripcast.online\/stream\/live-nfl-dallas-cowboys-new-orleans-saints-2-embedhd\/index.m3u8?key=NOIR-QHBGWN-2026",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
           "subtitle": "Live",
-          "url": "https ",
+          "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-08-28\/no-dal",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/nfl\/2026-08-28\/no-dal"
+          }
         },
         {
           "label": "Server 6",
           "subtitle": "Live",
-          "url": "https ",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-new-orleans-saints-at-dallas-cowboys\/1",
           "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 7",
-          "subtitle": "Live",
-          "url": "https ",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 8",
-          "subtitle": "Live",
-          "url": "https ",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 9",
-          "subtitle": "Live",
-          "url": "https ",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 10",
-          "subtitle": "Live",
-          "url": "https ",
-          "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-new-orleans-saints-at-dallas-cowboys\/1"
+          }
         }
       ]
     },
