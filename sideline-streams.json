@@ -1325,6 +1325,40 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1787907749882",
+      "league": "nba",
+      "gameId": "",
+      "away": "INDIANA FEVER ",
+      "home": "CONNECTICUT SUN ",
+      "title": "Indiana Fever Vs Connecticut Sun",
+      "poster": "",
+      "startsAt": 1787959800000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live ",
+          "url": "https ",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live ",
+          "url": "https ",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live ",
+          "url": "https ",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
