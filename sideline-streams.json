@@ -218,34 +218,48 @@
         },
         {
           "label": "Server 2",
+          "subtitle": "Live (home)",
+          "url": "https:\/\/node-88894cb5.4587.website\/6a92810c.f5918e40i798bc8d0.c595.bfeb1a0a\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live (home)",
+          "url": "https:\/\/node-025d151e.4587.website\/6a92810b.2f559275i798bc8d0.c585.db61e14c\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
           "subtitle": "Live",
           "url": "https:\/\/dripcast.online\/stream\/live-mlb-detroit-tigers-los-angeles-dodgers-embedhd\/index.m3u8?key=NOIR-QHBGWN-2026",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 3",
+          "label": "Server 5",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=dodgers=tigers&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
+          "label": "Server 6",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=dodgers=tigers&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
+          "label": "Server 7",
           "subtitle": "Live",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb629\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjI5OjE3ODc5MzIxMzc0NTI6Y2RubGl2ZXR2LnR2OjBmY2FmNWM4ZjUzMWZlY2QuNWU4NDI4OGU0ZjA2YjFkODEzYWYzNTBlM2I4ZDU2YWEyNGU4ZWY0ODlhODViZDIwYzY0MmRkZGI4OGJmNmE1Mw",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 6",
+          "label": "Server 8",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-28\/lad-det",
           "type": "hls",
@@ -256,7 +270,7 @@
           }
         },
         {
-          "label": "Server 7",
+          "label": "Server 9",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-los-angeles-dodgers-vs-detroit-tigers\/1",
           "type": "hls",
@@ -288,34 +302,41 @@
         },
         {
           "label": "Server 2",
-          "subtitle": "Live",
-          "url": "https:\/\/dripcast.online\/stream\/live-mlb-washington-nationals-miami-marlins-embedhd\/index.m3u8?key=NOIR-QHBGWN-2026",
+          "subtitle": "Live (home)",
+          "url": "https:\/\/node-88894cb5.4587.website\/6a92810b.c8fcd0d3i798bc8d0.c5ac.5247c5a0\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
+          "subtitle": "Live (away)",
+          "url": "https:\/\/node-5d763f4c.4587.website\/6a92810b.14dcb505i798bc8d0.c5b4.7656b38a\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=marlins=nationals&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
+          "label": "Server 5",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=marlins=nationals&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
+          "label": "Server 6",
           "subtitle": "Live",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb628\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjI4OjE3ODc5MzIxNTgyOTQ6Y2RubGl2ZXR2LnR2OjZhMDE3OGRiMDBkNzU5YTkuMjgyOGY0NDVhZTA0MTA5NDBiZjgxMGRmNWY2NDc0M2FkYTZkZDE1ODBhNzdhZmIzOGM4YTJhODBhNmEwZWZlNg",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 6",
+          "label": "Server 7",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-28\/mia-wsh",
           "type": "hls",
@@ -326,7 +347,7 @@
           }
         },
         {
-          "label": "Server 7",
+          "label": "Server 8",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-miami-marlins-vs-washington-nationals\/1",
           "type": "hls",
