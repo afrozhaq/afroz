@@ -1393,6 +1393,40 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1787907952033",
+      "league": "nba",
+      "gameId": "",
+      "away": "LAS VEGAS ACES ",
+      "home": "TORONTO TEMPO ",
+      "title": "Las Vegas Aces Vs Toronto Tempo ",
+      "poster": "",
+      "startsAt": 1787968800000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live ",
+          "url": "https ",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live ",
+          "url": "https ",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live ",
+          "url": "https ",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
