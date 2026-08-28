@@ -1,6 +1,104 @@
 {
   "streams": [
     {
+      "id": "s1787843722045",
+      "league": "nba",
+      "gameId": "",
+      "away": "NEW YORK LIBERTY ",
+      "home": "GOLDEN STATE VALKYRIES ",
+      "title": "New York Liberty Vs Golden State Valkyries ",
+      "poster": "",
+      "startsAt": 1787875200000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "https:\/\/edgestream2.pro\/hls\/bvnsqdfvgha70.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2781d8192bb76cb305\/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzA1OjE3ODc4NjA1MTM3NTc6Y2RubGl2ZXR2LnR2OmE3MjNjNDM3YjVmZjY5ODAuYmU5YjhmMTZhNjk2YzE3NDFkYmQyMzdkZDA0MjY4OWU5YzY1ODg5MTQ2M2QyZjllZDhhNjgyNjhlMjJmY2RkYg",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live",
+          "url": "https:\/\/embedindia.st\/embed\/wnba\/2026-08-27\/gs-ny",
+          "type": "hls",
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/wnba\/2026-08-27\/gs-ny"
+          }
+        }
+      ]
+    },
+    {
+      "id": "s1787843787513",
+      "league": "nba",
+      "gameId": "",
+      "away": "PHOENIX MERCURY ",
+      "home": "WASHINGTON MYSTICS ",
+      "title": "Phoenix Mercury Vs Washington Mystics ",
+      "poster": "",
+      "startsAt": 1787882400000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live ",
+          "url": "https:\/\/edgestream2.pro\/hls\/ztyarueaghj71.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live ",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2781d8192bb76cb305\/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzA1OjE3ODc4NjA1ODYwNjk6Y2RubGl2ZXR2LnR2OmJkMjQ4ZjcxMWM3YjM0YTcuMWFjY2RjOGRmN2Y4ODA2YWU1NTk5MjQxYWZkOTcwZDkwM2M5NWY5NzQ2M2U0YmExNTlhYzE3ZmRmNTNiN2JjZA",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live ",
+          "url": "https:\/\/embedindia.st\/embed\/wnba\/2026-08-27\/wsh-phx",
+          "type": "hls",
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/wnba\/2026-08-27\/wsh-phx"
+          }
+        }
+      ]
+    },
+    {
+      "id": "s1787897460900",
+      "league": "mlb",
+      "gameId": "",
+      "away": "CIN",
+      "home": "CHC",
+      "title": "Reds at Cubs",
+      "poster": "",
+      "startsAt": 1787941200000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        }
+      ]
+    },
+    {
       "id": "s1787813463109",
       "league": "nfl",
       "gameId": "",
@@ -80,6 +178,50 @@
           "url": "https ",
           "type": "hls",
           "rewarded": false
+        }
+      ]
+    },
+    {
+      "id": "s1787897460904",
+      "league": "mlb",
+      "gameId": "",
+      "away": "LAD",
+      "home": "DET",
+      "title": "Dodgers at Tigers",
+      "poster": "",
+      "startsAt": 1787956800000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        }
+      ]
+    },
+    {
+      "id": "s1787897460905",
+      "league": "mlb",
+      "gameId": "",
+      "away": "MIA",
+      "home": "WSH",
+      "title": "Marlins at Nationals",
+      "poster": "",
+      "startsAt": 1787957100000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
         }
       ]
     },
@@ -250,6 +392,138 @@
       ]
     },
     {
+      "id": "s1787897460902",
+      "league": "mlb",
+      "gameId": "",
+      "away": "HOU",
+      "home": "NYM",
+      "title": "Astros at Mets",
+      "poster": "",
+      "startsAt": 1787958600000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        }
+      ]
+    },
+    {
+      "id": "s1787897460903",
+      "league": "mlb",
+      "gameId": "",
+      "away": "KC",
+      "home": "CLE",
+      "title": "Royals at Guardians",
+      "poster": "",
+      "startsAt": 1787958600000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        }
+      ]
+    },
+    {
+      "id": "s1787897460908",
+      "league": "mlb",
+      "gameId": "",
+      "away": "SD",
+      "home": "TB",
+      "title": "Padres at Rays",
+      "poster": "",
+      "startsAt": 1787958600000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        }
+      ]
+    },
+    {
+      "id": "s1787897460898",
+      "league": "mlb",
+      "gameId": "",
+      "away": "BOS",
+      "home": "NYY",
+      "title": "Red Sox at Yankees",
+      "poster": "",
+      "startsAt": 1787958900000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        }
+      ]
+    },
+    {
+      "id": "s1787897460901",
+      "league": "mlb",
+      "gameId": "",
+      "away": "COL",
+      "home": "ATL",
+      "title": "Rockies at Braves",
+      "poster": "",
+      "startsAt": 1787958900000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        }
+      ]
+    },
+    {
+      "id": "s1787897460909",
+      "league": "mlb",
+      "gameId": "",
+      "away": "SEA",
+      "home": "TOR",
+      "title": "Mariners at Blue Jays",
+      "poster": "",
+      "startsAt": 1787958900000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        }
+      ]
+    },
+    {
       "id": "s1787814498557",
       "league": "nfl",
       "gameId": "",
@@ -412,6 +686,28 @@
           "url": "https ",
           "type": "hls",
           "rewarded": false
+        }
+      ]
+    },
+    {
+      "id": "s1787897460910",
+      "league": "mlb",
+      "gameId": "",
+      "away": "TEX",
+      "home": "MIL",
+      "title": "Rangers at Brewers",
+      "poster": "",
+      "startsAt": 1787960400000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
         }
       ]
     },
@@ -748,6 +1044,50 @@
       ]
     },
     {
+      "id": "s1787897460899",
+      "league": "mlb",
+      "gameId": "",
+      "away": "CHW",
+      "home": "MIN",
+      "title": "White Sox at Twins",
+      "poster": "",
+      "startsAt": 1787962200000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        }
+      ]
+    },
+    {
+      "id": "s1787897460907",
+      "league": "mlb",
+      "gameId": "",
+      "away": "PIT",
+      "home": "STL",
+      "title": "Pirates at Cardinals",
+      "poster": "",
+      "startsAt": 1787962500000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        }
+      ]
+    },
+    {
       "id": "s1787815418830",
       "league": "nfl",
       "gameId": "",
@@ -827,6 +1167,72 @@
           "url": "https ",
           "type": "hls",
           "rewarded": false
+        }
+      ]
+    },
+    {
+      "id": "s1787897460906",
+      "league": "mlb",
+      "gameId": "",
+      "away": "PHI",
+      "home": "LAA",
+      "title": "Phillies at Angels",
+      "poster": "",
+      "startsAt": 1787967480000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        }
+      ]
+    },
+    {
+      "id": "s1787897460897",
+      "league": "mlb",
+      "gameId": "",
+      "away": "BAL",
+      "home": "OAK",
+      "title": "Orioles at OAK",
+      "poster": "",
+      "startsAt": 1787967600000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        }
+      ]
+    },
+    {
+      "id": "s1787897460896",
+      "league": "mlb",
+      "gameId": "",
+      "away": "ARI",
+      "home": "SF",
+      "title": "Diamondbacks at Giants",
+      "poster": "",
+      "startsAt": 1787969700000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "HD",
+          "subtitle": "FHD",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": true,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
         }
       ]
     },
@@ -993,82 +1399,6 @@
           "url": "https ",
           "type": "hls",
           "rewarded": false
-        }
-      ]
-    },
-    {
-      "id": "s1787843722045",
-      "league": "nba",
-      "gameId": "",
-      "away": "NEW YORK LIBERTY ",
-      "home": "GOLDEN STATE VALKYRIES ",
-      "title": "New York Liberty Vs Golden State Valkyries ",
-      "poster": "",
-      "startsAt": 1787875200000,
-      "endsAt": 0,
-      "links": [
-        {
-          "label": "Server 1",
-          "subtitle": "Live",
-          "url": "https:\/\/edgestream2.pro\/hls\/bvnsqdfvgha70.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 2",
-          "subtitle": "Live",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2781d8192bb76cb305\/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzA1OjE3ODc4NjA1MTM3NTc6Y2RubGl2ZXR2LnR2OmE3MjNjNDM3YjVmZjY5ODAuYmU5YjhmMTZhNjk2YzE3NDFkYmQyMzdkZDA0MjY4OWU5YzY1ODg5MTQ2M2QyZjllZDhhNjgyNjhlMjJmY2RkYg",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 3",
-          "subtitle": "Live",
-          "url": "https:\/\/embedindia.st\/embed\/wnba\/2026-08-27\/gs-ny",
-          "type": "hls",
-          "rewarded": false,
-          "tokenApi": {
-            "type": "embed",
-            "api": "https:\/\/embedindia.st\/embed\/wnba\/2026-08-27\/gs-ny"
-          }
-        }
-      ]
-    },
-    {
-      "id": "s1787843787513",
-      "league": "nba",
-      "gameId": "",
-      "away": "PHOENIX MERCURY ",
-      "home": "WASHINGTON MYSTICS ",
-      "title": "Phoenix Mercury Vs Washington Mystics ",
-      "poster": "",
-      "startsAt": 1787882400000,
-      "endsAt": 0,
-      "links": [
-        {
-          "label": "Server 1",
-          "subtitle": "Live ",
-          "url": "https:\/\/edgestream2.pro\/hls\/ztyarueaghj71.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 2",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2781d8192bb76cb305\/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzA1OjE3ODc4NjA1ODYwNjk6Y2RubGl2ZXR2LnR2OmJkMjQ4ZjcxMWM3YjM0YTcuMWFjY2RjOGRmN2Y4ODA2YWU1NTk5MjQxYWZkOTcwZDkwM2M5NWY5NzQ2M2U0YmExNTlhYzE3ZmRmNTNiN2JjZA",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 3",
-          "subtitle": "Live ",
-          "url": "https:\/\/embedindia.st\/embed\/wnba\/2026-08-27\/wsh-phx",
-          "type": "hls",
-          "rewarded": false,
-          "tokenApi": {
-            "type": "embed",
-            "api": "https:\/\/embedindia.st\/embed\/wnba\/2026-08-27\/wsh-phx"
-          }
         }
       ]
     }
