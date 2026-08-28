@@ -711,74 +711,63 @@
       "endsAt": 0,
       "links": [
         {
+          "label": "Main Server ",
+          "subtitle": "Live ",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/5xrogwf1bx\/out\/v1\/d67356c474724ecc9ced667c7630dcab\/cenc.mpd",
+          "type": "dash",
+          "rewarded": false,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "66e14add60c30be992503fa9a0ae5e20:8c736ae52ce3cab1e918d5f9e8ed6c62"
+        },
+        {
           "label": "Server 1",
           "subtitle": "Live ",
-          "url": "https ",
+          "url": "https:\/\/edgestream2.pro\/hls\/jkhazabcka36.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 2",
           "subtitle": "Live ",
-          "url": "https ",
+          "url": "https:\/\/dripcast.online\/stream\/live-nfl-kansas-city-chiefs-seattle-seahawks-embedhd\/index.m3u8?key=NOIR-QHBGWN-2026",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
           "subtitle": "Live ",
-          "url": "https ",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc173\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTczOjE3ODc5MzE5NzMwODM6Y2RubGl2ZXR2LnR2OjEzYjlkNzk3OGU5YTlhMWQuYjQ1ZWU0Y2I1YTJlMzJkOGViZDBjNDczMTRhNTE2YmEzNzFkNmMzMmMzMzU4YTY4NGY0MmE5MTg0YzQyYWU3MQ",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
           "subtitle": "Live ",
-          "url": "https ",
+          "url": "https:\/\/dripcast.online\/stream\/live-nfl-kansas-city-chiefs-seattle-seahawks-2-embedhd\/index.m3u8?key=NOIR-QHBGWN-2026",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
           "subtitle": "Live ",
-          "url": "https ",
+          "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-08-28\/sea-kc",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/nfl\/2026-08-28\/sea-kc"
+          }
         },
         {
           "label": "Server 6",
           "subtitle": "Live ",
-          "url": "https ",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-seattle-seahawks-at-kansas-city-chiefs\/1",
           "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 7",
-          "subtitle": "Live ",
-          "url": "https ",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 8",
-          "subtitle": "Live ",
-          "url": "https ",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 9",
-          "subtitle": "Live ",
-          "url": "https ",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 10",
-          "subtitle": "Live ",
-          "url": "https ",
-          "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-seattle-seahawks-at-kansas-city-chiefs\/1"
+          }
         }
       ]
     },
