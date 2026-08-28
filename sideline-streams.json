@@ -1051,34 +1051,48 @@
         },
         {
           "label": "Server 2",
+          "subtitle": "Live (home)",
+          "url": "https:\/\/node-8bba18be.4587.website\/6a9283ee.15d45db7i798bc8d0.c5eb.3c1fb226\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live (away)",
+          "url": "https:\/\/node-9b5feb01.4587.website\/6a9283ee.0388924bi798bc8d0.c5e4.6561490b\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
           "subtitle": "Live",
           "url": "https:\/\/dripcast.online\/stream\/live-mlb-milwaukee-brewers-texas-rangers-embedhd\/index.m3u8?key=NOIR-QHBGWN-2026",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 3",
+          "label": "Server 5",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=rangers=brewers&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
+          "label": "Server 6",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=rangers=brewers&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
+          "label": "Server 7",
           "subtitle": "Live",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb613\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjEzOjE3ODc5MzIzNTg4NTI6Y2RubGl2ZXR2LnR2OjgxNzU1MDAzZDUxMGNhY2MuNTZiNjkyMDA4Mjg1ZGQzZmRhOTkxN2ZlMjdjMDNmNzk5YTdjMWY4N2E3NWMyOGE3ZTlhZTZkZDc5YzQwZmUyYw",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 6",
+          "label": "Server 8",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-28\/tex-mil",
           "type": "hls",
@@ -1089,7 +1103,7 @@
           }
         },
         {
-          "label": "Server 7",
+          "label": "Server 9",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-texas-rangers-vs-milwaukee-brewers\/1",
           "type": "hls",
