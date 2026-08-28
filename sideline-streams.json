@@ -1359,6 +1359,40 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1787907858210",
+      "league": "nba",
+      "gameId": "",
+      "away": "ATLANTA DREAM ",
+      "home": "PORTLAND FIRE ",
+      "title": "Atlanta Dream Vs Portland Fire ",
+      "poster": "",
+      "startsAt": 1787959800000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live ",
+          "url": "http ",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live ",
+          "url": "http ",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live ",
+          "url": "http ",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
