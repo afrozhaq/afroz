@@ -1386,6 +1386,20 @@
         },
         {
           "label": "Server 5",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=saints=cowboys&s=home&sport=nfl",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 6",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=saints=cowboys&s=away&sport=nfl",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 7",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-08-28\/no-dal",
           "type": "hls",
@@ -1396,7 +1410,7 @@
           }
         },
         {
-          "label": "Server 6",
+          "label": "Server 8",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-new-orleans-saints-at-dallas-cowboys\/1",
           "type": "hls",
