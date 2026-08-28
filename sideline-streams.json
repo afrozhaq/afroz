@@ -1607,6 +1607,20 @@
         },
         {
           "label": "Server 5",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=vikings=broncos&s=home&sport=nfl",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 6",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=vikings=broncos&s=away&sport=nfl",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 7",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-minnesota-vikings-at-denver-broncos\/1",
           "type": "hls",
