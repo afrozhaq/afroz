@@ -2001,23 +2001,38 @@
         {
           "label": "Server 1",
           "subtitle": "Live",
-          "url": "https ",
+          "url": "https:\/\/edgestream2.pro\/hls\/fdgsqdfawa73.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 2",
           "subtitle": "Live",
-          "url": "https ",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2781d8192bb76cb305\/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzA1OjE3ODc5MzI1NTIyNDI6Y2RubGl2ZXR2LnR2OjllNzJkYjM4MzdiZWVlZDIuOGRlODRmNDBjM2NjZDFmMzdiZmExNWE0MzEzN2ZjOWQwN2RiMDM5YTcwYTRmNzM3ZjM2MDhlOTFmZDgyNzJjNg",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
           "subtitle": "Live",
-          "url": "https ",
+          "url": "https:\/\/embedindia.st\/embed\/wnba\/2026-08-28\/wsh-la",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/wnba\/2026-08-28\/wsh-la"
+          }
+        },
+        {
+          "label": "Server 4",
+          "subtitle": "Live",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-washington-mystics-vs-los-angeles-sparks\/1",
+          "type": "hls",
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-washington-mystics-vs-los-angeles-sparks\/1"
+          }
         }
       ]
     }
