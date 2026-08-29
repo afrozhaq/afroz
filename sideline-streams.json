@@ -676,23 +676,38 @@
         {
           "label": "Server 1",
           "subtitle": "Live",
-          "url": "h",
+          "url": "https:\/\/edgestream2.pro\/hls\/bvnsqdfvgha70.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 2",
           "subtitle": "Live",
-          "url": "",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2981d8192bb76cbc97\/playlist.m3u8?token=NmEyODhkMjk4MWQ4MTkyYmI3NmNiYzk3OjE3ODgwMjcyNjUxNDc6Y2RubGl2ZXR2LnR2OjU0Y2NjZGMzMWQyMzI4OWUuNjFkNjUwOTg0NTdmMTM3Mzc5ZDVkMjIxNWFhNmI1ZDA0ZTE0ZWYzZmM3MGU4MGEzNjU1MWE4YjViZmRkOWRjOA",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
           "subtitle": "Live",
-          "url": "",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-chicago-sky-vs-new-york-liberty\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-chicago-sky-vs-new-york-liberty\/1"
+          }
+        },
+        {
+          "label": "Server 4",
+          "subtitle": "Live",
+          "url": "https:\/\/embedindia.st\/embed\/wnba\/2026-08-29\/chi-ny",
+          "type": "hls",
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/wnba\/2026-08-29\/chi-ny"
+          }
         }
       ]
     },
