@@ -549,20 +549,34 @@
         },
         {
           "label": "Server 2",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/node-9b5feb01.4587.website\/6a93a09f.d6591a66i798bc8d0.c788.d05daf4e\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/node-9b5feb01.4587.website\/6a93a09f.dc289430i798bc8d0.c796.cf03701b\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
           "subtitle": "Live",
           "url": "https:\/\/dripcast.online\/stream\/live-mlb-toronto-blue-jays-seattle-mariners-embedhd\/index.m3u8?key=NOIR-QHBGWN-2026",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 3",
+          "label": "Server 5",
           "subtitle": "Live",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb618\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjE4OjE3ODgwMjY5OTAyNjY6Y2RubGl2ZXR2LnR2OjIwYTk1MDNjNjNjN2Q3ZTMuMjQ3MWRjZDlkNmUyMjhmMTU1ZDdlMGQwYzFmZTdmOGQwYzE3NTUyMTE4MzM1MGU3ZThmZjM4ZmU3MGI1MmVhYw",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
+          "label": "Server 6",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-29\/sea-tor",
           "type": "hls",
@@ -573,7 +587,7 @@
           }
         },
         {
-          "label": "Server 5",
+          "label": "Server 7",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-seattle-mariners-vs-toronto-blue-jays\/1",
           "type": "hls",
