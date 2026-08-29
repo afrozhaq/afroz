@@ -472,27 +472,41 @@
         },
         {
           "label": "Server 3",
+          "subtitle": "Live (home)",
+          "url": "https:\/\/node-025d151e.4587.website\/6a938e5f.06225cd7i798bc8d0.c768.2b29ea84\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
+          "subtitle": "Live (away)",
+          "url": "https:\/\/node-88894cb5.4587.website\/6a938e5f.60232295i798bc8d0.c783.cf9a4c1a\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 5",
           "subtitle": "Live",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb631\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjMxOjE3ODgwMjY5NzAwNDI6Y2RubGl2ZXR2LnR2OjYxODg1ODc0YjVmNDcwN2EuODRjNjk3Y2U0OGIxM2U0NTE1MGQ0NTZhNTAzMGUwNWEyNmM2OGQ3YTMyMjNjN2QxOTQ0YzBiYzRjOWUxNmJkZg",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
+          "label": "Server 6",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=reds=cubs&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
+          "label": "Server 7",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=reds=cubs&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 6",
+          "label": "Server 8",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-cincinnati-reds-vs-chicago-cubs\/1",
           "type": "hls",
@@ -503,7 +517,7 @@
           }
         },
         {
-          "label": "Server 7",
+          "label": "Server 9",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-29\/pit-stl",
           "type": "hls",
