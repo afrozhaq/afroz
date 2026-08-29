@@ -206,34 +206,48 @@
         },
         {
           "label": "Server 2",
+          "subtitle": "Live (home)",
+          "url": "https:\/\/node-9b5feb01.4587.website\/6a9386a0.e2a62c75i798bc8d0.c75e.61617c83\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live (away)",
+          "url": "https:\/\/node-5d763f4c.4587.website\/6a93869f.1555f61ei798bc8d0.c75c.672a930a\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
           "subtitle": "Live",
           "url": "https:\/\/dripcast.online\/stream\/live-mlb-detroit-tigers-los-angeles-dodgers-embedhd\/index.m3u8?key=NOIR-QHBGWN-2026",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 3",
+          "label": "Server 5",
           "subtitle": "Live",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb629\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjI5OjE3ODgwMjY5MDE3NDc6Y2RubGl2ZXR2LnR2OmI0OGQ4NDExZmExZjZiNzEuZGM5ZTU2YmQxNjhhM2YzMzk0ODE3NjMwNTJiY2Q2NDJlYTI4MmQ5YjQxNzIwN2YyYjg5OWU0ZWQ1YTA4NjJmNQ",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
+          "label": "Server 6",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=dodgers=tigers&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
+          "label": "Server 7",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=dodgers=tigers&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 6",
+          "label": "Server 8",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-29\/lad-det",
           "type": "hls",
@@ -244,7 +258,7 @@
           }
         },
         {
-          "label": "Server 7",
+          "label": "Server 9",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-los-angeles-dodgers-vs-detroit-tigers\/1",
           "type": "hls",
