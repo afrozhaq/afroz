@@ -381,34 +381,48 @@
         },
         {
           "label": "Server 2",
+          "subtitle": "Live (home)",
+          "url": "https:\/\/node-5d763f4c.4587.website\/6a938e5f.b0c62fb6i798bc8d0.c76c.c6019bc3\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live (away)",
+          "url": "https:\/\/node-88894cb5.4587.website\/6a938e5f.11a2b9c5i798bc8d0.c77a.9a982618\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
           "subtitle": "Live",
           "url": "https:\/\/dripcast.online\/stream\/live-mlb-st-louis-cardinals-pittsburgh-pirates-embedhd\/index.m3u8?key=NOIR-QHBGWN-2026",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 3",
+          "label": "Server 5",
           "subtitle": "Live",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb61b\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjFiOjE3ODgwMjY5NTQ2ODg6Y2RubGl2ZXR2LnR2OjliNjI1NGEyZWExMjNmODMuZDZlMzliYTdiNzRiY2NkYWY0MjdmY2JmMWJmMmVmMWExZGRhNWE1ZjQzNzJiYjQ1Y2Y0OTg2YWI5N2M1NDY1OA",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
+          "label": "Server 6",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=pirates=cardinals&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
+          "label": "Server 7",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=pirates=cardinals&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 6",
+          "label": "Server 8",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-29\/pit-stl",
           "type": "hls",
@@ -419,7 +433,7 @@
           }
         },
         {
-          "label": "Server 7",
+          "label": "Server 9",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-pittsburgh-pirates-vs-st-louis-cardinals\/1",
           "type": "hls",
