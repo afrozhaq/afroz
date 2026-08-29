@@ -114,42 +114,56 @@
           "drmLicenseUrl": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b"
         },
         {
-          "label": "Server 1",
+          "label": "Server 2",
           "subtitle": "Live",
           "url": "https:\/\/edgestream2.pro\/hls\/dazhfiach15.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 2",
+          "label": "Server 3",
+          "subtitle": "Live (home)",
+          "url": "https:\/\/node-8bba18be.4587.website\/6a9386a0.53635c0di798bc8d0.c755.856a97bb\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
+          "subtitle": "Live (away)",
+          "url": "https:\/\/node-8bba18be.4587.website\/6a9386a0.53635c0di798bc8d0.c755.856a97bb\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 5",
           "subtitle": "Live",
           "url": "https:\/\/dripcast.online\/stream\/live-mlb-new-york-yankees-boston-red-sox-embedhd\/index.m3u8?key=NOIR-QHBGWN-2026",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 3",
+          "label": "Server 6",
           "subtitle": "Live",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb623\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjIzOjE3ODgwMjY4Nzg4MTA6Y2RubGl2ZXR2LnR2OmFmMjgxYWM3NjAzMGE1MmQuMzc3NjQyMDkyODk4NTE1M2ZhODc5NDA4ZjdhYmYxZTJjMGYzZTRmZDk3YTYyODY1YWI1MTNhYjkzNDQ5M2NhOA",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
+          "label": "Server 7",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=redsox=yankees&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
+          "label": "Server 8",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=redsox=yankees&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 6",
+          "label": "Server 9",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-29\/bos-nyy",
           "type": "hls",
@@ -160,7 +174,7 @@
           }
         },
         {
-          "label": "Server 7",
+          "label": "Server 10",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-boston-red-sox-vs-new-york-yankees\/1",
           "type": "hls",
