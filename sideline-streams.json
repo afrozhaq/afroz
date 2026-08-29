@@ -21,56 +21,63 @@
           "drmLicenseUrl": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7"
         },
         {
-          "label": "Server 1",
+          "label": "Server 2",
           "subtitle": "Live",
           "url": "https:\/\/dripcast.online\/nfl_streams\/index.php?q=lions-vs-colts.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 2",
+          "label": "Server 3",
           "subtitle": "Live",
           "url": "https:\/\/edgestream2.pro\/hls\/JHDAJBDnjdna30.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 3",
+          "label": "Server 4",
+          "subtitle": "Live",
+          "url": "https:\/\/node-88894cb5.4587.website\/6a938e39.32bffea0i798bc8d0.c765.7b49fbc9\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 5",
           "subtitle": "Live",
           "url": "https:\/\/dripcast.online\/stream\/live-nfl-indianapolis-colts-detroit-lions-embedhd\/index.m3u8?key=NOIR-QHBGWN-2026",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
+          "label": "Server 6",
           "subtitle": "Live",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb5de\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWRlOjE3ODgwMjczMDU5OTM6Y2RubGl2ZXR2LnR2OjY2OWEwNmQ5NTE2NTljZTYuYzczM2UzZTIxYTc5NjQwNDNiMGNkNTJhZDVlMjI5OGYyODQ1NzQyMDFiM2YxODM2ODEwY2Q2NTlhYzRkMjg3Yw",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
+          "label": "Server 7",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=lions=colts&s=home&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 6",
+          "label": "Server 8",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=lions=colts&s=away&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 7",
+          "label": "Server 9",
           "subtitle": "Live",
           "url": "https:\/\/dripcast.online\/stream\/live-nfl-indianapolis-colts-detroit-lions-2-embedhd\/index.m3u8?key=NOIR-QHBGWN-2026",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 8",
+          "label": "Server 10",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-08-29\/det-ind",
           "type": "hls",
@@ -81,7 +88,7 @@
           }
         },
         {
-          "label": "Server 9",
+          "label": "Server 11",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-detroit-lions-at-indianapolis-colts\/1",
           "type": "hls",
