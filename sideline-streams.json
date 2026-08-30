@@ -279,6 +279,26 @@
           "rewarded": true
         }
       ]
+    },
+    {
+      "id": "s1788098959513",
+      "league": "nba",
+      "gameId": "",
+      "away": "ATLANTA DREAM ",
+      "home": "MINNESOTA LYNX ",
+      "title": "Atlanta Dream Vs Minnesota Lynx ",
+      "poster": "",
+      "startsAt": 1788116400000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
