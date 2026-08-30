@@ -299,6 +299,26 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1788099012198",
+      "league": "nba",
+      "gameId": "",
+      "away": "SEATTLE STORM ",
+      "home": "LOS ANGELES SPARKS ",
+      "title": "Seattle Storm Vs Los Angeles Sparks ",
+      "poster": "",
+      "startsAt": 1788123600000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "ht",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
