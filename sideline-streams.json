@@ -339,6 +339,26 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1788099106423",
+      "league": "nba",
+      "gameId": "",
+      "away": "DALLAS WINGS ",
+      "home": "CONNECTICUT SUN ",
+      "title": "Dallas Wings Vs Connecticut Sun ",
+      "poster": "",
+      "startsAt": 1788136200000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live ",
+          "url": "http",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
