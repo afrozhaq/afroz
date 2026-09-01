@@ -483,7 +483,7 @@
         {
           "label": "Server 4",
           "subtitle": "Live",
-          "url": "https:\/\/dripcast.online\/stream\/live-mlb-minnesota-twins-detroit-tigers-embedhd\/index.m3u8",
+          "url": "https ",
           "type": "hls",
           "rewarded": false
         },
@@ -504,13 +504,6 @@
         {
           "label": "Server 7",
           "subtitle": "Live",
-          "url": "https ",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 8",
-          "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-01\/det-min",
           "type": "hls",
           "rewarded": false,
@@ -520,7 +513,7 @@
           }
         },
         {
-          "label": "Server 9",
+          "label": "Server 8",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-detroit-tigers-vs-minnesota-twins\/1",
           "type": "hls",
