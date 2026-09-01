@@ -20,48 +20,41 @@
         },
         {
           "label": "Server 2",
-          "subtitle": "Live",
-          "url": "https:\/\/dripcast.online\/stream\/live-mlb-tampa-bay-rays-new-york-mets-embedhd\/index.m3u8",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 3",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/node-5d763f4c.4587.website\/6a97c19f.3f6af371i798bc8d0.ceb4.561955fe\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
+          "label": "Server 3",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/node-5d763f4c.4587.website\/6a97c19f.ec7602b8i798bc8d0.ceba.85162541\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
+          "label": "Server 4",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=mets=rays&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 6",
+          "label": "Server 5",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=mets=rays&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 7",
+          "label": "Server 6",
           "subtitle": "Live",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb61a\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjFhOjE3ODgzMTU0MDE2MTU6Y2RubGl2ZXR2LnR2OjBiYTJmYTRhNjRkMTJiZGMuYWMyMjc0ZjkzZWNkN2FmZWZmNmJjNmY1ZGZkMmZhOGEzYjk5YTYyODM1ZjU0ZmUzYjE2MDYxNWU0YzI1YzU5YQ",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 8",
+          "label": "Server 7",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-01\/nym-tb",
           "type": "hls",
@@ -72,7 +65,7 @@
           }
         },
         {
-          "label": "Server 9",
+          "label": "Server 8",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-new-york-mets-vs-tampa-bay-rays\/1",
           "type": "hls",
@@ -104,48 +97,41 @@
         },
         {
           "label": "Server 2",
-          "subtitle": "Live",
-          "url": "https:\/\/dripcast.online\/stream\/live-mlb-cincinnati-reds-san-diego-padres-embedhd\/index.m3u8",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 3",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/node-8bba18be.4587.website\/6a97c19e.f8c127afi798bc8d0.ceb1.e4251e30\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
+          "label": "Server 3",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/node-9b5feb01.4587.website\/6a97c19e.86db70d3i798bc8d0.cec7.e5f60145\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
+          "label": "Server 4",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=padres=reds&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 6",
+          "label": "Server 5",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=padres=reds&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 7",
+          "label": "Server 6",
           "subtitle": "Live",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb617\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjE3OjE3ODgzMTU1NzEyNDc6Y2RubGl2ZXR2LnR2OmUyNTE3MWI1Y2NkMGIxY2IuOWNiN2Y5MGZmMzZhN2IxM2E5YjZhOWFmYTdiY2FlZTIyNDA2NjEyNDNjZDUxMjhkM2M0ZjAyMzRlYWJhNmY2OA",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 8",
+          "label": "Server 7",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-01\/sd-cin",
           "type": "hls",
@@ -156,7 +142,7 @@
           }
         },
         {
-          "label": "Server 9",
+          "label": "Server 8",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-san-diego-padres-vs-cincinnati-reds\/1",
           "type": "hls",
@@ -188,48 +174,41 @@
         },
         {
           "label": "Server 2",
-          "subtitle": "Live",
-          "url": "https:\/\/dripcast.online\/stream\/live-mlb-pittsburgh-pirates-san-francisco-giants-embedhd\/index.m3u8",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 3",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/node-88894cb5.4587.website\/6a97c1a0.04bb0f3ei798bc8d0.cead.c00cc136\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
+          "label": "Server 3",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/node-8bba18be.4587.website\/6a97c1a0.f1863fe4i798bc8d0.cec0.1cdfd4b8\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
+          "label": "Server 4",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=giants=pirates&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 6",
+          "label": "Server 5",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=giants=pirates&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 7",
+          "label": "Server 6",
           "subtitle": "Live",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb621\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjIxOjE3ODgzMTUzMDk4NjE6Y2RubGl2ZXR2LnR2OmVmNWQ1ZGM4MzFhYzE1YWMuYjM0ODQyNDM3MTU3ZjI2OWUzZmM0YTFlYjg5MzBiNmRkNTA1NTRlNzE5Mjk3ZGYxNTkzNzA4NDE5YzI3OGQxMg",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 8",
+          "label": "Server 7",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-01\/sf-pit",
           "type": "hls",
@@ -240,7 +219,7 @@
           }
         },
         {
-          "label": "Server 9",
+          "label": "Server 8",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-san-francisco-giants-vs-pittsburgh-pirates\/1",
           "type": "hls",
