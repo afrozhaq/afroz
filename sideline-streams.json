@@ -469,35 +469,35 @@
         {
           "label": "Server 2",
           "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=tigers=twins&s=home&sport=mlb",
+          "url": "https:\/\/node-88894cb5.4587.website\/6a97cfc0.2bb72a6di798bc8d0.ced2.ddb3cd51\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
           "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=tigers=twins&s=away&sport=mlb",
+          "url": "https:\/\/node-9b5feb01.4587.website\/6a97cfc0.64354cbfi798bc8d0.cedf.0a88e919\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
-          "subtitle": "Live",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb624\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjI0OjE3ODgzMTg0ODkzOTY6Y2RubGl2ZXR2LnR2OjI5MzdmMDRiY2Q3ZmE5NjYuZDkzYjg3YWE5YTI5YmJiNzljOGE2ZGNhODJmNjc3MTM3OTc5ZjI5OTI4MmMyOWZlZWI3NjkzZWUzNGU3ODdlZg",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=tigers=twins&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
-          "subtitle": "Live",
-          "url": "https ",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=tigers=twins&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 6",
           "subtitle": "Live",
-          "url": "https ",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb624\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjI0OjE3ODgzMTg0ODkzOTY6Y2RubGl2ZXR2LnR2OjI5MzdmMDRiY2Q3ZmE5NjYuZDkzYjg3YWE5YTI5YmJiNzljOGE2ZGNhODJmNjc3MTM3OTc5ZjI5OTI4MmMyOWZlZWI3NjkzZWUzNGU3ODdlZg",
           "type": "hls",
           "rewarded": false
         },
