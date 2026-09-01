@@ -280,7 +280,7 @@
         {
           "label": "Server 3",
           "subtitle": "Live",
-          "url": "https ",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb62c\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjJjOjE3ODgzMTU0OTEzMTE6Y2RubGl2ZXR2LnR2OjEwZGY5ZmQwNGQ4Y2U1MzkuYzdhNzVmZDU5Y2Y5ZWI0MGNiZjk5ZTUzOWE0OWIyMDU1OWYxNTg1ZDIxNDI5MWM0MTkzYzBmNWFjODk3OTcyNA",
           "type": "hls",
           "rewarded": false
         },
