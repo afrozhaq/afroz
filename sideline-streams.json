@@ -188,43 +188,43 @@
         },
         {
           "label": "Server 2",
-          "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=giants=pirates&s=home&sport=mlb",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 3",
-          "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=giants=pirates&s=away&sport=mlb",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 4",
           "subtitle": "Live",
           "url": "https:\/\/dripcast.online\/stream\/live-mlb-pittsburgh-pirates-san-francisco-giants-embedhd\/index.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
+          "label": "Server 3",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/node-88894cb5.4587.website\/6a97c1a0.04bb0f3ei798bc8d0.cead.c00cc136\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/node-8bba18be.4587.website\/6a97c1a0.f1863fe4i798bc8d0.cec0.1cdfd4b8\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
           "label": "Server 5",
-          "subtitle": "Live",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb621\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjIxOjE3ODgzMTUzMDk4NjE6Y2RubGl2ZXR2LnR2OmVmNWQ1ZGM4MzFhYzE1YWMuYjM0ODQyNDM3MTU3ZjI2OWUzZmM0YTFlYjg5MzBiNmRkNTA1NTRlNzE5Mjk3ZGYxNTkzNzA4NDE5YzI3OGQxMg",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=giants=pirates&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 6",
-          "subtitle": "Live",
-          "url": "https ",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=giants=pirates&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 7",
           "subtitle": "Live",
-          "url": "https ",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb621\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjIxOjE3ODgzMTUzMDk4NjE6Y2RubGl2ZXR2LnR2OmVmNWQ1ZGM4MzFhYzE1YWMuYjM0ODQyNDM3MTU3ZjI2OWUzZmM0YTFlYjg5MzBiNmRkNTA1NTRlNzE5Mjk3ZGYxNTkzNzA4NDE5YzI3OGQxMg",
           "type": "hls",
           "rewarded": false
         },
