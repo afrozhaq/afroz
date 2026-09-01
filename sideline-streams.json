@@ -35,7 +35,7 @@
         {
           "label": "Server 4",
           "subtitle": "Live",
-          "url": "https",
+          "url": "https:\/\/dripcast.online\/stream\/live-mlb-tampa-bay-rays-new-york-mets-embedhd\/index.m3u8",
           "type": "hls",
           "rewarded": false
         },
@@ -119,7 +119,7 @@
         {
           "label": "Server 4",
           "subtitle": "Live",
-          "url": "https ",
+          "url": "https:\/\/dripcast.online\/stream\/live-mlb-cincinnati-reds-san-diego-padres-embedhd\/index.m3u8",
           "type": "hls",
           "rewarded": false
         },
@@ -203,7 +203,7 @@
         {
           "label": "Server 4",
           "subtitle": "Live",
-          "url": "https ",
+          "url": "https:\/\/dripcast.online\/stream\/live-mlb-pittsburgh-pirates-san-francisco-giants-embedhd\/index.m3u8",
           "type": "hls",
           "rewarded": false
         },
@@ -273,7 +273,7 @@
         {
           "label": "Server 2",
           "subtitle": "Live",
-          "url": "https ",
+          "url": "https:\/\/dripcast.online\/stream\/live-mlb-cleveland-guardians-toronto-blue-jays-embedhd\/index.m3u8",
           "type": "hls",
           "rewarded": false
         },
@@ -441,7 +441,7 @@
         {
           "label": "Server 4",
           "subtitle": "Live ",
-          "url": "https ",
+          "url": "https:\/\/dripcast.online\/stream\/live-mlb-boston-red-sox-seattle-mariners-embedhd\/index.m3u8",
           "type": "hls",
           "rewarded": false
         },
