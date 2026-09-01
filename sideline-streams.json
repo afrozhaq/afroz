@@ -637,7 +637,7 @@
         {
           "label": "Server 4",
           "subtitle": "Live ",
-          "url": "https:\/\/dripcast.online\/stream\/live-mlb-chicago-cubs-milwaukee-brewers-embedhd\/index.m3u8",
+          "url": "https ",
           "type": "hls",
           "rewarded": false
         },
@@ -658,13 +658,6 @@
         {
           "label": "Server 7",
           "subtitle": "Live ",
-          "url": "https ",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 8",
-          "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-01\/mil-chc",
           "type": "hls",
           "rewarded": false,
@@ -674,7 +667,7 @@
           }
         },
         {
-          "label": "Server 9",
+          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-milwaukee-brewers-vs-chicago-cubs\/1",
           "type": "hls",
