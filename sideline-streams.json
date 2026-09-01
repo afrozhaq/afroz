@@ -376,9 +376,13 @@
         {
           "label": "Server 9",
           "subtitle": "Live",
-          "url": "https ",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-atlanta-braves-vs-washington-nationals\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-atlanta-braves-vs-washington-nationals\/1"
+          }
         }
       ]
     },
@@ -532,9 +536,13 @@
         {
           "label": "Server 9",
           "subtitle": "Live",
-          "url": "https ",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-detroit-tigers-vs-minnesota-twins\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-detroit-tigers-vs-minnesota-twins\/1"
+          }
         }
       ]
     },
@@ -608,9 +616,13 @@
         {
           "label": "Server 9",
           "subtitle": "Live",
-          "url": "Https ",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-miami-marlins-vs-kansas-city-royals\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-miami-marlins-vs-kansas-city-royals\/1"
+          }
         }
       ]
     },
@@ -684,9 +696,13 @@
         {
           "label": "Server 9",
           "subtitle": "Live ",
-          "url": "https ",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-milwaukee-brewers-vs-chicago-cubs\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-milwaukee-brewers-vs-chicago-cubs\/1"
+          }
         }
       ]
     },
@@ -760,9 +776,13 @@
         {
           "label": "Server 9",
           "subtitle": "Live",
-          "url": "https ",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-athletics-vs-texas-rangers\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-athletics-vs-texas-rangers\/1"
+          }
         }
       ]
     },
