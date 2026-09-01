@@ -251,34 +251,27 @@
         },
         {
           "label": "Server 2",
-          "subtitle": "Live",
-          "url": "https:\/\/dripcast.online\/stream\/live-mlb-cleveland-guardians-toronto-blue-jays-embedhd\/index.m3u8",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 3",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/node-5d763f4c.4587.website\/6a97c19f.c12b32d2i798bc8d0.ceb8.99594d86\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
+          "label": "Server 3",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/node-8bba18be.4587.website\/6a97c19e.94d76c61i798bc8d0.cec2.ebadd248\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
+          "label": "Server 4",
           "subtitle": "Live",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb62c\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjJjOjE3ODgzMTU0OTEzMTE6Y2RubGl2ZXR2LnR2OjEwZGY5ZmQwNGQ4Y2U1MzkuYzdhNzVmZDU5Y2Y5ZWI0MGNiZjk5ZTUzOWE0OWIyMDU1OWYxNTg1ZDIxNDI5MWM0MTkzYzBmNWFjODk3OTcyNA",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 6",
+          "label": "Server 5",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-01\/tor-cle",
           "type": "hls",
@@ -289,7 +282,7 @@
           }
         },
         {
-          "label": "Server 7",
+          "label": "Server 6",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-toronto-blue-jays-vs-cleveland-guardians\/1",
           "type": "hls",
@@ -321,48 +314,41 @@
         },
         {
           "label": "Server 2",
-          "subtitle": "Live",
-          "url": "https:\/\/dripcast.online\/stream\/live-mlb-washington-nationals-atlanta-braves-embedhd\/index.m3u8",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 3",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/node-8bba18be.4587.website\/6a97c1a0.24644423i798bc8d0.cec4.44cbafc5\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
+          "label": "Server 3",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/node-5d763f4c.4587.website\/6a97c1a0.15a17422i798bc8d0.cebf.184cb079\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
+          "label": "Server 4",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=braves=nationals&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 6",
+          "label": "Server 5",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=braves=nationals&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 7",
+          "label": "Server 6",
           "subtitle": "Live",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb612\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjEyOjE3ODgzMTY4OTA2MzU6Y2RubGl2ZXR2LnR2OjE5MWRmZWFhYmUxMDgxZWEuZjM3MDQwM2U0ODkxYTliODQ1Nzk1ZWQ5OWRiNjFmYjNlOGExNjJjODlmNjBiODE4YmViMGZjYWYwOGEwMDhmNg",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 8",
+          "label": "Server 7",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-01\/atl-wsh",
           "type": "hls",
@@ -373,7 +359,7 @@
           }
         },
         {
-          "label": "Server 9",
+          "label": "Server 8",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-atlanta-braves-vs-washington-nationals\/1",
           "type": "hls",
@@ -405,48 +391,41 @@
         },
         {
           "label": "Server 2",
-          "subtitle": "Live ",
-          "url": "https:\/\/dripcast.online\/stream\/live-mlb-boston-red-sox-seattle-mariners-embedhd\/index.m3u8",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 3",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/node-025d151e.4587.website\/6a97c19f.6aa6b4aei798bc8d0.ceab.9c554df6\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
+          "label": "Server 3",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/node-9b5feb01.4587.website\/6a97c19f.7e512345i798bc8d0.cec5.9535e195\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
+          "label": "Server 4",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=mariners=redsox&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 6",
+          "label": "Server 5",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=mariners=redsox&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 7",
+          "label": "Server 6",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb61c\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjFjOjE3ODgzMTY5NTU4NTI6Y2RubGl2ZXR2LnR2OjUxZjg2Y2NlMjJmYzBlYzcuNzRiYWJmNDVkZTQ3ZTNhMGRkMGU2MTU4ZjNjY2I5ZTdlYTk1MmIzOGJmODJiNWIxNDRiNWE0ZTBkM2IxOGZlYQ",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 8",
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-01\/sea-bos",
           "type": "hls",
@@ -457,7 +436,7 @@
           }
         },
         {
-          "label": "Server 9",
+          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-seattle-mariners-vs-boston-red-sox\/1",
           "type": "hls",
