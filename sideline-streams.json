@@ -560,7 +560,7 @@
         {
           "label": "Server 4",
           "subtitle": "Live",
-          "url": "https:\/\/dripcast.online\/stream\/live-mlb-kansas-city-royals-miami-marlins-embedhd\/index.m3u8",
+          "url": "Https ",
           "type": "hls",
           "rewarded": false
         },
@@ -581,13 +581,6 @@
         {
           "label": "Server 7",
           "subtitle": "Live",
-          "url": "Https ",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 8",
-          "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-01\/mia-kc",
           "type": "hls",
           "rewarded": false,
@@ -597,7 +590,7 @@
           }
         },
         {
-          "label": "Server 9",
+          "label": "Server 8",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-miami-marlins-vs-kansas-city-royals\/1",
           "type": "hls",
