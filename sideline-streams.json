@@ -994,15 +994,15 @@
         },
         {
           "label": "Server 2",
-          "subtitle": "Live",
-          "url": "Https ",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=phillies=diamondbacks&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
-          "subtitle": "Live",
-          "url": "Https ",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=phillies=diamondbacks&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
