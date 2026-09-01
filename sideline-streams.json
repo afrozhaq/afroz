@@ -70,9 +70,13 @@
         {
           "label": "Server 9",
           "subtitle": "Live",
-          "url": "https",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-new-york-mets-vs-tampa-bay-rays\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-new-york-mets-vs-tampa-bay-rays\/1"
+          }
         }
       ]
     },
@@ -146,9 +150,13 @@
         {
           "label": "Server 9",
           "subtitle": "Live",
-          "url": "https ",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-san-diego-padres-vs-cincinnati-reds\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-san-diego-padres-vs-cincinnati-reds\/1"
+          }
         }
       ]
     },
@@ -222,9 +230,13 @@
         {
           "label": "Server 9",
           "subtitle": "Live",
-          "url": "https ",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-san-francisco-giants-vs-pittsburgh-pirates\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-san-francisco-giants-vs-pittsburgh-pirates\/1"
+          }
         }
       ]
     },
@@ -284,9 +296,13 @@
         {
           "label": "Server 7",
           "subtitle": "Live",
-          "url": "https ",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-toronto-blue-jays-vs-cleveland-guardians\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-toronto-blue-jays-vs-cleveland-guardians\/1"
+          }
         }
       ]
     },
@@ -436,9 +452,13 @@
         {
           "label": "Server 9",
           "subtitle": "Live ",
-          "url": "https ",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-seattle-mariners-vs-boston-red-sox\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-seattle-mariners-vs-boston-red-sox\/1"
+          }
         }
       ]
     },
