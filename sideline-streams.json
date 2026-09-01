@@ -104,43 +104,43 @@
         },
         {
           "label": "Server 2",
-          "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=padres=reds&s=home&sport=mlb",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 3",
-          "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=padres=reds&s=away&sport=mlb",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 4",
           "subtitle": "Live",
           "url": "https:\/\/dripcast.online\/stream\/live-mlb-cincinnati-reds-san-diego-padres-embedhd\/index.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
+          "label": "Server 3",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/node-8bba18be.4587.website\/6a97c19e.f8c127afi798bc8d0.ceb1.e4251e30\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/node-9b5feb01.4587.website\/6a97c19e.86db70d3i798bc8d0.cec7.e5f60145\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
           "label": "Server 5",
-          "subtitle": "Live",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb617\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjE3OjE3ODgzMTU1NzEyNDc6Y2RubGl2ZXR2LnR2OmUyNTE3MWI1Y2NkMGIxY2IuOWNiN2Y5MGZmMzZhN2IxM2E5YjZhOWFmYTdiY2FlZTIyNDA2NjEyNDNjZDUxMjhkM2M0ZjAyMzRlYWJhNmY2OA",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=padres=reds&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 6",
-          "subtitle": "Live",
-          "url": "https ",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=padres=reds&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 7",
           "subtitle": "Live",
-          "url": "https ",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb617\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjE3OjE3ODgzMTU1NzEyNDc6Y2RubGl2ZXR2LnR2OmUyNTE3MWI1Y2NkMGIxY2IuOWNiN2Y5MGZmMzZhN2IxM2E5YjZhOWFmYTdiY2FlZTIyNDA2NjEyNDNjZDUxMjhkM2M0ZjAyMzRlYWJhNmY2OA",
           "type": "hls",
           "rewarded": false
         },
