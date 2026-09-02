@@ -636,22 +636,22 @@
         },
         {
           "label": "Server 2",
-          "subtitle": "Live ",
-          "url": "https:\/\/dripcast.online\/stream\/live-mlb-cleveland-guardians-toronto-blue-jays-embedhd\/index.m3u8?key=NOIR-ZYPAAU-2026",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/node-9b5feb01.4587.website\/6a991376.0272119di798bc8d0.d153.e6fbba6c\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
-          "subtitle": "Live ",
-          "url": "https ",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/node-025d151e.4587.website\/6a991376.6b5cf0adi798bc8d0.d14f.a20338ea\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
           "subtitle": "Live ",
-          "url": "https ",
+          "url": "https:\/\/dripcast.online\/stream\/live-mlb-cleveland-guardians-toronto-blue-jays-embedhd\/index.m3u8?key=NOIR-ZYPAAU-2026",
           "type": "hls",
           "rewarded": false
         },
