@@ -1113,13 +1113,6 @@
         {
           "label": "Server 6",
           "subtitle": "Live ",
-          "url": "https ",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 7",
-          "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-02\/stl-lad",
           "type": "hls",
           "rewarded": false,
@@ -1129,7 +1122,7 @@
           }
         },
         {
-          "label": "Server 8",
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-st-louis-cardinals-vs-los-angeles-dodgers\/1",
           "type": "hls",
