@@ -931,14 +931,14 @@
         {
           "label": "Server 2",
           "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=whitesox=astros&s=home&sport=mlb",
+          "url": "https:\/\/node-5d763f4c.4587.website\/6a9926fc.329a029di798bc8d0.d176.4b32692c\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
           "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=whitesox=astros&s=away&sport=mlb",
+          "url": "https:\/\/node-5d763f4c.4587.website\/6a9926fc.9834a8c9i798bc8d0.d175.a907e9f0\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
@@ -951,15 +951,15 @@
         },
         {
           "label": "Server 5",
-          "subtitle": "Live ",
-          "url": "https ",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=whitesox=astros&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 6",
-          "subtitle": "Live ",
-          "url": "https ",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=whitesox=astros&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
