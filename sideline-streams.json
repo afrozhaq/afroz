@@ -483,14 +483,14 @@
         {
           "label": "Server 2",
           "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=mets=rays&s=home&sport=mlb",
+          "url": "https:\/\/node-9b5feb01.4587.website\/6a991377.3bd35f27i798bc8d0.d154.dfb03246\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
           "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=mets=rays&s=away&sport=mlb",
+          "url": "https:\/\/node-9b5feb01.4587.website\/6a991377.ab41baf9i798bc8d0.d151.01bb9517\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
@@ -503,15 +503,15 @@
         },
         {
           "label": "Server 5",
-          "subtitle": "Live ",
-          "url": "https ",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=mets=rays&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 6",
-          "subtitle": "Live ",
-          "url": "https ",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=mets=rays&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
