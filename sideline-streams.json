@@ -1007,15 +1007,15 @@
         },
         {
           "label": "Server 2",
-          "subtitle": "Live ",
-          "url": "https ",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=yankees=angels&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
-          "subtitle": "Live ",
-          "url": "https ",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=yankees=angels&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
@@ -1084,15 +1084,15 @@
         },
         {
           "label": "Server 2",
-          "subtitle": "Live ",
-          "url": "https ",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=cardinals=dodgers&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
-          "subtitle": "Live ",
-          "url": "https ",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=cardinals=dodgers&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
