@@ -777,14 +777,14 @@
         {
           "label": "Server 2",
           "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=marlins=royals&s=home&sport=mlb",
+          "url": "https:\/\/node-5d763f4c.4587.website\/6a992229.f20fd7d9i798bc8d0.d165.313b090f\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
           "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=marlins=royals&s=away&sport=mlb",
+          "url": "https:\/\/node-5d763f4c.4587.website\/6a992228.e72b7e43i798bc8d0.d17b.106914a0\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
@@ -797,15 +797,15 @@
         },
         {
           "label": "Server 5",
-          "subtitle": "Live ",
-          "url": "https ",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=marlins=royals&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 6",
-          "subtitle": "Live ",
-          "url": "https ",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=marlins=royals&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
