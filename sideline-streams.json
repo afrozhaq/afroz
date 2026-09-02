@@ -329,14 +329,14 @@
         {
           "label": "Server 2",
           "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=phillies=diamondbacks&s=home&sport=mlb",
+          "url": "https:\/\/node-5d763f4c.4587.website\/6a98e90f.26adc059i798bc8d0.d133.fa342a5e\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
           "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=phillies=diamondbacks&s=away&sport=mlb",
+          "url": "https:\/\/node-5d763f4c.4587.website\/6a98e90f.0ec7e3c1i798bc8d0.d130.22a5bc7b\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
@@ -349,15 +349,15 @@
         },
         {
           "label": "Server 5",
-          "subtitle": "Live ",
-          "url": "https ",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=phillies=diamondbacks&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 6",
-          "subtitle": "Live ",
-          "url": "https ",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=phillies=diamondbacks&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
