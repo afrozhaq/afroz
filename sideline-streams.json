@@ -917,28 +917,28 @@
         {
           "label": "Server 2",
           "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=yankees=angels&s=home&sport=mlb",
+          "url": "https:\/\/node-8bba18be.4587.website\/6a97ebf9.8736691ai798bc8d0.d09b.f190e362\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
           "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=yankees=angels&s=away&sport=mlb",
+          "url": "https:\/\/node-8bba18be.4587.website\/6a97ebf9.17ff586ai798bc8d0.d0a2.818b6a26\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
-          "subtitle": "Live",
-          "url": "https:\/\/dripcast.online\/stream\/live-mlb-los-angeles-angels-new-york-yankees-embedhd\/index.m3u8",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=yankees=angels&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
-          "subtitle": "Live",
-          "url": "https ",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=yankees=angels&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
@@ -952,13 +952,6 @@
         {
           "label": "Server 7",
           "subtitle": "Live",
-          "url": "https ",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 8",
-          "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-01\/nyy-laa",
           "type": "hls",
           "rewarded": false,
@@ -968,7 +961,7 @@
           }
         },
         {
-          "label": "Server 9",
+          "label": "Server 8",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-new-york-yankees-vs-los-angeles-angels\/1",
           "type": "hls",
