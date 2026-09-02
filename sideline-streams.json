@@ -700,47 +700,40 @@
         {
           "label": "Server 2",
           "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=athletics=rangers&s=home&sport=mlb",
+          "url": "https:\/\/node-9b5feb01.4587.website\/6a97d69e.73e05d3ci798bc8d0.cee4.b2cb7084\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
           "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=athletics=rangers&s=away&sport=mlb",
+          "url": "https:\/\/node-9b5feb01.4587.website\/6a97d69e.17541f34i798bc8d0.cede.41cd5fe3\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
           "subtitle": "Live",
-          "url": "https:\/\/dripcast.online\/stream\/live-mlb-texas-rangers-athletics-embedhd\/index.m3u8",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb619\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjE5OjE3ODgzMjEzNDMxMTg6Y2RubGl2ZXR2LnR2OmQwZmNjNjcwMDU2YzllMzcuOWMzN2M5NDU5YTRjY2IwMTQ5NzRkOTU2ODgyZDIyOGY2YTI4NWUxY2RmMjQ2MzY3ODA2ZjliYTgwYjhmOWFlMA",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
-          "subtitle": "Live",
-          "url": "https ",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=athletics=rangers&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 6",
-          "subtitle": "Live",
-          "url": "https ",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=athletics=rangers&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 7",
-          "subtitle": "Live",
-          "url": "https ",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 8",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-01\/ath-tex",
           "type": "hls",
@@ -751,7 +744,7 @@
           }
         },
         {
-          "label": "Server 9",
+          "label": "Server 8",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-athletics-vs-texas-rangers\/1",
           "type": "hls",
