@@ -252,14 +252,14 @@
         {
           "label": "Server 2",
           "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=orioles=rockies&s=home&sport=mlb",
+          "url": "https:\/\/node-88894cb5.4587.website\/6a98e1e1.bb376fcei798bc8d0.d12e.9bcf8a7d\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
           "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=orioles=rockies&s=away&sport=mlb",
+          "url": "https:\/\/node-5d763f4c.4587.website\/6a98e1e1.1b6897e5i798bc8d0.d12c.11c8a3bc\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
@@ -272,15 +272,15 @@
         },
         {
           "label": "Server 5",
-          "subtitle": "Live ",
-          "url": "https ",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=orioles=rockies&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 6",
-          "subtitle": "Live ",
-          "url": "https ",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=orioles=rockies&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
