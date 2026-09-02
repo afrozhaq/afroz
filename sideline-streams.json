@@ -441,9 +441,13 @@
         {
           "label": "Server 7",
           "subtitle": "Live ",
-          "url": "https ",
+          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-02\/sea-bos",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-02\/sea-bos"
+          }
         },
         {
           "label": "Server 8",
@@ -514,9 +518,13 @@
         {
           "label": "Server 7",
           "subtitle": "Live ",
-          "url": "https ",
+          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-02\/nym-tb",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-02\/nym-tb"
+          }
         },
         {
           "label": "Server 8",
@@ -587,9 +595,13 @@
         {
           "label": "Server 7",
           "subtitle": "Live ",
-          "url": "https ",
+          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-02\/sf-pit",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-02\/sf-pit"
+          }
         },
         {
           "label": "Server 8",
@@ -660,9 +672,13 @@
         {
           "label": "Server 7",
           "subtitle": "Live ",
-          "url": "https ",
+          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-02\/tor-cle",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-02\/tor-cle"
+          }
         },
         {
           "label": "Server 8",
@@ -733,9 +749,13 @@
         {
           "label": "Server 7",
           "subtitle": "Live ",
-          "url": "https ",
+          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-02\/det-min",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-02\/det-min"
+          }
         },
         {
           "label": "Server 8",
