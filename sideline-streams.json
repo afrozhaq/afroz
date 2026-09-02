@@ -1071,28 +1071,28 @@
         {
           "label": "Server 2",
           "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=cardinals=dodgers&s=home&sport=mlb",
+          "url": "https:\/\/node-8bba18be.4587.website\/6a97ebf7.8f7ee8eai798bc8d0.d09e.202614ed\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
           "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=cardinals=dodgers&s=away&sport=mlb",
+          "url": "https:\/\/node-8bba18be.4587.website\/6a97ebf7.30c62972i798bc8d0.d09a.43da5507\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
-          "subtitle": "Live",
-          "url": "https:\/\/dripcast.online\/stream\/live-mlb-los-angeles-dodgers-st-louis-cardinals-embedhd\/index.m3u8",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=cardinals=dodgers&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
-          "subtitle": "Live",
-          "url": "Https ",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=cardinals=dodgers&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
@@ -1106,13 +1106,6 @@
         {
           "label": "Server 7",
           "subtitle": "Live",
-          "url": "Https ",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 8",
-          "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-01\/stl-lad",
           "type": "hls",
           "rewarded": false,
@@ -1122,7 +1115,7 @@
           }
         },
         {
-          "label": "Server 9",
+          "label": "Server 8",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-st-louis-cardinals-vs-los-angeles-dodgers\/1",
           "type": "hls",
