@@ -994,28 +994,28 @@
         {
           "label": "Server 2",
           "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=phillies=diamondbacks&s=home&sport=mlb",
+          "url": "https:\/\/node-5d763f4c.4587.website\/6a97ebfb.d3d2fc50i798bc8d0.d0a1.48e26a45\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
           "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=phillies=diamondbacks&s=away&sport=mlb",
+          "url": "https:\/\/node-5d763f4c.4587.website\/6a97ebfb.cd78429fi798bc8d0.d0a0.9d3d7bcf\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
-          "subtitle": "Live",
-          "url": "https:\/\/dripcast.online\/stream\/live-mlb-arizona-diamondbacks-philadelphia-phillies-embedhd\/index.m3u8",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=phillies=diamondbacks&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
-          "subtitle": "Live",
-          "url": "Https ",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=phillies=diamondbacks&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
@@ -1029,13 +1029,6 @@
         {
           "label": "Server 7",
           "subtitle": "Live",
-          "url": "Https ",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 8",
-          "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-01\/phi-ari",
           "type": "hls",
           "rewarded": false,
@@ -1045,7 +1038,7 @@
           }
         },
         {
-          "label": "Server 9",
+          "label": "Server 8",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-philadelphia-phillies-vs-arizona-diamondbacks\/1",
           "type": "hls",
