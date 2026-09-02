@@ -1099,7 +1099,7 @@
         {
           "label": "Server 5",
           "subtitle": "Live ",
-          "url": "https ",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb61b\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjFiOjE3ODg0MDcxNDUxNjk6Y2RubGl2ZXR2LnR2OmMwN2RiOWRiNWI0YzQxNjAuNWFiNjljMTc3ZDc1MDgwZTQ1MWM0M2Y0MTFhYjBmYWRjNWI0YWZjYzM0NDc5YzY5NWM0ZDI2MmYxMDU5NWU3MA",
           "type": "hls",
           "rewarded": false
         },
