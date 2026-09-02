@@ -63,9 +63,13 @@
         {
           "label": "Server 8",
           "subtitle": "Live ",
-          "url": "https ",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-san-diego-padres-vs-cincinnati-reds\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-san-diego-padres-vs-cincinnati-reds\/1"
+          }
         }
       ]
     },
@@ -132,9 +136,13 @@
         {
           "label": "Server 8",
           "subtitle": "Live ",
-          "url": "https ",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-atlanta-braves-vs-washington-nationals\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-atlanta-braves-vs-washington-nationals\/1"
+          }
         }
       ]
     },
@@ -201,9 +209,13 @@
         {
           "label": "Server 8",
           "subtitle": "Live ",
-          "url": "https ",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-athletics-vs-texas-rangers\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-athletics-vs-texas-rangers\/1"
+          }
         }
       ]
     },
@@ -270,9 +282,13 @@
         {
           "label": "Server 8",
           "subtitle": "Live ",
-          "url": "https ",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-baltimore-orioles-vs-colorado-rockies\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-baltimore-orioles-vs-colorado-rockies\/1"
+          }
         }
       ]
     },
@@ -339,9 +355,13 @@
         {
           "label": "Server 8",
           "subtitle": "Live ",
-          "url": "https ",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-philadelphia-phillies-vs-arizona-diamondbacks\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-philadelphia-phillies-vs-arizona-diamondbacks\/1"
+          }
         }
       ]
     },
