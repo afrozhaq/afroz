@@ -175,14 +175,14 @@
         {
           "label": "Server 2",
           "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=athletics=rangers&s=home&sport=mlb",
+          "url": "https:\/\/node-025d151e.4587.website\/6a98d9a9.602bcafei798bc8d0.d127.e4fbab30\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
           "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=athletics=rangers&s=away&sport=mlb",
+          "url": "https:\/\/node-025d151e.4587.website\/6a98d9a9.f23ddf63i798bc8d0.d128.09e2bd6d\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
@@ -195,15 +195,15 @@
         },
         {
           "label": "Server 5",
-          "subtitle": "Live ",
-          "url": "https ",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=athletics=rangers&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 6",
-          "subtitle": "Live ",
-          "url": "https ",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=athletics=rangers&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
