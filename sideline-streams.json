@@ -251,29 +251,29 @@
         },
         {
           "label": "Server 3",
+          "subtitle": "Live ",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb62f\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjJmOjE3ODg0OTE0ODg2NjQ6Y2RubGl2ZXR2LnR2OmRlNTVlZjcxMjNhOWQwMjEuMjhmZDRlOGYzMTc4ODBkMmM1ZWZhMjc2YmJlNWVhYTU3ZWEwMjM4YjgyOWVlNGM5Njg4NDYyZDBkN2Y5NDBlNA",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=redsox=orioles&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
+          "label": "Server 5",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=redsox=orioles&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
-          "subtitle": "Live ",
-          "url": "https:\/\/dripcast.online\/stream\/live-mlb-baltimore-orioles-boston-red-sox-embedhd\/index.m3u8?key=NOIR-ZYPAAU-2026",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
           "label": "Server 6",
           "subtitle": "Live ",
-          "url": "https ",
+          "url": "https:\/\/dripcast.online\/stream\/live-mlb-baltimore-orioles-boston-red-sox-embedhd\/index.m3u8?key=NOIR-ZYPAAU-2026",
           "type": "hls",
           "rewarded": false
         },
