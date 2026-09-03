@@ -581,13 +581,6 @@
         {
           "label": "Server 6",
           "subtitle": "Live ",
-          "url": "https ",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 7",
-          "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-03\/ath-sea",
           "type": "hls",
           "rewarded": false,
@@ -597,7 +590,7 @@
           }
         },
         {
-          "label": "Server 8",
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-athletics-vs-seattle-mariners\/1",
           "type": "hls",
@@ -658,13 +651,6 @@
         {
           "label": "Server 6",
           "subtitle": "Live ",
-          "url": "https ",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 7",
-          "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-03\/stl-lad",
           "type": "hls",
           "rewarded": false,
@@ -674,7 +660,7 @@
           }
         },
         {
-          "label": "Server 8",
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-st-louis-cardinals-vs-los-angeles-dodgers\/1",
           "type": "hls",
