@@ -34,22 +34,22 @@
         },
         {
           "label": "Server 4",
+          "subtitle": "Live ",
+          "url": "https:\/\/dripcast.online\/stream\/live-mlb-pittsburgh-pirates-san-francisco-giants-embedhd\/index.m3u8?key=NOIR-ZYPAAU-2026",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 5",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=giants=pirates&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
+          "label": "Server 6",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=giants=pirates&s=away&sport=mlb",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 6",
-          "subtitle": "Live ",
-          "url": "https ",
           "type": "hls",
           "rewarded": false
         },
