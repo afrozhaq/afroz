@@ -419,15 +419,15 @@
         },
         {
           "label": "Server 5",
-          "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=marlins=royals&s=home&sport=mlb",
+          "subtitle": "Live ",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb615\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjE1OjE3ODg0OTMzOTg4NDE6Y2RubGl2ZXR2LnR2OjZiMjc3ZmQ3N2ExYWU4ZGUuNDY4OTRhNzA2MTQ0YWE1MTA5NDA2MDg1Nzk4M2ZkNWNmM2NjZmM3NDY0ZDJkNTE0NTNjNzEzM2I5MjMwNTRlYQ",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 6",
-          "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=marlins=royals&s=away&sport=mlb",
+          "subtitle": "Live ",
+          "url": "https:\/\/dripcast.online\/stream\/live-mlb-kansas-city-royals-miami-marlins-embedhd\/index.m3u8?key=NOIR-ZYPAAU-2026",
           "type": "hls",
           "rewarded": false
         },
