@@ -321,22 +321,22 @@
         },
         {
           "label": "Server 2",
+          "subtitle": "Live ",
+          "url": "https:\/\/node-8bba18be.4587.website\/6a9a6d9d.643d903ei798bc8d0.d367.8fa64748\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=brewers=cubs&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 3",
+          "label": "Server 4",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=brewers=cubs&s=away&sport=mlb",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 4",
-          "subtitle": "Live ",
-          "url": "https ",
           "type": "hls",
           "rewarded": false
         },
