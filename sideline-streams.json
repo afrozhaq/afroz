@@ -414,9 +414,13 @@
         {
           "label": "Server 8",
           "subtitle": "Live ",
-          "url": "https ",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-miami-marlins-vs-kansas-city-royals\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-miami-marlins-vs-kansas-city-royals\/1"
+          }
         }
       ]
     },
@@ -483,9 +487,13 @@
         {
           "label": "Server 8",
           "subtitle": "Live ",
-          "url": "https ",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-tampa-bay-rays-vs-texas-rangers\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-tampa-bay-rays-vs-texas-rangers\/1"
+          }
         }
       ]
     },
@@ -552,9 +560,13 @@
         {
           "label": "Server 8",
           "subtitle": "Live ",
-          "url": "https ",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-athletics-vs-seattle-mariners\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-athletics-vs-seattle-mariners\/1"
+          }
         }
       ]
     },
@@ -621,9 +633,13 @@
         {
           "label": "Server 8",
           "subtitle": "Live ",
-          "url": "https ",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-st-louis-cardinals-vs-los-angeles-dodgers\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-st-louis-cardinals-vs-los-angeles-dodgers\/1"
+          }
         }
       ]
     }
