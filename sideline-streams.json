@@ -427,9 +427,13 @@
         {
           "label": "Server 7",
           "subtitle": "Live ",
-          "url": "https ",
+          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-03\/mia-kc",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-03\/mia-kc"
+          }
         },
         {
           "label": "Server 8",
@@ -500,9 +504,13 @@
         {
           "label": "Server 7",
           "subtitle": "Live ",
-          "url": "https ",
+          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-03\/tb-tex",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-03\/tb-tex"
+          }
         },
         {
           "label": "Server 8",
@@ -573,9 +581,13 @@
         {
           "label": "Server 7",
           "subtitle": "Live ",
-          "url": "https ",
+          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-03\/ath-sea",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-03\/ath-sea"
+          }
         },
         {
           "label": "Server 8",
@@ -646,9 +658,13 @@
         {
           "label": "Server 7",
           "subtitle": "Live ",
-          "url": "https ",
+          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-03\/stl-lad",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-03\/stl-lad"
+          }
         },
         {
           "label": "Server 8",
