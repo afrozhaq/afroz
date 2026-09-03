@@ -497,14 +497,14 @@
         {
           "label": "Server 5",
           "subtitle": "Live ",
-          "url": "https ",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb619\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjE5OjE3ODg0OTM1MjIwNTU6Y2RubGl2ZXR2LnR2OmY5ZGFlZjY3NjQwZDhlNDAuNDE0ODJmMTBmOGMwYTJiNjM5OTQ5YTkwMDU1MjA2NjljNjM3M2Q1MWI3ZjIzYzZlN2RhMGU1ZjY3ODVmNjNhNQ",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 6",
           "subtitle": "Live ",
-          "url": "https ",
+          "url": "https:\/\/dripcast.online\/stream\/live-mlb-texas-rangers-tampa-bay-rays-embedhd\/index.m3u8?key=NOIR-ZYPAAU-2026",
           "type": "hls",
           "rewarded": false
         },
