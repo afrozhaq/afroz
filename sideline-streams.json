@@ -119,6 +119,13 @@
         {
           "label": "Server 5",
           "subtitle": "Live ",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc2bc\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMmJjOjE3ODg0Njg2MjYwNTI6Y2RubGl2ZXR2LnR2OmU5MjhhZDZkMGM3NjA2MmIuZjVkNDBiNTE2YzljMjU4Y2NlNzEyOWI1ZmY0MTNlM2ZjMzEwNzQ5MTNmYWE2MDI5NjdmNmRlYzBhMDEzNzJlOA",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 6",
+          "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-03\/tor-cle",
           "type": "hls",
           "rewarded": false,
@@ -128,7 +135,7 @@
           }
         },
         {
-          "label": "Server 6",
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-toronto-blue-jays-vs-cleveland-guardians\/1",
           "type": "hls",
