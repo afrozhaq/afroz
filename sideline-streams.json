@@ -63,9 +63,13 @@
         {
           "label": "Server 8",
           "subtitle": "Live ",
-          "url": "https ",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-san-francisco-giants-vs-pittsburgh-pirates\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-san-francisco-giants-vs-pittsburgh-pirates\/1"
+          }
         }
       ]
     },
@@ -118,9 +122,13 @@
         {
           "label": "Server 6",
           "subtitle": "Live ",
-          "url": "https ",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-toronto-blue-jays-vs-cleveland-guardians\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-toronto-blue-jays-vs-cleveland-guardians\/1"
+          }
         }
       ]
     },
@@ -187,9 +195,13 @@
         {
           "label": "Server 8",
           "subtitle": "Live ",
-          "url": "https ",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-chicago-white-sox-vs-houston-astros\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-chicago-white-sox-vs-houston-astros\/1"
+          }
         }
       ]
     },
@@ -256,9 +268,13 @@
         {
           "label": "Server 8",
           "subtitle": "Live ",
-          "url": "https ",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-boston-red-sox-vs-baltimore-orioles\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-boston-red-sox-vs-baltimore-orioles\/1"
+          }
         }
       ]
     },
@@ -325,9 +341,13 @@
         {
           "label": "Server 8",
           "subtitle": "Live ",
-          "url": "https ",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-milwaukee-brewers-vs-chicago-cubs\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-milwaukee-brewers-vs-chicago-cubs\/1"
+          }
         }
       ]
     },
