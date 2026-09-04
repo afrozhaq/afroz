@@ -251,15 +251,15 @@
         },
         {
           "label": "Server 2",
-          "subtitle": "Live ",
-          "url": "hs",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=angels=pirates&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
-          "subtitle": "Live ",
-          "url": "hs",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=angels=pirates&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
