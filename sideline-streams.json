@@ -562,7 +562,7 @@
         {
           "label": "Server 4",
           "subtitle": "Live ",
-          "url": "https:\/\/dripcast.online\/stream\/live-mlb-cleveland-guardians-detroit-tigers-embedhd\/index.m3u8?key=NOIR-ZYPAAU-2026",
+          "url": "https:\/\/dripcast.online\/nfl_streams\/index.php?q=tigers-vs-guardians.m3u8",
           "type": "hls",
           "rewarded": false
         },
