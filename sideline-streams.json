@@ -459,83 +459,6 @@
       ]
     },
     {
-      "id": "s1788512420516",
-      "league": "mlb",
-      "gameId": "5059887",
-      "away": "DET",
-      "home": "CLE",
-      "title": "Tigers at Guardians",
-      "poster": "",
-      "startsAt": 1788563400000,
-      "endsAt": 0,
-      "links": [
-        {
-          "label": "Server 1",
-          "subtitle": "Live ",
-          "url": "https:\/\/edgestream2.pro\/hls\/ojzkajnach21.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 2",
-          "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=tigers=guardians&s=home&sport=mlb",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 3",
-          "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=tigers=guardians&s=away&sport=mlb",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 4",
-          "subtitle": "Live ",
-          "url": "https:\/\/dripcast.online\/stream\/live-mlb-cleveland-guardians-detroit-tigers-embedhd\/index.m3u8?key=NOIR-ZYPAAU-2026",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 5",
-          "subtitle": "Live ",
-          "url": "nf",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 6",
-          "subtitle": "Live ",
-          "url": "nf",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 7",
-          "subtitle": "Live ",
-          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-04\/det-cle\/game-2",
-          "type": "hls",
-          "rewarded": false,
-          "tokenApi": {
-            "type": "embed",
-            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-04\/det-cle\/game-2"
-          }
-        },
-        {
-          "label": "Server 8",
-          "subtitle": "Live ",
-          "url": "https:\/\/embed.st\/embed\/admin\/ppv-detroit-tigers-vs-cleveland-guardians\/1",
-          "type": "hls",
-          "rewarded": false,
-          "tokenApi": {
-            "type": "embed",
-            "api": "https:\/\/embed.st\/embed\/admin\/ppv-detroit-tigers-vs-cleveland-guardians\/1"
-          }
-        }
-      ]
-    },
-    {
       "id": "s1788512420523",
       "league": "mlb",
       "gameId": "",
@@ -608,6 +531,83 @@
           "tokenApi": {
             "type": "embed",
             "api": "https:\/\/embed.st\/embed\/admin\/ppv-san-francisco-giants-vs-new-york-mets\/1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "s1788512420516",
+      "league": "mlb",
+      "gameId": "5059887",
+      "away": "DET",
+      "home": "CLE",
+      "title": "Tigers at Guardians",
+      "poster": "",
+      "startsAt": 1788563400000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live ",
+          "url": "https:\/\/edgestream2.pro\/hls\/ojzkajnach21.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=tigers=guardians&s=home&sport=mlb",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=tigers=guardians&s=away&sport=mlb",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
+          "subtitle": "Live ",
+          "url": "https:\/\/dripcast.online\/stream\/live-mlb-cleveland-guardians-detroit-tigers-embedhd\/index.m3u8?key=NOIR-ZYPAAU-2026",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 5",
+          "subtitle": "Live ",
+          "url": "nf",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 6",
+          "subtitle": "Live ",
+          "url": "nf",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 7",
+          "subtitle": "Live ",
+          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-04\/det-cle\/game-2",
+          "type": "hls",
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-04\/det-cle\/game-2"
+          }
+        },
+        {
+          "label": "Server 8",
+          "subtitle": "Live ",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-detroit-tigers-vs-cleveland-guardians\/1",
+          "type": "hls",
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-detroit-tigers-vs-cleveland-guardians\/1"
           }
         }
       ]
