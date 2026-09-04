@@ -97,15 +97,15 @@
         },
         {
           "label": "Server 2",
-          "subtitle": "Live ",
-          "url": "h",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=brewers=reds&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
-          "subtitle": "Live ",
-          "url": "h",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=brewers=reds&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
@@ -174,15 +174,15 @@
         },
         {
           "label": "Server 2",
-          "subtitle": "Live ",
-          "url": "hs",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=braves=phillies&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
-          "subtitle": "Live ",
-          "url": "hs",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=braves=phillies&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
