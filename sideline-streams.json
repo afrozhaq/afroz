@@ -21,14 +21,14 @@
         {
           "label": "Server 2",
           "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=tigers=guardians&s=home&sport=mlb",
+          "url": "https:\/\/node-5d763f4c.4587.website\/6a9b7802.8b008de8i798bc8d0.d4f2.8c5d0941\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
           "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=tigers=guardians&s=away&sport=mlb",
+          "url": "https:\/\/node-9b5feb01.4587.website\/6a9b7802.b5201f59i798bc8d0.d4f7.08a7768d\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
@@ -41,15 +41,15 @@
         },
         {
           "label": "Server 5",
-          "subtitle": "Live ",
-          "url": "h",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=tigers=guardians&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 6",
-          "subtitle": "Live ",
-          "url": "h",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=tigers=guardians&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
