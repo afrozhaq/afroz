@@ -560,14 +560,14 @@
         {
           "label": "Server 2",
           "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=giants=mets&s=home&sport=mlb",
+          "url": "https:\/\/node-88894cb5.4587.website\/6a9bb739.e00ec0adi798bc8d0.d558.e0752519\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
           "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=giants=mets&s=away&sport=mlb",
+          "url": "https:\/\/node-88894cb5.4587.website\/6a9bb739.2435e9f8i798bc8d0.d555.f249f7fd\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
@@ -580,15 +580,15 @@
         },
         {
           "label": "Server 5",
-          "subtitle": "Live ",
-          "url": "hf",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=giants=mets&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 6",
-          "subtitle": "Live ",
-          "url": "hf",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=giants=mets&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
