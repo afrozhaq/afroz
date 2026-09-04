@@ -343,7 +343,7 @@
         {
           "label": "Server 4",
           "subtitle": "Live ",
-          "url": "ha",
+          "url": "https:\/\/dripcast.online\/stream\/live-mlb-baltimore-orioles-boston-red-sox-embedhd\/index.m3u8?key=NOIR-ZYPAAU-2026",
           "type": "hls",
           "rewarded": false
         },
@@ -420,7 +420,7 @@
         {
           "label": "Server 4",
           "subtitle": "Live ",
-          "url": "hf",
+          "url": "https:\/\/dripcast.online\/stream\/live-mlb-miami-marlins-chicago-cubs-embedhd\/index.m3u8?key=NOIR-ZYPAAU-2026",
           "type": "hls",
           "rewarded": false
         },
@@ -497,7 +497,7 @@
         {
           "label": "Server 4",
           "subtitle": "Live ",
-          "url": "nf",
+          "url": "https:\/\/dripcast.online\/stream\/live-mlb-cleveland-guardians-detroit-tigers-embedhd\/index.m3u8?key=NOIR-ZYPAAU-2026",
           "type": "hls",
           "rewarded": false
         },
@@ -574,7 +574,7 @@
         {
           "label": "Server 4",
           "subtitle": "Live ",
-          "url": "hf",
+          "url": "https:\/\/dripcast.online\/stream\/live-mlb-new-york-mets-san-francisco-giants-embedhd\/index.m3u8?key=NOIR-ZYPAAU-2026",
           "type": "hls",
           "rewarded": false
         },
