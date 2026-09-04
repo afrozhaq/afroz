@@ -761,28 +761,28 @@
         {
           "label": "Server 2",
           "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=diamondbacks=astros&s=home&sport=mlb",
+          "url": "https:\/\/node-9b5feb01.4587.website\/6a9bcae1.f350e8b0i798bc8d0.d58f.daddc39a\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=diamondbacks=astros&s=home&sport=mlb",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=diamondbacks=astros&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
-          "subtitle": "Live ",
-          "url": "https:\/\/dripcast.online\/stream\/live-mlb-houston-astros-arizona-diamondbacks-embedhd\/index.m3u8?key=NOIR-ZYPAAU-2026",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
           "label": "Server 5",
           "subtitle": "Live ",
-          "url": "hf",
+          "url": "https:\/\/dripcast.online\/stream\/live-mlb-houston-astros-arizona-diamondbacks-embedhd\/index.m3u8?key=NOIR-ZYPAAU-2026",
           "type": "hls",
           "rewarded": false
         },
