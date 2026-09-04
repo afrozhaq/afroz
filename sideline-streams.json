@@ -559,15 +559,15 @@
         },
         {
           "label": "Server 2",
-          "subtitle": "Live ",
-          "url": "hf",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=giants=mets&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
-          "subtitle": "Live ",
-          "url": "hf",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=giants=mets&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
@@ -636,15 +636,15 @@
         },
         {
           "label": "Server 2",
-          "subtitle": "Live ",
-          "url": "bd",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=twins=whitesox&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
-          "subtitle": "Live ",
-          "url": "bd",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=twins=whitesox&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
