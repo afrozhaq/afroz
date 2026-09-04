@@ -611,21 +611,21 @@
         {
           "label": "Server 2",
           "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=twins=whitesox&s=home&sport=mlb",
+          "url": "https:\/\/node-88894cb5.4587.website\/6a9bc287.8759d8c4i798bc8d0.d574.4a20d077\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
-          "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=twins=whitesox&s=away&sport=mlb",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=twins=whitesox&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
-          "subtitle": "Live ",
-          "url": "bd",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=twins=whitesox&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
