@@ -826,9 +826,13 @@
         {
           "label": "Server 7",
           "subtitle": "Live ",
-          "url": "hf",
+          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-04\/ari-hou",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-04\/ari-hou"
+          }
         },
         {
           "label": "Server 8",
@@ -899,9 +903,13 @@
         {
           "label": "Server 7",
           "subtitle": "Live ",
-          "url": "hd",
+          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-04\/tor-kc",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-04\/tor-kc"
+          }
         },
         {
           "label": "Server 8",
@@ -972,9 +980,13 @@
         {
           "label": "Server 7",
           "subtitle": "Live ",
-          "url": "vd",
+          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-04\/stl-col",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-04\/stl-col"
+          }
         },
         {
           "label": "Server 8",
@@ -1045,9 +1057,13 @@
         {
           "label": "Server 7",
           "subtitle": "Live ",
-          "url": "htt",
+          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-04\/nyy-sd",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-04\/nyy-sd"
+          }
         },
         {
           "label": "Server 8",
@@ -1118,9 +1134,13 @@
         {
           "label": "Server 7",
           "subtitle": "Live ",
-          "url": "b",
+          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-04\/ath-sea",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-04\/ath-sea"
+          }
         },
         {
           "label": "Server 8",
