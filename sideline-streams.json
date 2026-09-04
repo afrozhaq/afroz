@@ -1187,6 +1187,54 @@
           }
         }
       ]
+    },
+    {
+      "id": "s1788565576238",
+      "league": "nfl",
+      "gameId": "",
+      "away": "SEATTLE SEAHAWKS ",
+      "home": "NEW ENGLAND PATRIOTS ",
+      "title": "Seattle Seahawks Vs New England Patriots ",
+      "poster": "",
+      "startsAt": 1788999600000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb62d\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjJkOjE3ODg1Nzg0NjA3OTY6Y2RubGl2ZXR2LnR2OjJlZjI5MGY4YzExNzhiODkuOWJiNjYyZGQ2MWE1OWVjZjc3ODRjOGEyMDAzYzkyZjhhNWQwMzcxYmNkNmJhM2YxNGYwYjE5ZWIwMWU3MDAyMQ",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb62d\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjJkOjE3ODg1Nzg0NjA3OTY6Y2RubGl2ZXR2LnR2OjJlZjI5MGY4YzExNzhiODkuOWJiNjYyZGQ2MWE1OWVjZjc3ODRjOGEyMDAzYzkyZjhhNWQwMzcxYmNkNmJhM2YxNGYwYjE5ZWIwMWU3MDAyMQ",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb62d\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjJkOjE3ODg1Nzg0NjA3OTY6Y2RubGl2ZXR2LnR2OjJlZjI5MGY4YzExNzhiODkuOWJiNjYyZGQ2MWE1OWVjZjc3ODRjOGEyMDAzYzkyZjhhNWQwMzcxYmNkNmJhM2YxNGYwYjE5ZWIwMWU3MDAyMQ",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
+          "subtitle": "Live",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb62d\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjJkOjE3ODg1Nzg0NjA3OTY6Y2RubGl2ZXR2LnR2OjJlZjI5MGY4YzExNzhiODkuOWJiNjYyZGQ2MWE1OWVjZjc3ODRjOGEyMDAzYzkyZjhhNWQwMzcxYmNkNmJhM2YxNGYwYjE5ZWIwMWU3MDAyMQ",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 5",
+          "subtitle": "Live",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb62d\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjJkOjE3ODg1Nzg0NjA3OTY6Y2RubGl2ZXR2LnR2OjJlZjI5MGY4YzExNzhiODkuOWJiNjYyZGQ2MWE1OWVjZjc3ODRjOGEyMDAzYzkyZjhhNWQwMzcxYmNkNmJhM2YxNGYwYjE5ZWIwMWU3MDAyMQ",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
