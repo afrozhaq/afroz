@@ -930,15 +930,15 @@
         },
         {
           "label": "Server 2",
-          "subtitle": "Live ",
-          "url": "vd",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=cardinals=rockies&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
-          "subtitle": "Live ",
-          "url": "vd",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=cardinals=rockies&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
@@ -1007,15 +1007,15 @@
         },
         {
           "label": "Server 2",
-          "subtitle": "Live ",
-          "url": "htt",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=yankees=padres&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
-          "subtitle": "Live ",
-          "url": "htt",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=yankees=padres&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
