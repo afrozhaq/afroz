@@ -844,20 +844,27 @@
         },
         {
           "label": "Server 3",
-          "subtitle": "Live ",
-          "url": "hd",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/node-9b5feb01.4587.website\/6a9bca22.220286dci798bc8d0.d58d.ad964e3f\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
-          "subtitle": "Live ",
-          "url": "hd",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/node-9b5feb01.4587.website\/6a9bca22.5db72357i798bc8d0.d589.ca43c3e3\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/node-9b5feb01.4587.website\/6a9bca22.fe0bda4ei798bc8d0.d66e.036cad42\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 6",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-04\/tor-kc",
           "type": "hls",
@@ -868,7 +875,7 @@
           }
         },
         {
-          "label": "Server 6",
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-toronto-blue-jays-vs-kansas-city-royals\/1",
           "type": "hls",
