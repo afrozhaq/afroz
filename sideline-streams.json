@@ -428,9 +428,13 @@
         {
           "label": "Server 8",
           "subtitle": "Live ",
-          "url": "hs",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-chicago-cubs-vs-miami-marlins\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-chicago-cubs-vs-miami-marlins\/1"
+          }
         }
       ]
     },
@@ -643,9 +647,13 @@
         {
           "label": "Server 8",
           "subtitle": "Live ",
-          "url": "bd",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-minnesota-twins-vs-chicago-white-sox\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-minnesota-twins-vs-chicago-white-sox\/1"
+          }
         }
       ]
     },
@@ -712,9 +720,13 @@
         {
           "label": "Server 8",
           "subtitle": "Live ",
-          "url": "bf",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-tampa-bay-rays-vs-texas-rangers\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-tampa-bay-rays-vs-texas-rangers\/1"
+          }
         }
       ]
     },
@@ -781,9 +793,13 @@
         {
           "label": "Server 8",
           "subtitle": "Live ",
-          "url": "hf",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-arizona-diamondbacks-vs-houston-astros\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-arizona-diamondbacks-vs-houston-astros\/1"
+          }
         }
       ]
     },
@@ -850,9 +866,13 @@
         {
           "label": "Server 8",
           "subtitle": "Live ",
-          "url": "hd",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-toronto-blue-jays-vs-kansas-city-royals\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-toronto-blue-jays-vs-kansas-city-royals\/1"
+          }
         }
       ]
     },
