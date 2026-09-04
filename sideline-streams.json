@@ -405,15 +405,15 @@
         },
         {
           "label": "Server 2",
-          "subtitle": "Live ",
-          "url": "hf",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=cubs=marlins&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
-          "subtitle": "Live ",
-          "url": "hf",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=cubs=marlins&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
@@ -482,15 +482,15 @@
         },
         {
           "label": "Server 2",
-          "subtitle": "Live ",
-          "url": "nf",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=tigers=guardians&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
-          "subtitle": "Live ",
-          "url": "nf",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=tigers=guardians&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
