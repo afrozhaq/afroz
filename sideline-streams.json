@@ -569,20 +569,6 @@
         {
           "label": "Server 5",
           "subtitle": "Live ",
-          "url": "nf",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 6",
-          "subtitle": "Live ",
-          "url": "nf",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 7",
-          "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-04\/det-cle\/game-2",
           "type": "hls",
           "rewarded": false,
@@ -592,14 +578,14 @@
           }
         },
         {
-          "label": "Server 8",
+          "label": "Server 6",
           "subtitle": "Live ",
-          "url": "https:\/\/embed.st\/embed\/admin\/ppv-detroit-tigers-vs-cleveland-guardians\/1",
+          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-04\/det-cle\/game-2",
           "type": "hls",
           "rewarded": false,
           "tokenApi": {
             "type": "embed",
-            "api": "https:\/\/embed.st\/embed\/admin\/ppv-detroit-tigers-vs-cleveland-guardians\/1"
+            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-04\/det-cle\/game-2"
           }
         }
       ]
