@@ -510,23 +510,19 @@
         {
           "label": "Server 7",
           "subtitle": "Live ",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb625\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjI1OjE3ODg1Nzc0ODkwNDQ6Y2RubGl2ZXR2LnR2OjY5N2ZjNTRhYzBiMzk2NTEuM2Y1ODBiZjliZjQxYTMzNDdmMTg4ZGU1MjA5MGJlMjViNDg5NzA0ZjU3YjBlYzlhYmNlOGZmZWYyMTdiZTZjMg",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 8",
+          "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-04\/sf-nym",
           "type": "hls",
           "rewarded": false,
           "tokenApi": {
             "type": "embed",
             "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-04\/sf-nym"
-          }
-        },
-        {
-          "label": "Server 8",
-          "subtitle": "Live ",
-          "url": "https:\/\/embed.st\/embed\/admin\/ppv-san-francisco-giants-vs-new-york-mets\/1",
-          "type": "hls",
-          "rewarded": false,
-          "tokenApi": {
-            "type": "embed",
-            "api": "https:\/\/embed.st\/embed\/admin\/ppv-san-francisco-giants-vs-new-york-mets\/1"
           }
         }
       ]
