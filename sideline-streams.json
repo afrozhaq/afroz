@@ -651,16 +651,24 @@
         {
           "label": "Server 7",
           "subtitle": "Live ",
-          "url": "https:\/\/dripcast.online\/stream\/live-mlb-los-angeles-dodgers-st-louis-cardinals-embedhd\/index.m3u8?key=NOIR-ZYPAAU-2026",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-st-louis-cardinals-vs-los-angeles-dodgers\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-st-louis-cardinals-vs-los-angeles-dodgers\/1"
+          }
         },
         {
           "label": "Server 8",
           "subtitle": "Live ",
-          "url": "https:\/\/dripcast.online\/stream\/live-mlb-los-angeles-dodgers-st-louis-cardinals-embedhd\/index.m3u8?key=NOIR-ZYPAAU-2026",
+          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-03\/stl-lad",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-03\/stl-lad"
+          }
         }
       ]
     }
