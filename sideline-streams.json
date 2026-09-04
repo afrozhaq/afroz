@@ -14,7 +14,7 @@
         {
           "label": "Server 1",
           "subtitle": "Live ",
-          "url": "h",
+          "url": "",
           "type": "hls",
           "rewarded": false
         },
@@ -63,9 +63,13 @@
         {
           "label": "Server 8",
           "subtitle": "Live ",
-          "url": "h",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-detroit-tigers-vs-cleveland-guardians\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-detroit-tigers-vs-cleveland-guardians\/1"
+          }
         }
       ]
     },
