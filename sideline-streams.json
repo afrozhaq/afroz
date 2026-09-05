@@ -644,21 +644,21 @@
         {
           "label": "Server 2",
           "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=twins=whitesox&s=home&sport=mlb",
+          "url": "https:\/\/node-025d151e.4587.website\/6a9d0eba.d6a1305ci798bc8d0.d7c3.6c4401f3\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
-          "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=twins=whitesox&s=away&sport=mlb",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=twins=whitesox&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb602\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjAyOjE3ODg2MTYwMzQ1MTQ6Y2RubGl2ZXR2LnR2Ojg1Njc4OTY2ZDQ3YTBmN2QuMmNkOWNmMjZkZWQ0ODUzNjEzN2VmMzhhODgxMGNkMmIxODhhNzQzZTk5MmZiZmZjMTQ1MWE4ODczYmM0MDY3MA",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=twins=whitesox&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
@@ -679,13 +679,6 @@
         {
           "label": "Server 7",
           "subtitle": "Live ",
-          "url": "h",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 8",
-          "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-minnesota-twins-vs-chicago-white-sox\/1",
           "type": "hls",
           "rewarded": false,
@@ -695,7 +688,7 @@
           }
         },
         {
-          "label": "Server 9",
+          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-05\/min-chw",
           "type": "hls",
