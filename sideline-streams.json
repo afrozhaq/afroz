@@ -266,28 +266,28 @@
         {
           "label": "Server 1",
           "subtitle": "Live ",
-          "url": "u",
+          "url": "https:\/\/edgestream2.pro\/hls\/Czajafjihafch18.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 2",
-          "subtitle": "Live ",
-          "url": "u",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=tigers=guardians&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
-          "subtitle": "Live ",
-          "url": "u",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=tigers=guardians&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
           "subtitle": "Live ",
-          "url": "u",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb5f9\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWY5OjE3ODg2MTU4MzU5NjU6Y2RubGl2ZXR2LnR2OjU5NzhlOWVjNjczZTA5YTMuMjhlNmM0YjVjY2VhYjMwZWYwZGM4ZTAzN2Q0MTI5NTY1OGNmNzRiMDNjMTg3YjY2YzhiNjc5YzdmYjU0NjhkYg",
           "type": "hls",
           "rewarded": false
         },
@@ -315,16 +315,24 @@
         {
           "label": "Server 8",
           "subtitle": "Live ",
-          "url": "u",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-detroit-tigers-vs-cleveland-guardians\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-detroit-tigers-vs-cleveland-guardians\/1"
+          }
         },
         {
           "label": "Server 9",
           "subtitle": "Live ",
-          "url": "u",
+          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-05\/det-cle",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-05\/det-cle"
+          }
         }
       ]
     },
