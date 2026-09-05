@@ -413,47 +413,40 @@
         {
           "label": "Server 2",
           "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=brewers=reds&s=home&sport=mlb",
+          "url": "https:\/\/node-5d763f4c.4587.website\/6a9d09bb.ed68492ei798bc8d0.d7b9.415891d7\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
           "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=brewers=reds&s=away&sport=mlb",
+          "url": "https:\/\/node-025d151e.4587.website\/6a9d09bb.55a892fbi798bc8d0.d7c0.b52f5fcb\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
           "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb5fb\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWZiOjE3ODg2MTU4MzA4MTE6Y2RubGl2ZXR2LnR2OmFlYWM5OWIzYzlhM2M1Y2UuMTNhMjVmZGI5ODE0YTFlMDlkNGM0MzQyYTMxMzVjMjgyMzQyMTA4YTE1OTg1NDIxNGRlYTQ1YTk2NmJiNGI0MA",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 5",
-          "subtitle": "Live ",
           "url": "https:\/\/dripcast.online\/stream\/live-mlb-cincinnati-reds-milwaukee-brewers-embedhd\/index.m3u8?key=NOIR-ZYPAAU-2026",
           "type": "hls",
           "rewarded": false
         },
         {
+          "label": "Server 5",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=brewers=reds&s=home&sport=mlb",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
           "label": "Server 6",
-          "subtitle": "Live ",
-          "url": "n",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=brewers=reds&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 7",
-          "subtitle": "Live ",
-          "url": "n",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-milwaukee-brewers-vs-cincinnati-reds\/1",
           "type": "hls",
@@ -464,7 +457,7 @@
           }
         },
         {
-          "label": "Server 9",
+          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-05\/mil-cin",
           "type": "hls",
