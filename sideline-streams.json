@@ -1034,36 +1034,36 @@
         },
         {
           "label": "Server 2",
+          "subtitle": "Live ( home )",
+          "url": "https:\/\/node-88894cb5.4587.website\/6a9be85f.83c1e0a6i798bc8d0.d682.a29dd657\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live ( away )",
+          "url": "https:\/\/node-025d151e.4587.website\/6a9be85f.d6c60607i798bc8d0.d683.5b067923\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=athletics=mariners&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 3",
+          "label": "Server 5",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=athletics=mariners&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
-          "subtitle": "Live ",
-          "url": "https:\/\/dripcast.online\/stream\/live-mlb-seattle-mariners-athletics-embedhd\/index.m3u8?key=NOIR-ZYPAAU-2026",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 5",
-          "subtitle": "Live ",
-          "url": "b",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
           "label": "Server 6",
           "subtitle": "Live ",
-          "url": "b",
+          "url": "https:\/\/dripcast.online\/stream\/live-mlb-seattle-mariners-athletics-embedhd\/index.m3u8?key=NOIR-ZYPAAU-2026",
           "type": "hls",
           "rewarded": false
         },
@@ -1100,36 +1100,36 @@
         },
         {
           "label": "Server 2",
+          "subtitle": "Live ( home )",
+          "url": "https:\/\/node-88894cb5.4587.website\/6a9be85e.9844a62ci798bc8d0.d67a.2f2b592b\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live ( Away ) ",
+          "url": "https:\/\/node-5d763f4c.4587.website\/6a9be85e.dadc9cd3i798bc8d0.d689.6d8292ec\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=nationals=dodgers&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 3",
+          "label": "Server 5",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=nationals=dodgers&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
-          "subtitle": "Live ",
-          "url": "https:\/\/dripcast.online\/stream\/live-mlb-los-angeles-dodgers-washington-nationals-embedhd\/index.m3u8?key=NOIR-ZYPAAU-2026",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 5",
-          "subtitle": "Live ",
-          "url": "h",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
           "label": "Server 6",
           "subtitle": "Live ",
-          "url": "h",
+          "url": "https:\/\/dripcast.online\/stream\/live-mlb-los-angeles-dodgers-washington-nationals-embedhd\/index.m3u8?key=NOIR-ZYPAAU-2026",
           "type": "hls",
           "rewarded": false
         },
