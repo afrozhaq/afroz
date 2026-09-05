@@ -792,23 +792,19 @@
         {
           "label": "Server 7",
           "subtitle": "Live ",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb627\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjI3OjE3ODg1ODA5MDUzNjE6Y2RubGl2ZXR2LnR2OjY3OTc3YjQ4YTlhMzFlNTEuMmM3NzJiM2Y3YWJhMWRjMTc0MzZjMWE3YjBmZDc2NWE2MTUxMjA0ZTE5NDBkOTkxNGVkN2MxNGQzODFiZTk4OA",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 8",
+          "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-04\/ari-hou",
           "type": "hls",
           "rewarded": false,
           "tokenApi": {
             "type": "embed",
             "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-04\/ari-hou"
-          }
-        },
-        {
-          "label": "Server 8",
-          "subtitle": "Live ",
-          "url": "https:\/\/embed.st\/embed\/admin\/ppv-arizona-diamondbacks-vs-houston-astros\/1",
-          "type": "hls",
-          "rewarded": false,
-          "tokenApi": {
-            "type": "embed",
-            "api": "https:\/\/embed.st\/embed\/admin\/ppv-arizona-diamondbacks-vs-houston-astros\/1"
           }
         }
       ]
