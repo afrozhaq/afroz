@@ -1147,23 +1147,19 @@
         {
           "label": "Server 7",
           "subtitle": "Live ",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc2b0\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMmIwOjE3ODg1ODM0NzM5NjI6Y2RubGl2ZXR2LnR2OjFmNTBlZjc1ZjNlOTUwMmQuNGMxYmFlYmIxNWRhN2IzYjFjY2U4ZWMzNTRmY2Q0YTg5N2QyMDRhZjA3MmE4Y2U4ZWI2YTRjY2Q4YTZiYmU0Yg",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 8",
+          "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-04\/wsh-lad",
           "type": "hls",
           "rewarded": false,
           "tokenApi": {
             "type": "embed",
             "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-04\/wsh-lad"
-          }
-        },
-        {
-          "label": "Server 8",
-          "subtitle": "Live ",
-          "url": "https:\/\/embed.st\/embed\/admin\/ppv-washington-nationals-vs-los-angeles-dodgers\/1",
-          "type": "hls",
-          "rewarded": false,
-          "tokenApi": {
-            "type": "embed",
-            "api": "https:\/\/embed.st\/embed\/admin\/ppv-washington-nationals-vs-los-angeles-dodgers\/1"
           }
         }
       ]
