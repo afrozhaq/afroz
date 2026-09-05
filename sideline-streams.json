@@ -644,35 +644,35 @@
         {
           "label": "Server 2",
           "subtitle": "Live ( Home )",
-          "url": "https:\/\/node-025d151e.4587.website\/6a9d0eba.d6a1305ci798bc8d0.d7c3.6c4401f3\/free.live.espn\/master.m3u8",
+          "url": "https:\/\/node-025d151e.4587.website\/6a9d1032.df07d71bi798bc8d0.d7c3.fc1018e1\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
-          "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=twins=whitesox&s=home&sport=mlb",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/node-9b5feb01.4587.website\/6a9d1032.6f1a4c47i798bc8d0.d7d1.7e84e4c2\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
-          "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=twins=whitesox&s=away&sport=mlb",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 5",
           "subtitle": "Live ",
           "url": "https:\/\/dripcast.online\/stream\/live-mlb-chicago-white-sox-minnesota-twins-embedhd\/index.m3u8?key=NOIR-ZYPAAU-2026",
           "type": "hls",
           "rewarded": false
         },
         {
+          "label": "Server 5",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=twins=whitesox&s=home&sport=mlb",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
           "label": "Server 6",
-          "subtitle": "Live ",
-          "url": "h",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=twins=whitesox&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
