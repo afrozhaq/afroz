@@ -182,47 +182,40 @@
         {
           "label": "Server 2",
           "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=braves=phillies&s=home&sport=mlb",
+          "url": "https:\/\/node-88894cb5.4587.website\/6a9d034e.b171d16di798bc8d0.d79c.9921ee55\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
           "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=braves=phillies&s=away&sport=mlb",
+          "url": "https:\/\/node-5d763f4c.4587.website\/6a9d034e.364e51a4i798bc8d0.d7a0.c07fe33d\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
           "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb5fc\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWZjOjE3ODg2MTU4Mzk3Mzc6Y2RubGl2ZXR2LnR2Ojg5MjViNGI0YzRhYzlhYzMuMmMwNmNiNDMxZTZmNWI2ZWMyMzRiY2Y0NmVlYTM2M2JmNWU1NTdjMDlhNzZlOWMxOGNhMWY4MGZmMDk4NTljNg",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 5",
-          "subtitle": "Live ",
           "url": "https:\/\/dripcast.online\/stream\/live-mlb-philadelphia-phillies-atlanta-braves-embedhd\/index.m3u8?key=NOIR-ZYPAAU-2026",
           "type": "hls",
           "rewarded": false
         },
         {
+          "label": "Server 5",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=braves=phillies&s=home&sport=mlb",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
           "label": "Server 6",
-          "subtitle": "Live ",
-          "url": "h ",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=braves=phillies&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 7",
-          "subtitle": "Live ",
-          "url": "h ",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-atlanta-braves-vs-philadelphia-phillies\/1",
           "type": "hls",
@@ -233,7 +226,7 @@
           }
         },
         {
-          "label": "Server 9",
+          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-05\/atl-phi",
           "type": "hls",
