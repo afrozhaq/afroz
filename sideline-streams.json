@@ -489,48 +489,41 @@
         },
         {
           "label": "Server 2",
-          "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=redsox=orioles&s=home&sport=mlb",
+          "subtitle": "Live ( Home ) ",
+          "url": "https:\/\/node-9b5feb01.4587.website\/6a9d09b9.43a10962i798bc8d0.d7bf.1a5aa99a\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
-          "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=redsox=orioles&s=away&sport=mlb",
+          "subtitle": "Live ( Away ) ",
+          "url": "https:\/\/node-5d763f4c.4587.website\/6a9d09ba.6bf0aa9di798bc8d0.d7bb.78087cab\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
           "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb5ff\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWZmOjE3ODg2MTU5ODM0MjM6Y2RubGl2ZXR2LnR2OmYyZGQ5N2U0YTA4NzYxNzguYTcyNDAyNDFlNjgyOGY0YTExNzA0ZDIwMzE3YWRlYmNkMzA5ZDhkZDQzMzdhOWZmODRiOThkYWJkZjFmZWFhMA",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 5",
-          "subtitle": "Live ",
           "url": "https:\/\/dripcast.online\/stream\/live-mlb-baltimore-orioles-boston-red-sox-embedhd\/index.m3u8?key=NOIR-ZYPAAU-2026",
           "type": "hls",
           "rewarded": false
         },
         {
+          "label": "Server 5",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=redsox=orioles&s=home&sport=mlb",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
           "label": "Server 6",
-          "subtitle": "Live ",
-          "url": "h",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=redsox=orioles&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 7",
-          "subtitle": "Live ",
-          "url": "h",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-boston-red-sox-vs-baltimore-orioles\/1",
           "type": "hls",
@@ -541,7 +534,7 @@
           }
         },
         {
-          "label": "Server 9",
+          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-05\/bos-bal",
           "type": "hls",
