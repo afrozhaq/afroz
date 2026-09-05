@@ -1077,17 +1077,6 @@
             "type": "embed",
             "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-04\/ath-sea"
           }
-        },
-        {
-          "label": "Server 8",
-          "subtitle": "Live ",
-          "url": "https:\/\/embed.st\/embed\/admin\/ppv-athletics-vs-seattle-mariners\/1",
-          "type": "hls",
-          "rewarded": false,
-          "tokenApi": {
-            "type": "embed",
-            "api": "https:\/\/embed.st\/embed\/admin\/ppv-athletics-vs-seattle-mariners\/1"
-          }
         }
       ]
     },
