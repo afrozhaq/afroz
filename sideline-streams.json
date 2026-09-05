@@ -140,13 +140,6 @@
         {
           "label": "Server 7",
           "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb600\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjAwOjE3ODg2MTU4NDMwNjk6Y2RubGl2ZXR2LnR2OjQ3ODU4MTNiZDNjYjc5MDguZWNiMmZjM2IxYWYxNDNkY2VhNWQxZmQwYWFjYTI5MTU5NzQ4ZWE2NDY3YWJjNmFjYjI1ZDgwZmZhZTRmMDM5Mg",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 8",
-          "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-san-francisco-giants-vs-new-york-mets\/1",
           "type": "hls",
           "rewarded": false,
@@ -156,7 +149,7 @@
           }
         },
         {
-          "label": "Server 9",
+          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-05\/sf-nym",
           "type": "hls",
