@@ -896,35 +896,35 @@
         {
           "label": "Server 2",
           "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=cardinals=rockies&s=home&sport=mlb",
+          "url": "https:\/\/node-5d763f4c.4587.website\/6a9bd298.e2574f17i798bc8d0.d66f.67c4edee\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
           "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=cardinals=rockies&s=away&sport=mlb",
+          "url": "https:\/\/node-9b5feb01.4587.website\/6a9bd299.89c4bee1i798bc8d0.d585.36912576\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
           "subtitle": "Live ",
-          "url": "vd",
+          "url": "https:\/\/dripcast.online\/stream\/live-mlb-colorado-rockies-st-louis-cardinals-embedhd\/index.m3u8?key=NOIR-ZYPAAU-2026",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
-          "subtitle": "Live ",
-          "url": "vd",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=cardinals=rockies&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 6",
-          "subtitle": "Live ",
-          "url": "vd",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=cardinals=rockies&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
