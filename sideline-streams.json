@@ -21,42 +21,42 @@
         {
           "label": "Server 2",
           "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=cubs=marlins&s=home&sport=mlb",
+          "url": "https:\/\/node-8bba18be.4587.website\/6a9ce3d5.ddf0e244i798bc8d0.d772.597a8c26\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
           "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=cubs=marlins&s=away&sport=mlb",
+          "url": "https:\/\/node-8bba18be.4587.website\/6a9ce3d5.bac763a5i798bc8d0.d756.5906b753\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
           "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb601\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjAxOjE3ODg2MTU4NDYzNDA6Y2RubGl2ZXR2LnR2OmZiN2QxNDVhNjQ0NmU0YzcuZmM2MzNlMTc5Yzc0OTJhZDBlOWM1OTE3MTBjY2ZlZDQ4ZTUwMjQ4NGE0MmFiNzc0ZWZhZDI1YWQwYjc2ZTQ2Ng",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 5",
-          "subtitle": "Live ",
           "url": "https:\/\/dripcast.online\/stream\/live-mlb-miami-marlins-chicago-cubs-embedhd\/index.m3u8?key=NOIR-ZYPAAU-2026",
           "type": "hls",
           "rewarded": false
         },
         {
+          "label": "Server 5",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=cubs=marlins&s=home&sport=mlb",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
           "label": "Server 6",
-          "subtitle": "Live ",
-          "url": "h",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=cubs=marlins&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 7",
           "subtitle": "Live ",
-          "url": "h",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb601\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjAxOjE3ODg2MTU4NDYzNDA6Y2RubGl2ZXR2LnR2OmZiN2QxNDVhNjQ0NmU0YzcuZmM2MzNlMTc5Yzc0OTJhZDBlOWM1OTE3MTBjY2ZlZDQ4ZTUwMjQ4NGE0MmFiNzc0ZWZhZDI1YWQwYjc2ZTQ2Ng",
           "type": "hls",
           "rewarded": false
         },
