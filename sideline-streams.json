@@ -962,35 +962,35 @@
         {
           "label": "Server 2",
           "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=yankees=padres&s=home&sport=mlb",
+          "url": "https:\/\/node-88894cb5.4587.website\/6a9be344.ed609b30i798bc8d0.d680.dd7fb609\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
           "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=yankees=padres&s=away&sport=mlb",
+          "url": "https:\/\/node-8bba18be.4587.website\/6a9be344.4c9e7b95i798bc8d0.d681.64ac82c8\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
-          "subtitle": "Live ",
-          "url": "https:\/\/dripcast.online\/stream\/live-mlb-san-diego-padres-new-york-yankees-embedhd\/index.m3u8?key=NOIR-ZYPAAU-2026",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=yankees=padres&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
-          "subtitle": "Live ",
-          "url": "htt",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=yankees=padres&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 6",
           "subtitle": "Live ",
-          "url": "htt",
+          "url": "https:\/\/dripcast.online\/stream\/live-mlb-san-diego-padres-new-york-yankees-embedhd\/index.m3u8?key=NOIR-ZYPAAU-2026",
           "type": "hls",
           "rewarded": false
         },
