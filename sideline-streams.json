@@ -945,14 +945,14 @@
         {
           "label": "Server 4",
           "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb62a\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjJhOjE3ODg2MTYxMzIxNzU6Y2RubGl2ZXR2LnR2Ojc4ZTYyNTI2M2EwZTkxY2EuNGNhZDJiOWVmMDE0YmNiZDUwZjhhZjVjNjM4NWMyMjEyMDIyMzk4MzVlNTgxODFmM2Y0NmY2YzNhYzQ4OGM3OQ",
+          "url": "https:\/\/dripcast.online\/stream\/live-mlb-colorado-rockies-st-louis-cardinals-embedhd\/index.m3u8?key=NOIR-ZYPAAU-2026",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
           "subtitle": "Live ",
-          "url": "https:\/\/dripcast.online\/stream\/live-mlb-colorado-rockies-st-louis-cardinals-embedhd\/index.m3u8?key=NOIR-ZYPAAU-2026",
+          "url": "h",
           "type": "hls",
           "rewarded": false
         },
@@ -966,13 +966,6 @@
         {
           "label": "Server 7",
           "subtitle": "Live ",
-          "url": "h",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 8",
-          "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-st-louis-cardinals-vs-colorado-rockies\/1",
           "type": "hls",
           "rewarded": false,
@@ -982,7 +975,7 @@
           }
         },
         {
-          "label": "Server 9",
+          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-05\/stl-col",
           "type": "hls",
