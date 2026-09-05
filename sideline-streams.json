@@ -790,22 +790,22 @@
         },
         {
           "label": "Server 2",
+          "subtitle": "Live ",
+          "url": "https:\/\/node-9b5feb01.4587.website\/6a9d1184.2f7bf76fi798bc8d0.d7ec.30326e73\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=diamondbacks=astros&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 3",
+          "label": "Server 4",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=diamondbacks=astros&s=away&sport=mlb",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 4",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb604\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjA0OjE3ODg2MTYwNzU4MjA6Y2RubGl2ZXR2LnR2OjY0NDQ3OWRhOGU5M2Y4NjYuMDA3YmI4ZmI4NWMzNzgyYzEzZjQzY2JmOTFiMzBhMDE4ZDZkMTNhNmQ0YTZhYTRjMjc3YjkxYzk4MzdlYzU2Ng",
           "type": "hls",
           "rewarded": false
         },
@@ -819,20 +819,6 @@
         {
           "label": "Server 6",
           "subtitle": "Live ",
-          "url": "h",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 7",
-          "subtitle": "Live ",
-          "url": "h",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 8",
-          "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-arizona-diamondbacks-vs-houston-astros\/1",
           "type": "hls",
           "rewarded": false,
@@ -842,7 +828,7 @@
           }
         },
         {
-          "label": "Server 9",
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-05\/ari-hou",
           "type": "hls",
