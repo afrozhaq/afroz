@@ -336,47 +336,40 @@
         {
           "label": "Server 2",
           "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=angels=pirates&s=home&sport=mlb",
+          "url": "https:\/\/node-88894cb5.4587.website\/6a9d034d.3b4571e4i798bc8d0.d79b.a0c92d03\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
           "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=angels=pirates&s=away&sport=mlb",
+          "url": "https:\/\/node-88894cb5.4587.website\/6a9d034d.afe4bb60i798bc8d0.d7af.b17d8d35\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
           "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb5fd\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWZkOjE3ODg2MTU5NTA0MTA6Y2RubGl2ZXR2LnR2OmM3ZDBmODVmMTM1NTM1YzMuMmMxOTdkYWEzYjRmYjljMWNiMDI0NTRkNGEwNThlMmEzODhlZTg2MTk4ZmU4NTMyYmQ4Y2U1YzA5NTkyMDFkYQ",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 5",
-          "subtitle": "Live ",
           "url": "https:\/\/dripcast.online\/stream\/live-mlb-pittsburgh-pirates-los-angeles-angels-embedhd\/index.m3u8?key=NOIR-ZYPAAU-2026",
           "type": "hls",
           "rewarded": false
         },
         {
+          "label": "Server 5",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=angels=pirates&s=home&sport=mlb",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
           "label": "Server 6",
-          "subtitle": "Live ",
-          "url": "h",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=angels=pirates&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 7",
-          "subtitle": "Live ",
-          "url": "h",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-los-angeles-angels-vs-pittsburgh-pirates\/1",
           "type": "hls",
@@ -387,7 +380,7 @@
           }
         },
         {
-          "label": "Server 9",
+          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-05\/laa-pit",
           "type": "hls",
