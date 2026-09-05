@@ -719,23 +719,19 @@
         {
           "label": "Server 7",
           "subtitle": "Live ",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2781d8192bb76cb52c\/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiNTJjOjE3ODg1ODA4MjMxNDg6Y2RubGl2ZXR2LnR2OmM3N2VlMmMwNzVmOTNlNjIuZTVlYmIyYjE3ZjVmZjY4OGU1OTVlYmU4NzIzMDc4ZjI5ZjM2ODViNTkyMDM2NmMyYzZjOWM4YTA4NTFjZTZiMA",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 8",
+          "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-04\/tb-tex",
           "type": "hls",
           "rewarded": false,
           "tokenApi": {
             "type": "embed",
             "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-04\/tb-tex"
-          }
-        },
-        {
-          "label": "Server 8",
-          "subtitle": "Live ",
-          "url": "https:\/\/embed.st\/embed\/admin\/ppv-tampa-bay-rays-vs-texas-rangers\/1",
-          "type": "hls",
-          "rewarded": false,
-          "tokenApi": {
-            "type": "embed",
-            "api": "https:\/\/embed.st\/embed\/admin\/ppv-tampa-bay-rays-vs-texas-rangers\/1"
           }
         }
       ]
