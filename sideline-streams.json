@@ -567,21 +567,21 @@
         {
           "label": "Server 2",
           "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=rays=rangers&s=home&sport=mlb",
+          "url": "https:\/\/node-9b5feb01.4587.website\/6a9d0eba.3af53629i798bc8d0.d7bd.d63e8379\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
-          "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=rays=rangers&s=away&sport=mlb",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=rays=rangers&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb603\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjAzOjE3ODg2MTU5ODY2MzI6Y2RubGl2ZXR2LnR2OjQ2ZWUzMTllZWRiOTYzYjEuMDgxYzNkYmMwYzZmNTc2ZmJjM2RhNzRlOWE3MDIxMWFmYzAxN2M1NTQxNjlkMjViNmZjYmI4MjRhZTNkYTNiMA",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=rays=rangers&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
@@ -602,13 +602,6 @@
         {
           "label": "Server 7",
           "subtitle": "Live ",
-          "url": "h",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 8",
-          "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-05\/tb-tex",
           "type": "hls",
           "rewarded": false,
@@ -618,7 +611,7 @@
           }
         },
         {
-          "label": "Server 9",
+          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-tampa-bay-rays-vs-texas-rangers\/1",
           "type": "hls",
