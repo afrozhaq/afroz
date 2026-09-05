@@ -259,47 +259,40 @@
         {
           "label": "Server 2",
           "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=tigers=guardians&s=home&sport=mlb",
+          "url": "https:\/\/node-5d763f4c.4587.website\/6a9d034e.a382f394i798bc8d0.d79f.5d121c0f\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
           "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=tigers=guardians&s=away&sport=mlb",
+          "url": "https:\/\/node-5d763f4c.4587.website\/6a9d034d.3589ef78i798bc8d0.d7b5.1e99eb6e\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
           "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb5f9\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWY5OjE3ODg2MTU4MzU5NjU6Y2RubGl2ZXR2LnR2OjU5NzhlOWVjNjczZTA5YTMuMjhlNmM0YjVjY2VhYjMwZWYwZGM4ZTAzN2Q0MTI5NTY1OGNmNzRiMDNjMTg3YjY2YzhiNjc5YzdmYjU0NjhkYg",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 5",
-          "subtitle": "Live ",
           "url": "https:\/\/dripcast.online\/stream\/live-mlb-cleveland-guardians-detroit-tigers-embedhd\/index.m3u8?key=NOIR-ZYPAAU-2026",
           "type": "hls",
           "rewarded": false
         },
         {
+          "label": "Server 5",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=tigers=guardians&s=home&sport=mlb",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
           "label": "Server 6",
-          "subtitle": "Live ",
-          "url": "u",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=tigers=guardians&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 7",
-          "subtitle": "Live ",
-          "url": "u",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-detroit-tigers-vs-cleveland-guardians\/1",
           "type": "hls",
@@ -310,7 +303,7 @@
           }
         },
         {
-          "label": "Server 9",
+          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-05\/det-cle",
           "type": "hls",
