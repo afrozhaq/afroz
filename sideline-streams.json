@@ -342,22 +342,22 @@
         },
         {
           "label": "Server 4",
+          "subtitle": "Live ",
+          "url": "https:\/\/dripcast.online\/stream\/live-mlb-miami-marlins-chicago-cubs-embedhd\/index.m3u8?key=NOIR-ZYPAAU-2026",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 5",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=cubs=marlins&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
+          "label": "Server 6",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=cubs=marlins&s=away&sport=mlb",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 6",
-          "subtitle": "Live ",
-          "url": "j",
           "type": "hls",
           "rewarded": false
         },
@@ -434,7 +434,7 @@
         {
           "label": "Server 6",
           "subtitle": "Live ",
-          "url": "n",
+          "url": "https:\/\/dripcast.online\/stream\/live-mlb-cleveland-guardians-detroit-tigers-embedhd\/index.m3u8?key=NOIR-ZYPAAU-2026",
           "type": "hls",
           "rewarded": false
         },
@@ -497,7 +497,7 @@
         {
           "label": "Server 4",
           "subtitle": "Live ",
-          "url": "h",
+          "url": "https:\/\/dripcast.online\/stream\/live-mlb-new-york-mets-san-francisco-giants-embedhd\/index.m3u8?key=NOIR-ZYPAAU-2026",
           "type": "hls",
           "rewarded": false
         },
