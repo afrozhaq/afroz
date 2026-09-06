@@ -252,14 +252,14 @@
         {
           "label": "Server 2",
           "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=angels=pirates&s=home&sport=mlb",
+          "url": "https:\/\/node-5d763f4c.4587.website\/6a9e1011.5082eae8i798bc8d0.d98d.961ba830\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
           "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=angels=pirates&s=away&sport=mlb",
+          "url": "https:\/\/node-025d151e.4587.website\/6a9e1011.60c6ae1ci798bc8d0.d9b2.fd95c918\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
@@ -272,15 +272,15 @@
         },
         {
           "label": "Server 5",
-          "subtitle": "Live ",
-          "url": "h",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=angels=pirates&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 6",
-          "subtitle": "Live ",
-          "url": "h",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=angels=pirates&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
