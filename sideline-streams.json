@@ -630,21 +630,21 @@
         {
           "label": "Server 1",
           "subtitle": "Live ",
-          "url": "k",
+          "url": "https:\/\/edgestream2.pro\/hls\/jnzkdzjfanch23.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 2",
-          "subtitle": "Live ",
-          "url": "k",
+          "subtitle": "Live ( Home )",
+          "url": "mp",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
-          "subtitle": "Live ",
-          "url": "k",
+          "subtitle": "Live ( Away )",
+          "url": "mp ",
           "type": "hls",
           "rewarded": false
         },
@@ -658,30 +658,24 @@
         {
           "label": "Server 5",
           "subtitle": "Live ",
-          "url": "k",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-toronto-blue-jays-vs-kansas-city-royals\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-toronto-blue-jays-vs-kansas-city-royals\/1"
+          }
         },
         {
           "label": "Server 6",
           "subtitle": "Live ",
-          "url": "k",
+          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-06\/tor-kc",
           "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 7",
-          "subtitle": "Live ",
-          "url": "k",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 8",
-          "subtitle": "Live ",
-          "url": "k",
-          "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-06\/tor-kc"
+          }
         }
       ]
     },
