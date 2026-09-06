@@ -931,14 +931,14 @@
         {
           "label": "Server 2",
           "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=athletics=mariners&s=home&sport=mlb",
+          "url": "https:\/\/node-9b5feb01.4587.website\/6a9e3752.1751f42bi798bc8d0.da17.9236d153\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
           "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=athletics=mariners&s=away&sport=mlb",
+          "url": "https:\/\/node-9b5feb01.4587.website\/6a9e3752.a6981567i798bc8d0.da1b.ebe67679\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
@@ -951,15 +951,15 @@
         },
         {
           "label": "Server 5",
-          "subtitle": "Live ",
-          "url": "h",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=athletics=mariners&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 6",
-          "subtitle": "Live ",
-          "url": "h",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=athletics=mariners&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
