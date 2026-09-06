@@ -119,7 +119,7 @@
         {
           "label": "Server 5",
           "subtitle": "Live ",
-          "url": "h",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2781d8192bb76cb3d1\/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiM2QxOjE3ODg3Mjg2MDY2NjY6Y2RubGl2ZXR2LnR2OjZmNWIxM2QzY2JhYmUyOTcuZDVmMTE5MzAwMWQ1YTEwMWNlZjRiNGVkOGM5ZDU3NjIxNWY1ODg0MGNhZWQxNDYyZDgzYzgwNmUxNDZiODQ2Mg",
           "type": "hls",
           "rewarded": false
         },
