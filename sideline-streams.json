@@ -854,14 +854,14 @@
         {
           "label": "Server 2",
           "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=yankees=padres&s=home&sport=mlb",
+          "url": "https:\/\/node-9b5feb01.4587.website\/6a9e3754.1b11b9c8i798bc8d0.da1d.66616fa3\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
           "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=yankees=padres&s=away&sport=mlb",
+          "url": "https:\/\/node-8bba18be.4587.website\/6a9e3754.42b02107i798bc8d0.da2c.b8331584\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
@@ -874,15 +874,15 @@
         },
         {
           "label": "Server 5",
-          "subtitle": "Live ",
-          "url": "h",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=yankees=padres&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 6",
-          "subtitle": "Live ",
-          "url": "h",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=yankees=padres&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
