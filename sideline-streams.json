@@ -1036,13 +1036,6 @@
         {
           "label": "Server 6",
           "subtitle": "Live ",
-          "url": "h",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 7",
-          "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-minnesota-twins-vs-chicago-white-sox\/1",
           "type": "hls",
           "rewarded": false,
@@ -1052,7 +1045,7 @@
           }
         },
         {
-          "label": "Server 8",
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-06\/min-chw",
           "type": "hls",
@@ -1113,13 +1106,6 @@
         {
           "label": "Server 6",
           "subtitle": "Live ",
-          "url": "h",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 7",
-          "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-washington-nationals-vs-los-angeles-dodgers\/1",
           "type": "hls",
           "rewarded": false,
@@ -1129,7 +1115,7 @@
           }
         },
         {
-          "label": "Server 8",
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-06\/wsh-lad",
           "type": "hls",
