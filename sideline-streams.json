@@ -700,14 +700,14 @@
         {
           "label": "Server 2",
           "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=rays=rangers&s=home&sport=mlb",
+          "url": "https:\/\/node-8bba18be.4587.website\/6a9e2191.61e4e65di798bc8d0.d9f8.779594b8\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
           "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=rays=rangers&s=away&sport=mlb",
+          "url": "https:\/\/node-9b5feb01.4587.website\/6a9e2191.73f0fad8i798bc8d0.d9fc.fa641805\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
@@ -720,15 +720,15 @@
         },
         {
           "label": "Server 5",
-          "subtitle": "Live ",
-          "url": "h",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=rays=rangers&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 6",
-          "subtitle": "Live ",
-          "url": "h",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=rays=rangers&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
