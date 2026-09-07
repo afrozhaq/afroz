@@ -629,41 +629,48 @@
         },
         {
           "label": "Server 2",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/node-5d763f4c.4587.website\/6a9f97ab.ac07c942i798bc8d0.dc49.72d0d2e9\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/node-5d763f4c.4587.website\/6a9f97aa.b23d9f89i798bc8d0.dc4e.6cc23856\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc344\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzQ0OjE3ODg3OTQ0NzU4ODc6Y2RubGl2ZXR2LnR2OjM2ODg2NTdlMDZhOGY5ZTEuZjA5NWMyOWU0ZDNhODZmYTk5NzI4ZWJkY2RkMjY0YTUwY2EwNWJhNzk5YjYzNzc2Y2ZiMDQ0YzFmMjAzYTFhZQ&|Referer=https:\/\/cdnlivetv.tv&Origin=https:\/\/cdnlivetv.tv&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 3",
+          "label": "Server 5",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=nationals=padres&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
+          "label": "Server 6",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=nationals=padres&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
-          "subtitle": "Live ",
-          "url": "https:\/\/ppoospdsd.s3.us-east-1.amazonaws.com\/padres.m3u8",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 6",
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc347\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzQ3OjE3ODg3OTQ0NzU4NjQ6Y2RubGl2ZXR2LnR2Ojg4YjJjYjY0NjI3M2M3ZWQuYTdjNjRjNmUwMDdmYWQxMWU0ZjM2NDU1MzRiNjNmZDkxOTUyODI2MjhjNmExZjg2MmMxMjcwNGFlZWU5NTllYg&|Referer=https:\/\/cdnlivetv.tv&Origin=https:\/\/cdnlivetv.tv&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 7",
+          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-07\/wsh-sd",
           "type": "hls",
@@ -674,7 +681,7 @@
           }
         },
         {
-          "label": "Server 8",
+          "label": "Server 9",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-washington-nationals-vs-san-diego-padres\/1",
           "type": "hls",
