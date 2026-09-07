@@ -20,29 +20,29 @@
         },
         {
           "label": "Server 2",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc347\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzQ3OjE3ODg3OTQ0NzU4NjQ6Y2RubGl2ZXR2LnR2Ojg4YjJjYjY0NjI3M2M3ZWQuYTdjNjRjNmUwMDdmYWQxMWU0ZjM2NDU1MzRiNjNmZDkxOTUyODI2MjhjNmExZjg2MmMxMjcwNGFlZWU5NTllYg&|Referer=https:\/\/cdnlivetv.tv&Origin=https:\/\/cdnlivetv.tv&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/node-9b5feb01.4587.website\/6a9f5c8d.0ee8cdd3i798bc8d0.dc11.81ea69aa\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
-          "subtitle": "Live ",
-          "url": "https:\/\/dripcast.online\/stream\/live-mlb-philadelphia-phillies-atlanta-braves-embedhd\/index.m3u8?key=NOIR-ZYPAAU-2026",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/node-8bba18be.4587.website\/6a9f5c8d.fc028f97i798bc8d0.dc10.f9304275\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
           "subtitle": "Live ",
-          "url": "mp",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc347\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzQ3OjE3ODg3OTQ0NzU4NjQ6Y2RubGl2ZXR2LnR2Ojg4YjJjYjY0NjI3M2M3ZWQuYTdjNjRjNmUwMDdmYWQxMWU0ZjM2NDU1MzRiNjNmZDkxOTUyODI2MjhjNmExZjg2MmMxMjcwNGFlZWU5NTllYg&|Referer=https:\/\/cdnlivetv.tv&Origin=https:\/\/cdnlivetv.tv&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
           "subtitle": "Live ",
-          "url": "mp",
+          "url": "https:\/\/dripcast.online\/stream\/live-mlb-philadelphia-phillies-atlanta-braves-embedhd\/index.m3u8?key=NOIR-ZYPAAU-2026",
           "type": "hls",
           "rewarded": false
         },
