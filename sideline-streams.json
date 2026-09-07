@@ -28,7 +28,7 @@
         {
           "label": "Server 3",
           "subtitle": "Live ",
-          "url": "embed",
+          "url": "https:\/\/dripcast.online\/stream\/live-mlb-philadelphia-phillies-atlanta-braves-embedhd\/index.m3u8?key=NOIR-ZYPAAU-2026",
           "type": "hls",
           "rewarded": false
         },
@@ -133,7 +133,7 @@
         {
           "label": "Server 5",
           "subtitle": "Live ",
-          "url": "embed ",
+          "url": "https:\/\/dripcast.online\/stream\/live-mlb-miami-marlins-new-york-mets-embedhd\/index.m3u8?key=NOIR-ZYPAAU-2026",
           "type": "hls",
           "rewarded": false
         },
@@ -308,7 +308,7 @@
         {
           "label": "Server 5",
           "subtitle": "Live ",
-          "url": "embed",
+          "url": "https:\/\/dripcast.online\/stream\/live-mlb-boston-red-sox-los-angeles-angels-embedhd\/index.m3u8?key=NOIR-ZYPAAU-2026",
           "type": "hls",
           "rewarded": false
         },
