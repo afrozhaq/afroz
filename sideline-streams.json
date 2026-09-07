@@ -490,6 +490,13 @@
         {
           "label": "Server 7",
           "subtitle": "Live ",
+          "url": "https:\/\/ppoospdsd.s3.us-east-1.amazonaws.com\/cubs.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 8",
+          "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-07\/chc-mil",
           "type": "hls",
           "rewarded": false,
@@ -499,7 +506,7 @@
           }
         },
         {
-          "label": "Server 8",
+          "label": "Server 9",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-chicago-cubs-vs-milwaukee-brewers\/1",
           "type": "hls",
