@@ -658,26 +658,12 @@
         {
           "label": "Server 6",
           "subtitle": "Live ",
-          "url": "mp",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 7",
-          "subtitle": "Live ",
-          "url": "mp",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 8",
-          "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc347\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzQ3OjE3ODg3OTQ0NzU4NjQ6Y2RubGl2ZXR2LnR2Ojg4YjJjYjY0NjI3M2M3ZWQuYTdjNjRjNmUwMDdmYWQxMWU0ZjM2NDU1MzRiNjNmZDkxOTUyODI2MjhjNmExZjg2MmMxMjcwNGFlZWU5NTllYg&|Referer=https:\/\/cdnlivetv.tv&Origin=https:\/\/cdnlivetv.tv&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 9",
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-07\/wsh-sd",
           "type": "hls",
@@ -688,7 +674,7 @@
           }
         },
         {
-          "label": "Server 10",
+          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-washington-nationals-vs-san-diego-padres\/1",
           "type": "hls",
