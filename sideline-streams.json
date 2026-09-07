@@ -560,12 +560,19 @@
         {
           "label": "Server 5",
           "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb624\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjI0OjE3ODg4MjE2MDE0OTE6Y2RubGl2ZXR2LnR2OmU5ZGQ0ZTNiM2M4MGNiZjkuNTA0MzZjNzllYTQ1YmExNGQzMTlhZmE1MjdjM2VhYTZhNDBlZDllZTdkYmVmOGMxMGY3N2IzZjllMzc3ZjdkYw&|Referer=https:\/\/cdnlivetv.tv&Origin=https:\/\/cdnlivetv.tv&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "url": "https:\/\/ppoospdsd.s3.us-east-1.amazonaws.com\/tigers.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 6",
+          "subtitle": "Live ",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb624\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjI0OjE3ODg4MjE2MDE0OTE6Y2RubGl2ZXR2LnR2OmU5ZGQ0ZTNiM2M4MGNiZjkuNTA0MzZjNzllYTQ1YmExNGQzMTlhZmE1MjdjM2VhYTZhNDBlZDllZTdkYmVmOGMxMGY3N2IzZjllMzc3ZjdkYw&|Referer=https:\/\/cdnlivetv.tv&Origin=https:\/\/cdnlivetv.tv&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-07\/min-det",
           "type": "hls",
@@ -576,7 +583,7 @@
           }
         },
         {
-          "label": "Server 7",
+          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-minnesota-twins-vs-detroit-tigers\/1",
           "type": "hls",
