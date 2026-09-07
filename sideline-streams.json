@@ -28,7 +28,7 @@
         {
           "label": "Server 3",
           "subtitle": "Live ",
-          "url": "mp",
+          "url": "embed",
           "type": "hls",
           "rewarded": false
         },
@@ -41,27 +41,34 @@
         },
         {
           "label": "Server 5",
+          "subtitle": "Live ",
+          "url": "mp",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 6",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=braves=phillies&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 6",
+          "label": "Server 7",
           "subtitle": "Live ( Away ) ",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=braves=phillies&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 7",
+          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2c81d8192bb76cd23f\/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkMjNmOjE3ODg3OTQ0NzU4NzE6Y2RubGl2ZXR2LnR2OjViNTg4MTcwOWIyMjA2MTAuNGQ2MjMzZjExYjFiZmZjMzhiZWQ3ODg2NTYzZjk5OGY0ZjJkMWQ0MWYyMDExM2E5MDk5YzdjMTdlZDE0MzZjZQ&|Referer=https:\/\/cdnlivetv.tv&Origin=https:\/\/cdnlivetv.tv&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 8",
+          "label": "Server 9",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-07\/atl-phi",
           "type": "hls",
@@ -72,7 +79,7 @@
           }
         },
         {
-          "label": "Server 9",
+          "label": "Server 10",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-atlanta-braves-vs-philadelphia-phillies\/1",
           "type": "hls",
