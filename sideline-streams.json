@@ -20,36 +20,36 @@
         },
         {
           "label": "Server 2",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/node-5d763f4c.4587.website\/6aa0fcfd.14f41ec8i798bc8d0.de5d.4aba39b8\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/node-8bba18be.4587.website\/6aa0fcfc.4375e1fbi798bc8d0.de77.83baa109\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb62c\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjJjOjE3ODg5MjA0NTIxNjE6Y2RubGl2ZXR2LnR2OjBiYjZiMjM1YjJkNTFlYzMuYWM3ZmU1MmUwODRhZGU2NzgwZmFiMDA1OWMzZjgzZTBmNWNjZDc0M2I3ODg3MTczNGYwMGM2YjhmYjkwNTZlYw",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 3",
+          "label": "Server 5",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=guardians=orioles&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
+          "label": "Server 6",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=guardians=orioles&s=away&sport=mlb",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 5",
-          "subtitle": "Live ",
-          "url": "mp",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 6",
-          "subtitle": "Live ",
-          "url": "mp",
           "type": "hls",
           "rewarded": false
         },
