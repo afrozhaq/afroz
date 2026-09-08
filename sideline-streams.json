@@ -861,7 +861,7 @@
         {
           "label": "Server 2",
           "subtitle": "Live ",
-          "url": "embed",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb622\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjIyOjE3ODg4NDAzMTY3ODI6Y2RubGl2ZXR2LnR2Ojk0MjFhMjFlM2QwYmI5OTkuNTcxY2QxNDU0MmUxMGM0NTU2ZjlkZTdiZGRmNjY1YmVkMmNhYjA5MjNlODAxYTgyYTU5NjUzYTZmZjI0NThjMQ&|Referer=https:\/\/cdnlivetv.tv&Origin=https:\/\/cdnlivetv.tv&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
@@ -882,6 +882,13 @@
         {
           "label": "Server 5",
           "subtitle": "Live ",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb618\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjE4OjE3ODg4NDAzMTY3ODc6Y2RubGl2ZXR2LnR2Ojc1ZjIxOTEwY2UxNDU3MDEuNzVhNmEzMWVjMmE2NzgxOTg4OGQ1ODFmZDVmN2I0OGU3ODc0ZTZhYWIyZDNkMDk3YTE4ZTFmOWY5Mzk5MGJjMg&|Referer=https:\/\/cdnlivetv.tv&Origin=https:\/\/cdnlivetv.tv&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 6",
+          "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-07\/tor-ath",
           "type": "hls",
           "rewarded": false,
@@ -891,7 +898,7 @@
           }
         },
         {
-          "label": "Server 6",
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-toronto-blue-jays-vs-athletics\/1",
           "type": "hls",
