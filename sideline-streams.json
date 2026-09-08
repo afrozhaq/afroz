@@ -686,58 +686,73 @@
         {
           "label": "Server 1",
           "subtitle": "Live ",
-          "url": "h",
+          "url": "https:\/\/edgestream2.pro\/hls\/jnzkdzjfanch23.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 2",
           "subtitle": "Live ",
-          "url": "h",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb5ff\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWZmOjE3ODg4NzgyOTg1Nzk6Y2RubGl2ZXR2LnR2OmJlZDJmMWMwOWQ5Y2JkYTYuNzNjYzJhNjY2YTI4OTMzMWZjMzZhYmVjYzc1ZmQwOTdlYmM2OTI2YmY2NjYzM2MzYmYxYzZjYjhlMmUwOTY1Yg&|Referer=https:\/\/cdnlivetv.tv&Origin=https:\/\/cdnlivetv.tv&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
-          "subtitle": "Live ",
-          "url": "h",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=cubs=brewers&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
-          "subtitle": "Live ",
-          "url": "h",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=cubs=brewers&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
           "subtitle": "Live ",
-          "url": "h",
+          "url": "mp",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 6",
           "subtitle": "Live ",
-          "url": "h",
+          "url": "mp",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 7",
           "subtitle": "Live ",
-          "url": "h",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb613\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjEzOjE3ODg4NzgyOTg1NzQ6Y2RubGl2ZXR2LnR2OjcyMGU4NTlkMjk1ODkyZGQuODA0NmUzZGNjN2U5YzE0ODQ4MDE0NjBkYzk0ZjI2MjJmNjBjNzA4N2NjYTA2NTc5NDQwNjQ2MzAwOTU5NTcxOA&|Referer=https:\/\/cdnlivetv.tv&Origin=https:\/\/cdnlivetv.tv&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 8",
           "subtitle": "Live ",
-          "url": "h",
+          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-08\/chc-mil",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-08\/chc-mil"
+          }
+        },
+        {
+          "label": "Server 9",
+          "subtitle": "Live ",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-chicago-cubs-vs-milwaukee-brewers\/1",
+          "type": "hls",
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-chicago-cubs-vs-milwaukee-brewers\/1"
+          }
         }
       ]
     },
