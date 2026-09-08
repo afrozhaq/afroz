@@ -251,48 +251,41 @@
         },
         {
           "label": "Server 2",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/node-5d763f4c.4587.website\/6aa0fcfb.f3ddec13i798bc8d0.de75.a09e88d8\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/node-025d151e.4587.website\/6aa0fcfc.6517d5fbi798bc8d0.de67.4f63d0ff\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb628\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjI4OjE3ODg5MjA4MTQ5MDM6Y2RubGl2ZXR2LnR2OjcxM2QxNThlY2RlM2I3YTguZTNiZTNiNGUzNzYxN2IzMWNiNWZhNjFkYTljM2EzNTY4MzAzNzg2N2M5YzdlYWJjMmY5YWU2OWYwMzNlYjMxNw",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 3",
+          "label": "Server 5",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=mets=marlins&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
+          "label": "Server 6",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=mets=marlins&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
-          "subtitle": "Live ",
-          "url": "mp",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 6",
-          "subtitle": "Live ",
-          "url": "mp",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
           "label": "Server 7",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2781d8192bb76cb52e\/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiNTJlOjE3ODg5MjA4MTk0MzQ6Y2RubGl2ZXR2LnR2OjE3Nzc1OTQzMDQ1MmUzNWUuZWZjM2NlOWFjY2YzZGQxNDJiZWJiMDk0YzMyZmVhMmQyMDMwZjFlMGIzMzcxY2E2NjcxMDQ5OThlMTIzNDkwZQ",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-08\/nym-mia",
           "type": "hls",
@@ -303,7 +296,7 @@
           }
         },
         {
-          "label": "Server 9",
+          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-new-york-mets-vs-miami-marlins\/2",
           "type": "hls",
