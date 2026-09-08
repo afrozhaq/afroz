@@ -182,28 +182,28 @@
         {
           "label": "Server 2",
           "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=twins=tigers&s=home&sport=mlb",
+          "url": "https:\/\/node-8bba18be.4587.website\/6aa0fcfc.492686cfi798bc8d0.de69.ed7ed0ce\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
           "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=twins=tigers&s=away&sport=mlb",
+          "url": "https:\/\/node-5d763f4c.4587.website\/6aa0fcfc.8fbf1da4i798bc8d0.de7f.a8651401\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
-          "subtitle": "Live ",
-          "url": "mp",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=twins=tigers&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
-          "subtitle": "Live ",
-          "url": "mp",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=twins=tigers&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
