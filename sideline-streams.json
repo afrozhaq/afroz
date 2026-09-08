@@ -503,20 +503,27 @@
         },
         {
           "label": "Server 4",
+          "subtitle": "Live ",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb612\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjEyOjE3ODg5MjMzNjExMjU6Y2RubGl2ZXR2LnR2OjkxMzBmMzU2ZDBjNTlmZjEuYjVlYmZlODVjMGY5NTQ2NjY3YjE3NjQ5OWY4YzZhMWQ3MmVhZmIxN2FjM2UyN2RjNDVkM2Q4YzY1MGNhMTJhYw",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 5",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=rays=braves&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
+          "label": "Server 6",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=rays=braves&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 6",
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-08\/tb-atl",
           "type": "hls",
@@ -527,7 +534,7 @@
           }
         },
         {
-          "label": "Server 7",
+          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-tampa-bay-rays-vs-atlanta-braves\/1",
           "type": "hls",
