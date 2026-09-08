@@ -1085,58 +1085,73 @@
         {
           "label": "Server 1",
           "subtitle": "Live ",
-          "url": "g",
+          "url": "https:\/\/edgestream2.pro\/hls\/hefbafbakx28.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 2",
           "subtitle": "Live ",
-          "url": "g",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb61d\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjFkOjE3ODg4NzkxNzI4NzI6Y2RubGl2ZXR2LnR2OjczODkwMzcwNWFlMmM2M2EuZGI3NzczMDljN2FjZGY2NGIyZDI2NzEyNzdkNzQ3ODg4NzYwYmE5YzE2NTE2ODA2OWE3MTQyZmY3Y2ZjMDkwMw",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
-          "subtitle": "Live ",
-          "url": "g",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=cardinals=giants&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
-          "subtitle": "Live ",
-          "url": "g",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=cardinals=giants&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
           "subtitle": "Live ",
-          "url": "g",
+          "url": "mp",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 6",
           "subtitle": "Live ",
-          "url": "g",
+          "url": "mp ",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 7",
           "subtitle": "Live ",
-          "url": "g",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb61b\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjFiOjE3ODg4NzkxNzQ0MzA6Y2RubGl2ZXR2LnR2OmVlNmM4NTM0MGY2MWU2MDIuNzQxY2ZmOGU3YmIzM2E2YjY3NjA2OTE0ZTkzMzRlZDJkZDg5MTgyOGFkMGU2OTI2NTNmOWVmNDg2OTAwMmEzZQ",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 8",
           "subtitle": "Live ",
-          "url": "g",
+          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-08\/stl-sf",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-08\/stl-sf"
+          }
+        },
+        {
+          "label": "Server 9",
+          "subtitle": "Live ",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-st-louis-cardinals-vs-san-francisco-giants\/1",
+          "type": "hls",
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-st-louis-cardinals-vs-san-francisco-giants\/1"
+          }
         }
       ]
     },
