@@ -735,7 +735,7 @@
         {
           "label": "Server 2",
           "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb62d\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjJkOjE3ODg4NzgyOTg1NTM6Y2RubGl2ZXR2LnR2OjY1ZDgxZTgxNzg0Y2NkMjMuYWNhMWFjMDEwZjQ3ZGJiYzQ5M2E5YjIxODFjYzY3ZmRlYjBmMmQyNDUxNDIzMzMxYjU3NDZjNTdkYTVlM2E4MA&|Referer=https:\/\/cdnlivetv.tv&Origin=https:\/\/cdnlivetv.tv&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2781d8192bb76cb311\/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzExOjE3ODg5MjM5NzQ1NTc6Y2RubGl2ZXR2LnR2Ojg4ZjU0NTJkNzg2NDQwNWYuYWJiNDc1NjIzZGY4ODI5ZjNkY2ZkNTI3M2RhMmYyYmQ5OTQzZTljZmZhZDRiYjhiNWM1YWRkM2NhMzcxYzJmYw",
           "type": "hls",
           "rewarded": false
         },
@@ -770,13 +770,6 @@
         {
           "label": "Server 7",
           "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb621\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjIxOjE3ODg4NzgyOTg1NTc6Y2RubGl2ZXR2LnR2OjM0MWNkY2MwZWRmNjY2NGMuOTk4ZTNkZDk4ZTNkOWVmYmRhMzYxYzg5NzU4YTgzYzBhMTI1MTE0OTBmNTdkOWNmOWU5MDJmMzE4NjE2MTNmZA&|Referer=https:\/\/cdnlivetv.tv&Origin=https:\/\/cdnlivetv.tv&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 8",
-          "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-08\/pit-chw",
           "type": "hls",
           "rewarded": false,
@@ -786,7 +779,7 @@
           }
         },
         {
-          "label": "Server 9",
+          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-pittsburgh-pirates-vs-chicago-white-sox\/2",
           "type": "hls",
