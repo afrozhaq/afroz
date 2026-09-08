@@ -489,48 +489,34 @@
         },
         {
           "label": "Server 2",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb61a\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjFhOjE3ODg4NzgyOTg1NTE6Y2RubGl2ZXR2LnR2OjgxMjE0ODJiMzIyMzVmNWIuMTgwMDcwNzE4YjNlY2IzN2ZiMmFiMDA3YWE5M2I3OTZhNDNiYmI0N2U4MGUzYmE0MDg5MTMxMWU1ZTVkMzE2MA&|Referer=https:\/\/cdnlivetv.tv&Origin=https:\/\/cdnlivetv.tv&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/node-88894cb5.4587.website\/6aa10599.3374e89ci798bc8d0.de79.fc1d0976\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/node-88894cb5.4587.website\/6aa10599.a60b5b3ai798bc8d0.de93.bd549689\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=rays=braves&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
+          "label": "Server 5",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=rays=braves&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
-          "subtitle": "Live ",
-          "url": "mp",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
           "label": "Server 6",
-          "subtitle": "Live ",
-          "url": "mp",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 7",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb612\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjEyOjE3ODg4NzgyOTg1NTA6Y2RubGl2ZXR2LnR2OjJkNGRjMjlhYzQ3YjEyMGIuNzI1YTY0NTFkYTdlZDM3NGZkOGRlMzFlZTRkOWZhOWM1MTM4MmUxNTFlNDRhYWVjYjRhMTQzYWRiNWY4ZmM4MA&|Referer=https:\/\/cdnlivetv.tv&Origin=https:\/\/cdnlivetv.tv&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-08\/tb-atl",
           "type": "hls",
@@ -541,7 +527,7 @@
           }
         },
         {
-          "label": "Server 9",
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-tampa-bay-rays-vs-atlanta-braves\/1",
           "type": "hls",
