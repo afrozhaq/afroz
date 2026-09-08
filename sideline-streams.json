@@ -21,7 +21,7 @@
         {
           "label": "Server 2",
           "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb5fc\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWZjOjE3ODg4NzgyOTg2MDc6Y2RubGl2ZXR2LnR2OmFkOWY3MmZkZTU1ZTY1NGMuNTY1OWE0ODJjOGRiNjgxZjhkM2UwZmE1NGQzMGYxZjdlOGMwODJkYWU4Y2JiOGY2ODQ0NWZjNWZjZDRhOGRjOA&|Referer=https:\/\/cdnlivetv.tv&Origin=https:\/\/cdnlivetv.tv&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb62c\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjJjOjE3ODg5MjA0NTIxNjE6Y2RubGl2ZXR2LnR2OjBiYjZiMjM1YjJkNTFlYzMuYWM3ZmU1MmUwODRhZGU2NzgwZmFiMDA1OWMzZjgzZTBmNWNjZDc0M2I3ODg3MTczNGYwMGM2YjhmYjkwNTZlYw",
           "type": "hls",
           "rewarded": false
         },
@@ -56,13 +56,6 @@
         {
           "label": "Server 7",
           "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb62f\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjJmOjE3ODg4NzgyOTg2MjE6Y2RubGl2ZXR2LnR2OmJhMWViZDdjNjg3OWU4OGQuZDUyZGY0Y2JkZGM4ZTA1NWYxNzY5MTRkMDYwOTAzNDExNWQyOGFlMzJkYjY1YTMzMWFkODg2ZjQ1MTFiMzkyZQ&|Referer=https:\/\/cdnlivetv.tv&Origin=https:\/\/cdnlivetv.tv&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 8",
-          "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-08\/cle-bal",
           "type": "hls",
           "rewarded": false,
@@ -72,7 +65,7 @@
           }
         },
         {
-          "label": "Server 9",
+          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-cleveland-guardians-vs-baltimore-orioles\/1",
           "type": "hls",
