@@ -406,7 +406,7 @@
         {
           "label": "Server 2",
           "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb62f\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjJmOjE3ODg5NjMxNjI2Mjc6Y2RubGl2ZXR2LnR2OmQ0OGQzYzAyMmNkNjczMzkuMzYwZDg0MmFhNmU4MDEzYmU2YmI5YmIwNWU0Y2JlNDc4OWJmYTc1NDRhNTQwZGY4YWYyZDVjOGQ3ZDg1YWI4Yw&|Referer=https:\/\/cdnlivetv.tv&Origin=https:\/\/cdnlivetv.tv&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb62f\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjJmOjE3ODkwMDYxMjQzNjk6Y2RubGl2ZXR2LnR2OjExZjY4YzVhYTgzODI5OGEuYmYzNjg2NmM4YWZiMzU0NWI4ODcxMmYxZWZkZWQ1NmZjNGU0MzkyYjQ2MzllYjViMjRkZGE5MmJkYzljMjJlYQ",
           "type": "hls",
           "rewarded": false
         },
@@ -441,13 +441,6 @@
         {
           "label": "Server 7",
           "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb62c\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjJjOjE3ODg5NjMxNjI3MzQ6Y2RubGl2ZXR2LnR2OmMwMjBjYzc4YWYyNDFjMDIuMGM4NTc3NzJjZjFjNzQ1OGI4MjkwMTliZjZjOGQxZjQ3YTVlZjIyMzdmMDBjMWQ5MDM1ODc5MWU4ZTQ4MTlmYQ&|Referer=https:\/\/cdnlivetv.tv&Origin=https:\/\/cdnlivetv.tv&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 8",
-          "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-09\/cle-bal",
           "type": "hls",
           "rewarded": false,
@@ -457,7 +450,7 @@
           }
         },
         {
-          "label": "Server 9",
+          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-cleveland-guardians-vs-baltimore-orioles\/1",
           "type": "hls",
