@@ -292,13 +292,69 @@
       "endsAt": 0,
       "links": [
         {
-          "label": "Server 1",
-          "subtitle": "FHD Auto Quality",
-          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "label": "Main Server Fast",
+          "subtitle": "Live",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/w0rehjjrwe\/out\/v1\/69a2a7041395406b970598f61680e7cf\/cenc.mpd",
           "type": "dash",
           "rewarded": false,
           "drmScheme": "clearkey",
-          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+          "drmLicenseUrl": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "b",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live",
+          "url": "b",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
+          "subtitle": "Live",
+          "url": "b",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 5",
+          "subtitle": "Live",
+          "url": "b",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 6",
+          "subtitle": "Live",
+          "url": "b",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 7",
+          "subtitle": "Live",
+          "url": "b",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 8",
+          "subtitle": "Live",
+          "url": "b",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 9",
+          "subtitle": "Live",
+          "url": "b",
+          "type": "hls",
+          "rewarded": false
         }
       ]
     },
