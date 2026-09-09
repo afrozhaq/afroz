@@ -272,27 +272,20 @@
         },
         {
           "label": "Server 4",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb61c\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjFjOjE3ODg5OTg5NjQwNjk6Y2RubGl2ZXR2LnR2OjI5MDdjMTdjNTY4MDg0NGMuNmY0YTcwMzc1ZjNmNzgyZGVkNzFkMDdmOTg4MGRhODJiOTE1Y2NiZDk0NDJiNmI2YWE1MTc5ZWM3ZGU0M2U3Nw",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 5",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=rangers=mariners&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 6",
+          "label": "Server 5",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=rangers=mariners&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 7",
+          "label": "Server 6",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-09\/tex-sea",
           "type": "hls",
@@ -303,7 +296,7 @@
           }
         },
         {
-          "label": "Server 8",
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-texas-rangers-vs-seattle-mariners\/1",
           "type": "hls",
