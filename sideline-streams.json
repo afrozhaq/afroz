@@ -959,7 +959,7 @@
         {
           "label": "Server 2",
           "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb613\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjEzOjE3ODg5NjMxNjI2ODE6Y2RubGl2ZXR2LnR2OmUxOTQwMzBiNmNiMjEzYTIuOWE2YWMzNjE2ODczNjlkMGMwYjFmNWMwYzg5YzVlYTgzN2RmM2MyYmU4MDkyN2JkZGE3NWI5Y2FkNjRmNjVmMQ&|Referer=https:\/\/cdnlivetv.tv&Origin=https:\/\/cdnlivetv.tv&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc344\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzQ0OjE3ODkwMTAyNjUwOTE6Y2RubGl2ZXR2LnR2OjYzNWQ4YmU5MTVkMGRkYjQuODljMGYxMTllODM4MDhmYjMyNGEzZTBhMjg5MTVmODEyYWZjZTFkODllZTk0MjU5ZGU5NGM5YjVlMGM3ZjVkZg",
           "type": "hls",
           "rewarded": false
         },
@@ -994,13 +994,6 @@
         {
           "label": "Server 7",
           "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb631\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjMxOjE3ODg5NjMxNjI2OTM6Y2RubGl2ZXR2LnR2OjBhNDliNTU4NTJiZDkyNmEuMjViZTA2YWRhZDQ5Yjg3MzE0YTZjY2FkYWFlYmZlNmYwNzQ4ZDlmZjg1MmUzMDY5MGI4YTY0Njg1ZmMyNGIyNw&|Referer=https:\/\/cdnlivetv.tv&Origin=https:\/\/cdnlivetv.tv&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 8",
-          "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-09\/chc-mil",
           "type": "hls",
           "rewarded": false,
@@ -1010,7 +1003,7 @@
           }
         },
         {
-          "label": "Server 9",
+          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-chicago-cubs-vs-milwaukee-brewers\/1",
           "type": "hls",
