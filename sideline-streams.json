@@ -504,65 +504,73 @@
         {
           "label": "Server 1",
           "subtitle": "Live ",
-          "url": "j",
+          "url": "https:\/\/edgestream2.pro\/hls\/ojzkajnach21.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 2",
           "subtitle": "Live ",
-          "url": "j",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb616\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjE2OjE3ODg5NjMxNjI2NDE6Y2RubGl2ZXR2LnR2OjI0NDU1ZTYyMmY0MTI2MWMuYzQ4OTA2NGE4NTc1ZjA0YjM4N2ZhYjA1Mzg4NjQyZjkxNTIyMmI4ZWNmYWI0YmFmN2MyNTAxOGE3NjIzMzU0Ng&|Referer=https:\/\/cdnlivetv.tv&Origin=https:\/\/cdnlivetv.tv&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
-          "subtitle": "Live ",
-          "url": "j",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=astros=phillies&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
-          "subtitle": "Live ",
-          "url": "j",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=astros=phillies&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
           "subtitle": "Live ",
-          "url": "j",
+          "url": "mp",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 6",
           "subtitle": "Live ",
-          "url": "j",
+          "url": "mp",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 7",
           "subtitle": "Live ",
-          "url": "j",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb627\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjI3OjE3ODg5NjMxNjI2NDk6Y2RubGl2ZXR2LnR2OjNiYjE4NDMwNzM3N2I3YmIuYjU2ZDUxOTU5ZjIzZTI2NDdmN2Q3N2M3M2RhNDk5NTA3NDhmMDg1MTBjOTQzYzBkNTQxODc4Y2M0NDgzMzlmMw&|Referer=https:\/\/cdnlivetv.tv&Origin=https:\/\/cdnlivetv.tv&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 8",
           "subtitle": "Live ",
-          "url": "j",
+          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-09\/hou-phi",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-09\/hou-phi"
+          }
         },
         {
           "label": "Server 9",
           "subtitle": "Live ",
-          "url": "j",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-houston-astros-vs-philadelphia-phillies\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-houston-astros-vs-philadelphia-phillies\/1"
+          }
         }
       ]
     },
