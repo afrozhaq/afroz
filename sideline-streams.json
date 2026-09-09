@@ -1252,7 +1252,7 @@
       "gameId": "",
       "away": "NE",
       "home": "SEA",
-      "title": "Patriots Vs Seahawks",
+      "title": "Patriots at Seahawks",
       "poster": "",
       "startsAt": 1788999600000,
       "endsAt": 0,
@@ -1296,6 +1296,61 @@
           "label": "Server 6",
           "subtitle": "Live",
           "url": "Https",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
+    },
+    {
+      "id": "s1788978946757",
+      "league": "nfl",
+      "gameId": "",
+      "away": "SF",
+      "home": "LAR",
+      "title": "49ers at Rams",
+      "poster": "",
+      "startsAt": 1789086900000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "https ",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "https ",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live",
+          "url": "https ",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
+          "subtitle": "Live",
+          "url": "https ",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 5",
+          "subtitle": "Live",
+          "url": "https ",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 6",
+          "subtitle": "Live",
+          "url": "https ",
           "type": "hls",
           "rewarded": false
         }
