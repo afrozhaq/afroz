@@ -1043,7 +1043,7 @@
         {
           "label": "Server 2",
           "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb62d\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjJkOjE3ODg5NjMxNjI2NzM6Y2RubGl2ZXR2LnR2OjE0NTQzMDU0ZDg0YzlkZDAuZDFiMDE3NDM2NDkzYzFlZDFlOTkyYzE0OGU4MjBkZTI5YTQ4M2RjMzVkYjVkNzYxMjc4YTBlNzdiZDIwNmM5Zg&|Referer=https:\/\/cdnlivetv.tv&Origin=https:\/\/cdnlivetv.tv&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb62d\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjJkOjE3ODkwMTAxMDA5ODE6Y2RubGl2ZXR2LnR2OmYxMzI3OThiYjUzNDIyZDIuNzQ3MGE5YzQxMmU5NjcyYmJkYTUwNjNhNmMyNjY0YmYzZmQyNjQ1MjhmMDUwY2JjMzg0MzVkMDk0NjUwMmY4MQ",
           "type": "hls",
           "rewarded": false
         },
@@ -1078,13 +1078,6 @@
         {
           "label": "Server 7",
           "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb621\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjIxOjE3ODg5NjMxNjI2Nzk6Y2RubGl2ZXR2LnR2OjE5YzJlNTgwMGZjZmZmMzkuZmM1YjY2Yjg1NDIyM2M2MzRjZDVkMmFjOTQ3NDZkYzc4YmNlNDRmZTdkZDE3ZWQ0ZTU4ZDUwYWU5OTQzZGJlMA&|Referer=https:\/\/cdnlivetv.tv&Origin=https:\/\/cdnlivetv.tv&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 8",
-          "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-09\/pit-chw",
           "type": "hls",
           "rewarded": false,
@@ -1094,7 +1087,7 @@
           }
         },
         {
-          "label": "Server 9",
+          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-pittsburgh-pirates-vs-chicago-white-sox\/1",
           "type": "hls",
