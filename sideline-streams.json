@@ -797,22 +797,22 @@
         },
         {
           "label": "Server 2",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb61c\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjFjOjE3ODg4Nzg5OTQwMDM6Y2RubGl2ZXR2LnR2OmZiYzEzM2JmMDk2M2UzY2MuN2YwNGVkYTFlOTM4MmFmYzQ0ZDE5MTQ1YWVhOWY3YTVlNTk4OTlkNjkwOWFkYjVhYTU3NTE5Y2ZlYzk1ZWNkOQ",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 3",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=rangers=mariners&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
+          "label": "Server 3",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=rangers=mariners&s=away&sport=mlb",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
+          "subtitle": "Live ",
+          "url": "mp",
           "type": "hls",
           "rewarded": false
         },
@@ -826,20 +826,6 @@
         {
           "label": "Server 6",
           "subtitle": "Live ",
-          "url": "mp",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 7",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb619\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjE5OjE3ODg4Nzg5OTM2Njc6Y2RubGl2ZXR2LnR2OmQwZDczYTkyOGZhYjZmYjAuNTBlMWRhZWJlZDU3MDFhZmMzNTU0ZWIxYTE2MTQ3MjE3ZmExZWNiNzYxNjhmY2YyZjE3ZjUyNDYwMDhmN2FjZg",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 8",
-          "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-08\/tex-sea",
           "type": "hls",
           "rewarded": false,
@@ -849,7 +835,7 @@
           }
         },
         {
-          "label": "Server 9",
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-texas-rangers-vs-seattle-mariners\/1",
           "type": "hls",
@@ -881,34 +867,20 @@
         },
         {
           "label": "Server 2",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb622\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjIyOjE3ODg4NzkxMDgyMTk6Y2RubGl2ZXR2LnR2OmViN2YxMzBlOGRkYmM1MWIuNzYxMTVkZTJjYTQzMjI4OGZkZmM5YWEwNzk0MTllZTA3YjczMmNlMDYyNTdlNzcwYTRhNGY2MDg1MTFmOTk0ZQ",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 3",
           "subtitle": "Live ( Home )",
           "url": "mp",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
+          "label": "Server 3",
           "subtitle": "Live ( Away ) ",
           "url": "mp",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb5d7\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWQ3OjE3ODg4NzkxMTA1MzY6Y2RubGl2ZXR2LnR2OjgwNGU2NmE2NzhhOTMzMTUuNDhiNGIzYWQ4NDgwMmEzZTU1YjVhNWExOWRjZDUxM2E0NTY4YzUxYzYwZThlNDBjMWE0YzFiYmIyZGU4MDcwZg",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 6",
+          "label": "Server 4",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-08\/tor-ath",
           "type": "hls",
@@ -919,7 +891,7 @@
           }
         },
         {
-          "label": "Server 7",
+          "label": "Server 5",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-toronto-blue-jays-vs-athletics\/1",
           "type": "hls",
@@ -951,22 +923,22 @@
         },
         {
           "label": "Server 2",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb61e\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjFlOjE3ODg4NzkwNjg4MTk6Y2RubGl2ZXR2LnR2OjllNTQ5OWJjYjA0MzEyODEuZjRhMTFjYjcxN2YzMGYyMWNjNWRmNjE0YmIyNmRlMjAxNWEyMGI0MDk0YzkzMDAxYTgyMTc4NDBkMTNkN2FiYQ",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 3",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=nationals=padres&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
+          "label": "Server 3",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=nationals=padres&s=away&sport=mlb",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
+          "subtitle": "Live ",
+          "url": "mp",
           "type": "hls",
           "rewarded": false
         },
@@ -980,13 +952,6 @@
         {
           "label": "Server 6",
           "subtitle": "Live ",
-          "url": "mp",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 7",
-          "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-08\/wsh-sd",
           "type": "hls",
           "rewarded": false,
@@ -996,7 +961,7 @@
           }
         },
         {
-          "label": "Server 8",
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-washington-nationals-vs-san-diego-padres\/1",
           "type": "hls",
@@ -1028,48 +993,34 @@
         },
         {
           "label": "Server 2",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb61d\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjFkOjE3ODg4NzkxNzI4NzI6Y2RubGl2ZXR2LnR2OjczODkwMzcwNWFlMmM2M2EuZGI3NzczMDljN2FjZGY2NGIyZDI2NzEyNzdkNzQ3ODg4NzYwYmE5YzE2NTE2ODA2OWE3MTQyZmY3Y2ZjMDkwMw",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 3",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=cardinals=giants&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
+          "label": "Server 3",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=cardinals=giants&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
+          "label": "Server 4",
           "subtitle": "Live ",
           "url": "mp",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 6",
+          "label": "Server 5",
           "subtitle": "Live ",
           "url": "mp ",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 7",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb61b\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjFiOjE3ODg4NzkxNzQ0MzA6Y2RubGl2ZXR2LnR2OmVlNmM4NTM0MGY2MWU2MDIuNzQxY2ZmOGU3YmIzM2E2YjY3NjA2OTE0ZTkzMzRlZDJkZDg5MTgyOGFkMGU2OTI2NTNmOWVmNDg2OTAwMmEzZQ",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 8",
+          "label": "Server 6",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-08\/stl-sf",
           "type": "hls",
@@ -1080,7 +1031,7 @@
           }
         },
         {
-          "label": "Server 9",
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-st-louis-cardinals-vs-san-francisco-giants\/1",
           "type": "hls",
