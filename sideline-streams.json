@@ -343,6 +343,26 @@
           "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
         }
       ]
+    },
+    {
+      "id": "s1788946282779",
+      "league": "other",
+      "gameId": "",
+      "away": "TEST",
+      "home": "TEST",
+      "title": "Test",
+      "poster": "",
+      "startsAt": 1788946260000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "HD",
+          "subtitle": "f",
+          "url": "http",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
