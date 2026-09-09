@@ -1219,6 +1219,13 @@
         },
         {
           "label": "Server 6",
+          "subtitle": "Live ",
+          "url": "https:\/\/embedsports-media-cdn.s3.us-east-1.amazonaws.com\/btsport.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 7",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-09\/ne-sea",
           "type": "hls",
@@ -1229,7 +1236,7 @@
           }
         },
         {
-          "label": "Server 7",
+          "label": "Server 8",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-new-england-patriots-at-seattle-seahawks\/1",
           "type": "hls",
