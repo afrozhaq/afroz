@@ -1245,6 +1245,61 @@
           }
         }
       ]
+    },
+    {
+      "id": "s1788978868271",
+      "league": "nfl",
+      "gameId": "",
+      "away": "NE",
+      "home": "SEA",
+      "title": "Patriots Vs Seahawks",
+      "poster": "",
+      "startsAt": 1788999600000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "Https",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "Https",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live",
+          "url": "Https",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
+          "subtitle": "Live",
+          "url": "Https",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 5",
+          "subtitle": "Live",
+          "url": "Https",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 6",
+          "subtitle": "Live",
+          "url": "Https",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
