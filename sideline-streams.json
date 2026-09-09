@@ -1226,20 +1226,27 @@
         },
         {
           "label": "Server 3",
+          "subtitle": "Live",
+          "url": "https:\/\/node-3cc54a6d.4587.website\/6aa2537a.b436382ai798bc8d0.c8e8.aaaca4ee\/free.live.nfl\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=patriots=seahawks&s=home&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
+          "label": "Server 5",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=patriots=seahawks&s=away&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
+          "label": "Server 6",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-09\/ne-sea",
           "type": "hls",
@@ -1250,7 +1257,7 @@
           }
         },
         {
-          "label": "Server 6",
+          "label": "Server 7",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-new-england-patriots-at-seattle-seahawks\/1",
           "type": "hls",
