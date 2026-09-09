@@ -1181,7 +1181,7 @@
       "endsAt": 0,
       "links": [
         {
-          "label": "Main Server Fast",
+          "label": "Main Fast Server 1",
           "subtitle": "Live",
           "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/w0rehjjrwe\/out\/v1\/69a2a7041395406b970598f61680e7cf\/cenc.mpd",
           "type": "dash",
@@ -1199,42 +1199,51 @@
           "drmLicenseUrl": "7841cf8bb88932dc03886bf3c02dc11e:a62589f3818c162bb9ad06bc7b0c609e"
         },
         {
-          "label": "Server 3",
+          "label": "Main Fast Server 3",
+          "subtitle": "Live",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/pdx-nitro\/live\/clients\/dash\/enc\/lhxga96eiv\/out\/v1\/542c7196d5104e5fb8c5ab1283d25a10\/cenc.mpd",
+          "type": "dash",
+          "rewarded": false,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "6b6a4622a2322e713bde46d64104c6b2:cf991bbbfc825b514bc2b7b219b7f4e7"
+        },
+        {
+          "label": "Server 4",
           "subtitle": "Live",
           "url": "https:\/\/edgestream2.pro\/hls\/JHDAJBDnjdna30.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
+          "label": "Server 5",
           "subtitle": "Live",
           "url": "https:\/\/node-3cc54a6d.4587.website\/6aa2537a.b436382ai798bc8d0.c8e8.aaaca4ee\/free.live.nfl\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
+          "label": "Server 6",
           "subtitle": "Live",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/streampk.php?sport=nfl&id=NewEnglandvsSeattle.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 6",
+          "label": "Server 7",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=patriots=seahawks&s=home&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 7",
+          "label": "Server 8",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=patriots=seahawks&s=away&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 8",
+          "label": "Server 9",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-09\/ne-sea",
           "type": "hls",
@@ -1245,7 +1254,7 @@
           }
         },
         {
-          "label": "Server 9",
+          "label": "Server 10",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-new-england-patriots-at-seattle-seahawks\/1",
           "type": "hls",
