@@ -1241,65 +1241,73 @@
         {
           "label": "Server 1",
           "subtitle": "Live ",
-          "url": "j",
+          "url": "https:\/\/edgestream2.pro\/hls\/hfzljfahzcax29.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 2",
           "subtitle": "Live ",
-          "url": "j",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb617\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjE3OjE3ODg5NjM3OTY3MDI6Y2RubGl2ZXR2LnR2OmM1ODBlYzhlYzhhNTVmOTMuMWVlMWJkZjMxM2FiZDE4YzQzMmU1NDU2ZmUzZTVkNDZmOWRmM2I4ZjYyMzgyMGRjMzdlN2U2ZTIwYmRjZGIzZg",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
-          "subtitle": "Live ",
-          "url": "j",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=reds=dodgers&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
-          "subtitle": "Live ",
-          "url": "j",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=reds=dodgers&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
           "subtitle": "Live ",
-          "url": "j",
+          "url": "mp",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 6",
           "subtitle": "Live ",
-          "url": "j",
+          "url": "mp",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 7",
           "subtitle": "Live ",
-          "url": "j",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb626\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjI2OjE3ODg5NjM3OTIzNTA6Y2RubGl2ZXR2LnR2OjlmYzQ3ZGEwMmM0NGI1ZTEuZTVlMDUxYTgwYmMzZTc2OTVkZTdlMmExNjAxMjMwYzk2ZDgwMjM4MjFlY2FhNjRiMGQxODc1NjA1N2RhMWQ1YQ",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 8",
           "subtitle": "Live ",
-          "url": "j",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-cincinnati-reds-vs-los-angeles-dodgers\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-cincinnati-reds-vs-los-angeles-dodgers\/1"
+          }
         },
         {
           "label": "Server 9",
           "subtitle": "Live ",
-          "url": "j",
+          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-09\/cin-lad",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-09\/cin-lad"
+          }
         }
       ]
     },
