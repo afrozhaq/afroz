@@ -798,28 +798,28 @@
         {
           "label": "Server 2",
           "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=rangers=mariners&s=home&sport=mlb",
+          "url": "https:\/\/node-9b5feb01.4587.website\/6aa124fd.74eb49cdi798bc8d0.e070.f77d526b\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
-          "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=rangers=mariners&s=away&sport=mlb",
+          "subtitle": "Live ( Away ) ",
+          "url": "https:\/\/node-9b5feb01.4587.website\/6aa124fd.c979c08ci798bc8d0.e06c.25e5cec1\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
-          "subtitle": "Live ",
-          "url": "mp",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=rangers=mariners&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
-          "subtitle": "Live ",
-          "url": "mp",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=rangers=mariners&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
