@@ -784,7 +784,7 @@
         {
           "label": "Server 2",
           "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb612\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjEyOjE3ODg5NjMxNjI2NjE6Y2RubGl2ZXR2LnR2OmM5MDQ4ZTJlYmMyODM3OWUuMjlhMmYzZjM2YmQyYmE3MGMwZjhmYjFlNjdhOWFmNDE5YWExM2MzZmIwOGQwMWNlODQwNTYyYWMxNzQ2YzQ4ZA&|Referer=https:\/\/cdnlivetv.tv&Origin=https:\/\/cdnlivetv.tv&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "url": "https:\/\/livecdn-tc-iptv.rumsport10.live\/live_abr\/55844\/720p\/chunks.m3u8?is_vip=false&token=1789080464-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b721aa19d7625fd1c9b977f2aa9e0e9d|Referer=https:\/\/iframe.rumsport8.live\/&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/120.0.0.0 Safari\/537.36",
           "type": "hls",
           "rewarded": false
         },
@@ -819,13 +819,6 @@
         {
           "label": "Server 7",
           "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb61a\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjFhOjE3ODg5NjMxNjI2Njg6Y2RubGl2ZXR2LnR2OmQxNzhkZmMwNzFlOTZmNDUuMGQ2NzQ2MGMzNzBmNTQ3MWFlZTkwNTQ3YzEwZjUxYzA4ZDQzZWE4ZTIyOGM2NTBlOTJjZTllZTM4NjU4ZTUxNw&|Referer=https:\/\/cdnlivetv.tv&Origin=https:\/\/cdnlivetv.tv&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 8",
-          "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-09\/tb-atl",
           "type": "hls",
           "rewarded": false,
@@ -835,7 +828,7 @@
           }
         },
         {
-          "label": "Server 9",
+          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-tampa-bay-rays-vs-atlanta-braves\/1",
           "type": "hls",
