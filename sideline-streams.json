@@ -1085,35 +1085,35 @@
         {
           "label": "Server 2",
           "subtitle": "Live ( Home )",
-          "url": "https:\/\/node-9b5feb01.4587.website\/6aa12600.d9a0ac47i798bc8d0.e071.c8c18969\/free.live.espn\/master.m3u8",
+          "url": "https:\/\/node-9b5feb01.4587.website\/6aa12dcd.f9a1db49i798bc8d0.e071.8a82d537\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/node-5d763f4c.4587.website\/6aa12dcd.9b8c15bfi798bc8d0.e07b.917b0e7e\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
           "subtitle": "Live ",
           "url": "https:\/\/orbitcast-media-cdn.s3.us-east-1.amazonaws.com\/dodgers.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
+          "label": "Server 5",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=reds=dodgers&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
+          "label": "Server 6",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=reds=dodgers&s=away&sport=mlb",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 6",
-          "subtitle": "Live ",
-          "url": "mp",
           "type": "hls",
           "rewarded": false
         },
