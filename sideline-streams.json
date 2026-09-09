@@ -119,7 +119,7 @@
         {
           "label": "Server 4",
           "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb622\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjIyOjE3ODg5NjMxNjI2MTA6Y2RubGl2ZXR2LnR2OjQ0NTI4MjU3NTJmOTJkZTUuOWJjZDIzZDYyMmFmYjc1ZDI3MTA2NTkzMmJmMWY0ZjgwYWM3OTZjOGZkZDQ2ZmU4MWNkZjVmZDY5MTY5ODQ2Zg&|Referer=https:\/\/cdnlivetv.tv&Origin=https:\/\/cdnlivetv.tv&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb618\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjE4OjE3ODg5OTQ3ODk2NTk6Y2RubGl2ZXR2LnR2OjEyYTM2MjMyZjVhZjhhMTYuOGQxNGQ2MGMwNTI2NzExYzk1NDQ2MGE1OGNlMWIwMzVjZGJlYzBkNjc3ZDk5NTcxMmIxOGNmYWQ4OTUxMTBmMQ",
           "type": "hls",
           "rewarded": false
         },
@@ -133,7 +133,7 @@
         {
           "label": "Server 6",
           "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb622\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjIyOjE3ODg5NjMxNjI2MTA6Y2RubGl2ZXR2LnR2OjQ0NTI4MjU3NTJmOTJkZTUuOWJjZDIzZDYyMmFmYjc1ZDI3MTA2NTkzMmJmMWY0ZjgwYWM3OTZjOGZkZDQ2ZmU4MWNkZjVmZDY5MTY5ODQ2Zg&|Referer=https:\/\/cdnlivetv.tv&Origin=https:\/\/cdnlivetv.tv&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc2bc\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMmJjOjE3ODg5OTQ3OTM0MzM6Y2RubGl2ZXR2LnR2OjAwZmMwMGZmNGViZTRkN2YuNWRmNmJhZjg1Mjg0ZGY0OTI4ODNmMjdlNzU1YmVmYjdkYTA0MDQ4MmJlMTU1MTczMTIzODJhZTFjY2U5ZTA4MA",
           "type": "hls",
           "rewarded": false
         },
