@@ -390,8 +390,8 @@
       "endsAt": 0,
       "links": [
         {
-          "label": "Main Server Fast",
-          "subtitle": "Live ",
+          "label": "Main Server Fast 1",
+          "subtitle": "FHD Auto Quality Live Now",
           "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/w0rehjjrwe\/out\/v1\/69a2a7041395406b970598f61680e7cf\/cenc.mpd",
           "type": "dash",
           "rewarded": false,
@@ -399,42 +399,51 @@
           "drmLicenseUrl": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
         },
         {
-          "label": "Server 2",
+          "label": "Main Server Fast 2",
+          "subtitle": "FHD Auto Quality Live Now",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/iad-nitro\/live\/clients\/dash\/enc\/hplzx3kxan\/out\/v1\/bed453ac7c7d468da556448fdb360182\/cenc.mpd",
+          "type": "dash",
+          "rewarded": false,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "3f77bc6f8f6b4c0802ef78a962c4c687:3f532a31ed0f8df14bdcde9b6f7c75c9"
+        },
+        {
+          "label": "Server 3",
           "subtitle": "Live ",
           "url": "https:\/\/edgestream2.pro\/hls\/JHDAJBDnjdna30.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 3",
+          "label": "Server 4",
           "subtitle": "Live ",
           "url": "https:\/\/node-f6ba8d9f.4587.website\/6aa3a7ac.3f6de9fci798bc8d0.cba3.ffa85e0d\/free.live.nfl\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
+          "label": "Server 5",
           "subtitle": "Live ",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/streampk.php?sport=nfl&id=SanFranciscovsLosAngeles.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
+          "label": "Server 6",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=49ers=rams&s=home&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 6",
+          "label": "Server 7",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=49ers=rams&s=away&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 7",
+          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-san-francisco-49-ers-at-los-angeles-rams\/2",
           "type": "hls",
@@ -445,7 +454,7 @@
           }
         },
         {
-          "label": "Server 8",
+          "label": "Server 9",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-10\/sf-lar",
           "type": "hls",
