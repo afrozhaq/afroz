@@ -99,63 +99,6 @@
           "rewarded": true
         }
       ]
-    },
-    {
-      "id": "s1788978946757",
-      "league": "nfl",
-      "gameId": "",
-      "away": "SF",
-      "home": "LAR",
-      "title": "49ers at Rams",
-      "poster": "",
-      "startsAt": 1789086900000,
-      "endsAt": 0,
-      "links": [
-        {
-          "label": "Main Fast Server",
-          "subtitle": "FHD Auto Quality Live Now",
-          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/w0rehjjrwe\/out\/v1\/69a2a7041395406b970598f61680e7cf\/cenc.mpd",
-          "type": "dash",
-          "rewarded": false,
-          "drmScheme": "clearkey",
-          "drmLicenseUrl": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
-        },
-        {
-          "label": "Server 2",
-          "subtitle": "Live",
-          "url": "https ",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 3",
-          "subtitle": "Live",
-          "url": "https ",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 4",
-          "subtitle": "Live",
-          "url": "https ",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 5",
-          "subtitle": "Live",
-          "url": "https ",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 6",
-          "subtitle": "Live",
-          "url": "https ",
-          "type": "hls",
-          "rewarded": false
-        }
-      ]
     }
   ]
 }
