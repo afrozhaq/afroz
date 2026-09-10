@@ -175,14 +175,14 @@
         {
           "label": "Server 2",
           "subtitle": "Live ( Home )",
-          "url": "https:\/\/node-5d763f4c.4587.website\/6aa37ba3.1290c418i798bc8d0.e2d3.77f31be5\/free.live.espn\/master.m3u8",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=rangers=mariners&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
           "subtitle": "Live ( Away )",
-          "url": "https:\/\/node-025d151e.4587.website\/6aa37ba3.7b0faa0ci798bc8d0.e2d2.e557e4b8\/free.live.espn\/master.m3u8",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=rangers=mariners&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
@@ -195,20 +195,13 @@
         },
         {
           "label": "Server 5",
-          "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=rangers=mariners&s=home&sport=mlb",
+          "subtitle": "Live ",
+          "url": "https:\/\/livecdn-tc-iptv.rumsport10.live\/live_abr\/55838\/720p\/chunks.m3u8?is_vip=false&token=1789156069-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-16e6f811b32356ec1f3849add6086ae4|Referer=https:\/\/iframe.rumsport8.live\/&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/120.0.0.0 Safari\/537.36",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 6",
-          "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=rangers=mariners&s=away&sport=mlb",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-10\/tex-sea",
           "type": "hls",
@@ -219,7 +212,7 @@
           }
         },
         {
-          "label": "Server 8",
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-texas-rangers-vs-seattle-mariners\/2",
           "type": "hls",
