@@ -1210,11 +1210,11 @@
         {
           "label": "Main Fast Server 4",
           "subtitle": "Live",
-          "url": "https:\/\/otte.cache.aiv-cdn.net\/pdx-nitro\/live\/clients\/dash\/enc\/c71jccl3fk\/out\/v1\/4222208d7fa54d69bf78a79b7a5b9a6d\/cenc.mpd",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/lhr-nitro\/live\/clients\/dash\/enc\/llxsugerhv\/out\/v1\/2d985584b7e54605abedb7022085fc79\/cenc.mpd",
           "type": "dash",
           "rewarded": false,
           "drmScheme": "clearkey",
-          "drmLicenseUrl": "eae6ec1a71eb32003d708017652015f4:d546be6035f1c350e25ddcaad56a9ab9"
+          "drmLicenseUrl": "c73c30e99e5ca273d95bbfec4db66943:989664c4e64f615d06cb3c19603b8723"
         },
         {
           "label": "Main Fast Server 5",
