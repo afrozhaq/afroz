@@ -1141,13 +1141,6 @@
         {
           "label": "Server 7",
           "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb617\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjE3OjE3ODkwMTg2NzExNzE6Y2RubGl2ZXR2LnR2OjFkOTJjNmRkY2ZlMTc4YjcuM2VmNjkyNzkwMzUxMzMyY2FhYWM2YzM2YmE3NWIyODAzZDQ2YzBjMDViMThmYWQ0NTNmNWYwZDk4Y2YzNDIwMA",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 8",
-          "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-cincinnati-reds-vs-los-angeles-dodgers\/1",
           "type": "hls",
           "rewarded": false,
@@ -1157,7 +1150,7 @@
           }
         },
         {
-          "label": "Server 9",
+          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-09\/cin-lad",
           "type": "hls",
