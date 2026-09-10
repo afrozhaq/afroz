@@ -321,48 +321,41 @@
         },
         {
           "label": "Server 2",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb606\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjA2OjE3ODkwNTAzNzI0ODc6Y2RubGl2ZXR2LnR2OmE1ODg5NmE0ZmRkODMwNGQuZDEwNmEzNjEzZTJkZWQyNWRlMmU1NTJmN2M2MjFmZTlkZWMwM2QwNmI3ZDZhMzZmOTZjM2U4MDVjM2I4YjUxNA&|Referer=https:\/\/cdnlivetv.tv&Origin=https:\/\/cdnlivetv.tv&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/node-8bba18be.4587.website\/6aa3ae25.da34fa69i798bc8d0.e31a.47a54190\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/node-8bba18be.4587.website\/6aa3ae25.496bf38di798bc8d0.e30d.945b04f4\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
+          "subtitle": "Live ",
+          "url": "https:\/\/livecdn-tc-iptv.rumsport10.live\/live_abr\/55840\/720p\/chunks.m3u8?is_vip=false&token=1789168657-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2595ed7a9a8c7d40d2b6ca9312a682fe|Referer=https:\/\/iframe.rumsport8.live\/&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/120.0.0.0 Safari\/537.36",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 5",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=pirates=whitesox&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
+          "label": "Server 6",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=pirates=whitesox&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
-          "subtitle": "Live ",
-          "url": "mp",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 6",
-          "subtitle": "Live ",
-          "url": "mp",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
           "label": "Server 7",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb62d\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjJkOjE3ODkwNTAzNzI0MTQ6Y2RubGl2ZXR2LnR2OjEyY2VjYmFlYmI2ZTMzNjIuYjdjZGJmMmQyMjE5ODhhMjU3M2QzMzAwMTU5MTNjNTM3YzNkMTM3ZTgyZjA2MGJkMGYxZDE2Mzk3M2ZmMWMyYw&|Referer=https:\/\/cdnlivetv.tv&Origin=https:\/\/cdnlivetv.tv&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-10\/pit-chw",
           "type": "hls",
@@ -373,7 +366,7 @@
           }
         },
         {
-          "label": "Server 9",
+          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-pittsburgh-pirates-vs-chicago-white-sox\/2",
           "type": "hls",
