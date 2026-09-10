@@ -182,65 +182,73 @@
         {
           "label": "Server 1",
           "subtitle": "Live ",
-          "url": "n",
+          "url": "https:\/\/edgestream2.pro\/hls\/ihfazugfyjcazich17.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 2",
           "subtitle": "Live ",
-          "url": "n",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb61c\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjFjOjE3ODkwNTAzNzI0MDk6Y2RubGl2ZXR2LnR2OjE2ZmM3ZGQ3ZjBiOGRiZDEuOGUzNGU3YTlmOTBjMGJiNTIzN2E3MzFjN2UxMWEzYzNhNTk0YzFhMjEyYjBkOTM3MjI3YTAwOGI4MTFlNDJiMg&|Referer=https:\/\/cdnlivetv.tv&Origin=https:\/\/cdnlivetv.tv&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
-          "subtitle": "Live ",
-          "url": "n",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=rangers=mariners&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
-          "subtitle": "Live ",
-          "url": "n",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=rangers=mariners&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
           "subtitle": "Live ",
-          "url": "n",
+          "url": "mp",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 6",
           "subtitle": "Live ",
-          "url": "n",
+          "url": "mp",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 7",
           "subtitle": "Live ",
-          "url": "n",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb619\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjE5OjE3ODkwNTAzNzIzOTI6Y2RubGl2ZXR2LnR2OmJiOGU1NmMzNzc3N2ZiNmMuOGU0MjllZWQ3ODE0N2Y5NGUzNWI1ZDIyMzFlMzUxYWFkNjdjYmNhNWY1NzY2ODhmYWIxYTNlNzkyYTcxOTVkYg&|Referer=https:\/\/cdnlivetv.tv&Origin=https:\/\/cdnlivetv.tv&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 8",
           "subtitle": "Live ",
-          "url": "n",
+          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-10\/tex-sea",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-10\/tex-sea"
+          }
         },
         {
           "label": "Server 9",
           "subtitle": "Live ",
-          "url": "n",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-texas-rangers-vs-seattle-mariners\/2",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-texas-rangers-vs-seattle-mariners\/2"
+          }
         }
       ]
     },
