@@ -1182,7 +1182,7 @@
       "links": [
         {
           "label": "Main Fast Server 1",
-          "subtitle": "Live",
+          "subtitle": "FHD Auto Quality Live Now",
           "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/w0rehjjrwe\/out\/v1\/69a2a7041395406b970598f61680e7cf\/cenc.mpd",
           "type": "dash",
           "rewarded": false,
@@ -1191,7 +1191,7 @@
         },
         {
           "label": "Main Fast Server 2",
-          "subtitle": "Live",
+          "subtitle": "FHD Auto Quality Live Now",
           "url": "https:\/\/otte.cache.aiv-cdn.net\/pdx-nitro\/live\/clients\/dash\/enc\/ya4i7nnuyy\/out\/v1\/b873bab13a8d4c9997fed2ce6ff4bd6d\/cenc.mpd",
           "type": "dash",
           "rewarded": false,
@@ -1209,7 +1209,7 @@
         },
         {
           "label": "Main Fast Server 4",
-          "subtitle": "Live",
+          "subtitle": "FHD Auto Quality Live Now",
           "url": "https:\/\/otte.cache.aiv-cdn.net\/lhr-nitro\/live\/clients\/dash\/enc\/llxsugerhv\/out\/v1\/2d985584b7e54605abedb7022085fc79\/cenc.mpd",
           "type": "dash",
           "rewarded": false,
@@ -1218,7 +1218,7 @@
         },
         {
           "label": "Main Fast Server 5",
-          "subtitle": "Live",
+          "subtitle": "FHD Auto Quality Live Now",
           "url": "https:\/\/otte.cache.aiv-cdn.net\/pdx-nitro\/live\/clients\/dash\/enc\/c71jccl3fk\/out\/v1\/4222208d7fa54d69bf78a79b7a5b9a6d\/cenc.mpd",
           "type": "dash",
           "rewarded": false,
@@ -1227,7 +1227,7 @@
         },
         {
           "label": "Main Fast Server 6",
-          "subtitle": "Live ",
+          "subtitle": "FHD Auto Quality Live Now",
           "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/dx5hfbpk7u\/out\/v1\/c14185a397544650b9761d43ad2e8e91\/cenc.mpd",
           "type": "dash",
           "rewarded": false,
@@ -1236,7 +1236,7 @@
         },
         {
           "label": "Main Fast Server 7",
-          "subtitle": "Live",
+          "subtitle": "FHD Auto Quality Live Now",
           "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/72sjo8hygl\/out\/v1\/3079be34d72a4985852d299a02406a0c\/cenc.mpd",
           "type": "dash",
           "rewarded": false,
