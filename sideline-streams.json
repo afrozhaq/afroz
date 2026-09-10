@@ -252,7 +252,7 @@
         {
           "label": "Server 2",
           "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb603\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjAzOjE3ODkwNTAzNzI0MjA6Y2RubGl2ZXR2LnR2OjQ3YTBhZTAzZWNiODI1NzAuODE1MTY3NTJmY2JhMzA1OGFjNjA0M2U5NjA0ZmFjOGVhN2ZjYzM3ZDUxOWQ2Y2IzNzY3OTc3MGZmZTc3NjE0MQ&|Referer=https:\/\/cdnlivetv.tv&Origin=https:\/\/cdnlivetv.tv&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb5cf\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWNmOjE3ODkwODQ2MTk3OTQ6Y2RubGl2ZXR2LnR2OmUzMzg3M2NjM2FlMDk1MDkuZTIxODE4Njg2ODExYTczNDFhMmU3NGQ4OWU0YmJlODM3NTUxNWExOGIzNjBmMTM3ZDc4YjdlODY0OTYxZjZiNg",
           "type": "hls",
           "rewarded": false
         },
@@ -287,13 +287,6 @@
         {
           "label": "Server 7",
           "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb623\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjIzOjE3ODkwNTAzNzI0ODc6Y2RubGl2ZXR2LnR2OjIzMWE3NjE5ZThjYWI3OWIuYmU4ODNkMmMwYjBhMWIwNTU2NjU1MWFjZjA3YzMwZmFlYjhkNTBiOTQ1M2JkYzU4NGU2YWNhYTVkN2NkMDQxMw&|Referer=https:\/\/cdnlivetv.tv&Origin=https:\/\/cdnlivetv.tv&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 8",
-          "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-10\/col-nyy",
           "type": "hls",
           "rewarded": false,
@@ -303,7 +296,7 @@
           }
         },
         {
-          "label": "Server 9",
+          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-colorado-rockies-vs-new-york-yankees\/2",
           "type": "hls",
