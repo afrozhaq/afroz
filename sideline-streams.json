@@ -335,34 +335,20 @@
         },
         {
           "label": "Server 2",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb618\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjE4OjE3ODkxMzk5NTAxNTc6Y2RubGl2ZXR2LnR2OjNhOTYwOTY3ZmQ5NjNmNmUuMjQ3NDQyNDBkYjYyNDc2YjBiODcwY2NhMzIxYTAxNWVhNGU3MTQ3ZDU2NDQyZWM1OTllNDQ2YTVlNzRjNTA4OA&|Referer=https:\/\/cdnlivetv.tv&Origin=https:\/\/cdnlivetv.tv&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/node-5d763f4c.4587.website\/6aa4f684.88f32561i798bc8d0.e56b.7d76af24\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
-          "subtitle": "Live ( Home )",
-          "url": "mp",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/node-5d763f4c.4587.website\/6aa4f684.9b49bbd2i798bc8d0.e573.0c28c74e\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
-          "subtitle": "Live ( Away )",
-          "url": "mp",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 5",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb62f\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjJmOjE3ODkxMzk5NTAxNDk6Y2RubGl2ZXR2LnR2OjQwMTVmNzk3OWI4MmEyMjIuYTFmMjVmMTI1NTU5NGQ1MWI4OTdjMjE1ODY5NzgzN2Q2MTE3NGE2NjRmMzMwYzg0YWYxNTg4MDYxMjYxY2JiOQ&|Referer=https:\/\/cdnlivetv.tv&Origin=https:\/\/cdnlivetv.tv&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 6",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-11\/bal-tor",
           "type": "hls",
@@ -373,7 +359,7 @@
           }
         },
         {
-          "label": "Server 7",
+          "label": "Server 5",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-baltimore-orioles-vs-toronto-blue-jays\/1",
           "type": "hls",
