@@ -168,28 +168,28 @@
         {
           "label": "Server 2",
           "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=angels=nationals&s=home&sport=mlb",
+          "url": "https:\/\/node-9b5feb01.4587.website\/6aa4f143.cafb8dfci798bc8d0.e567.0501638a\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
           "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=angels=nationals&s=away&sport=mlb",
+          "url": "https:\/\/node-025d151e.4587.website\/6aa4f143.2fb36539i798bc8d0.e558.604c7ceb\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
-          "subtitle": "Live ",
-          "url": "mp",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=angels=nationals&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
-          "subtitle": "Live ",
-          "url": "mp",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=angels=nationals&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
