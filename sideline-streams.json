@@ -97,22 +97,22 @@
         },
         {
           "label": "Server 2",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb629\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjI5OjE3ODkxMzk5NTAxMTE6Y2RubGl2ZXR2LnR2OjFhOGY5ODVmYjU0NjY4YTkuYWUzY2MwMjc4M2EwYWI2MWY0OTE2ZWRiYWViYmI3MmJjZGVhNGZhZDUwYTA0OGU5MThjZTE5MjNlYTdiMmRlYw&|Referer=https:\/\/cdnlivetv.tv&Origin=https:\/\/cdnlivetv.tv&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 3",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=rockies=tigers&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
+          "label": "Server 3",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=rockies=tigers&s=away&sport=mlb",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
+          "subtitle": "Live ",
+          "url": "mp",
           "type": "hls",
           "rewarded": false
         },
@@ -126,20 +126,6 @@
         {
           "label": "Server 6",
           "subtitle": "Live ",
-          "url": "mp",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 7",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb62a\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjJhOjE3ODkxMzk5NTAxMDY6Y2RubGl2ZXR2LnR2OjYzYWQ0MzQ4ZmQ0MWNlMmUuODE2YjE3NjI0ZTgzMzFjNDY2MWEzYjg2ZmY1YTY4MjY1ZDNkYmIyNDkxZjViZDc4NjE0MjA5ODYxOTFlZWY5NQ&|Referer=https:\/\/cdnlivetv.tv&Origin=https:\/\/cdnlivetv.tv&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 8",
-          "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-11\/col-det",
           "type": "hls",
           "rewarded": false,
@@ -149,7 +135,7 @@
           }
         },
         {
-          "label": "Server 9",
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-colorado-rockies-vs-detroit-tigers\/1",
           "type": "hls",
@@ -181,22 +167,22 @@
         },
         {
           "label": "Server 2",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb632\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjMyOjE3ODkxMzk5NTAxNDk6Y2RubGl2ZXR2LnR2OjQxODllMjI5MjM2YjFmZTQuMTEwM2IzZWRkMWZjZjU1OWM4YzcyY2Y2ZmI2MzMyM2RiMTZiYWQyMzkyZmE2MmM1MDYyZmE2MWM0OTRhNmQyMQ&|Referer=https:\/\/cdnlivetv.tv&Origin=https:\/\/cdnlivetv.tv&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 3",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=angels=nationals&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
+          "label": "Server 3",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=angels=nationals&s=away&sport=mlb",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
+          "subtitle": "Live ",
+          "url": "mp",
           "type": "hls",
           "rewarded": false
         },
@@ -210,20 +196,6 @@
         {
           "label": "Server 6",
           "subtitle": "Live ",
-          "url": "mp",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 7",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2c81d8192bb76cd29d\/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkMjlkOjE3ODkxMzk5NTAxMTc6Y2RubGl2ZXR2LnR2OmQxMGQ0YjA5OWUzNjY1YTEuMmIyODJjNGY3YjkwMGEwMzE4MWI3N2E0ZTgwMDY5MDdjZTVhYWJlNjJjNWU3YTViODM0OWZjZjJmNGU0NWEyMA&|Referer=https:\/\/cdnlivetv.tv&Origin=https:\/\/cdnlivetv.tv&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 8",
-          "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-11\/laa-wsh",
           "type": "hls",
           "rewarded": false,
@@ -233,7 +205,7 @@
           }
         },
         {
-          "label": "Server 9",
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-los-angeles-angels-vs-washington-nationals\/1",
           "type": "hls",
