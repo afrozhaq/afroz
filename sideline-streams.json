@@ -419,20 +419,20 @@
         {
           "label": "Main Server Fast 4",
           "subtitle": "FHD Auto Quality Live Now",
-          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/avqlywnuzx\/out\/v1\/aefca6420f944a9482e117f315de535f\/cenc.mpd",
-          "type": "dash",
-          "rewarded": false,
-          "drmScheme": "clearkey",
-          "drmLicenseUrl": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835"
-        },
-        {
-          "label": "Main Server Fast 5",
-          "subtitle": "FHD Auto Quality Live Now",
           "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/ihys8nw4wv\/out\/v1\/fde190f369484bc6b6117cc16cd82a9f\/cenc.mpd",
           "type": "dash",
           "rewarded": false,
           "drmScheme": "clearkey",
           "drmLicenseUrl": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7"
+        },
+        {
+          "label": "Main Server Fast 5",
+          "subtitle": "FHD Auto Quality Live Now",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/avqlywnuzx\/out\/v1\/aefca6420f944a9482e117f315de535f\/cenc.mpd",
+          "type": "dash",
+          "rewarded": false,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835"
         },
         {
           "label": "Server 6",
