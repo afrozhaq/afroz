@@ -994,28 +994,28 @@
         {
           "label": "Server 2",
           "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=rangers=diamondbacks&s=home&sport=mlb",
+          "url": "https:\/\/node-9b5feb01.4587.website\/6aa51a99.d520f2a7i798bc8d0.e6b1.9bef574e\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
           "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=rangers=diamondbacks&s=away&sport=mlb",
+          "url": "https:\/\/node-5d763f4c.4587.website\/6aa51a99.9f212fcai798bc8d0.e6a7.c53aba3f\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
-          "subtitle": "Live ",
-          "url": "mp",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=rangers=diamondbacks&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
-          "subtitle": "Live ",
-          "url": "mp",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=rangers=diamondbacks&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
