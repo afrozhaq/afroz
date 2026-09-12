@@ -1099,6 +1099,13 @@
         {
           "label": "Server 5",
           "subtitle": "Live ",
+          "url": "https:\/\/matchup-media-prod.s3.us-east-1.amazonaws.com\/padres.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 6",
+          "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-11\/sd-sf",
           "type": "hls",
           "rewarded": false,
@@ -1108,7 +1115,7 @@
           }
         },
         {
-          "label": "Server 6",
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-san-diego-padres-vs-san-francisco-giants\/1",
           "type": "hls",
