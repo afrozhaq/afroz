@@ -1092,51 +1092,59 @@
         {
           "label": "Server 1",
           "subtitle": "Live ",
-          "url": "m",
+          "url": "https:\/\/edgestream2.pro\/hls\/hefbafbakx28.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 2",
-          "subtitle": "Live ",
-          "url": "m",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=rangers=diamondbacks&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
-          "subtitle": "Live ",
-          "url": "m",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=rangers=diamondbacks&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
           "subtitle": "Live ",
-          "url": "m",
+          "url": "mp",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
           "subtitle": "Live ",
-          "url": "m",
+          "url": "mp",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 6",
           "subtitle": "Live ",
-          "url": "m",
+          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-12\/tex-ari",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-12\/tex-ari"
+          }
         },
         {
           "label": "Server 7",
           "subtitle": "Live ",
-          "url": "m",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-texas-rangers-vs-arizona-diamondbacks\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-texas-rangers-vs-arizona-diamondbacks\/1"
+          }
         }
       ]
     },
