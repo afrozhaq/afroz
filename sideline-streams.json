@@ -279,6 +279,13 @@
         },
         {
           "label": "Server 5",
+          "subtitle": "Live",
+          "url": "https:\/\/instreams.live\/live\/tv401816904\/index.m3u8?st=Var7bWTcBRHydeQ9IJjAMw&e=1789250439|Referer=https:\/\/instream.click\/livetv.php?stream=tv401816904&Origin=https:\/\/instream.click\/livetv.php?stream=tv401816904&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 6",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-12\/bal-tor",
           "type": "hls",
@@ -289,7 +296,7 @@
           }
         },
         {
-          "label": "Server 6",
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-baltimore-orioles-vs-toronto-blue-jays\/1",
           "type": "hls",
