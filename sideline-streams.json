@@ -1092,19 +1092,12 @@
         {
           "label": "Server 4",
           "subtitle": "Live ",
-          "url": "mp",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb61e\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjFlOjE3ODkxOTMxMDA2NTE6Y2RubGl2ZXR2LnR2OmEwMTE5ZmMyNTRiMGU0NDYuYmYwMGNiOWVhMWJjNjU3MjY2OWViNGNlZGYyODVhZjg5NmYwYmQwMDcwMzA3ZDM1Y2ZhOTEwOTk4YWFhYzcyOA",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
-          "subtitle": "Live ",
-          "url": "mp",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 6",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-11\/sd-sf",
           "type": "hls",
@@ -1115,7 +1108,7 @@
           }
         },
         {
-          "label": "Server 7",
+          "label": "Server 6",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-san-diego-padres-vs-san-francisco-giants\/1",
           "type": "hls",
