@@ -98,7 +98,7 @@
         {
           "label": "Server 2",
           "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb623\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjIzOjE3ODkyMjM4Mjc2MzU6Y2RubGl2ZXR2LnR2OjFiOTIzODYyZDU1ODg5OTEuNmQ2ZjMwMGVlYTNhYzZmN2I4MjdlYWIxZmFlMzZjNDQyM2U3N2Y5MWZhZDk1OWNlYTg4YTI3ODE5NzBiMzg1OQ&|Referer=https:\/\/cdnlivetv.tv&Origin=https:\/\/cdnlivetv.tv&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb5cf\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWNmOjE3ODkyNDgzMjEzNTM6Y2RubGl2ZXR2LnR2OmU0MmJkM2M3NDUwZmNkNWQuYzIxZDFlYzExZjJlYjI4Yzg4ZTI5YWFiZmQ4NzI3YzgwY2JlNzdmZTI0YWRmNmI0ZGQ1MjY5ODdhZTJjMmU1ZA",
           "type": "hls",
           "rewarded": false
         },
@@ -133,13 +133,6 @@
         {
           "label": "Server 7",
           "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb5fc\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWZjOjE3ODkyMjM4Mjc2NjM6Y2RubGl2ZXR2LnR2OjIzMTZkY2FlZmQ3NDBjODQuNWVmNmE2NzhiNTU1ZjYxY2U5N2Q5N2U1ZmQwNjlkNmE2MTBhNzRkOTRkZjY5ZTNhMDliNTJiYzY3YzZjZWMzYw&|Referer=https:\/\/cdnlivetv.tv&Origin=https:\/\/cdnlivetv.tv&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 8",
-          "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-12\/nym-nyy",
           "type": "hls",
           "rewarded": false,
@@ -149,7 +142,7 @@
           }
         },
         {
-          "label": "Server 9",
+          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-new-york-mets-vs-new-york-yankees\/1",
           "type": "hls",
