@@ -20,48 +20,34 @@
         },
         {
           "label": "Server 2",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb5fa\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWZhOjE3ODkyMjM4MjkzNzI6Y2RubGl2ZXR2LnR2OjRkY2RkN2Y5YTUwZmU3NzAuMzM3NWZlMzE3YzA0NjlhOTNhMDAyNjZhNTAzMDY1NWNjM2ZmNGM2ZDExZGE4NGQ4ZjAxNWU1M2JmNzcxZjhlMw&|Referer=https:\/\/cdnlivetv.tv&Origin=https:\/\/cdnlivetv.tv&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/node-025d151e.4587.website\/6aa5f52e.07937491i798bc8d0.e769.009512e7\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/node-8bba18be.4587.website\/6aa5f52d.b4a4628bi798bc8d0.e77d.3c10c061\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=rockies=tigers&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
+          "label": "Server 5",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=rockies=tigers&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
-          "subtitle": "Live ",
-          "url": "mp",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
           "label": "Server 6",
-          "subtitle": "Live ",
-          "url": "mp",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 7",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb629\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjI5OjE3ODkyMjM4MjgxNTc6Y2RubGl2ZXR2LnR2Ojc1MDgxMzI1N2Y5NmE4NzcuNDkzMTBlYjkwY2YwYzBlMGYxYWYzODhhMmJlZTdmNzY0ZGEzYmE4ZDhkMmMyZTBlNjBiOWY3ODg3OTY3ZTNlNA&|Referer=https:\/\/cdnlivetv.tv&Origin=https:\/\/cdnlivetv.tv&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-12\/col-det",
           "type": "hls",
@@ -72,7 +58,7 @@
           }
         },
         {
-          "label": "Server 9",
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-colorado-rockies-vs-detroit-tigers\/1",
           "type": "hls",
