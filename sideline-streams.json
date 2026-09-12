@@ -266,51 +266,59 @@
         {
           "label": "Server 1",
           "subtitle": "Live ",
-          "url": "m",
+          "url": "https:\/\/edgestream2.pro\/hls\/Czajafjihafch18.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 2",
           "subtitle": "Live ",
-          "url": "m",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb5fd\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWZkOjE3ODkyMjM4Mjc3NzE6Y2RubGl2ZXR2LnR2OjM4YjIxMTlmZmExNmNkMjEuYWUyODY5ZThjMTU5MTViZGQzMDYxZTZlM2YzNzQ5MTliNDNmMWUxY2I4ZmEzM2EzMDg1NGYxMDg2NDFiMzI5ZA&|Referer=https:\/\/cdnlivetv.tv&Origin=https:\/\/cdnlivetv.tv&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
-          "subtitle": "Live ",
-          "url": "m",
+          "subtitle": "Live ( Home )",
+          "url": "mp",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
-          "subtitle": "Live ",
-          "url": "m",
+          "subtitle": "Live ( Away )",
+          "url": "mp",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
           "subtitle": "Live ",
-          "url": "m",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb618\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjE4OjE3ODkyMjM4Mjc3MDU6Y2RubGl2ZXR2LnR2Ojk2ZjU2MmYwY2MwNTkxMjIuN2Y5NmVlYTYzYzIyY2ZjZDZjNWYzYjYwY2E3NDFhZTllMDkzNzc1M2FkOWE4MzgzYjgzZjgyZjA1ZWNkNjZjMA&|Referer=https:\/\/cdnlivetv.tv&Origin=https:\/\/cdnlivetv.tv&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 6",
           "subtitle": "Live ",
-          "url": "m",
+          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-12\/bal-tor",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-12\/bal-tor"
+          }
         },
         {
           "label": "Server 7",
           "subtitle": "Live ",
-          "url": "m",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-baltimore-orioles-vs-toronto-blue-jays\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-baltimore-orioles-vs-toronto-blue-jays\/1"
+          }
         }
       ]
     },
