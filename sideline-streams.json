@@ -1068,7 +1068,7 @@
         {
           "label": "Server 1",
           "subtitle": "Live ",
-          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/streampk.php?sport=nfl&id=GreenBayvsMinnesota.m3u8",
+          "url": "https:\/\/instreams.live\/live\/tv401872927\/index.m3u8?st=zma0ep963_7KL1mEThLQXA&e=1789340511|Referer=https:\/\/instream.click\/livetv.php?stream=tv401872927&Origin=https:\/\/instream.click\/livetv.php?stream=tv401872927&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
