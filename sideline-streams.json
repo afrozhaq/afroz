@@ -1343,6 +1343,13 @@
             "type": "embed",
             "api": "https:\/\/embed.st\/embed\/admin\/ppv-san-diego-padres-vs-san-francisco-giants\/1"
           }
+        },
+        {
+          "label": "Server 7",
+          "subtitle": "Live ",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/streampk.php?sport=mlb&id=SanDiegoPadresvsSanFranciscoGiants.m3u8",
+          "type": "hls",
+          "rewarded": false
         }
       ]
     },
