@@ -912,13 +912,6 @@
         {
           "label": "Server 6",
           "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2e81d8192bb76ce95e\/playlist.m3u8?token=NmEyODhkMmU4MWQ4MTkyYmI3NmNlOTVlOjE3ODkzMTIzMTg1MTM6Y2RubGl2ZXR2LnR2Ojg1YmZkZWQ3NDk5NTRiNmIuNjk4MWQzYTViZTk2MTZkM2I4ZDgzMjA5YjEwMzhmNzg2ZWQ2NmZlNzE5NTEzN2ZkY2QwZTA3ZTM0NzFjMDg1Ng&|Referer=https:\/\/cdnlivetv.tv&Origin=https:\/\/cdnlivetv.tv&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 7",
-          "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-13\/ari-lac",
           "type": "hls",
           "rewarded": false,
@@ -928,7 +921,7 @@
           }
         },
         {
-          "label": "Server 8",
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-arizona-cardinals-at-los-angeles-chargers\/1",
           "type": "hls",
@@ -937,6 +930,13 @@
             "type": "embed",
             "api": "https:\/\/embed.st\/embed\/admin\/ppv-arizona-cardinals-at-los-angeles-chargers\/1"
           }
+        },
+        {
+          "label": "Server 8",
+          "subtitle": "Live ",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2e81d8192bb76ce95e\/playlist.m3u8?token=NmEyODhkMmU4MWQ4MTkyYmI3NmNlOTVlOjE3ODkzMTIzMTg1MTM6Y2RubGl2ZXR2LnR2Ojg1YmZkZWQ3NDk5NTRiNmIuNjk4MWQzYTViZTk2MTZkM2I4ZDgzMjA5YjEwMzhmNzg2ZWQ2NmZlNzE5NTEzN2ZkY2QwZTA3ZTM0NzFjMDg1Ng&|Referer=https:\/\/cdnlivetv.tv&Origin=https:\/\/cdnlivetv.tv&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": false
         }
       ]
     },
