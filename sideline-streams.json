@@ -1936,7 +1936,7 @@
         {
           "label": "Server 2",
           "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb608\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjA4OjE3ODkzMDg2NzkzNDE6Y2RubGl2ZXR2LnR2OjhiYzBlMjNmM2FkYWUzOWMuZTgyMzEzNmMyOTc5Yjk5NjA3M2RmN2QzMDljNGU4ZTAwODMxZDY2MGZkN2UzNzI0MDU3YzViMDNmNzY3MDk1MQ&|Referer=https:\/\/cdnlivetv.tv&Origin=https:\/\/cdnlivetv.tv&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "url": "https:\/\/livecdn-tc-iptv.rumsport10.live\/live_abr\/55847\/720p\/chunks.m3u8?is_vip=false&token=1789416221-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2086b1e08c2f4a2f7903dad8f8afa28d|Referer=https:\/\/iframe.rumsport8.live\/&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/120.0.0.0 Safari\/537.36",
           "type": "hls",
           "rewarded": false
         },
@@ -1957,13 +1957,6 @@
         {
           "label": "Server 5",
           "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb622\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjIyOjE3ODkzMDg2NzkzNTA6Y2RubGl2ZXR2LnR2OjkzNDgwZDYwNzNmOWJmNjYuZjg2NWI4YzQ3ZTc4MTFhYmZmZWI0YzkwNGJkYjcyM2YzZDM4ZDQyYjRhMjFiOWEwYWEzMjkyZDUyZDE3NWIwNg&|Referer=https:\/\/cdnlivetv.tv&Origin=https:\/\/cdnlivetv.tv&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 6",
-          "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-13\/sea-ath",
           "type": "hls",
           "rewarded": false,
@@ -1973,7 +1966,7 @@
           }
         },
         {
-          "label": "Server 7",
+          "label": "Server 6",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-seattle-mariners-vs-athletics\/1",
           "type": "hls",
