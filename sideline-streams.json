@@ -1254,8 +1254,8 @@
         },
         {
           "label": "Server 2",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb624\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjI0OjE3ODkzMDg2NzkzNzY6Y2RubGl2ZXR2LnR2OmYwZDgzMTZlODEyMmJlYjcuN2NlZWJlNTM3ZGFiMmNiYzBjOTUxYmY0NDA0NGY1ODNkMTA4MDdmZWQ0MWQ5NGY3MjgyYzM3NjA3YzU0NzkxZA&|Referer=https:\/\/cdnlivetv.tv&Origin=https:\/\/cdnlivetv.tv&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/node-025d151e.4587.website\/6aa754a1.4c0cfb57i798bc8d0.ea1d.97952965\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
