@@ -274,27 +274,6 @@
         },
         {
           "label": "Server 5",
-          "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=packers=vikings&s=away&sport=nfl",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 6",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2781d8192bb76cb375\/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzc1OjE3ODkzMTIzMTg1MDY6Y2RubGl2ZXR2LnR2OjNjZGYwMTM5ZjRkNDRlM2QuNGQ4NmQ0YjgxNGViNTgxMDE0YzE3OWU4MDI5NTNlMGE3MTE4ODIzOTc1MTBkODMxYjM4NTk5MGJhYjUzNjMxYg&|Referer=https:\/\/cdnlivetv.tv&Origin=https:\/\/cdnlivetv.tv&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 7",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2981d8192bb76cbc97\/playlist.m3u8?token=NmEyODhkMjk4MWQ4MTkyYmI3NmNiYzk3OjE3ODkzMTIzMTg0OTk6Y2RubGl2ZXR2LnR2OmFmN2UwYjMzZDBmYTgwYjUuOTZjMjNkMmNmMTkwN2QxZjA4ZmQ3YjU3OWY3ODFiNWFjMDNkYjViNGFkZTkyZDM4Yzc0NTRmYmVkY2NlZWU4MQ&|Referer=https:\/\/cdnlivetv.tv&Origin=https:\/\/cdnlivetv.tv&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-13\/gb-min",
           "type": "hls",
@@ -305,7 +284,7 @@
           }
         },
         {
-          "label": "Server 9",
+          "label": "Server 6",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-green-bay-packers-at-minnesota-vikings\/1",
           "type": "hls",
