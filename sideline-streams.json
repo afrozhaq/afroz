@@ -345,6 +345,20 @@
         {
           "label": "Server 6",
           "subtitle": "Live ",
+          "url": "https:\/\/livecdn-tc-iptv.rumsport10.live\/live_abr\/52460\/720p\/chunks.m3u8?is_vip=false&token=1789403601-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-caecc6c5b6b0beb8deeec9f3163252aa|Referer=https:\/\/iframe.rumsport8.live\/&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/120.0.0.0 Safari\/537.36",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 7",
+          "subtitle": "Live ",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/streampk.php?sport=nfl&id=NewYorkvsTennessee.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 8",
+          "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-13\/nyj-ten",
           "type": "hls",
           "rewarded": false,
@@ -354,7 +368,7 @@
           }
         },
         {
-          "label": "Server 7",
+          "label": "Server 9",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-new-york-jets-at-tennessee-titans\/1",
           "type": "hls",
