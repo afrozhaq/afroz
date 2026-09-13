@@ -1023,6 +1023,13 @@
             "type": "embed",
             "api": "https:\/\/embed.st\/embed\/admin\/ppv-washington-commanders-at-philadelphia-eagles\/1"
           }
+        },
+        {
+          "label": "Server 9",
+          "subtitle": "Live ",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/streampk.php?sport=nfl&id=WashingtonvsPhiladelphia.m3u8",
+          "type": "hls",
+          "rewarded": false
         }
       ]
     },
