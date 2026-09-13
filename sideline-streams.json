@@ -1304,7 +1304,7 @@
         {
           "label": "Server 2",
           "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb61d\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjFkOjE3ODkzMDg2NzkzNzQ6Y2RubGl2ZXR2LnR2OjQyMGRiOGVlZjYyMjAwMDcuMzcyNDc0ZjU4YmEzZjc3MDZjZTg2YjcyMWUzMGI1ZGM5ZGRmYWZiODk3MzhjYzZlNTU1ZDM1M2ZmYjY2MzliZQ&|Referer=https:\/\/cdnlivetv.tv&Origin=https:\/\/cdnlivetv.tv&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "url": "https:\/\/instreams.live\/live\/tv401816930\/index.m3u8?st=wQAs-nJu7PUFc_wdoHRG3A&e=1789351215|Referer=https:\/\/instream.click\/livetv.php?stream=tv401816930&Origin=https:\/\/instream.click\/livetv.php?stream=tv401816930&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
@@ -1325,13 +1325,6 @@
         {
           "label": "Server 5",
           "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb61e\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjFlOjE3ODkzMDg2NzkzNzk6Y2RubGl2ZXR2LnR2OjBiOGI4Nzg2ODM0OTdjYWYuNTIxMzk2YzM3MGYxMDM3MWEyNTQzNTdhNjc5ZWE1M2M0YjExYTliNWNlNmM2NjdjZTJlM2UyOGNmYzU0YTM0NQ&|Referer=https:\/\/cdnlivetv.tv&Origin=https:\/\/cdnlivetv.tv&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 6",
-          "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-13\/sd-sf",
           "type": "hls",
           "rewarded": false,
@@ -1341,7 +1334,7 @@
           }
         },
         {
-          "label": "Server 7",
+          "label": "Server 6",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-san-diego-padres-vs-san-francisco-giants\/1",
           "type": "hls",
