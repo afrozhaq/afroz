@@ -1,6 +1,47 @@
 {
   "streams": [
     {
+      "id": "s1789296070896",
+      "league": "nfl",
+      "gameId": "",
+      "away": "",
+      "home": "",
+      "title": "NFL RedZone ",
+      "poster": "https:\/\/blogger.googleusercontent.com\/img\/a\/AVvXsEj5HSwT9RTJRu_WinfazRlVGSOUyfwkPkitkSAudOcJz6WH-1BPAlXBZNGzQprsqMVRQvqqd0FH5RG3cWziqJldZ4KLrL7kYFDMnrsaYWALCYY-KofaNWqXRmvZUABoQhZh7fmRudOYj-4OXPQmMqJwDl6YxGBhv9ByKlg83UtXc43Y3zhsaK3b1-mXoIw=s1600",
+      "startsAt": 1789317900000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "https ",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "https ",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live",
+          "url": "https ",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
+          "subtitle": "Live",
+          "url": "https ",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
+    },
+    {
       "id": "s1789290105060",
       "league": "mlb",
       "gameId": "",
