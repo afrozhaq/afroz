@@ -42,19 +42,12 @@
         {
           "label": "Server 5",
           "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc32e\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzJlOjE3ODkzMTIzMTg1Mjg6Y2RubGl2ZXR2LnR2OjQzOTE3MTVhZGYxYTUzOGEuZDY5NmRlZjhhMGZiMjMzMDA4ZmE5ZmE4N2M0ZDY3YjQzNGUzYmE2YTc1Y2U1MmM3M2RlNWJiMDljNmE1YzExOA&|Referer=https:\/\/cdnlivetv.tv&Origin=https:\/\/cdnlivetv.tv&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/streampk.php?sport=nfl&id=MiamivsLasVegas.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 6",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc330\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzMwOjE3ODkzMTIzMTg1MDQ6Y2RubGl2ZXR2LnR2OmNiYTBiYTUyNTA0MWIwMDAuNjIzYTJjYTRkNWFkYWU2NzAyOTQ2YWUwN2IyMDRmNzZjMDk1YzA3NDFiMGM1MWMxMzU1YmMzOTEzZDNiMzI5ZA&|Referer=https:\/\/cdnlivetv.tv&Origin=https:\/\/cdnlivetv.tv&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-13\/mia-lv",
           "type": "hls",
@@ -65,7 +58,7 @@
           }
         },
         {
-          "label": "Server 8",
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-miami-dolphins-at-las-vegas-raiders\/1",
           "type": "hls",
@@ -74,13 +67,6 @@
             "type": "embed",
             "api": "https:\/\/embed.st\/embed\/admin\/ppv-miami-dolphins-at-las-vegas-raiders\/1"
           }
-        },
-        {
-          "label": "Server 9",
-          "subtitle": "Live ",
-          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/streampk.php?sport=nfl&id=MiamivsLasVegas.m3u8",
-          "type": "hls",
-          "rewarded": false
         }
       ]
     },
