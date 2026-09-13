@@ -1002,34 +1002,27 @@
         },
         {
           "label": "Server 2",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb618\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjE4OjE3ODkzMDg2NzkzMjE6Y2RubGl2ZXR2LnR2OjA4MTZmZTI2MDJlOGJmZTkuMjkyN2E2OTVhMzAyNmI0MDVhNjczZjU0MjJmNDNhM2Y0NDAyOGZiNzI5M2U4ZGU4NmQ2ODY2Y2E2OWE3ZWMwZg&|Referer=https:\/\/cdnlivetv.tv&Origin=https:\/\/cdnlivetv.tv&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/node-5d763f4c.4587.website\/6aa74a00.7b7392f2i82d4657a.ea0a.eb2a2e3f\/free.live.espn\/master.m3u8?|Referer=https:\/\/mlb24all.ir&Origin=https:\/\/mlb24all.ir&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
-          "subtitle": "Live ( Home )",
-          "url": "mp",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/node-9b5feb01.4587.website\/6aa74a00.24a04f3ci82d4657a.ea0b.ab701385\/free.live.espn\/master.m3u8?|Referer=https:\/\/mlb24all.ir&Origin=https:\/\/mlb24all.ir&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
-          "subtitle": "Live ( Away )",
-          "url": "mp",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 5",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb62f\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjJmOjE3ODkzMDg2NzkzNjQ6Y2RubGl2ZXR2LnR2OmVlNTcyOGNlMTg2NzY1ZDEuMTk5NDE3ODNiN2FiZmEzMWIzZDYyMzNlNDM1NGU2MmE3OWE1MjFhOWY1ODMyNDkzZGUwOTRhMjk1NDRmNmQxMQ&|Referer=https:\/\/cdnlivetv.tv&Origin=https:\/\/cdnlivetv.tv&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 6",
+          "label": "Server 5",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-13\/bal-tor",
           "type": "hls",
@@ -1040,7 +1033,7 @@
           }
         },
         {
-          "label": "Server 7",
+          "label": "Server 6",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-baltimore-orioles-vs-toronto-blue-jays\/1",
           "type": "hls",
