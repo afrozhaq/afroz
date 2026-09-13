@@ -632,54 +632,61 @@
         {
           "label": "Server 2",
           "subtitle": "Live Now",
-          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/streampk.php?sport=nfl&id=BuffalovsHouston.m3u8",
+          "url": "https:\/\/instreams.live\/live\/tv401872660\/index.m3u8?st=MuHSSi7tZUFEazwJ_hjN8g&e=1789329622|Referer=https:\/\/instream.click\/livetv.php?stream=tv401872660&Origin=https:\/\/instream.click\/livetv.php?stream=tv401872660&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
           "subtitle": "Live Now",
-          "url": "https:\/\/edgestream2.pro\/hls\/qsdnajbq32.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/streampk.php?sport=nfl&id=BuffalovsHouston.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
+          "subtitle": "Live Now",
+          "url": "https:\/\/edgestream2.pro\/hls\/qsdnajbq32.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 5",
           "subtitle": "Live Now ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=bills=texans&s=home&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
+          "label": "Server 6",
           "subtitle": "Live Now ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=bills=texans&s=away&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 6",
+          "label": "Server 7",
           "subtitle": "Live Now",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc329\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzI5OjE3ODkzMTIzMTg1MDg6Y2RubGl2ZXR2LnR2OmFmMDBmNjA0Y2UwZGNiYTcuNTJiZDA2NDE5MWFmNTBiYzk2NTk1ODI2MDFmMTRlNTVlNGRkZDg4NGRkMWE3ZWRlNjI1NTI4MWMzNWNiMWI1NA&|Referer=https:\/\/cdnlivetv.tv&Origin=https:\/\/cdnlivetv.tv&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 7",
+          "label": "Server 8",
           "subtitle": "Live Now",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc161\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTYxOjE3ODkzMTIzMTg0OTY6Y2RubGl2ZXR2LnR2OmZiMGY2ODM4MGQyYjRiMjUuNWZmYjdjZjI3MmU5ZGJjY2M4NDNlNTJiNGEwMjlhY2YxN2ZmZmYzOWQ1NWMxNmQ3ZmU4MjRlNGIzYjQyYzFmNg&|Referer=https:\/\/cdnlivetv.tv&Origin=https:\/\/cdnlivetv.tv&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 8",
+          "label": "Server 9",
           "subtitle": "Live Now",
           "url": "https:\/\/livecdn-tc-iptv.rumsport10.live\/live_abr\/52464\/720p\/chunks.m3u8?is_vip=false&token=1789403602-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-36a31926d0e47e0e7b52804ad5bdcf15|Referer=https:\/\/iframe.rumsport8.live\/&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/120.0.0.0 Safari\/537.36",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 9",
+          "label": "Server 10",
           "subtitle": "Live Now",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-13\/buf-hou",
           "type": "hls",
@@ -690,7 +697,7 @@
           }
         },
         {
-          "label": "Server 10",
+          "label": "Server 11",
           "subtitle": "Live Now",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-buffalo-bills-at-houston-texans\/1",
           "type": "hls",
