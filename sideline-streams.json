@@ -1372,34 +1372,48 @@
         },
         {
           "label": "Server 5",
+          "subtitle": "Live ",
+          "url": "https:\/\/node-f812d9ee.4587.website\/6aa7a0fc.0923b3c3i798bc8d0.d257.a0c0822f\/free.live.nfl\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 6",
+          "subtitle": "Live ",
+          "url": "https:\/\/node-b351e589.4587.website\/6aa7a0fc.3fae1703i798bc8d0.d256.7cbbd9c3\/free.live.nfl\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 7",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=cowboys=giants&s=home&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 6",
+          "label": "Server 8",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=cowboys=giants&s=away&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 7",
+          "label": "Server 9",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cbe8e\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNiZThlOjE3ODkzMTI0MzUxOTI6Y2RubGl2ZXR2LnR2OjFmMmRjNTZmNTk0ZjY4Y2EuZmMzZjk0ZDdlZDdhZDEyZmY3ZTJlYTViNmQzYzg0ODBlZTg4YTgxOTM1YjdmNWM3NmVjOTAyNGY3NDRmMzQ0Yg",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 8",
+          "label": "Server 10",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2781d8192bb76cb3d1\/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiM2QxOjE3ODkzMTI0MzUxMTU6Y2RubGl2ZXR2LnR2OmZiNzk3MDAxNTFjOTAwZDcuOGQzZGViMzZlZTRkN2ZmYThhYjM1MTE2MjBhNzRmZDIyYTY4OTNmODE0Yjc4OWNkM2FhMzA0MzIwZTcwODk0OA",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 9",
+          "label": "Server 11",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-13\/dal-nyg",
           "type": "hls",
@@ -1410,7 +1424,7 @@
           }
         },
         {
-          "label": "Server 10",
+          "label": "Server 12",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-dallas-cowboys-at-new-york-giants\/1",
           "type": "hls",
