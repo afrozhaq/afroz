@@ -107,6 +107,20 @@
         {
           "label": "Server 7",
           "subtitle": "Live ",
+          "url": "https:\/\/livecdn-tc-iptv.rumsport10.live\/live_abr\/52462\/720p\/chunks.m3u8?is_vip=false&token=1789403605-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-fa9a9347bd07786ff70d50f063939c13|Referer=https:\/\/iframe.rumsport8.live\/&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/120.0.0.0 Safari\/537.36",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 8",
+          "subtitle": "Live ",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/streampk.php?sport=nfl&id=TampaBayvsCincinnati.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 9",
+          "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-13\/tb-cin",
           "type": "hls",
           "rewarded": false,
@@ -116,7 +130,7 @@
           }
         },
         {
-          "label": "Server 8",
+          "label": "Server 10",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-tampa-bay-buccaneers-at-cincinnati-bengals\/1",
           "type": "hls",
