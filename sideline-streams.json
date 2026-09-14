@@ -613,27 +613,20 @@
         },
         {
           "label": "Server 8",
-          "subtitle": "Live ",
-          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/streampk.php?sport=nfl&id=DenvervsKansasCity.m3u8",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 9",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=broncos=chiefs&s=home&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 10",
+          "label": "Server 9",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=broncos=chiefs&s=away&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 11",
+          "label": "Server 10",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-14\/den-kc",
           "type": "hls",
@@ -644,7 +637,7 @@
           }
         },
         {
-          "label": "Server 12",
+          "label": "Server 11",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-denver-broncos-at-kansas-city-chiefs\/1",
           "type": "hls",
