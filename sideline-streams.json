@@ -482,15 +482,15 @@
         },
         {
           "label": "Server 2",
-          "subtitle": "Live ",
-          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/streampk.php?sport=mlb&id=SanFranciscoGiantsvsStLouisCardinals.m3u8",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/node-8bba18be.4587.website\/6aa8f29c.0ba7b048i798bc8d0.ec30.8c39dc1e\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb61b\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjFiOjE3ODk0MDU2NTAwMTQ6Y2RubGl2ZXR2LnR2OjhkOTIwOTJmNzM0YzBlNzAuODliOTM4ZDMyYmEwODFiMDM0YjQ0OWVkZmVmMzc5MDNmZWM4ZDg1ZGFmYzM3NGEwYTE0ZmQ0NDYxM2RkNTEzMw&|Referer=https:\/\/cdnlivetv.tv&Origin=https:\/\/cdnlivetv.tv&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/node-8bba18be.4587.website\/6aa8f29c.315d9caei798bc8d0.ec2f.31f94a90\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
@@ -511,13 +511,6 @@
         {
           "label": "Server 6",
           "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb61d\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjFkOjE3ODk0MDU2NTAwNDM6Y2RubGl2ZXR2LnR2OmQ0MzIwYTllYTQ2ODgwNjguYzA0NWExZTU0M2YxODdjZGYzYmU5ZDUzZDdhY2QwNmM5NWIzODE0NjA5NTQ3MTdkMDg4NGU3ODI0ZjkwMjQ0Yw&|Referer=https:\/\/cdnlivetv.tv&Origin=https:\/\/cdnlivetv.tv&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 7",
-          "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-14\/sf-stl",
           "type": "hls",
           "rewarded": false,
@@ -527,7 +520,7 @@
           }
         },
         {
-          "label": "Server 8",
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-san-francisco-giants-vs-st-louis-cardinals\/1",
           "type": "hls",
