@@ -629,7 +629,7 @@
       "links": [
         {
           "label": "Main Server 1",
-          "subtitle": "Live Now (Multi Language)",
+          "subtitle": "Live Now",
           "url": "https:\/\/otte.cache.aiv-cdn.net\/lhr-nitro\/live\/clients\/dash\/enc\/uf2cord0wd\/out\/v1\/569ed7df54e945ea8f8353924c30b2ef\/cenc.mpd",
           "type": "dash",
           "rewarded": false,
