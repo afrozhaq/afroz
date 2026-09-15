@@ -141,68 +141,6 @@
       ]
     },
     {
-      "id": "s1789460326273",
-      "league": "mlb",
-      "gameId": "",
-      "away": "MIL",
-      "home": "PIT",
-      "title": "Brewers at Pirates",
-      "poster": "",
-      "startsAt": 1789512000000,
-      "endsAt": 0,
-      "links": [
-        {
-          "label": "Server 1",
-          "subtitle": "Live ",
-          "url": "n",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 2",
-          "subtitle": "Live ",
-          "url": "n",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 3",
-          "subtitle": "Live ",
-          "url": "n",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 4",
-          "subtitle": "Live ",
-          "url": "n",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 5",
-          "subtitle": "Live ",
-          "url": "n",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 6",
-          "subtitle": "Live ",
-          "url": "n",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 7",
-          "subtitle": "Live ",
-          "url": "n",
-          "type": "hls",
-          "rewarded": false
-        }
-      ]
-    },
-    {
       "id": "s1789460326275",
       "league": "mlb",
       "gameId": "",
@@ -259,6 +197,68 @@
           "label": "Server 7",
           "subtitle": "Live ",
           "url": "j",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
+    },
+    {
+      "id": "s1789460326273",
+      "league": "mlb",
+      "gameId": "",
+      "away": "MIL",
+      "home": "PIT",
+      "title": "Brewers at Pirates",
+      "poster": "",
+      "startsAt": 1789512000000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live ",
+          "url": "n",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live ",
+          "url": "n",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live ",
+          "url": "n",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
+          "subtitle": "Live ",
+          "url": "n",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 5",
+          "subtitle": "Live ",
+          "url": "n",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 6",
+          "subtitle": "Live ",
+          "url": "n",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 7",
+          "subtitle": "Live ",
+          "url": "n",
           "type": "hls",
           "rewarded": false
         }
