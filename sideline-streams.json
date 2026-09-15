@@ -741,6 +741,13 @@
         {
           "label": "Server 7",
           "subtitle": "Live ",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2781d8192bb76cb2ad\/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMmFkOjE3ODk1Mjk5NTQ0MDk6Y2RubGl2ZXR2LnR2OjE0YzY2NGUyNGQzN2M3NTcuMGQ5MjU4ODM1NTFhN2MzMTJkODMzZjE4NWRlZjlmNTAyNTZkMmIyYjE1ZWQ1OTk3NjhkOTdhYjNkNjMzNzk1ZA",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 8",
+          "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-15\/nyy-min",
           "type": "hls",
           "rewarded": false,
@@ -750,7 +757,7 @@
           }
         },
         {
-          "label": "Server 8",
+          "label": "Server 9",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-new-york-yankees-vs-minnesota-twins\/1",
           "type": "hls",
