@@ -623,27 +623,20 @@
         },
         {
           "label": "Server 10",
-          "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=broncos=chiefs&s=home&sport=nfl",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 11",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=broncos=chiefs&s=away&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 12",
+          "label": "Server 11",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a400e8f71500528fb38cd4b\/playlist.m3u8?token=NmE0MDBlOGY3MTUwMDUyOGZiMzhjZDRiOjE3ODk0NDQ4NDI5MDU6Y2RubGl2ZXR2LnR2OmQyODkwZjI4NTExYjcyYzcuMDFiYWZhYzNmODE2ZmY3Zjc2ODMzNWZhMGY1NDRkMTJmNjdlOWEwYmMxNzk5M2QwNTQ0MDU5YzI4ODVjZGE4Ng",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 13",
+          "label": "Server 12",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-14\/den-kc",
           "type": "hls",
@@ -654,7 +647,7 @@
           }
         },
         {
-          "label": "Server 14",
+          "label": "Server 13",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-denver-broncos-at-kansas-city-chiefs\/1",
           "type": "hls",
