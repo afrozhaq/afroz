@@ -467,22 +467,22 @@
         },
         {
           "label": "Server 2",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc2bc\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMmJjOjE3ODk1MjcxMDc5MzY6Y2RubGl2ZXR2LnR2OjlmZmZjNjc1YTJjOWI0OGIuOTg1ZGNkM2I3MWM1ZjQ0NmQ1MDNhZmY1YWU2MzIwNzMzNjMzODRhODFmYzFlMWExMTgzODc4ODgyYzc2Y2E2MQ",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/node-88894cb5.4587.website\/6aaa3d05.ec0d9e83i798bc8d0.ee51.f2682b82\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
-          "subtitle": "Live ( Home )",
-          "url": "mp",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/node-9b5feb01.4587.website\/6aaa3d05.db2cbb67i798bc8d0.ee47.e8bb0f0a\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
-          "subtitle": "Live ( Away )",
-          "url": "mp",
+          "subtitle": "Live ",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc2bc\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMmJjOjE3ODk1MjcxMDc5MzY6Y2RubGl2ZXR2LnR2OjlmZmZjNjc1YTJjOWI0OGIuOTg1ZGNkM2I3MWM1ZjQ0NmQ1MDNhZmY1YWU2MzIwNzMzNjMzODRhODFmYzFlMWExMTgzODc4ODgyYzc2Y2E2MQ",
           "type": "hls",
           "rewarded": false
         },
