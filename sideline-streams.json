@@ -833,15 +833,15 @@
         },
         {
           "label": "Server 2",
-          "subtitle": "Live ",
-          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/streampk.php?sport=mlb&id=MiamiMarlinsvsArizonaDiamondbacks.m3u8",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/node-5d763f4c.4587.website\/6aa90fda.5c1fba21i798bc8d0.ed8d.c5a4b93a\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb632\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjMyOjE3ODk0MDU3Mzg4Njc6Y2RubGl2ZXR2LnR2OmYzZGJhY2Q2YTY0ZWE5OTYuZmEzNWExNjE4MmEyMjNkNDQyNjJlNmJmNjM1MjljMGEwMDM0MzA0MmQ2ODFiZDg0ZWRmY2FmM2FkMzNlNmI2ZA",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/node-88894cb5.4587.website\/6aa90fda.9d992795i798bc8d0.ed91.54f6220d\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
@@ -862,13 +862,6 @@
         {
           "label": "Server 6",
           "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb630\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjMwOjE3ODk0MDU3MjgxMjU6Y2RubGl2ZXR2LnR2OmU3ODU3OWQxNGY2NTA4YjUuOGYxYjc4OTc1MmQ0MjBjZmRlOTVkNWZlNmJhZDgzYTk3N2FlOTBhNDNjN2QxMTU3N2RlMWQ5NTNhOGQwNTNlYw",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 7",
-          "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-14\/mia-ari",
           "type": "hls",
           "rewarded": false,
@@ -878,7 +871,7 @@
           }
         },
         {
-          "label": "Server 8",
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-miami-marlins-vs-arizona-diamondbacks\/1",
           "type": "hls",
