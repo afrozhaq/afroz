@@ -1,6 +1,76 @@
 {
   "streams": [
     {
+      "id": "s1789460326271",
+      "league": "mlb",
+      "gameId": "",
+      "away": "LAD",
+      "home": "CIN",
+      "title": "Dodgers at Reds",
+      "poster": "",
+      "startsAt": 1789512000000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live ",
+          "url": "https:\/\/edgestream2.pro\/hls\/ihfazugfyjcazich17.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live ",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb5f9\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWY5OjE3ODk0ODI0NjA0MzI6Y2RubGl2ZXR2LnR2OmJlZTkzNTEzNDc3NjhkMWMuYmM1MDk0MmFlZTdiYWNhMzYyZmViNjUyMDJlMGZlYzkyZjBlMzY1MDA4NTg1YjNkZTY5NzY2NThlZjJhZGU2NA&|Referer=https:\/\/cdnlivetv.tv&Origin=https:\/\/cdnlivetv.tv&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=dodgers=reds&s=home&sport=mlb",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=dodgers=reds&s=away&sport=mlb",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 5",
+          "subtitle": "Live ",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb617\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjE3OjE3ODk0ODI0NjA0MzI6Y2RubGl2ZXR2LnR2OjE2MDcxZTk0OWIyMzI3Y2YuYjVjYzY4N2ExZDdkOTM4Y2ZlOGU0Mzg1Mzk0NTczMjYwOGQ5YzIzY2EyNjNkZmUxZjYzYjY0YzFmYjY0MmY5Mg&|Referer=https:\/\/cdnlivetv.tv&Origin=https:\/\/cdnlivetv.tv&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 6",
+          "subtitle": "Live ",
+          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-15\/lad-cin",
+          "type": "hls",
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-15\/lad-cin"
+          }
+        },
+        {
+          "label": "Server 7",
+          "subtitle": "Live ",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-los-angeles-dodgers-vs-cincinnati-reds\/1",
+          "type": "hls",
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-los-angeles-dodgers-vs-cincinnati-reds\/1"
+          }
+        }
+      ]
+    },
+    {
       "id": "s1789460326268",
       "league": "mlb",
       "gameId": "",
@@ -57,68 +127,6 @@
           "label": "Server 7",
           "subtitle": "Live ",
           "url": "h",
-          "type": "hls",
-          "rewarded": false
-        }
-      ]
-    },
-    {
-      "id": "s1789460326271",
-      "league": "mlb",
-      "gameId": "",
-      "away": "LAD",
-      "home": "CIN",
-      "title": "Dodgers at Reds",
-      "poster": "",
-      "startsAt": 1789512000000,
-      "endsAt": 0,
-      "links": [
-        {
-          "label": "Server 1",
-          "subtitle": "Live ",
-          "url": "m",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 2",
-          "subtitle": "Live ",
-          "url": "m",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 3",
-          "subtitle": "Live ",
-          "url": "m",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 4",
-          "subtitle": "Live ",
-          "url": "m",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 5",
-          "subtitle": "Live ",
-          "url": "m",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 6",
-          "subtitle": "Live ",
-          "url": "m",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 7",
-          "subtitle": "Live ",
-          "url": "m",
           "type": "hls",
           "rewarded": false
         }
