@@ -222,29 +222,29 @@
         },
         {
           "label": "Server 2",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb61a\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjFhOjE3ODk0ODI0NjA0MjI6Y2RubGl2ZXR2LnR2OmNmNWUxYWVhY2U3YjQxNmMuY2M4NmMwNWMwZDdiZWYxZjE2Y2M3ZDIwYTlkZmIzNzRjMGQ2YmU4ZjU5YTZmMzIyM2IzYWIyYjgzYTZkNzBjMA&|Referer=https:\/\/cdnlivetv.tv&Origin=https:\/\/cdnlivetv.tv&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/node-9b5feb01.4587.website\/6aaa36e7.edd4713ci798bc8d0.ee35.0872c957\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/node-8bba18be.4587.website\/6aaa36e8.5a3bdec8i798bc8d0.ee3c.a7edb8c7\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=athletics=rays&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
+          "label": "Server 5",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=athletics=rays&s=away&sport=mlb",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 5",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb622\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjIyOjE3ODk0ODI0NjA0Mjk6Y2RubGl2ZXR2LnR2OmRhNmY1MmQ3YTMzN2M3NzUuMTU5ZjIwODJlMjRmYjhkZDJmMWRjZjIyNzFlMDFmYzNhNDE4MmZlYjJlZDdlYzM1OThhZTE5MzZhYmNmYzE3Nw&|Referer=https:\/\/cdnlivetv.tv&Origin=https:\/\/cdnlivetv.tv&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
