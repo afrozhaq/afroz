@@ -462,40 +462,47 @@
         {
           "label": "Server 2",
           "subtitle": "Live ( Home )",
-          "url": "https:\/\/node-9b5feb01.4587.website\/6aab8734.20931838i798bc8d0.f08d.66506730\/free.live.espn\/master.m3u8",
+          "url": "https:\/\/node-9b5feb01.4587.website\/6aab887d.ce72665ai798bc8d0.f08d.c12111d3\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/node-88894cb5.4587.website\/6aab887d.38883d94i798bc8d0.f0a1.f6871f5a\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb583\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNTgzOjE3ODk2MTExMTUzNzA6Y2RubGl2ZXR2LnR2OmZiMjFkZDhlMGFhNzNkODcuYTZjNGRlMTEwN2VhNThhMDY0YzM2YTIwYjAyOGJjNDgxODA0ODk1ZjE0ZTJiZGI5Nzg3OTU2YmU3ZjI5NTAzNg",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
+          "label": "Server 5",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=brewers=pirates&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
+          "label": "Server 6",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=brewers=pirates&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 6",
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/dripcast.online\/flyembed-scraper\/fly\/?id=mlb-brewers",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 7",
+          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-16\/mil-pit",
           "type": "hls",
@@ -506,7 +513,7 @@
           }
         },
         {
-          "label": "Server 8",
+          "label": "Server 9",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-milwaukee-brewers-vs-pittsburgh-pirates\/1",
           "type": "hls",
