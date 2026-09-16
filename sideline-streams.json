@@ -1084,7 +1084,7 @@
         {
           "label": "Server 2",
           "subtitle": "Live ( Home )",
-          "url": "mp",
+          "url": "https:\/\/node-8bba18be.4587.website\/6aaa6042.e6cdec06i798bc8d0.efe6.62f0cfea\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
@@ -1097,15 +1097,15 @@
         },
         {
           "label": "Server 4",
-          "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=mariners=angels&s=home&sport=mlb",
+          "subtitle": "Live ",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb632\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjMyOjE3ODk1MzY0MTE0MzI6Y2RubGl2ZXR2LnR2OmU4NGNjZDIxNzRiZDY1YzkuZWQ0MmQ1MWJhNTRkMjJiZDlhZGFmYmEyYzk2MDU3OGUxMWI1ODlmY2JiNWIyYThlZWM1YWYyNzU3N2I1YmUzOA",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
-          "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=mariners=angels&s=away&sport=mlb",
+          "subtitle": "Live ",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb632\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjMyOjE3ODk1MzY0MTE0MzI6Y2RubGl2ZXR2LnR2OmU4NGNjZDIxNzRiZDY1YzkuZWQ0MmQ1MWJhNTRkMjJiZDlhZGFmYmEyYzk2MDU3OGUxMWI1ODlmY2JiNWIyYThlZWM1YWYyNzU3N2I1YmUzOA",
           "type": "hls",
           "rewarded": false
         },
