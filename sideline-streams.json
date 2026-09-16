@@ -56,7 +56,7 @@
         {
           "label": "Server 7",
           "subtitle": "Live ",
-          "url": "https:\/\/dripcast.online\/flyembed-scraper\/fly\/?id=mlb-white-sox",
+          "url": "https:\/\/dripcast.online\/flyembed-scraper\/fly\/index.m3u8?id=espn-usa",
           "type": "hls",
           "rewarded": false
         },
