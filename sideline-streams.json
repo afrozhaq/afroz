@@ -378,7 +378,7 @@
         {
           "label": "Server 2",
           "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb617\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjE3OjE3ODk1NzUwOTUxNzI6Y2RubGl2ZXR2LnR2OjM4OGNlYmYzZjg0ZjhlYjMuY2Q4YTQ2ZWU2ZTkxZmJhZDkxZWM4ODAyMGRmZGQ3YTI2MmJmMWRlZTM5MGQwMGRkNjVmZGRkODZhYWQ3YjcxNw",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb5ea\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWVhOjE3ODk2MTEwMDc1MTI6Y2RubGl2ZXR2LnR2OjQ5NTY3MTZjMDAwZjgyNjQuNTAwYTc5NjU5MTIyYWQwMWVjMWYzMWEwNmQ4MjAwNDhjNzkxNmFmNTE2MmVkMjcyOWI5YmU4MTFmNGM5OGFjZA",
           "type": "hls",
           "rewarded": false
         },
@@ -399,19 +399,12 @@
         {
           "label": "Server 5",
           "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb626\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjI2OjE3ODk1NzUwOTUyODI6Y2RubGl2ZXR2LnR2OmNhYWI5ODQxZjBmMmUwNzQuZjU3M2QxZWU5NjU4Y2RjNmJkMTE3ZDJiODFhNDA3YjkyZmE4MjM3NDJlY2E4OTg5YzdhYmUzMDhhNjVhYzdiMA",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 6",
-          "subtitle": "Live ",
           "url": "https:\/\/dripcast.online\/flyembed-scraper\/fly\/?id=mlb-dodgers",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 7",
+          "label": "Server 6",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-16\/lad-cin",
           "type": "hls",
@@ -422,7 +415,7 @@
           }
         },
         {
-          "label": "Server 8",
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-los-angeles-dodgers-vs-cincinnati-reds\/1",
           "type": "hls",
