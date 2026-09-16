@@ -49,6 +49,13 @@
         {
           "label": "Server 6",
           "subtitle": "Live ",
+          "url": "https:\/\/dripcast.online\/flyembed-scraper\/fly\/?id=mlb-white-sox",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 7",
+          "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-16\/chw-cle",
           "type": "hls",
           "rewarded": false,
@@ -58,7 +65,7 @@
           }
         },
         {
-          "label": "Server 7",
+          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-chicago-white-sox-vs-cleveland-guardians\/1",
           "type": "hls",
@@ -119,6 +126,13 @@
         {
           "label": "Server 6",
           "subtitle": "Live ",
+          "url": "https:\/\/dripcast.online\/flyembed-scraper\/fly\/?id=mlb-giants",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 7",
+          "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-16\/sf-stl",
           "type": "hls",
           "rewarded": false,
@@ -128,7 +142,7 @@
           }
         },
         {
-          "label": "Server 7",
+          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-san-francisco-giants-vs-st-louis-cardinals\/1",
           "type": "hls",
@@ -189,6 +203,13 @@
         {
           "label": "Server 6",
           "subtitle": "Live ",
+          "url": "https:\/\/dripcast.online\/flyembed-scraper\/fly\/?id=mlb-yankees",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 7",
+          "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-16\/nyy-min",
           "type": "hls",
           "rewarded": false,
@@ -198,7 +219,7 @@
           }
         },
         {
-          "label": "Server 7",
+          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-new-york-yankees-vs-minnesota-twins\/1",
           "type": "hls",
@@ -259,6 +280,13 @@
         {
           "label": "Server 6",
           "subtitle": "Live ",
+          "url": "https:\/\/dripcast.online\/flyembed-scraper\/fly\/?id=mlb-tigers",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 7",
+          "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-16\/det-tor",
           "type": "hls",
           "rewarded": false,
@@ -268,7 +296,7 @@
           }
         },
         {
-          "label": "Server 7",
+          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-detroit-tigers-vs-toronto-blue-jays\/1",
           "type": "hls",
