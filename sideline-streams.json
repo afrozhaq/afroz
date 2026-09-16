@@ -518,7 +518,7 @@
         {
           "label": "Server 2",
           "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb61a\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjFhOjE3ODk1NzUwOTU5NDA6Y2RubGl2ZXR2LnR2OmQzNzNiNThjZDc4ZjcxZTUuMmUyOWZjMjg1Y2Y1NDZhNGFjOGEzODY5NTIyZjYxMTJiMDhhOGVhMDA2YTU3NDJjZGRmYjZjMzNmNjJiZjg5OA",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb622\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjIyOjE3ODk2MTExOTUzNDU6Y2RubGl2ZXR2LnR2OjY2ODBmODRjZTM0NDNjMzAuNGU3NmNhNmEwYjBjOTM4MDRlN2NlOTBhODg5YTkwZTJjMzRmMGE4ZDQ0ZTFhZWY3MDI4MGQ1YTRjYzg2YTM4Zg",
           "type": "hls",
           "rewarded": false
         },
@@ -539,19 +539,12 @@
         {
           "label": "Server 5",
           "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb622\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjIyOjE3ODk1NzUwOTYwNDU6Y2RubGl2ZXR2LnR2OmU4ZDVmNzhkYzE1NDMxYTIuNjc0OTI2YWNlNzkwODgxY2EzNjVlNTU3MTMxNDViZjFiZGFmNWI4MmY5ZTMxZTgyZTNlMzFiYTdkMWFkMjlmYw",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 6",
-          "subtitle": "Live ",
           "url": "https:\/\/dripcast.online\/flyembed-scraper\/fly\/?id=mlb-rays",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 7",
+          "label": "Server 6",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-16\/ath-tb",
           "type": "hls",
@@ -562,7 +555,7 @@
           }
         },
         {
-          "label": "Server 8",
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-athletics-vs-tampa-bay-rays\/1",
           "type": "hls",
