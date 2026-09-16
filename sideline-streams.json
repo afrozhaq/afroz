@@ -21,7 +21,7 @@
         {
           "label": "Server 2",
           "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb62c\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjJjOjE3ODk1NzUwOTMzOTg6Y2RubGl2ZXR2LnR2OjI2ZDJiNzJiYjgxNWNmZjYuNzg2NTA5Mzk0N2U2OWU1OWE0MTE0YjYzMmRhYjRjNWE2MGMyNTgyMzBiYzRmNDQ5YjY5YjZmZWI3MDY3OWIyZg",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb62c\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjJjOjE3ODk1OTE1MDU5MTI6Y2RubGl2ZXR2LnR2OjFmZjRiZDhmNzhiNWI1ZGYuNjhiNWI4NzFjZTdmYTdkMjg5ZjNkNzE1MDY0NTkzOTdkZDFlZmYzMjViMWE0YTc0NWE1ZTg1NDVlNTkzNDM0Ng",
           "type": "hls",
           "rewarded": false
         },
@@ -42,19 +42,12 @@
         {
           "label": "Server 5",
           "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb62d\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjJkOjE3ODk1NzUwOTM0ODg6Y2RubGl2ZXR2LnR2Ojg5ZjFhMTU1YzEyMDNmNzUuNmU4Mzg3ODA1MjYzZDY0NDYwZGNjZjVlMjYxODE1NjI0YjViZTFmN2IwMjY1ZmI2NzE4MWE3NjllZjRkYTllMA",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 6",
-          "subtitle": "Live ",
           "url": "https:\/\/dripcast.online\/flyembed-scraper\/fly\/?id=mlb-white-sox",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 7",
+          "label": "Server 6",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-16\/chw-cle",
           "type": "hls",
@@ -65,7 +58,7 @@
           }
         },
         {
-          "label": "Server 8",
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-chicago-white-sox-vs-cleveland-guardians\/1",
           "type": "hls",
