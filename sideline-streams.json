@@ -964,15 +964,15 @@
         },
         {
           "label": "Server 5",
-          "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=royals=astros&s=home&sport=mlb",
+          "subtitle": "Live ",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2781d8192bb76cb52c\/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiNTJjOjE3ODk1MzIyODQxMjE6Y2RubGl2ZXR2LnR2OjhjZDEyOWFhNTI1OTgzMWYuYjIwYWFlZGRlZjE5ODBlM2NiMjI3NzEyM2FjN2M5OGY3ZmQ3MmZjNDQ3YjEzODUxMjQ4NWM4ZWZkYmQwNDUzNw",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 6",
-          "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=royals=astros&s=away&sport=mlb",
+          "subtitle": "Live ",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2781d8192bb76cb52c\/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiNTJjOjE3ODk1MzIyODQxMjE6Y2RubGl2ZXR2LnR2OjhjZDEyOWFhNTI1OTgzMWYuYjIwYWFlZGRlZjE5ODBlM2NiMjI3NzEyM2FjN2M5OGY3ZmQ3MmZjNDQ3YjEzODUxMjQ4NWM4ZWZkYmQwNDUzNw",
           "type": "hls",
           "rewarded": false
         },
