@@ -588,7 +588,7 @@
         {
           "label": "Server 2",
           "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb616\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjE2OjE3ODk1NzUwOTYyNTc6Y2RubGl2ZXR2LnR2OmJjMGFjNjYxODdlNWVkZWEuZjc1ZWIxOWU5MzVhMzRiMGRmMmU2OWYyNTEwZWIyMzI1YmU4ZWQzYWNmMTBiMjc5ZDY1ZTc3MzhkOWQzNzE4OA",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb616\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjE2OjE3ODk2MTEyNzY5ODE6Y2RubGl2ZXR2LnR2OmUxMGQ4MmNiNGMwM2I4Y2IuNjFlNzU4YTAxY2Y5MjFiYTUyOTNmODRiM2FiZGFiYmU3ZDQ0ODNiYTAxMzkyMjJiMDU5MjY2YTgyMGY5NzY5OQ",
           "type": "hls",
           "rewarded": false
         },
@@ -609,19 +609,12 @@
         {
           "label": "Server 5",
           "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2781d8192bb76cb519\/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiNTE5OjE3ODk1NzUwOTYzNzA6Y2RubGl2ZXR2LnR2OmRjMTg2MjMyNTU3MDcwMjguNmZkMGM4ZDYzNGFjNjQwZDZmZjFjMDQ2Y2ZiMDYxZTczNmE3ZjE4ODMyZTM3MjM3M2FiMjM5YzI0N2I2NDg3MA",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 6",
-          "subtitle": "Live ",
           "url": "https:\/\/dripcast.online\/flyembed-scraper\/fly\/?id=mlb-nationals",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 7",
+          "label": "Server 6",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-16\/phi-wsh",
           "type": "hls",
@@ -632,7 +625,7 @@
           }
         },
         {
-          "label": "Server 8",
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-philadelphia-phillies-vs-washington-nationals\/1",
           "type": "hls",
