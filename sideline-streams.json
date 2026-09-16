@@ -910,7 +910,7 @@
         {
           "label": "Server 2",
           "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb619\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjE5OjE3ODk1NzUwOTg4Njg6Y2RubGl2ZXR2LnR2OjIzM2Y3NDA3NjhlNDIwNzguNDdkY2Q0ZmJjN2VmODE4OTc2MWZkZWJlOGY2ZWI2MjBiNWJhZDY5NWJhNmYyNGZlNzA0YTU5YjAzMzI4ZjA4OA",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb619\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjE5OjE3ODk2MTc0MTc2Njg6Y2RubGl2ZXR2LnR2OmNhMGJkNDZmNzAwM2JkZjcuYTFkZjZhNzE1YjkzYjRiYzJkNWM4NzY0Yjg4OGUzNGJmNmMyY2Y5ZDMyZThmZjQ5M2JlNTdlNDlmNjQzYjEwOQ",
           "type": "hls",
           "rewarded": false
         },
@@ -931,19 +931,12 @@
         {
           "label": "Server 5",
           "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb62e\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjJlOjE3ODk1NzUwOTg5NzI6Y2RubGl2ZXR2LnR2OmM3ZDFhNmVlZTUwMTNhZDcuNzZhYzhiMTlkY2FmZTA4Y2E5MDA0MDUxZThiYTQwZTJkOWY3MTA2ZDFjMzk5OWU1ZjYzNWQ0Yzg3ZGQ0MTQ2ZQ",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb62e\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjJlOjE3ODk2MTc0MTc0MzU6Y2RubGl2ZXR2LnR2OmNiMTY2NDMwMDI3YjlhODcuYTFiY2FiOGI3ZGQ4Mjg0YjE1OTIxYzBjYTMyODk5ZmE2Y2M0OTFjOTIyOTZkODEwOGQ0OGI5NjE4MzJjZDdiYQ",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 6",
-          "subtitle": "Live ",
-          "url": "https:\/\/dripcast.online\/flyembed-scraper\/fly\/?id=mlb-red-sox",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-16\/bos-tex",
           "type": "hls",
@@ -954,7 +947,7 @@
           }
         },
         {
-          "label": "Server 8",
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-boston-red-sox-vs-texas-rangers\/1",
           "type": "hls",
@@ -963,6 +956,13 @@
             "type": "embed",
             "api": "https:\/\/embed.st\/embed\/admin\/ppv-boston-red-sox-vs-texas-rangers\/1"
           }
+        },
+        {
+          "label": "Server 8",
+          "subtitle": "Live ",
+          "url": "https:\/\/dripcast.online\/flyembed-scraper\/fly\/?id=mlb-red-sox",
+          "type": "hls",
+          "rewarded": false
         }
       ]
     },
