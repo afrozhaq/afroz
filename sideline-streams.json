@@ -434,51 +434,59 @@
         {
           "label": "Server 1",
           "subtitle": "Live ",
-          "url": "j",
+          "url": "https:\/\/edgestream2.pro\/hls\/bzagLHzach19.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 2",
           "subtitle": "Live ",
-          "url": "j",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb61a\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjFhOjE3ODk1NzUwOTU5NDA6Y2RubGl2ZXR2LnR2OmQzNzNiNThjZDc4ZjcxZTUuMmUyOWZjMjg1Y2Y1NDZhNGFjOGEzODY5NTIyZjYxMTJiMDhhOGVhMDA2YTU3NDJjZGRmYjZjMzNmNjJiZjg5OA",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
-          "subtitle": "Live ",
-          "url": "j",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=athletics=rays&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
-          "subtitle": "Live ",
-          "url": "j",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=athletics=rays&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
           "subtitle": "Live ",
-          "url": "j",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb622\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjIyOjE3ODk1NzUwOTYwNDU6Y2RubGl2ZXR2LnR2OmU4ZDVmNzhkYzE1NDMxYTIuNjc0OTI2YWNlNzkwODgxY2EzNjVlNTU3MTMxNDViZjFiZGFmNWI4MmY5ZTMxZTgyZTNlMzFiYTdkMWFkMjlmYw",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 6",
           "subtitle": "Live ",
-          "url": "j",
+          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-16\/ath-tb",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-16\/ath-tb"
+          }
         },
         {
           "label": "Server 7",
           "subtitle": "Live ",
-          "url": "j",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-athletics-vs-tampa-bay-rays\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-athletics-vs-tampa-bay-rays\/1"
+          }
         }
       ]
     },
