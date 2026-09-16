@@ -245,7 +245,7 @@
         {
           "label": "Server 9",
           "subtitle": "Live ",
-          "url": "https:\/\/dripcast.online\/flyembed-scraper\/fly\/?id=mlb-yankees",
+          "url": "https:\/\/dripcast.online\/flyembed-scraper\/fly\/index.m3u8?id=mlb-yankees",
           "type": "hls",
           "rewarded": false
         },
