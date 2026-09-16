@@ -735,51 +735,66 @@
         {
           "label": "Server 1",
           "subtitle": "Live ",
-          "url": "n",
+          "url": "https:\/\/edgestream2.pro\/hls\/kjhfzua25.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 2",
           "subtitle": "Live ",
-          "url": "n",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb619\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjE5OjE3ODk1NzUwOTg4Njg6Y2RubGl2ZXR2LnR2OjIzM2Y3NDA3NjhlNDIwNzguNDdkY2Q0ZmJjN2VmODE4OTc2MWZkZWJlOGY2ZWI2MjBiNWJhZDY5NWJhNmYyNGZlNzA0YTU5YjAzMzI4ZjA4OA",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
-          "subtitle": "Live ",
-          "url": "n",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=redsox=rangers&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
-          "subtitle": "Live ",
-          "url": "n",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=redsox=rangers&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
           "subtitle": "Live ",
-          "url": "n",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb62e\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjJlOjE3ODk1NzUwOTg5NzI6Y2RubGl2ZXR2LnR2OmM3ZDFhNmVlZTUwMTNhZDcuNzZhYzhiMTlkY2FmZTA4Y2E5MDA0MDUxZThiYTQwZTJkOWY3MTA2ZDFjMzk5OWU1ZjYzNWQ0Yzg3ZGQ0MTQ2ZQ",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 6",
           "subtitle": "Live ",
-          "url": "n",
+          "url": "https:\/\/dripcast.online\/flyembed-scraper\/fly\/?id=mlb-red-sox",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 7",
           "subtitle": "Live ",
-          "url": "n",
+          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-16\/bos-tex",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-16\/bos-tex"
+          }
+        },
+        {
+          "label": "Server 8",
+          "subtitle": "Live ",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-boston-red-sox-vs-texas-rangers\/1",
+          "type": "hls",
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-boston-red-sox-vs-texas-rangers\/1"
+          }
         }
       ]
     },
