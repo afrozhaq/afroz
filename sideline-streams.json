@@ -1021,33 +1021,19 @@
         {
           "label": "Server 2",
           "subtitle": "Live ( Home )",
-          "url": "mp",
+          "url": "https:\/\/node-9b5feb01.4587.website\/6aaa533c.2c1687f8i798bc8d0.efda.1eec8c41\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
           "subtitle": "Live ( Away )",
-          "url": "mp",
+          "url": "https:\/\/node-9b5feb01.4587.website\/6aaa533c.534f79a3i798bc8d0.efdc.8d86199b\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
-          "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=padres=rockies&s=home&sport=mlb",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 5",
-          "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=padres=rockies&s=away&sport=mlb",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 6",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-15\/sd-col",
           "type": "hls",
@@ -1058,7 +1044,7 @@
           }
         },
         {
-          "label": "Server 7",
+          "label": "Server 5",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-san-diego-padres-vs-colorado-rockies\/1",
           "type": "hls",
