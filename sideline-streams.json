@@ -357,6 +357,13 @@
         {
           "label": "Server 6",
           "subtitle": "Live ",
+          "url": "https:\/\/dripcast.online\/flyembed-scraper\/fly\/?id=mlb-dodgers",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 7",
+          "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-16\/lad-cin",
           "type": "hls",
           "rewarded": false,
@@ -366,7 +373,7 @@
           }
         },
         {
-          "label": "Server 7",
+          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-los-angeles-dodgers-vs-cincinnati-reds\/1",
           "type": "hls",
@@ -427,6 +434,13 @@
         {
           "label": "Server 6",
           "subtitle": "Live ",
+          "url": "https:\/\/dripcast.online\/flyembed-scraper\/fly\/?id=mlb-brewers",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 7",
+          "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-16\/mil-pit",
           "type": "hls",
           "rewarded": false,
@@ -436,7 +450,7 @@
           }
         },
         {
-          "label": "Server 7",
+          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-milwaukee-brewers-vs-pittsburgh-pirates\/1",
           "type": "hls",
@@ -497,6 +511,13 @@
         {
           "label": "Server 6",
           "subtitle": "Live ",
+          "url": "https:\/\/dripcast.online\/flyembed-scraper\/fly\/?id=mlb-rays",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 7",
+          "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-16\/ath-tb",
           "type": "hls",
           "rewarded": false,
@@ -506,7 +527,7 @@
           }
         },
         {
-          "label": "Server 7",
+          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-athletics-vs-tampa-bay-rays\/1",
           "type": "hls",
