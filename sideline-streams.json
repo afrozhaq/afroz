@@ -826,7 +826,7 @@
         {
           "label": "Server 2",
           "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb601\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjAxOjE3ODk1NzUwOTcwMjc6Y2RubGl2ZXR2LnR2Ojc3NTJjMmJkZjVmZTEyNTUuZTQzMGFlZmFmYzc4ODRiZmFiM2VmYmRmOGUyNzU5MWMxOTk0MzEyOTIxYWZmYmM4MzFiMWNkNTkzYmQwMzE2MA",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb631\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjMxOjE3ODk2MTU1MTIyNzg6Y2RubGl2ZXR2LnR2OmZkZjRhNDU1NmY3ZDU2MjYuNTE0ZDU2ZjhkY2Q4ODQ2MWNkNzUyYjlhYWEwYmU5ZmM0MjI5NGMyODdiZDM2N2VlYTQwMDgyYzliMWIwMzc1Ng",
           "type": "hls",
           "rewarded": false
         },
@@ -847,19 +847,12 @@
         {
           "label": "Server 5",
           "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb631\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjMxOjE3ODk1NzUwOTcxMjE6Y2RubGl2ZXR2LnR2Ojg3N2RlNmU0MjYxMDRlM2QuODQxZjMwZmFjMzU0YzZkNjA0NTdlMWFiMmQ3ZmUyOTAzZWM3OTgzOGEzOWVkNDdlNmIxMDVjMjYyZmQ1ZmIwMg",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb612\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjEyOjE3ODk2MTU1MTI0MDM6Y2RubGl2ZXR2LnR2OjU0NzU4NjNhNDZmZTNiZjMuM2MyNTkyMzE1YjlmYTI3NGU1MzJlMWRjNTU0NDFmMTZhOGI0Mjc4MzdhNGEwNjZhYzEzMTU2ZmQ5M2YyMjc4NQ",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 6",
-          "subtitle": "Live ",
-          "url": "https:\/\/dripcast.online\/flyembed-scraper\/fly\/?id=mlb-cubs",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-16\/atl-chc",
           "type": "hls",
@@ -870,7 +863,7 @@
           }
         },
         {
-          "label": "Server 8",
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-atlanta-braves-vs-chicago-cubs\/1",
           "type": "hls",
@@ -879,6 +872,13 @@
             "type": "embed",
             "api": "https:\/\/embed.st\/embed\/admin\/ppv-atlanta-braves-vs-chicago-cubs\/1"
           }
+        },
+        {
+          "label": "Server 8",
+          "subtitle": "Live ",
+          "url": "https:\/\/dripcast.online\/flyembed-scraper\/fly\/?id=mlb-cubs",
+          "type": "hls",
+          "rewarded": false
         }
       ]
     },
