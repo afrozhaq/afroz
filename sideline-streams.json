@@ -448,7 +448,7 @@
         {
           "label": "Server 2",
           "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb621\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjIxOjE3ODk1NzUwOTU0NzU6Y2RubGl2ZXR2LnR2OjNmMDk0NWNhYTZjOTY3NWQuN2JiYzMwNzE5MDJiYjAzOGViOTgxYzgyZGJjYzRmOGIxZmQ5ZTA4MWU0YTExMjkwMzMyZGEyYWFmZGIyMThjYw",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb583\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNTgzOjE3ODk2MTExMTUzNzA6Y2RubGl2ZXR2LnR2OmZiMjFkZDhlMGFhNzNkODcuYTZjNGRlMTEwN2VhNThhMDY0YzM2YTIwYjAyOGJjNDgxODA0ODk1ZjE0ZTJiZGI5Nzg3OTU2YmU3ZjI5NTAzNg",
           "type": "hls",
           "rewarded": false
         },
@@ -469,19 +469,12 @@
         {
           "label": "Server 5",
           "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb613\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjEzOjE3ODk1NzUwOTU2MDQ6Y2RubGl2ZXR2LnR2OmQ4MWQzZGEyYWJiZGZhN2YuOWFlMDg2MTkzNTEwY2E3ZGFiMDRlNDQxNmRkMTk1MzM4ZjYzZTA0Y2UzNDA3NmY2YThlY2Q1YWI1MjViNWI1MQ",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 6",
-          "subtitle": "Live ",
           "url": "https:\/\/dripcast.online\/flyembed-scraper\/fly\/?id=mlb-brewers",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 7",
+          "label": "Server 6",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-16\/mil-pit",
           "type": "hls",
@@ -492,7 +485,7 @@
           }
         },
         {
-          "label": "Server 8",
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-milwaukee-brewers-vs-pittsburgh-pirates\/1",
           "type": "hls",
