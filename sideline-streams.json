@@ -315,19 +315,26 @@
         {
           "label": "Server 5",
           "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc2bc\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMmJjOjE3ODk1OTkyMzc2MDQ6Y2RubGl2ZXR2LnR2OmM5YTMxNTRmMTVkNjU2ODUuN2JiNDhlM2JhY2FiMmE1YjE2YTE2YjE2YTc1MTllN2ZmYWE1MWUxZmU5NTA4NGFjNTNhNmY0ODkzNGVhODlhMg",
+          "url": "https:\/\/livecdn-tc-iptv.rumsport10.live\/live_abr\/55838\/720p\/chunks.m3u8?is_vip=false&token=1789670878-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ebee5db4ac5471835aac7351dbf7167e|Referer=https:\/\/iframe.rumsport8.live\/&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/120.0.0.0 Safari\/537.36",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 6",
           "subtitle": "Live ",
-          "url": "https:\/\/dripcast.online\/flyembed-scraper\/fly\/?id=mlb-tigers",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc2bc\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMmJjOjE3ODk1OTkyMzc2MDQ6Y2RubGl2ZXR2LnR2OmM5YTMxNTRmMTVkNjU2ODUuN2JiNDhlM2JhY2FiMmE1YjE2YTE2YjE2YTc1MTllN2ZmYWE1MWUxZmU5NTA4NGFjNTNhNmY0ODkzNGVhODlhMg",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 7",
+          "subtitle": "Live ",
+          "url": "https:\/\/dripcast.online\/flyembed-scraper\/fly\/?id=mlb-tigers",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-16\/det-tor",
           "type": "hls",
@@ -338,7 +345,7 @@
           }
         },
         {
-          "label": "Server 8",
+          "label": "Server 9",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-detroit-tigers-vs-toronto-blue-jays\/1",
           "type": "hls",
