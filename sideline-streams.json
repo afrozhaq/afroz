@@ -531,34 +531,48 @@
         },
         {
           "label": "Server 2",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/node-5d763f4c.4587.website\/6aab86af.b2863972i798bc8d0.f097.3abda669\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/node-88894cb5.4587.website\/6aab86af.29be553fi798bc8d0.f09a.5db9f92b\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb622\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjIyOjE3ODk2MTExOTUzNDU6Y2RubGl2ZXR2LnR2OjY2ODBmODRjZTM0NDNjMzAuNGU3NmNhNmEwYjBjOTM4MDRlN2NlOTBhODg5YTkwZTJjMzRmMGE4ZDQ0ZTFhZWY3MDI4MGQ1YTRjYzg2YTM4Zg",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 3",
+          "label": "Server 5",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=athletics=rays&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
+          "label": "Server 6",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=athletics=rays&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/dripcast.online\/flyembed-scraper\/fly\/?id=mlb-rays",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 6",
+          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-16\/ath-tb",
           "type": "hls",
@@ -569,7 +583,7 @@
           }
         },
         {
-          "label": "Server 7",
+          "label": "Server 9",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-athletics-vs-tampa-bay-rays\/1",
           "type": "hls",
