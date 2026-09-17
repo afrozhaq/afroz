@@ -349,27 +349,13 @@
         },
         {
           "label": "Server 4",
-          "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=royals=astros&s=home&sport=mlb",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 5",
-          "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=royals=astros&s=away&sport=mlb",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 6",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2c81d8192bb76cd23b\/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkMjNiOjE3ODk3MDE0Nzk1OTY6Y2RubGl2ZXR2LnR2OjBmYmYxOWY2MjUzYzUwNzIuMmM5ZDdiM2RjYTY0ZmVkMWQ3YmNhNTMzZWMxNDY3MWU1ZjJiZWMyNzkyZDg4NmMzNGM0OWU1ZTliZDY4MGU1ZQ",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 7",
+          "label": "Server 5",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-17\/kc-hou",
           "type": "hls",
@@ -380,7 +366,7 @@
           }
         },
         {
-          "label": "Server 8",
+          "label": "Server 6",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-kansas-city-royals-vs-houston-astros\/1",
           "type": "hls",
@@ -426,27 +412,13 @@
         },
         {
           "label": "Server 4",
-          "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=phillies=mets&s=home&sport=mlb",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 5",
-          "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=phillies=mets&s=away&sport=mlb",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 6",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb5c1\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWMxOjE3ODk3MDE1NzQ5MzE6Y2RubGl2ZXR2LnR2OjIyZjJhMGQzYWMyOWFkYzYuM2RjNjUyNmQzZjI4MmU2N2E2YzliZjAyMjZiNjRjOGY2ZDFlNzc0OGZkMzZkNzJmNjg2ODk5NTIwZDQ2OTk3Ng",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 7",
+          "label": "Server 5",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-17\/phi-nym",
           "type": "hls",
@@ -457,7 +429,7 @@
           }
         },
         {
-          "label": "Server 8",
+          "label": "Server 6",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-philadelphia-phillies-vs-new-york-mets\/1",
           "type": "hls",
