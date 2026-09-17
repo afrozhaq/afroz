@@ -413,33 +413,40 @@
         {
           "label": "Server 2",
           "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb625\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjI1OjE3ODk2NTYxNTkzNzM6Y2RubGl2ZXR2LnR2OmEzMTljYTUyMWIwNDNmZDMuYzYxMDZkNGZlNDRjYzQyN2FhZmQ4YTI0YzJjMDgxZWU1ODBjMzNiNGEyZGEwN2M5ZWIzMGRkMWI2OWFlMGJmZA",
+          "url": "https:\/\/node-9b5feb01.4587.website\/6aace1d2.49718298i798bc8d0.f37d.dc7b6140\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
+          "subtitle": "Live ",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb625\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjI1OjE3ODk2NTYxNTkzNzM6Y2RubGl2ZXR2LnR2OmEzMTljYTUyMWIwNDNmZDMuYzYxMDZkNGZlNDRjYzQyN2FhZmQ4YTI0YzJjMDgxZWU1ODBjMzNiNGEyZGEwN2M5ZWIzMGRkMWI2OWFlMGJmZA",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=phillies=mets&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
+          "label": "Server 5",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=phillies=mets&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
+          "label": "Server 6",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb616\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjE2OjE3ODk2NTYxNTk1MDU6Y2RubGl2ZXR2LnR2OjEyMjQ5MzE3ZWIwMDMyNGMuNTI3MDlkN2YzZjc4NGE2ODUxZWU4M2Y1MzlkZjIzODQwODhhOGFlNWU3YTZjZTRjZmMzNmY4OTUyYzFmODJkZA",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 6",
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-17\/phi-nym",
           "type": "hls",
@@ -450,7 +457,7 @@
           }
         },
         {
-          "label": "Server 7",
+          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-philadelphia-phillies-vs-new-york-mets\/1",
           "type": "hls",
