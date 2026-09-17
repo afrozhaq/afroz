@@ -252,23 +252,38 @@
         {
           "label": "Server 1",
           "subtitle": "Live",
-          "url": "htt",
+          "url": "https:\/\/edgestream2.pro\/hls\/dsqhjbjhsqd81.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 2",
           "subtitle": "Live",
-          "url": "htt",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2781d8192bb76cb509\/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiNTA5OjE3ODk2NTYyMzg1OTI6Y2RubGl2ZXR2LnR2OmUwY2U0YWU3ZmRjZWRlOWMuNGFlMTE5M2JjNzA0NWJhNWFiNzdkYTViYzk1ZDllYTM1ZDlkNjYwN2NiYmYwNzRlMzQxMTE4NjViYTIwYzM0YQ",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
           "subtitle": "Live",
-          "url": "htt",
+          "url": "https:\/\/embedindia.st\/embed\/wnba\/2026-09-17\/wsh-chi",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/wnba\/2026-09-17\/wsh-chi"
+          }
+        },
+        {
+          "label": "Server 4",
+          "subtitle": "Live",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-washington-mystics-vs-chicago-sky\/1",
+          "type": "hls",
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-washington-mystics-vs-chicago-sky\/1"
+          }
         }
       ]
     },
