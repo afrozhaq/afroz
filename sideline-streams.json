@@ -1197,7 +1197,7 @@
         {
           "label": "Server 2",
           "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb630\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjMwOjE3ODk1NzUxMDA0ODc6Y2RubGl2ZXR2LnR2OjIxODg0ZTA3N2I2OWRmZWMuMzhlMmE2NGRlMThhOWI5MjUxYjczZDM1YmZlZjBiMjk1NTExZGJmZmUxNWI2YTgyN2YzMDM5MTQ5ZDVjM2JiNQ",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb628\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjI4OjE3ODk2MjI1Mjc5MDA6Y2RubGl2ZXR2LnR2OmFmM2UwNjUzNWI5MWZmM2YuYmI5ZTZjYjc4N2YwYmM1ZjcwODUyNmJkYmMzOWVkMjQ4MmE3MmMxNWRkZmMyOWE4Yzg4YTk3MDRhYzBiZjBmZg",
           "type": "hls",
           "rewarded": false
         },
@@ -1218,19 +1218,12 @@
         {
           "label": "Server 5",
           "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb628\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjI4OjE3ODk1NzUxMDA1ODk6Y2RubGl2ZXR2LnR2OjRmMTg2NDQxMmE0ZTZlNTQuNzc2MTQ0Yjk1YjU5NjNjMjVhNDA5MzMzOGQ3MTU5NWFjN2ZmOTIyMzM0NjVlNDA2ZWI4MjMyYTBhNmZiNGE5Ng",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb630\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjMwOjE3ODk2MjI1MjgwOTk6Y2RubGl2ZXR2LnR2OjMxYzliYTcwYjY4NDFkOTMuOGZkNTliNDk1M2QwZjU0ZTZjZDAxZDFhMjk2YzUzYzZjODYxNWEyMmRlNjY4NDhkOTdjYmQwZGUzMTU4N2I5MA",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 6",
-          "subtitle": "Live ",
-          "url": "https:\/\/dripcast.online\/flyembed-scraper\/fly\/?id=mlb-diamondbacks",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-16\/mia-ari",
           "type": "hls",
@@ -1241,7 +1234,7 @@
           }
         },
         {
-          "label": "Server 8",
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-miami-marlins-vs-arizona-diamondbacks\/1",
           "type": "hls",
