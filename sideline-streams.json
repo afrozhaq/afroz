@@ -987,7 +987,7 @@
         {
           "label": "Server 2",
           "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb627\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjI3OjE3ODk1NzUwOTk3OTY6Y2RubGl2ZXR2LnR2OjcwMDA4MTRiM2QxYzBkNWYuNmQ1OTRlOGEwYTgyZGYxMDc4OTY0NTUwM2U5MzdiODc2YzJmZTgxYTFhZTkzMjQ5MzNhMGQxMGExNTc3MDQ5NQ",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb627\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjI3OjE3ODk2MTc1NzYyNjY6Y2RubGl2ZXR2LnR2OmVhMzdiMzhmZTQ0MTk4MWYuMjlmNWY3Njg3NGNkMzk3MDU2ZjZmNzFmOTA3Nzc0NjBlOTFhMGQ0MTY4ZmE4ZTVkNGVlZWY1ZjRhNWQ5YzA4Zg",
           "type": "hls",
           "rewarded": false
         },
@@ -1008,19 +1008,12 @@
         {
           "label": "Server 5",
           "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb615\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjE1OjE3ODk1NzUwOTk4ODY6Y2RubGl2ZXR2LnR2OjI1YjllNDlkMDY2NGIzYTQuNGVkOWY5NTc0NDE1ODBjNzRkMmI0YjA4NDI3MTE4YTEyYWNmY2Q2MWZkMDMyZTJkNTJjMDVhYjc5ZDI0MmY2OA",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb627\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjI3OjE3ODk2MTc1NzYyNjY6Y2RubGl2ZXR2LnR2OmVhMzdiMzhmZTQ0MTk4MWYuMjlmNWY3Njg3NGNkMzk3MDU2ZjZmNzFmOTA3Nzc0NjBlOTFhMGQ0MTY4ZmE4ZTVkNGVlZWY1ZjRhNWQ5YzA4Zg",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 6",
-          "subtitle": "Live ",
-          "url": "https:\/\/dripcast.online\/flyembed-scraper\/fly\/?id=mlb-royals",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-16\/kc-hou",
           "type": "hls",
@@ -1031,7 +1024,7 @@
           }
         },
         {
-          "label": "Server 8",
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-kansas-city-royals-vs-houston-astros\/1",
           "type": "hls",
@@ -1040,6 +1033,13 @@
             "type": "embed",
             "api": "https:\/\/embed.st\/embed\/admin\/ppv-kansas-city-royals-vs-houston-astros\/1"
           }
+        },
+        {
+          "label": "Server 8",
+          "subtitle": "Live ",
+          "url": "https:\/\/dripcast.online\/flyembed-scraper\/fly\/?id=mlb-royals",
+          "type": "hls",
+          "rewarded": false
         }
       ]
     },
