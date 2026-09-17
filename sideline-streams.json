@@ -279,34 +279,20 @@
         },
         {
           "label": "Server 2",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb606\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjA2OjE3ODk2NTYxNTg0MjA6Y2RubGl2ZXR2LnR2OmMzMTFhY2E1OTQyOGFiODcuYTMxODMwNjhiZDRhNTlkZmY4NWRiZWIyZTU4NDFmMTc5NmU0MzYzNTkxZTdjZGQwMWM3NGMwOTYwZTA1NTM0OQ",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 3",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=padres=rockies&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
+          "label": "Server 3",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=padres=rockies&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb62a\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjJhOjE3ODk2NTYxNTg1MDg6Y2RubGl2ZXR2LnR2OjNjZThjNzFmZWYzNmExNTcuNzkyNGNjYzBmZmFhYTdkNmFiMWM4NDFkZDEyNzI1OWE2MmUxOTI4MjQ5Yjc1NzNiZjZlODcyMTA1ZGNkYWIyNA",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 6",
+          "label": "Server 4",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-17\/sd-col",
           "type": "hls",
@@ -317,7 +303,7 @@
           }
         },
         {
-          "label": "Server 7",
+          "label": "Server 5",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-san-diego-padres-vs-colorado-rockies\/1",
           "type": "hls",
