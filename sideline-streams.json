@@ -275,6 +275,40 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1789637403034",
+      "league": "nba",
+      "gameId": "",
+      "away": "DALLAS WINGS ",
+      "home": "LOS ANGELES SPARKS ",
+      "title": "Dallas Wings Vs Los Angeles Sparks ",
+      "poster": "",
+      "startsAt": 1789689600000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "ht",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "ht",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live",
+          "url": "ht",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
