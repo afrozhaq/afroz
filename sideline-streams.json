@@ -336,33 +336,40 @@
         {
           "label": "Server 2",
           "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb605\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjA1OjE3ODk2NTYxNTg4MTI6Y2RubGl2ZXR2LnR2OmRiYTFlMjQwYmE0ZjRiYTMuMDZkMzA2OTRmZDkzM2JmOWI5YjFkOGE1MTM0NjhiY2U2OTdjYjIwM2Y1MzhjMTk4ZjEyYWM2NWUxNzY3NTgyYg",
+          "url": "https:\/\/node-5d763f4c.4587.website\/6aace1d2.bd829a1bi798bc8d0.f380.0485df76\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
+          "subtitle": "Live ",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb605\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjA1OjE3ODk2NTYxNTg4MTI6Y2RubGl2ZXR2LnR2OmRiYTFlMjQwYmE0ZjRiYTMuMDZkMzA2OTRmZDkzM2JmOWI5YjFkOGE1MTM0NjhiY2U2OTdjYjIwM2Y1MzhjMTk4ZjEyYWM2NWUxNzY3NTgyYg",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=royals=astros&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
+          "label": "Server 5",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=royals=astros&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
+          "label": "Server 6",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb627\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjI3OjE3ODk2NTYxNTg5MDU6Y2RubGl2ZXR2LnR2OmEwY2RhMmY1YTRkMzM0NDIuZjlmNmYyNzMwODIyNjdjMTgzMDZkZjIxNDY3NGIwYjViOTY1MTU2MzE0ZWMwNWY3YWRlN2Y5YjE1NmRmNjU0MQ",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 6",
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-17\/kc-hou",
           "type": "hls",
@@ -373,7 +380,7 @@
           }
         },
         {
-          "label": "Server 7",
+          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-kansas-city-royals-vs-houston-astros\/1",
           "type": "hls",
