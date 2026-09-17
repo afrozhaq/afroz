@@ -309,6 +309,40 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1789637449790",
+      "league": "nba",
+      "gameId": "",
+      "away": "CHICAGO SKY ",
+      "home": "WASHINGTON MYSTICS ",
+      "title": "Chicago Sky Vs Washington Mystics ",
+      "poster": "",
+      "startsAt": 1789689600000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "htt",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "htt",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live",
+          "url": "htt",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
