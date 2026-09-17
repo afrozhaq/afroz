@@ -1071,7 +1071,7 @@
         {
           "label": "Server 2",
           "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb62a\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjJhOjE3ODk1NzUxMDAwNzc6Y2RubGl2ZXR2LnR2OjUxNTM0YjZlMWI0Yzg5YjQuYjZiMjQ4MTQ2MzdiMDZlNjdmNGQ1YzhlZGZkMDE4ZTUyOWQyMWY2MWQ3Mjk2M2UzNThlY2ZkNmZiOTJkYmFkNg",
+          "url": "https:\/\/livecdn-tc-iptv.rumsport10.live\/live_abr\/55847\/720p\/chunks.m3u8?is_vip=false&token=1789690677-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-735aec196d7780988a57fa545c1dbfdb|Referer=https:\/\/iframe.rumsport8.live\/&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/120.0.0.0 Safari\/537.36",
           "type": "hls",
           "rewarded": false
         },
@@ -1092,20 +1092,6 @@
         {
           "label": "Server 5",
           "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb61e\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjFlOjE3ODk1NzUxMDAxNjk6Y2RubGl2ZXR2LnR2OjBlNGE1ODRjMTNlM2NmZTcuZjYxYTM3YWEzNTAzNTM1NjQwMTk5MmFlYTU1NWMzYWE2ZjRiZDViOTUzOWQ0Mzg0NWYwYjg0M2NjOTc3NjU3OQ",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 6",
-          "subtitle": "Live ",
-          "url": "https:\/\/dripcast.online\/flyembed-scraper\/fly\/?id=mlb-padres",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 7",
-          "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-16\/sd-col",
           "type": "hls",
           "rewarded": false,
@@ -1115,7 +1101,7 @@
           }
         },
         {
-          "label": "Server 8",
+          "label": "Server 6",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-san-diego-padres-vs-colorado-rockies\/1",
           "type": "hls",
@@ -1124,6 +1110,13 @@
             "type": "embed",
             "api": "https:\/\/embed.st\/embed\/admin\/ppv-san-diego-padres-vs-colorado-rockies\/1"
           }
+        },
+        {
+          "label": "Server 7",
+          "subtitle": "Live ",
+          "url": "https:\/\/dripcast.online\/flyembed-scraper\/fly\/?id=mlb-padres",
+          "type": "hls",
+          "rewarded": false
         }
       ]
     },
