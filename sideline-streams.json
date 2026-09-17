@@ -510,22 +510,22 @@
         },
         {
           "label": "Server 2",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb62d\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjJkOjE3ODk2NTYxNjAxMTM6Y2RubGl2ZXR2LnR2OjE3YTc1NTlmNjUyMDY1YjQuOTA0MzEwMTE0ZjIwNjRkN2UxMTNjMzA1ZjI4NTY5ZGJlZDVlN2YzMmM5NmFlODBmNDE2MDIzOTQ0Mjg5MTY5Yw",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/node-8bba18be.4587.website\/6aace7d0.303b6da3i798bc8d0.f36a.3afbfc38\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
-          "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=tigers=whitesox&s=home&sport=mlb",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/node-8bba18be.4587.website\/6aace7d0.1e6d6d9ei798bc8d0.f363.116c3dba\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
-          "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=tigers=whitesox&s=away&sport=mlb",
+          "subtitle": "Live ",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb62d\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjJkOjE3ODk2NTYxNjAxMTM6Y2RubGl2ZXR2LnR2OjE3YTc1NTlmNjUyMDY1YjQuOTA0MzEwMTE0ZjIwNjRkN2UxMTNjMzA1ZjI4NTY5ZGJlZDVlN2YzMmM5NmFlODBmNDE2MDIzOTQ0Mjg5MTY5Yw",
           "type": "hls",
           "rewarded": false
         },
