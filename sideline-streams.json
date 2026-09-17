@@ -462,13 +462,6 @@
         {
           "label": "Server 2",
           "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb5d6\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWQ2OjE3ODk2NTYyMzgxOTY6Y2RubGl2ZXR2LnR2OjllM2EyNTJlMWM2MGYwMjQuYzI4ZDBhYTMxMGJiYWUyNWNmYTRhZmQwYzc1ZWI1OWVjZjM0NGNkYjliNGNjYWQ0ZWUzNDA3YjhkOTc3OWVkYQ",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 3",
-          "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/wnba\/2026-09-17\/con-atl",
           "type": "hls",
           "rewarded": false,
@@ -478,7 +471,7 @@
           }
         },
         {
-          "label": "Server 4",
+          "label": "Server 3",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-connecticut-sun-vs-atlanta-dream\/1",
           "type": "hls",
