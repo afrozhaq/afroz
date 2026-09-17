@@ -1127,7 +1127,7 @@
         {
           "label": "Server 2",
           "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb632\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjMyOjE3ODk1NzUxMDAyODE6Y2RubGl2ZXR2LnR2OjhhYTRmYTQyYzc5MThkNzIuNWRkZGM1OGZjODBkNDMxNDZjMDE4MjJjNGVkN2M3MmY5NWM5OWMxYjkxYmQ0Njc0ODEwNWEyYWRkY2I1Yzk4MA",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb632\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjMyOjE3ODk2MjIzODIzMTc6Y2RubGl2ZXR2LnR2OjVlYTZmZDdkMDk1ZDU0YzIuNmViMDhjMGE4YTg3ZmJhZDdmODZlY2RlMmZlOTk5MDdkNmI2NDE1N2VmNGYxNDJkNmM5ZDI1Njc1M2I0ODhlOQ",
           "type": "hls",
           "rewarded": false
         },
@@ -1148,19 +1148,12 @@
         {
           "label": "Server 5",
           "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb61c\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjFjOjE3ODk1NzUxMDAzNzg6Y2RubGl2ZXR2LnR2OmRjNDg0NjExNDcwYTMwNjIuZDQ4MGZjMThhMGJjMzU1NjhjMDk1NTAyMWIyZmM2OWFkY2MzODlmYTYyODk1NzBlMjc3YzgyYTA1MGY1Y2Q0OQ",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb61c\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjFjOjE3ODk2MjIzODIyMTQ6Y2RubGl2ZXR2LnR2OmExNzRkNDgyZTgzNjIxNzUuNTkyZTM3YzYxNTI0ZjA2MjkxMDA5NTE5MmI2Yjk3NjRhNzc0ZmIwMzdjZmRjMWY5ZTA0ZWEyZDY2NzdkMTgwMQ",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 6",
-          "subtitle": "Live ",
-          "url": "https:\/\/dripcast.online\/flyembed-scraper\/fly\/?id=mlb-mariners",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-16\/sea-laa",
           "type": "hls",
@@ -1171,7 +1164,7 @@
           }
         },
         {
-          "label": "Server 8",
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-seattle-mariners-vs-los-angeles-angels\/1",
           "type": "hls",
