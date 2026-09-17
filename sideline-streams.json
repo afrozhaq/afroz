@@ -111,34 +111,48 @@
         },
         {
           "label": "Server 2",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/node-5d763f4c.4587.website\/6aac8d30.2acb0df5i798bc8d0.f310.e4f4eb34\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/node-5d763f4c.4587.website\/6aac8d2f.f90215d9i798bc8d0.f30e.4929bb7b\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb5cf\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWNmOjE3ODk2NzY3Mjg0NjQ6Y2RubGl2ZXR2LnR2OjM4OGQ3NGQzY2EyODhkMjEuOGVkNGUzNDllMmYyODJiNGZlNjNmYWQ3ZmExMTRkYWE2MThjMmVmMTNmNjE4MzU4MGU4NGNkZjA1MzU3OTZlYQ",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 3",
+          "label": "Server 5",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=dodgers=reds&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
+          "label": "Server 6",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=dodgers=reds&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb5ea\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWVhOjE3ODk2NzY3MjgxMTA6Y2RubGl2ZXR2LnR2OjBiMmE5MTAzNmI4ODYyYWMuODc0YjlkOTZmMTY5ZWRjNTRmNmUwMjg4NTZhNDNkNzg4MDdmMDUyMjBkNTQ2MTI1ZDUyMGEyZGY4NTU1MjQwMA",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 6",
+          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-17\/lad-cin",
           "type": "hls",
@@ -149,7 +163,7 @@
           }
         },
         {
-          "label": "Server 7",
+          "label": "Server 9",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-los-angeles-dodgers-vs-cincinnati-reds\/1",
           "type": "hls",
