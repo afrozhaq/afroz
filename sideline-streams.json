@@ -160,29 +160,29 @@
         },
         {
           "label": "Server 2",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/node-88894cb5.4587.website\/6aae31a9.c77d02bai798bc8d0.f52e.ffb1d232\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb62f\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjJmOjE3ODk3ODU4NTA2MzA6Y2RubGl2ZXR2LnR2OjA1Y2Q4NzhkMzY1NTczY2UuNjY4MjIzYzkzYzUyY2M5ZDBhY2MyMzQwOGFhZmZlNTA2NjUyMjk3YzNlOWM4NDJlNGIxMTU5ODgyMDMyZWQ5MA",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 3",
-          "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=brewers=orioles&s=home&sport=mlb",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
           "label": "Server 4",
-          "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=brewers=orioles&s=away&sport=mlb",
+          "subtitle": "Live ",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb613\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjEzOjE3ODk3ODU4NTA3NTI6Y2RubGl2ZXR2LnR2OjQzMjYwMmViODczODdjNDIuMzBiYmQ4YjVjYmVlZDk0Yzg1YTg3OTYzZTI1NGRhZmNhNjg4ZWRmOWE0M2ZjNDQ3Y2U5YzcwMzczZDU0YjgyMA",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb613\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjEzOjE3ODk3ODU4NTA3NTI6Y2RubGl2ZXR2LnR2OjQzMjYwMmViODczODdjNDIuMzBiYmQ4YjVjYmVlZDk0Yzg1YTg3OTYzZTI1NGRhZmNhNjg4ZWRmOWE0M2ZjNDQ3Y2U5YzcwMzczZDU0YjgyMA",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=brewers=orioles&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
