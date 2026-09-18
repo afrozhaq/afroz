@@ -712,11 +712,61 @@
       "endsAt": 0,
       "links": [
         {
-          "label": "Server ",
+          "label": "Server 1",
           "subtitle": "Live ",
-          "url": "https:\/\/edgestream2.pro\/hls\/jkzahzadach20.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "url": "https:\/\/edgestream2.pro\/hls\/kjhfzua25.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
-          "rewarded": true
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live ",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb61b\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjFiOjE3ODk3NDUxNzgzMTE6Y2RubGl2ZXR2LnR2OjZiNTA1ZGJhMTU4OTQ0ODMuNjcwY2FlNTcxOTlmNmY2M2MzMTNjNTNiNGYzMjBhMGRiZDg5YmI1YjRhNTQwYWVlMjE3ZDRlZTFkYjRlOTI2Zg",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=nationals=cardinals&s=home&sport=mlb",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=nationals=cardinals&s=away&sport=mlb",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 5",
+          "subtitle": "Live ",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2c81d8192bb76cd29d\/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkMjlkOjE3ODk3NDUxNzE2Mzc6Y2RubGl2ZXR2LnR2Ojg2NzU0YTI5ODUzNWY1MzYuZjc4MjBkNWYzODkyYjNkODcyNTQwZmQ5MDE0ZWE4OGRmYjM2Mzc4NGJjZTQ1MGY0MWQ1NTY3MmU0M2Q2ODQ3ZQ",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 6",
+          "subtitle": "Live ",
+          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-18\/wsh-stl",
+          "type": "hls",
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-18\/wsh-stl"
+          }
+        },
+        {
+          "label": "Server 7",
+          "subtitle": "Live ",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-washington-nationals-vs-st-louis-cardinals\/1",
+          "type": "hls",
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-washington-nationals-vs-st-louis-cardinals\/1"
+          }
         }
       ]
     },
