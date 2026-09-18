@@ -880,33 +880,19 @@
         {
           "label": "Server 4",
           "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb632\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjMyOjE3ODk2NTYxNjMyMTc6Y2RubGl2ZXR2LnR2Ojk4ZThjYmQ2YzA0NWNhMzIuOTY1ZTk0NzM1NzUyYjVmNDY3MTg4YjUzNzBjNzMxMDBiNjQ5Y2E0Mjg0ZGRkNjg2ODEyOThmMzE4NDg1ZjY4YQ",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb632\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjMyOjE3ODk3MDk1ODM5Njc6Y2RubGl2ZXR2LnR2OjY5MDBhNjU3NThhNWZkYjIuYjJjMWI4Mjg1OGRkYmJkNjYzNjdkZTkwZjE1NDU3YjM0NzY4MjAyZjkwNzIwMTYwYjBkZWRkMzQwODA0N2Y0Nw",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
-          "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=twins=angels&s=home&sport=mlb",
+          "subtitle": "Live ",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb624\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjI0OjE3ODk3MDk1ODM1MjM6Y2RubGl2ZXR2LnR2OmY5OGYyOTQ5MDE0MzIyYzUuODZjNzcxMjliYjkzZWI4NGEyMjBiMGNiMzFlMWNiZDc4Nzg2MzJmMDA0N2Y5MTU2ZTlmODFkMjYwZGMxOWE3Zg",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 6",
-          "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=twins=angels&s=away&sport=mlb",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 7",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb624\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjI0OjE3ODk2NTYxNjMzNDI6Y2RubGl2ZXR2LnR2OjZhMjQ3YTY4NjNjODQ0MzYuMTk3Mzg4Yjk0MzIyNjFhYWQyNTJiYTljZDUwNTdkZjRlZjNjMTJkMDgzZmYzYTNiMDRlY2E3MjRhNjRkZWM0Ng",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-17\/min-laa",
           "type": "hls",
@@ -917,7 +903,7 @@
           }
         },
         {
-          "label": "Server 9",
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-minnesota-twins-vs-los-angeles-angels\/1",
           "type": "hls",
