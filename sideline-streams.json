@@ -90,22 +90,22 @@
         },
         {
           "label": "Server 2",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb615\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjE1OjE3ODk3ODQ4Njc4NDQ6Y2RubGl2ZXR2LnR2OjcxZDJiNGRjNDliYTNiNDAuNGE2NWIzOTkxNDgwZGE4OGI2NDUwMjI0YjRkYTE2YzFiMWJkMWZhYjBlYTRlMjNhNGVlYTM5NTA2ZDUyMjM4NA",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/node-5d763f4c.4587.website\/6aae2bdb.bd91521bi798bc8d0.f503.1826461a\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
-          "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=royals=pirates&s=home&sport=mlb",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/node-9b5feb01.4587.website\/6aae2bdb.c8b50e3ei798bc8d0.f52a.2c85b439\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
-          "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=royals=pirates&s=away&sport=mlb",
+          "subtitle": "Live ",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb615\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjE1OjE3ODk3ODQ4Njc4NDQ6Y2RubGl2ZXR2LnR2OjcxZDJiNGRjNDliYTNiNDAuNGE2NWIzOTkxNDgwZGE4OGI2NDUwMjI0YjRkYTE2YzFiMWJkMWZhYjBlYTRlMjNhNGVlYTM5NTA2ZDUyMjM4NA",
           "type": "hls",
           "rewarded": false
         },
