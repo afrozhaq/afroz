@@ -588,6 +588,40 @@
           "rewarded": true
         }
       ]
+    },
+    {
+      "id": "s1789729326616",
+      "league": "nba",
+      "gameId": "",
+      "away": "MINNESOTA LYNX ",
+      "home": "NEW YORK LIBERTY ",
+      "title": "Minnesota Lynx Vs New York Liberty ",
+      "poster": "",
+      "startsAt": 1789774200000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live ",
+          "url": "https ",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live ",
+          "url": "https ",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live ",
+          "url": "https ",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
