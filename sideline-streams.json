@@ -656,6 +656,33 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1789729420896",
+      "league": "nba",
+      "gameId": "",
+      "away": "GOLDEN STATE VALKYRIES ",
+      "home": "PORTLAND FIRE ",
+      "title": "Golden State Valkyries Vs Portland Fire ",
+      "poster": "",
+      "startsAt": 1789783200000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "ht",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "ht",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
