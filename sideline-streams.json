@@ -300,22 +300,22 @@
         },
         {
           "label": "Server 2",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb62c\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjJjOjE3ODk3ODU5NDM0MTk6Y2RubGl2ZXR2LnR2OjY1NzM5NjdkZTA0N2ExOTAuODdkZmE5YmQ4NTc1Nzg2ZGM3OGYyYTQxN2FhZDQwNDg0YzQzNzUwMDJlMGYyOGUzYTkyNzg3MjAwYmYwYzZiZQ",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/node-88894cb5.4587.website\/6aae30da.31f37978i798bc8d0.f52d.202da5b4\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
-          "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=athletics=guardians&s=home&sport=mlb",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/node-8bba18be.4587.website\/6aae30da.31528f68i798bc8d0.f535.1b1aa032\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
-          "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=athletics=guardians&s=away&sport=mlb",
+          "subtitle": "Live ",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb62c\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjJjOjE3ODk3ODU5NDM0MTk6Y2RubGl2ZXR2LnR2OjY1NzM5NjdkZTA0N2ExOTAuODdkZmE5YmQ4NTc1Nzg2ZGM3OGYyYTQxN2FhZDQwNDg0YzQzNzUwMDJlMGYyOGUzYTkyNzg3MjAwYmYwYzZiZQ",
           "type": "hls",
           "rewarded": false
         },
