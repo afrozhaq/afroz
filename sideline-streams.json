@@ -230,22 +230,22 @@
         },
         {
           "label": "Server 2",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb61a\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjFhOjE3ODk3ODYwNDQxNTY6Y2RubGl2ZXR2LnR2OmY2MzM1MDNjOTZmZGU5N2QuOTFmMmM2MjllZmY2NjQ2YzFiOWQ5ZDk0ODY3NTVkOTVlNDU3MDIxMTQwNjJhNzYzMzliNGU3M2U0MmQ0ZDUzMw",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/node-8bba18be.4587.website\/6aae3142.60a62504i798bc8d0.f534.f34b9eb8\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
-          "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=redsox=rays&s=home&sport=mlb",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/node-5d763f4c.4587.website\/6aae3142.f7a88e6ei798bc8d0.f51e.cb86668d\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
-          "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=redsox=rays&s=away&sport=mlb",
+          "subtitle": "Live ",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb61a\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjFhOjE3ODk3ODYwNDQxNTY6Y2RubGl2ZXR2LnR2OmY2MzM1MDNjOTZmZGU5N2QuOTFmMmM2MjllZmY2NjQ2YzFiOWQ5ZDk0ODY3NTVkOTVlNDU3MDIxMTQwNjJhNzYzMzliNGU3M2U0MmQ0ZDUzMw",
           "type": "hls",
           "rewarded": false
         },
