@@ -708,16 +708,45 @@
         {
           "label": "Server 1",
           "subtitle": "Live",
-          "url": "ht",
+          "url": "https:\/\/edgestream2.pro\/hls\/iozauyezaioyur82.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 2",
           "subtitle": "Live",
-          "url": "ht",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2781d8192bb76cb305\/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzA1OjE3ODk3NDUxNzU3ODY6Y2RubGl2ZXR2LnR2OmExMDQzYjI4NTU0YjQwMzYuNTNlNTMxNmI4NDM3ODNkYjNmOGJkYmQ2MjExYmY2YWJjYjk3ZTkyMmY2Y2YyOGU3NjkyOGI0MDhmMmE1MjkyMw",
           "type": "hls",
           "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2781d8192bb76cb3b4\/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiM2I0OjE3ODk3NDUxNzU4Nzk6Y2RubGl2ZXR2LnR2OjU0OGM4NDczZDE3ZTdhMDYuNDcyOWU3NzM2OWM4NDQwOTI3YTM1YmM2Mzk1MzBkNTk2NDFjMjljNGY2MmRhZDE1MGZhMjE3ZjI5Zjg4OGNlYQ",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
+          "subtitle": "Live",
+          "url": "https:\/\/embedindia.st\/embed\/wnba\/2026-09-18\/por-gs",
+          "type": "hls",
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/wnba\/2026-09-18\/por-gs"
+          }
+        },
+        {
+          "label": "Server 5",
+          "subtitle": "Live",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-portland-fire-vs-golden-state-valkyries\/1",
+          "type": "hls",
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-portland-fire-vs-golden-state-valkyries\/1"
+          }
         }
       ]
     }
