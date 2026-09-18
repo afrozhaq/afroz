@@ -553,7 +553,7 @@
         {
           "label": "Server 2",
           "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb619\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjE5OjE3ODk3NDUxNzcyNDY6Y2RubGl2ZXR2LnR2OmRlYjYxMTc2MGUxOWQ3ZmUuOWVmYjM3ZDFiNDNjMmEzOTdiOWRlNDM3NWUxOWZjZDI1OWEwNGUxZDc1YTNlOTJhOTZhOGMwOGYwYjIzZDRiNg",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb619\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjE5OjE3ODk3ODk3NzY0MDg6Y2RubGl2ZXR2LnR2OjBiOGZlMDJmM2Q2Y2E3MjMuZjgyNDEzYzYxNGJiMWVmYjVhYWEyMDE0MDg0MGFmNGM3ZTlkZDQ4NDYyYmJmYzEzMDliMDAwOTFhNjhmMjY1ZQ",
           "type": "hls",
           "rewarded": false
         },
@@ -574,7 +574,7 @@
         {
           "label": "Server 5",
           "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb618\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjE4OjE3ODk3NDUxNzczNzg6Y2RubGl2ZXR2LnR2OmUzNDQ4MzJkZGY1NzY4NTkuNTBhNzQ4YzYyOTEzYTFkMzNiMDIzOWExNTdiOWY1YTU5NDk2OTRiODA3YWUyZTg1ZjkzZWRjMmQ1YzVkZjBkYw",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb618\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjE4OjE3ODk3ODk3NzYxODk6Y2RubGl2ZXR2LnR2OjQ1M2IxMzAzMmI3Njg5YzIuMjk0OWZkNGZlOTA0YzcwYmRlZjgyYjI3YzE0OTljNTFjNDRkZWMyY2FmZmZlNTI2MDM5ZjQyOTQ1NjU5MzhkYw",
           "type": "hls",
           "rewarded": false
         },
