@@ -20,22 +20,22 @@
         },
         {
           "label": "Server 2",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb617\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjE3OjE3ODk3ODQ3MTcwMjI6Y2RubGl2ZXR2LnR2OjcxNmE4N2VjZmIzY2JkNTQuMTBiYzYwMmIwNTEwNGNiMTQ3NzEzZDUzZTJmN2RmNDNlMmE5YjRiOWQwZTdhZjJmYmUyMTMyYTVmNDRjODNlOA",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/node-8bba18be.4587.website\/6aae2bda.0ca592f9i798bc8d0.f513.fadb6ebc\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
-          "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=cubs=reds&s=home&sport=mlb",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/node-5d763f4c.4587.website\/6aae2bdb.98b99804i798bc8d0.f504.dce24836\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
-          "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=cubs=reds&s=away&sport=mlb",
+          "subtitle": "Live ",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb617\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjE3OjE3ODk3ODQ3MTcwMjI6Y2RubGl2ZXR2LnR2OjcxNmE4N2VjZmIzY2JkNTQuMTBiYzYwMmIwNTEwNGNiMTQ3NzEzZDUzZTJmN2RmNDNlMmE5YjRiOWQwZTdhZjJmYmUyMTMyYTVmNDRjODNlOA",
           "type": "hls",
           "rewarded": false
         },
