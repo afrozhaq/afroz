@@ -1099,7 +1099,7 @@
         {
           "label": "Server 2",
           "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb626\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjI2OjE3ODk3NDUxNzk0OTM6Y2RubGl2ZXR2LnR2OjAyYTJiZjgzNDE5OGQyODYuYWVlY2FmZWY2YjY2YmQzNWNjMjIwMTBkMWE2ZDJjZjVkYmVlYmU1M2U4NzllZjBiYTZkMmE5NTBkMGJjMDNjNg",
+          "url": "https:\/\/instreams.live\/live\/tv401816996\/index.m3u8?st=259xYhqr4Wtdh47kWJ7t4g&e=1789793180|Referer=https:\/\/instream.click\/livetv.php?stream=tv401816996&Origin=https:\/\/instream.click\/livetv.php?stream=tv401816996&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
@@ -1120,13 +1120,6 @@
         {
           "label": "Server 5",
           "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb61d\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjFkOjE3ODk3NDUxNzk1OTY6Y2RubGl2ZXR2LnR2OjlhNTc1Mzc5ZTMyNTcwMWMuMDhhMGI0ZTJmZGQ1OTM3NDFlNGY5NzE1ZmI1YmRlZTFiYjQxNzBlOTIzN2UzYTA2NTMwZjE3NmMwYWFhZGE0Zg",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 6",
-          "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-18\/sf-lad",
           "type": "hls",
           "rewarded": false,
@@ -1136,7 +1129,7 @@
           }
         },
         {
-          "label": "Server 7",
+          "label": "Server 6",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-san-francisco-giants-vs-los-angeles-dodgers\/1",
           "type": "hls",
