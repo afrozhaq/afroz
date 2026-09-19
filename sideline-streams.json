@@ -622,6 +622,33 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1789826204045",
+      "league": "nhl",
+      "gameId": "",
+      "away": "ST. LOUIS BLUES",
+      "home": "DALLAS STARS",
+      "title": "St. Louis Blues Vs Dallas Stars",
+      "poster": "",
+      "startsAt": 1789858800000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "ht",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "ht",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
