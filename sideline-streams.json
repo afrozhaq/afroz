@@ -706,34 +706,48 @@
         },
         {
           "label": "Server 2",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/node-88894cb5.4587.website\/6aae411e.01639d35i798bc8d0.f57c.c265720f\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/node-8bba18be.4587.website\/6aae411e.d025b68ai798bc8d0.f632.60cb6d5d\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb62a\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjJhOjE3ODk3ODk5NTk4OTY6Y2RubGl2ZXR2LnR2OjhmMGI5NDM3ZWQ3YzljMDEuZDc4YjQzNDM5ODUzMjljYTBmM2FjYmY4YjhlNDY1MGJmNzU4N2JhMjIxYzY0Y2NhMTQ0MWQwNTdmMDM4OGQ3YQ",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 3",
+          "label": "Server 5",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=mariners=rockies&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
+          "label": "Server 6",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=mariners=rockies&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb61c\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjFjOjE3ODk3ODk5NTk3MjY6Y2RubGl2ZXR2LnR2OjlhMTVhYmFkMTY0MThmZDAuNzEwY2Q1NTAwYjM2NWU3NDRhNGI3NDljZGU0N2FhNjllNmIwOTg4OGE2YWM0OWE1ZDMwMTFhNDViMzllZmE0Yw",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 6",
+          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-18\/sea-col",
           "type": "hls",
@@ -744,7 +758,7 @@
           }
         },
         {
-          "label": "Server 7",
+          "label": "Server 9",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-seattle-mariners-vs-colorado-rockies\/1",
           "type": "hls",
