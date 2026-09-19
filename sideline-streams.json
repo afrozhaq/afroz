@@ -717,6 +717,40 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1789826427863",
+      "league": "nhl",
+      "gameId": "",
+      "away": "LOS ANGELES KINGS ",
+      "home": "VEGAS GOLDEN KNIGHTS ",
+      "title": "Los Angeles Kings Vs Vegas Golden Knights",
+      "poster": "",
+      "startsAt": 1789866000000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "https ",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "https ",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live",
+          "url": "https ",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
