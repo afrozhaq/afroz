@@ -812,6 +812,33 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1789829660610",
+      "league": "nba",
+      "gameId": "",
+      "away": "ATLANTA DREAM ",
+      "home": "CHICAGO SKY ",
+      "title": "Atlanta Dream Vs Chicago Sky ",
+      "poster": "",
+      "startsAt": 1789858800000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "ht",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "ht",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
