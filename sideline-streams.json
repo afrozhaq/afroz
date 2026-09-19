@@ -461,34 +461,20 @@
         },
         {
           "label": "Server 2",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb5fa\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWZhOjE3ODk4MzU4MDg1OTM6Y2RubGl2ZXR2LnR2OmEzOTAxZmJhMGRjZTgxNTEuNzUzMGM2YWUyMGRlNWRlMmQxN2NkMTg3Y2ZjMzk5YWVhNjc0NTdmMmU4ZTg1MGQwNGRlNDM5ZjMxMzcxY2NkYg",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 3",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=royals=pirates&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
+          "label": "Server 3",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=royals=pirates&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb621\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjIxOjE3ODk4MzU4MDg3MzM6Y2RubGl2ZXR2LnR2OjQ0MWVmZTdjNTc2ZWY0Y2UuM2ZmNTkxODhjYTdlYWI2ZjlhN2Y3MmE3Y2Y0OTI5NGZiZGNmZTFiOWEyYjI5NzVhOWIzYTY4YzRiZWNmMTAwOA",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 6",
+          "label": "Server 4",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-19\/kc-pit",
           "type": "hls",
@@ -499,7 +485,7 @@
           }
         },
         {
-          "label": "Server 7",
+          "label": "Server 5",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-kansas-city-royals-vs-pittsburgh-pirates\/1",
           "type": "hls",
