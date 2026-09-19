@@ -937,34 +937,48 @@
         },
         {
           "label": "Server 2",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/node-88894cb5.4587.website\/6aae5583.eec7ec70i798bc8d0.f63e.864d252c\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/node-88894cb5.4587.website\/6aae5583.7fd5b24ai798bc8d0.f642.358cb736\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb61e\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjFlOjE3ODk3OTU0Njk1MTg6Y2RubGl2ZXR2LnR2OmVhZmE1NjQ1ZTM1YjgyZDguMGIwOWZjYmJjZTg3NTJjODg0MTZlYjhmZGU5ODdjOThkZTllYTY2ZDVmNzU2MTdhYjBmZWQzMjE3ODkwMmMzMQ",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 3",
+          "label": "Server 5",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=marlins=padres&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
+          "label": "Server 6",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=marlins=padres&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb61e\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjFlOjE3ODk3OTU0Njk1MTg6Y2RubGl2ZXR2LnR2OmVhZmE1NjQ1ZTM1YjgyZDguMGIwOWZjYmJjZTg3NTJjODg0MTZlYjhmZGU5ODdjOThkZTllYTY2ZDVmNzU2MTdhYjBmZWQzMjE3ODkwMmMzMQ",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 6",
+          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-18\/mia-sd",
           "type": "hls",
@@ -975,7 +989,7 @@
           }
         },
         {
-          "label": "Server 7",
+          "label": "Server 9",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-miami-marlins-vs-san-diego-padres\/1",
           "type": "hls",
