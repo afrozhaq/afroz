@@ -1021,34 +1021,48 @@
         },
         {
           "label": "Server 2",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/node-5d763f4c.4587.website\/6aae5583.19d7ddf1i798bc8d0.f63a.bc035ab9\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/node-88894cb5.4587.website\/6aae5583.7cb76a9di798bc8d0.f640.3ef1a25b\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb630\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjMwOjE3ODk3OTUzNzEzNTk6Y2RubGl2ZXR2LnR2OmIwOWE2ZTZkMWQ0OWM3N2EuY2EyNjFjNjIwNzRiNjkxYWZhNzY3ODZhOTc2ZjE1YzE1NWVmZWQ0NmVhNjBjOWY4YjkwNjliYjk1NTcwODdiNg",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 3",
+          "label": "Server 5",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=yankees=diamondbacks&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
+          "label": "Server 6",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=yankees=diamondbacks&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb623\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjIzOjE3ODk3OTUzNzMxNDQ6Y2RubGl2ZXR2LnR2OjkxODQ0ZjJhYzA5NjllM2YuMGYxN2VhYzNiN2ZmZGM5MWViOGI2ZWMyOTZhZmY0YTIyMmFlOWFlZjdjN2I1MTljOTJiMjVlOTMzODljZGVkMA",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 6",
+          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-18\/nyy-ari",
           "type": "hls",
@@ -1059,7 +1073,7 @@
           }
         },
         {
-          "label": "Server 7",
+          "label": "Server 9",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-new-york-yankees-vs-arizona-diamondbacks\/1",
           "type": "hls",
