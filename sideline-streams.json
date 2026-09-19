@@ -12,11 +12,61 @@
       "endsAt": 0,
       "links": [
         {
-          "label": "Server ",
+          "label": "Server 1",
           "subtitle": "Live ",
-          "url": "https:\/\/edgestream2.pro\/hls\/jkzahzadach20.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "url": "https:\/\/edgestream2.pro\/hls\/dazhfiach15.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
-          "rewarded": true
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live ",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb600\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjAwOjE3ODk4MzU3ODg3OTc6Y2RubGl2ZXR2LnR2OjJhZWExMTA1MTk5ZTY2NzAuZGU1OTgxZDI5YzljZmZlMWE1N2JlNmZkMDcwMjA1ZGYyZTIwZTY4ZDliMTQwMDA4NGJmMmZkOWVlOWFmOTgyYQ",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=tigers=whitesox&s=home&sport=mlb",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=tigers=whitesox&s=away&sport=mlb",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 5",
+          "subtitle": "Live ",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb62d\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjJkOjE3ODk4MzU3ODg5MDQ6Y2RubGl2ZXR2LnR2OmYzYzkzOTk5YmE1Njk1YTAuYzNiODA1ZDRiYmM4ZjMwNGM2NDQxMjgyNGUwZWYxYjI0MTkwY2VhZDI1Y2ZhNWFlZjUwMWZjZTI5OGQ5YjAyMg",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 6",
+          "subtitle": "Live ",
+          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-19\/det-chw",
+          "type": "hls",
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-19\/det-chw"
+          }
+        },
+        {
+          "label": "Server 7",
+          "subtitle": "Live ",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-detroit-tigers-vs-chicago-white-sox\/1",
+          "type": "hls",
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-detroit-tigers-vs-chicago-white-sox\/1"
+          }
         }
       ]
     },
