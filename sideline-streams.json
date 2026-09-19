@@ -399,7 +399,7 @@
         {
           "label": "Server 2",
           "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb5f9\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWY5OjE3ODk4MzU4MDc5Njk6Y2RubGl2ZXR2LnR2OjY1MzhjNTdmOWY0YjczNzYuMWYxMTA2NWQzYWJmNTU3YWUxY2E2OTZhYTI1N2MzNGI2NmJkODBjNmVlMjZmNzA2MGU5M2Q3MTIyZmUxODhkOA",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb5ce\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWNlOjE3ODk4NzExNDY5MTM6Y2RubGl2ZXR2LnR2OjExYmZjMDY1MzhkZjlhYzEuYmNlYjRiYmU3NmU0MTFhOTlmZDIwNzE2ZTYxNTc5YzE0OGM1OGQwZWRiZDgxYmRiMmI0ZDMyYTcyOWI5YTg1ZQ",
           "type": "hls",
           "rewarded": false
         },
@@ -420,13 +420,6 @@
         {
           "label": "Server 5",
           "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb617\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjE3OjE3ODk4MzU4MDgxNTg6Y2RubGl2ZXR2LnR2OmRkNDBlODJkYTA3NGRjMTkuOWE2MTNjNTAyZTIyNGUyZTI5YjNjZmQ5MDBlN2M5MDRkZGQwMWY5NGJmNTgyODhjMzdkMjJlM2MwMGRmMGMzNg",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 6",
-          "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-19\/chc-cin",
           "type": "hls",
           "rewarded": false,
@@ -436,7 +429,7 @@
           }
         },
         {
-          "label": "Server 7",
+          "label": "Server 6",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-chicago-cubs-vs-cincinnati-reds\/1",
           "type": "hls",
