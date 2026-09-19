@@ -699,27 +699,20 @@
         },
         {
           "label": "Server 3",
-          "subtitle": "Live ( Away )",
-          "url": "https:\/\/node-8bba18be.4587.website\/6aaf8635.bbcdbf0ei798bc8d0.f7c3.07cc7e7e\/free.live.espn\/master.m3u8",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 4",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=nationals=cardinals&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
+          "label": "Server 4",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=nationals=cardinals&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 6",
+          "label": "Server 5",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-19\/wsh-stl",
           "type": "hls",
@@ -730,7 +723,7 @@
           }
         },
         {
-          "label": "Server 7",
+          "label": "Server 6",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-washington-nationals-vs-st-louis-cardinals\/1",
           "type": "hls",
