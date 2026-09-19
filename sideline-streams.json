@@ -630,7 +630,7 @@
         {
           "label": "Server 4",
           "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb603\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjAzOjE3ODk4MzU4MTcyMDQ6Y2RubGl2ZXR2LnR2OmIzZDViMjRkNTk0NThlNDguNjEyZGJiODhjZWQxYzIzZDY0YjE5NjFjMTE4NDcwNTgzNmU0NjRiMTRiNDkxZGRlZmM3MmE2MGI1OWM4MzdhZg",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb5cf\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWNmOjE3ODk4NzM0NjkxNjU6Y2RubGl2ZXR2LnR2OjNmNDU4MDEwZmZjYTIwZjcuYWJiNTRjOWYzMDk2NWM2MTRjMjkyNmJmM2Q0NzdlZWQ0ZThiNTQ3YjFiMDE1NDMwNTQ4MWMyOWU5ZGRlMzZiYQ",
           "type": "hls",
           "rewarded": false
         },
