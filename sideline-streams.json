@@ -595,7 +595,7 @@
         {
           "label": "Server 7",
           "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc172\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTcyOjE3ODk5MzcwMjQzNzM6Y2RubGl2ZXR2LnR2Ojg2ZjExMzM5ZjEwNzAzMTcuZjUzMjIzZDEzNTkzMjk5NzhhMWE2NjY0N2FlZDgwZGViODU1ZWM3NzIxMDgxOGU2YzAwZDA2MjRmNTQ4ZTQ4Yw",
+          "url": "https:\/\/dripcast.online\/flyembed-scraper\/fly\/index.m3u8?id=nfl-401872937",
           "type": "hls",
           "rewarded": false
         },
@@ -609,6 +609,13 @@
         {
           "label": "Server 9",
           "subtitle": "Live ",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc172\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTcyOjE3ODk5MzcwMjQzNzM6Y2RubGl2ZXR2LnR2Ojg2ZjExMzM5ZjEwNzAzMTcuZjUzMjIzZDEzNTkzMjk5NzhhMWE2NjY0N2FlZDgwZGViODU1ZWM3NzIxMDgxOGU2YzAwZDA2MjRmNTQ4ZTQ4Yw",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 10",
+          "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-20\/min-chi",
           "type": "hls",
           "rewarded": false,
@@ -618,7 +625,7 @@
           }
         },
         {
-          "label": "Server 10",
+          "label": "Server 11",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-minnesota-vikings-at-chicago-bears\/1",
           "type": "hls",
