@@ -235,40 +235,47 @@
         {
           "label": "Server 2",
           "subtitle": "Live ",
-          "url": "https:\/\/dripcast.online\/nfl_streams\/index.php?q=san-francisco-49ers.m3u8",
+          "url": "https:\/\/instreams.pro\/live\/tv401872942\/index.m3u8?st=GiMZ6NsF1gT485Ta5PMr5g&e=1789947819|Referer=https:\/\/instream.click\/livetv.php?stream=tv401872942&Origin=https:\/\/instream.click\/livetv.php?stream=tv401872942&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/111.0.0.0 Safari\/537.36",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
           "subtitle": "Live ",
-          "url": "https:\/\/edgestream2.pro\/hls\/poertjnvnev40.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "url": "https:\/\/dripcast.online\/nfl_streams\/index.php?q=san-francisco-49ers.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
+          "subtitle": "Live ",
+          "url": "https:\/\/edgestream2.pro\/hls\/poertjnvnev40.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 5",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=dolphins=49ers&s=home&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
+          "label": "Server 6",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=dolphins=49ers&s=away&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 6",
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2b81d8192bb76cc8f1\/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjOGYxOjE3ODk5MjY3NDkzOTk6Y2RubGl2ZXR2LnR2OjcxMDNlYzQ3ZWZiNGNkY2UuZjVhOGE0MWE0ZTgyY2JhOGMzN2JmMGY5ZmQ0Y2U3NWUyMzhiMGM5ZTU4YWVkZTEwZjQ1Mjg0MjU0NTg3Y2E3OA",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 7",
+          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-20\/mia-sf",
           "type": "hls",
@@ -279,7 +286,7 @@
           }
         },
         {
-          "label": "Server 8",
+          "label": "Server 9",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-miami-dolphins-at-san-francisco-49-ers\/1",
           "type": "hls",
