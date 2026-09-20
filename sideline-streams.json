@@ -1944,27 +1944,34 @@
         },
         {
           "label": "Server 2",
+          "subtitle": "Live ",
+          "url": "https:\/\/dripcast.online\/nfl_streams\/index.php?q=san-francisco-49ers.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=dolphins=49ers&s=home&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 3",
+          "label": "Server 4",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=dolphins=49ers&s=away&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
+          "label": "Server 5",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2b81d8192bb76cc8f1\/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjOGYxOjE3ODk5MjY3NDkzOTk6Y2RubGl2ZXR2LnR2OjcxMDNlYzQ3ZWZiNGNkY2UuZjVhOGE0MWE0ZTgyY2JhOGMzN2JmMGY5ZmQ0Y2U3NWUyMzhiMGM5ZTU4YWVkZTEwZjQ1Mjg0MjU0NTg3Y2E3OA",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
+          "label": "Server 6",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-20\/mia-sf",
           "type": "hls",
@@ -1975,7 +1982,7 @@
           }
         },
         {
-          "label": "Server 6",
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-miami-dolphins-at-san-francisco-49-ers\/1",
           "type": "hls",
@@ -2007,34 +2014,41 @@
         },
         {
           "label": "Server 2",
+          "subtitle": "Live ",
+          "url": "https:\/\/dripcast.online\/nfl_streams\/index.php?q=arizona-cardinals.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=seahawks=cardinals&s=home&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 3",
+          "label": "Server 4",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=seahawks=cardinals&s=away&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
+          "label": "Server 5",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc330\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzMwOjE3ODk5MjY3Mzg5NjA6Y2RubGl2ZXR2LnR2OjljNjFmYzVmOGE1MDk5MDkuYmYyYzU3MDgyNTc2NTU2NzhjZDAzYWJkZjM0ZmNkNDdjZjM1OTY0Y2I1MWIyODNmYThjY2Q5MmRlMmI4OWYxZg",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
+          "label": "Server 6",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2b81d8192bb76cce48\/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjZTQ4OjE3ODk5MjY3MzkwOTM6Y2RubGl2ZXR2LnR2OmQ2ZDJhYTlhNDhlNzRlOTEuYTMzNTNiODk0ZjRjZjYyNzYzZWI1YzBmMzAzZDg1ZDk0M2ViNGQ5NGZlZDUyOTE0ZWQyODIxNGZjNDM3ZDY2Mw",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 6",
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-20\/sea-ari",
           "type": "hls",
@@ -2045,7 +2059,7 @@
           }
         },
         {
-          "label": "Server 7",
+          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-seattle-seahawks-at-arizona-cardinals\/1",
           "type": "hls",
@@ -2077,27 +2091,34 @@
         },
         {
           "label": "Server 2",
+          "subtitle": "Live ",
+          "url": "https:\/\/dripcast.online\/nfl_streams\/index.php?q=dallas-cowboys.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=washington=cowboys&s=home&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 3",
+          "label": "Server 4",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=washington=cowboys&s=away&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
+          "label": "Server 5",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc383\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzgzOjE3ODk5NDc2NzkxMDg6Y2RubGl2ZXR2LnR2OjVhZjJmZGFkOWQ3ZmQ0ZDkuZjk0MWUyODIxYTFmNzdmYmMzZWQxMWI0YzIyM2ZhMGI4NjIyMzM2YmEwZjc3MzgwZTdjMjkxMTQ3ODhmOWJjMw",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
+          "label": "Server 6",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-20\/wsh-dal",
           "type": "hls",
@@ -2108,7 +2129,7 @@
           }
         },
         {
-          "label": "Server 6",
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-washington-commanders-at-dallas-cowboys\/1",
           "type": "hls",
