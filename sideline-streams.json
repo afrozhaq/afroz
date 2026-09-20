@@ -263,12 +263,19 @@
         {
           "label": "Server 6",
           "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc3be\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjM2JlOjE3ODk5MzczNzEyNTA6Y2RubGl2ZXR2LnR2OmJiOTA3MWNlNWM4ODUxZTUuOGY4OGJhMmYxMDYyZDk1OTY5MjhlYWQ1M2JhMWVlYmQ3YmVhYWNlYTJmYmRkM2M5YmRhZjEyZDhkZGNlZGY3Nw",
+          "url": "https:\/\/dripcast.online\/flyembed-scraper\/fly\/index.m3u8?id=nfl-401872934",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 7",
+          "subtitle": "Live ",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc3be\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjM2JlOjE3ODk5MzczNzEyNTA6Y2RubGl2ZXR2LnR2OmJiOTA3MWNlNWM4ODUxZTUuOGY4OGJhMmYxMDYyZDk1OTY5MjhlYWQ1M2JhMWVlYmQ3YmVhYWNlYTJmYmRkM2M5YmRhZjEyZDhkZGNlZGY3Nw",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-20\/cin-hou",
           "type": "hls",
@@ -279,7 +286,7 @@
           }
         },
         {
-          "label": "Server 8",
+          "label": "Server 9",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-cincinnati-bengals-at-houston-texans\/2",
           "type": "hls",
