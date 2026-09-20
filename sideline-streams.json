@@ -21,12 +21,19 @@
         {
           "label": "Server 2",
           "subtitle": "Live",
-          "url": "https:\/\/sidelinescorepro.com\/cracktv-scraper\/go\/nfl\/nfl-redzone.m3u8?src=1|User-Agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/126.0.0.0 Safari\/537.36&Referer=https:\/\/dervlin.me\/sd0embed\/NFL",
+          "url": "https:\/\/dripcast.online\/flyembed-scraper\/fly\/index.m3u8?id=nflredzone-usa",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
+          "subtitle": "Live",
+          "url": "https:\/\/sidelinescorepro.com\/cracktv-scraper\/go\/nfl\/nfl-redzone.m3u8?src=1|User-Agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/126.0.0.0 Safari\/537.36&Referer=https:\/\/dervlin.me\/sd0embed\/NFL",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/nfl-redzone-28792",
           "type": "hls",
