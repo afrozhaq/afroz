@@ -1823,28 +1823,28 @@
         {
           "label": "Server 2",
           "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=yankees=diamondbacks&s=home&sport=mlb",
+          "url": "https:\/\/node-9b5feb01.4587.website\/6ab0b304.653c2d87i798bc8d0.f98c.ed00e873\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
           "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=yankees=diamondbacks&s=away&sport=mlb",
+          "url": "https:\/\/node-5d763f4c.4587.website\/6ab0b304.cd91db05i798bc8d0.f99d.fbe6e11d\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb605\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjA1OjE3ODk5MjU4OTQ5NDQ6Y2RubGl2ZXR2LnR2OmQ3NjJiYThhODc2ZmU1Y2MuNWQ0ZGNhOWY2MjljZTRjNzU0OGEyOWIxNDU4YTVkMjI2MmE1ZTQwMjRhMTY1YmRhYWYxNWVmZGNmMDYxYmI2Mw",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=yankees=diamondbacks&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb630\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjMwOjE3ODk5MjU4OTUwNDU6Y2RubGl2ZXR2LnR2OjU1NTJjYjdhZDZjNzZlYzEuZjgzOTI3N2YxZTExOGJmMDZjZjM5NGZlZmMyZDhmNTEyMTYxMmE5YTAyZDQ2NjUwZTE4ZTAxOGUzMTVhNDYwZA",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=yankees=diamondbacks&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
