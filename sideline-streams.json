@@ -892,6 +892,33 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1789905712207",
+      "league": "nba",
+      "gameId": "",
+      "away": "LOS ANGELES SPARKS ",
+      "home": "PORTLAND FIRE ",
+      "title": "Los Angeles Sparks Vs Portland Fire ",
+      "poster": "",
+      "startsAt": 1789945200000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "https",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "https",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
