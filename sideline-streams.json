@@ -2071,19 +2071,12 @@
         {
           "label": "Server 4",
           "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc383\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzgzOjE3ODk5MjY3NDkxNDQ6Y2RubGl2ZXR2LnR2OmRhMjg2ODFiOTkyZjM0Y2UuODI4ZWIxYjczY2Y0MjllYjFmZGEyMzZkNzg4NmFkMTkyZjE4Y2NhN2U1MTE5ZTNlMzIzOWMyM2IyNmFmMzhhYw",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc383\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzgzOjE3ODk5NDc2NzkxMDg6Y2RubGl2ZXR2LnR2OjVhZjJmZGFkOWQ3ZmQ0ZDkuZjk0MWUyODIxYTFmNzdmYmMzZWQxMWI0YzIyM2ZhMGI4NjIyMzM2YmEwZjc3MzgwZTdjMjkxMTQ3ODhmOWJjMw",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2781d8192bb76cb38e\/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzhlOjE3ODk5MjY3Mzk0ODc6Y2RubGl2ZXR2LnR2OjZlZjkzMDI3ZjBkOTdjODYuOTY5Njg4ZWQ5Yzc3MGFiZGFkODM3NjQ3ZDBhMmVmY2I4MjljMjI0YWFiMmQ5ZWY0YzE5MmUwMzJlN2UxOWM3MA",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 6",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-20\/wsh-dal",
           "type": "hls",
@@ -2094,7 +2087,7 @@
           }
         },
         {
-          "label": "Server 7",
+          "label": "Server 6",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-washington-commanders-at-dallas-cowboys\/1",
           "type": "hls",
