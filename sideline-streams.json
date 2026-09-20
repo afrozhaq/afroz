@@ -383,42 +383,51 @@
       "endsAt": 0,
       "links": [
         {
-          "label": "Server 1",
+          "label": "Main Server 1",
+          "subtitle": "Live ",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/w0rehjjrwe\/out\/v1\/69a2a7041395406b970598f61680e7cf\/cenc.mpd",
+          "type": "dash",
+          "rewarded": false,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
+        },
+        {
+          "label": "Server 2",
           "subtitle": "Live ",
           "url": "https:\/\/edgestream2.pro\/hls\/uheyztezgj34.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 2",
+          "label": "Server 3",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=vikings=bears&s=home&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 3",
+          "label": "Server 4",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=vikings=bears&s=away&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
+          "label": "Server 5",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc26a\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMjZhOjE3ODk5MjY3MzgwMDc6Y2RubGl2ZXR2LnR2OmFhYzRjZTUyYTYzMTBmNjcuZmRmOWJlMzJjMjYyYzhiZjczOTU2N2ZlM2JhMjFmYzUzNGVmNWFlMzIwYmZjMGU4ZmQyZGIxMzM5YTZjMWIwMw",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
+          "label": "Server 6",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc329\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzI5OjE3ODk5MjY3MzgxMTQ6Y2RubGl2ZXR2LnR2OjI1YjNkOWM2MDkwNGNlNzQuMzRkMDgzMjMyNjRlMzhlNTk3NTljOWVkMGZjOWM0NTUwMjgzOWU3NTA2N2UxM2IwN2QyYWNiYjgyM2Y3NjgwMQ",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 6",
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-20\/min-chi",
           "type": "hls",
@@ -429,7 +438,7 @@
           }
         },
         {
-          "label": "Server 7",
+          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-minnesota-vikings-at-chicago-bears\/1",
           "type": "hls",
