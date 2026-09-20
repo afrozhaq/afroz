@@ -125,19 +125,12 @@
         {
           "label": "Server 8",
           "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2781d8192bb76cb3d1\/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiM2QxOjE3ODk5MjY3NTA5NTk6Y2RubGl2ZXR2LnR2OjIwYjU5OWNmYTQwODZmM2QuYTg1OWY3YTBiOGMxYzYxMGUxMDBhNGZiZDM2NmRiYmM2MzVkMDJlYTM0ZWRjNGU0N2NhMmZhZjFjZWZjMTU1Nw",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2781d8192bb76cb3d1\/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiM2QxOjE3ODk5NjMwMzg2MzQ6Y2RubGl2ZXR2LnR2OjIyNmY1OTAwYjU3ZmUxNTcuYjgzMWZiMzhhMWJjMGZiZmY1YjAwNzEyYTZiODNiZTRmYTNhOTQ5NmY1ODFlYWYwYmE3Yjk5ODEyNzdiYWMyOQ",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 9",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cbe8e\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNiZThlOjE3ODk5MjY3NTEwNjE6Y2RubGl2ZXR2LnR2OjliYjAyMTMxMTQ3Yzc0ZmUuOTRkNjQyOGQ3ZDcwNzllZDdmZjEzM2Y2OTU0YmVkOGMwYzZjMDBiZjVjMGY3YjBiODE2MmIyNGVmYzc2MjViMg",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 10",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-20\/ind-kc",
           "type": "hls",
@@ -148,7 +141,7 @@
           }
         },
         {
-          "label": "Server 11",
+          "label": "Server 10",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-indianapolis-colts-at-kansas-city-chiefs\/1",
           "type": "hls",
