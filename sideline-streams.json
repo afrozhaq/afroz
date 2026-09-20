@@ -757,6 +757,33 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1789905333850",
+      "league": "nhl",
+      "gameId": "",
+      "away": "FLORIDA PANTHERS ",
+      "home": "CAROLINA HURRICANES",
+      "title": "Florida Panthers Vs Carolina Hurricanes ",
+      "poster": "",
+      "startsAt": 1789945200000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "https ",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "https ",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
