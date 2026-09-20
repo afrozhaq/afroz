@@ -2356,6 +2356,33 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1789947861239",
+      "league": "nhl",
+      "gameId": "",
+      "away": "CHICAGO BLACKHAWKS",
+      "home": "MINNESOTA WILD ",
+      "title": "Chicago Blackhawks Vs Minnesota Wild",
+      "poster": "",
+      "startsAt": 1790035200000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "http",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "http",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
