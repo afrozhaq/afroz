@@ -979,20 +979,27 @@
         },
         {
           "label": "Server 4",
+          "subtitle": "Live ",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb5cf\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWNmOjE3ODk4Nzg3Nzg5MTc6Y2RubGl2ZXR2LnR2OjJmMTQ3MWI3ZjhmMDYxZjAuMzYxMTIwNTczZTAyYWFiM2Q4ODY5YjY3NjI2NDEwNDNhODJlNjgzYTU0MTNiYzkwZTI4NWM5OTM5NDQ3NzA2OQ",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 5",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=giants=dodgers&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
+          "label": "Server 6",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=giants=dodgers&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 6",
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-19\/sf-lad",
           "type": "hls",
@@ -1003,7 +1010,7 @@
           }
         },
         {
-          "label": "Server 7",
+          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-san-francisco-giants-vs-los-angeles-dodgers\/1",
           "type": "hls",
