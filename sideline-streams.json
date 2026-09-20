@@ -761,11 +761,61 @@
       "endsAt": 0,
       "links": [
         {
-          "label": "Server ",
+          "label": "Server 1",
           "subtitle": "Live ",
-          "url": "https:\/\/edgestream2.pro\/hls\/jkzahzadach20.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "url": "https:\/\/edgestream2.pro\/hls\/jnzkdzjfanch23.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
-          "rewarded": true
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live ",
+          "url": "mp",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live ",
+          "url": "mp",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
+          "subtitle": "Live ",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb601\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjAxOjE3ODk5MjU4OTE3MzY6Y2RubGl2ZXR2LnR2OjUxZGQ2YTkzYWU0OTIyZjkuZDc5ODViOWFlOTMzZTQwNjhjYzA1NGIzY2JjMGM1Njc0NTZlNGE4YTExMTE4MTAxZmUxNWZmMjYwNDJlZjE0NA",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 5",
+          "subtitle": "Live ",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb619\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjE5OjE3ODk5MjU4OTE4ODE6Y2RubGl2ZXR2LnR2OjBjNzhmNzIyYTA4Mzk3NTQuMGUwOTZiYTBlNTllYzI3NjhlMWZkODVhY2RhYjc0YzQzZjIyNGI2NzlmMzNiYWI0MzMxMTU5MWFjNGU5MWIwYQ",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 6",
+          "subtitle": "Live ",
+          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-20\/tor-tex",
+          "type": "hls",
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-20\/tor-tex"
+          }
+        },
+        {
+          "label": "Server 7",
+          "subtitle": "Live ",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-toronto-blue-jays-vs-texas-rangers\/1",
+          "type": "hls",
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-toronto-blue-jays-vs-texas-rangers\/1"
+          }
         }
       ]
     },
