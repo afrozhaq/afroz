@@ -2221,6 +2221,33 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1789947277647",
+      "league": "nhl",
+      "gameId": "",
+      "away": "COLUMBUS BLUE JACKETS",
+      "home": "DETROIT RED WINGS",
+      "title": "Columbus Blue Jackets Vs Detroit Red Wings",
+      "poster": "",
+      "startsAt": 1790031600000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
