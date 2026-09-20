@@ -649,6 +649,33 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1789904979870",
+      "league": "nhl",
+      "gameId": "",
+      "away": "ANAHEIM DUCKS",
+      "home": "SAN JOSE SHARKS ",
+      "title": "Anaheim Ducks Vs San Jose Sharks",
+      "poster": "",
+      "startsAt": 1789934400000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
