@@ -811,6 +811,33 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1789905555460",
+      "league": "nba",
+      "gameId": "",
+      "away": "CONNECTICUT SUN ",
+      "home": "MINNESOTA LYNX ",
+      "title": "Connecticut Sun Vs Minnesota Lynx ",
+      "poster": "",
+      "startsAt": 1789923600000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "https ",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "https ",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
