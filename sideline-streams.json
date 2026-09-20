@@ -784,6 +784,33 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1789905394112",
+      "league": "nhl",
+      "gameId": "",
+      "away": "CALGARY FLAMES",
+      "home": "SEATTLE KRAKEN ",
+      "title": "Calgary Flames Vs Seattle Kraken ",
+      "poster": "",
+      "startsAt": 1789948800000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "htp",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "htp",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
