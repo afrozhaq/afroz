@@ -828,6 +828,13 @@
         {
           "label": "Server 5",
           "subtitle": "Live ",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2781d8192bb76cb375\/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzc1OjE3ODk5NDc0MjE1Mjg6Y2RubGl2ZXR2LnR2OmZkMzgyZDU0MDAzYzZmYjkuZTQ4NjllYWU3MzFiODI1YjQwZmUzNjQ2ZWUyMGM3M2I3NWM1ZGVkOWU0YmY2OGM0NWY0YzM4NTE5NmQ3MjRkMw",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 6",
+          "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-20\/lv-lac",
           "type": "hls",
           "rewarded": false,
@@ -837,7 +844,7 @@
           }
         },
         {
-          "label": "Server 6",
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-las-vegas-raiders-at-los-angeles-chargers\/1",
           "type": "hls",
