@@ -730,6 +730,33 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1789905211597",
+      "league": "nhl",
+      "gameId": "",
+      "away": "COLORADO AVALANCHE ",
+      "home": "UTAH MAMMOTH ",
+      "title": "Colorado Avalanche Vs Utah Mammoth",
+      "poster": "",
+      "startsAt": 1789945200000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "htt",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "htt",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
