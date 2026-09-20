@@ -2601,6 +2601,33 @@
           "rewarded": true
         }
       ]
+    },
+    {
+      "id": "s1789947117277",
+      "league": "nba",
+      "gameId": "",
+      "away": "NEW YORK LIBERTY ",
+      "home": "ATLANTA DREAM ",
+      "title": "New York Liberty Vs Atlanta Dream ",
+      "poster": "",
+      "startsAt": 1790035200000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
