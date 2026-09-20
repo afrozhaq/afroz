@@ -2329,6 +2329,33 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1789947709702",
+      "league": "nhl",
+      "gameId": "",
+      "away": "MONTREAL CANADIENS",
+      "home": "OTTAWA SENATORS ",
+      "title": "Montreal Canadiens Vs Ottawa Senators ",
+      "poster": "",
+      "startsAt": 1790031600000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "http",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "http",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
