@@ -1595,19 +1595,12 @@
         {
           "label": "Server 6",
           "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2981d8192bb76cbc97\/playlist.m3u8?token=NmEyODhkMjk4MWQ4MTkyYmI3NmNiYzk3OjE3ODk5MjY3NDY2MDk6Y2RubGl2ZXR2LnR2OmMzOWU4OTM2MTRlOGQ0OWUuNDFlOTllM2FlYWViODNkY2Y3NmM4MmZmNDAyNDRiNmM4YzgxOTcwZTIzZjc0MTE3NGE4YTY1YmI1YjBmNjMxNA",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2781d8192bb76cb375\/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzc1OjE3ODk5NDc0MjE1Mjg6Y2RubGl2ZXR2LnR2OmZkMzgyZDU0MDAzYzZmYjkuZTQ4NjllYWU3MzFiODI1YjQwZmUzNjQ2ZWUyMGM3M2I3NWM1ZGVkOWU0YmY2OGM0NWY0YzM4NTE5NmQ3MjRkMw",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 7",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc329\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzI5OjE3ODk5MjY3MzgxMTQ6Y2RubGl2ZXR2LnR2OjI1YjNkOWM2MDkwNGNlNzQuMzRkMDgzMjMyNjRlMzhlNTk3NTljOWVkMGZjOWM0NTUwMjgzOWU3NTA2N2UxM2IwN2QyYWNiYjgyM2Y3NjgwMQ",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-20\/jax-den",
           "type": "hls",
@@ -1618,7 +1611,7 @@
           }
         },
         {
-          "label": "Server 9",
+          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-jacksonville-jaguars-at-denver-broncos\/1",
           "type": "hls",
