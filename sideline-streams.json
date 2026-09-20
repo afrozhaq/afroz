@@ -356,19 +356,12 @@
         {
           "label": "Server 5",
           "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc33f\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzNmOjE3ODk5MjY3Mzg1OTM6Y2RubGl2ZXR2LnR2OjNlYTkwODRiMDdkOTI4MTMuODk2OTEwNjlkMTVjNDY3ZjY0YWVhOThmNjJiMWRhMTYxMTBjZWQ2NWVkN2ExNjU5NDI0MDlhMGNmY2E5YzllNQ",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc162\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTYyOjE3ODk5MzcxMzIwMTU6Y2RubGl2ZXR2LnR2OjM3MzAxYjZhMWYzZjNlOTcuOGFkN2I2MjcwNmE4ODA0YmVhNDRjODJmY2E5OTNjZGI4MzA3N2FiOTVmYTlmNzIxMGQyYTg2NmM3MTVhZjQ4MA",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 6",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc162\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTYyOjE3ODk5MjY3Mzg3MTk6Y2RubGl2ZXR2LnR2OmM3ZmFkNjRhZmI4ZjNkMzAuMGE4ZmZlNzdkZjI3MDc2OTVjMTQyYzdmNGVkOWNiNzZjZDA0ZDkzZTZiMTUyYWMzM2JhOTU1M2M3MTAzNDE0OQ",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-20\/pit-ne",
           "type": "hls",
@@ -379,7 +372,7 @@
           }
         },
         {
-          "label": "Server 8",
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-pittsburgh-steelers-at-new-england-patriots\/1",
           "type": "hls",
