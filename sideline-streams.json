@@ -1310,42 +1310,51 @@
           "drmLicenseUrl": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
         },
         {
-          "label": "Server 2",
+          "label": "Main Server 2",
+          "subtitle": "Live ",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/tpdofmrr84\/out\/v1\/ad58961bd8fd48d2944e461c034b8914\/cenc.mpd",
+          "type": "dash",
+          "rewarded": false,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37"
+        },
+        {
+          "label": "Server 3",
           "subtitle": "Live ",
           "url": "https:\/\/edgestream2.pro\/hls\/ysvbxwnbc38.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 3",
+          "label": "Server 4",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=jaguars=broncos&s=home&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
+          "label": "Server 5",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=jaguars=broncos&s=away&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
+          "label": "Server 6",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2981d8192bb76cbc97\/playlist.m3u8?token=NmEyODhkMjk4MWQ4MTkyYmI3NmNiYzk3OjE3ODk5MjY3NDY2MDk6Y2RubGl2ZXR2LnR2OmMzOWU4OTM2MTRlOGQ0OWUuNDFlOTllM2FlYWViODNkY2Y3NmM4MmZmNDAyNDRiNmM4YzgxOTcwZTIzZjc0MTE3NGE4YTY1YmI1YjBmNjMxNA",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 6",
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc329\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzI5OjE3ODk5MjY3MzgxMTQ6Y2RubGl2ZXR2LnR2OjI1YjNkOWM2MDkwNGNlNzQuMzRkMDgzMjMyNjRlMzhlNTk3NTljOWVkMGZjOWM0NTUwMjgzOWU3NTA2N2UxM2IwN2QyYWNiYjgyM2Y3NjgwMQ",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 7",
+          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-20\/jax-den",
           "type": "hls",
@@ -1356,7 +1365,7 @@
           }
         },
         {
-          "label": "Server 8",
+          "label": "Server 9",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-jacksonville-jaguars-at-denver-broncos\/1",
           "type": "hls",
