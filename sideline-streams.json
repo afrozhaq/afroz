@@ -1,48 +1,6 @@
 {
   "streams": [
     {
-      "id": "s1789829613267",
-      "league": "nba",
-      "gameId": "",
-      "away": "DALLAS WINGS ",
-      "home": "PHOENIX MERCURY ",
-      "title": "Dallas Wings Vs Phoenix Mercury ",
-      "poster": "",
-      "startsAt": 1789837200000,
-      "endsAt": 0,
-      "links": [
-        {
-          "label": "Server 1",
-          "subtitle": "Live",
-          "url": "https:\/\/edgestream2.pro\/hls\/2rB5nTKlP8mE.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 2",
-          "subtitle": "Live",
-          "url": "https:\/\/embedindia.st\/embed\/wnba\/2026-09-19\/phx-dal",
-          "type": "hls",
-          "rewarded": false,
-          "tokenApi": {
-            "type": "embed",
-            "api": "https:\/\/embedindia.st\/embed\/wnba\/2026-09-19\/phx-dal"
-          }
-        },
-        {
-          "label": "Server 3",
-          "subtitle": "Live",
-          "url": "https:\/\/embed.st\/embed\/admin\/ppv-phoenix-mercury-vs-dallas-wings\/1",
-          "type": "hls",
-          "rewarded": false,
-          "tokenApi": {
-            "type": "embed",
-            "api": "https:\/\/embed.st\/embed\/admin\/ppv-phoenix-mercury-vs-dallas-wings\/1"
-          }
-        }
-      ]
-    },
-    {
       "id": "s1789824066469",
       "league": "nhl",
       "gameId": "",
@@ -110,48 +68,6 @@
           "url": "https:\/\/edgestream2.pro\/hls\/hpouezruioazd96.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
-        }
-      ]
-    },
-    {
-      "id": "s1789829660610",
-      "league": "nba",
-      "gameId": "",
-      "away": "ATLANTA DREAM ",
-      "home": "CHICAGO SKY ",
-      "title": "Atlanta Dream Vs Chicago Sky ",
-      "poster": "",
-      "startsAt": 1789858800000,
-      "endsAt": 0,
-      "links": [
-        {
-          "label": "Server 1",
-          "subtitle": "Live",
-          "url": "https:\/\/edgestream2.pro\/hls\/zauygazhjd.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 2",
-          "subtitle": "Live",
-          "url": "https:\/\/embedindia.st\/embed\/wnba\/2026-09-19\/chi-atl",
-          "type": "hls",
-          "rewarded": false,
-          "tokenApi": {
-            "type": "embed",
-            "api": "https:\/\/embedindia.st\/embed\/wnba\/2026-09-19\/chi-atl"
-          }
-        },
-        {
-          "label": "Server 3",
-          "subtitle": "Live",
-          "url": "https:\/\/embed.st\/embed\/admin\/ppv-chicago-sky-vs-atlanta-dream\/1",
-          "type": "hls",
-          "rewarded": false,
-          "tokenApi": {
-            "type": "embed",
-            "api": "https:\/\/embed.st\/embed\/admin\/ppv-chicago-sky-vs-atlanta-dream\/1"
-          }
         }
       ]
     },
@@ -264,48 +180,6 @@
           "tokenApi": {
             "type": "embed",
             "api": "https:\/\/embedindia.st\/embed\/nhl\/2026-09-19\/van-sea"
-          }
-        }
-      ]
-    },
-    {
-      "id": "s1789829703922",
-      "league": "nba",
-      "gameId": "",
-      "away": "GOLDEN STATE VALKYRIES ",
-      "home": "SEATTLE STORM ",
-      "title": "Golden State Valkyries Vs Seattle Storm ",
-      "poster": "",
-      "startsAt": 1789866000000,
-      "endsAt": 0,
-      "links": [
-        {
-          "label": "Server 1",
-          "subtitle": "Live",
-          "url": "https:\/\/embedindia.st\/embed\/wnba\/2026-09-19\/sea-gs",
-          "type": "hls",
-          "rewarded": false,
-          "tokenApi": {
-            "type": "embed",
-            "api": "https:\/\/embedindia.st\/embed\/wnba\/2026-09-19\/sea-gs"
-          }
-        },
-        {
-          "label": "Server 2",
-          "subtitle": "Live",
-          "url": "https:\/\/edgestream2.pro\/hls\/xscqqza8740.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 3",
-          "subtitle": "Live",
-          "url": "https:\/\/embed.st\/embed\/admin\/ppv-seattle-storm-vs-golden-state-valkyries\/1",
-          "type": "hls",
-          "rewarded": false,
-          "tokenApi": {
-            "type": "embed",
-            "api": "https:\/\/embed.st\/embed\/admin\/ppv-seattle-storm-vs-golden-state-valkyries\/1"
           }
         }
       ]
