@@ -97,13 +97,20 @@
         },
         {
           "label": "Server 6",
+          "subtitle": "Live",
+          "url": "https:\/\/dripcast.online\/flyembed-scraper\/fly\/index.m3u8?id=nfl-401872936",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cbb70\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiYjcwOjE3ODk5MzczMDY2MjQ6Y2RubGl2ZXR2LnR2OmU2MjQwNDI4NGM0NDU5NTYuZDIxMWYwMTI1M2JmMzQwNjM5OGMxNmMyOWM2ZjFkY2M3ODJkNWYzN2UyZTNhOTk4NzU5NTU0ZjViNmVkOGZjMg",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 7",
+          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-20\/gb-nyj",
           "type": "hls",
@@ -114,7 +121,7 @@
           }
         },
         {
-          "label": "Server 8",
+          "label": "Server 9",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-green-bay-packers-at-new-york-jets\/1",
           "type": "hls",
