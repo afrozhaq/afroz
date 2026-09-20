@@ -676,6 +676,33 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1789905060333",
+      "league": "nhl",
+      "gameId": "",
+      "away": "BOSTON BRUINS ",
+      "home": "WASHINGTON CAPITALS",
+      "title": "Boston Bruins Vs Washington Capitals ",
+      "poster": "",
+      "startsAt": 1789938000000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "hh",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "hh",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
