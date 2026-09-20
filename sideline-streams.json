@@ -1,6 +1,26 @@
 {
   "streams": [
     {
+      "id": "s1789918422251",
+      "league": "nfl",
+      "gameId": "",
+      "away": "NFL REDZONE ",
+      "home": "NFL REDZONE ",
+      "title": "NFL REDZONE ",
+      "poster": "https:\/\/blogger.googleusercontent.com\/img\/a\/AVvXsEj5HSwT9RTJRu_WinfazRlVGSOUyfwkPkitkSAudOcJz6WH-1BPAlXBZNGzQprsqMVRQvqqd0FH5RG3cWziqJldZ4KLrL7kYFDMnrsaYWALCYY-KofaNWqXRmvZUABoQhZh7fmRudOYj-4OXPQmMqJwDl6YxGBhv9ByKlg83UtXc43Y3zhsaK3b1-mXoIw=s1600",
+      "startsAt": 1789923300000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "https:\/\/edgestream2.pro\/hls\/eyrennte44.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
+    },
+    {
       "id": "s1789639177816",
       "league": "nfl",
       "gameId": "",
