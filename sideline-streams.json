@@ -1493,28 +1493,28 @@
         {
           "label": "Server 2",
           "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=mariners=rockies&s=home&sport=mlb",
+          "url": "https:\/\/node-9b5feb01.4587.website\/6ab09f66.d681f4cei798bc8d0.f97a.9828033f\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
           "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=mariners=rockies&s=away&sport=mlb",
+          "url": "https:\/\/node-9b5feb01.4587.website\/6ab09f66.68ccb4bei798bc8d0.f986.f57e300f\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb604\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjA0OjE3ODk5MjU4OTI5MDY6Y2RubGl2ZXR2LnR2OmVlYzg3NGExYWU4MDBiNDkuMGY2NTA1YzFkNDE1NTY1NDRlYTRhMzdiZmQxNThkZDE5NzQ1MTI3MjJmODM3MWQ3NTNmNWFjZjMyY2ViODJlNg",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=mariners=rockies&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb62a\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjJhOjE3ODk5MjU4OTMxMTY6Y2RubGl2ZXR2LnR2OmM0NzRlOGMyMThiYWE3ZGIuZTIwYmNkYjlhMWFmYTU5NTJhMGUxY2EzNWRhMzM4ZWVhMGY1ZWMyM2EyNzM0NjNiZmRjYzA4NzQyMjMzMDRkMA",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=mariners=rockies&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
