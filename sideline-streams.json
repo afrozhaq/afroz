@@ -1953,6 +1953,15 @@
         {
           "label": "Main Server 2",
           "subtitle": "Live ",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/tpdofmrr84\/out\/v1\/ad58961bd8fd48d2944e461c034b8914\/cenc.mpd",
+          "type": "dash",
+          "rewarded": false,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37"
+        },
+        {
+          "label": "Main Server 3",
+          "subtitle": "Live ",
           "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/dx5hfbpk7u\/out\/v1\/c14185a397544650b9761d43ad2e8e91\/cenc.mpd",
           "type": "dash",
           "rewarded": false,
@@ -1960,42 +1969,42 @@
           "drmLicenseUrl": "36a385124dcdfb2f0969935065e03afa:ccecd65514dff22eae493b975ccf9a9e"
         },
         {
-          "label": "Server 3",
+          "label": "Server 4",
           "subtitle": "Live ",
           "url": "https:\/\/edgestream2.pro\/hls\/jnfezkbfz43.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
+          "label": "Server 5",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=colts=chiefs&s=home&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
+          "label": "Server 6",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=colts=chiefs&s=away&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 6",
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2781d8192bb76cb3d1\/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiM2QxOjE3ODk5MjY3NTA5NTk6Y2RubGl2ZXR2LnR2OjIwYjU5OWNmYTQwODZmM2QuYTg1OWY3YTBiOGMxYzYxMGUxMDBhNGZiZDM2NmRiYmM2MzVkMDJlYTM0ZWRjNGU0N2NhMmZhZjFjZWZjMTU1Nw",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 7",
+          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cbe8e\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNiZThlOjE3ODk5MjY3NTEwNjE6Y2RubGl2ZXR2LnR2OjliYjAyMTMxMTQ3Yzc0ZmUuOTRkNjQyOGQ3ZDcwNzllZDdmZjEzM2Y2OTU0YmVkOGMwYzZjMDBiZjVjMGY3YjBiODE2MmIyNGVmYzc2MjViMg",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 8",
+          "label": "Server 9",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-20\/ind-kc",
           "type": "hls",
@@ -2006,7 +2015,7 @@
           }
         },
         {
-          "label": "Server 9",
+          "label": "Server 10",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-indianapolis-colts-at-kansas-city-chiefs\/1",
           "type": "hls",
