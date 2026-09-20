@@ -622,6 +622,33 @@
           "rewarded": true
         }
       ]
+    },
+    {
+      "id": "s1789904907543",
+      "league": "nhl",
+      "gameId": "",
+      "away": "NEW JERSEY DEVILS ",
+      "home": "NEW YORK ISLANDERS ",
+      "title": "New Jersey Devils Vs New York Islanders ",
+      "poster": "",
+      "startsAt": 1789923600000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
