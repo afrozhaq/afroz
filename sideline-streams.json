@@ -2628,6 +2628,33 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1789947167727",
+      "league": "nba",
+      "gameId": "",
+      "away": "PHOENIX MERCURY ",
+      "home": "DALLAS WINGS ",
+      "title": "Phoenix Mercury Vs Dallas Wings ",
+      "poster": "",
+      "startsAt": 1790042400000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "ht",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "ht",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
