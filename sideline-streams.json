@@ -2275,6 +2275,33 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1789947557840",
+      "league": "nhl",
+      "gameId": "",
+      "away": "NEW JERSEY DEVILS ",
+      "home": "NEW YORK RANGERS ",
+      "title": "New Jersey Devils Vs New York Rangers ",
+      "poster": "",
+      "startsAt": 1790031600000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live ",
+          "url": "https ",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live ",
+          "url": "https ",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
