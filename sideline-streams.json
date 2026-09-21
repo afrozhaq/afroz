@@ -52,7 +52,7 @@
       "endsAt": 0,
       "links": [
         {
-          "label": "Main Server 1 ",
+          "label": "Main Server 1",
           "subtitle": "Live Now ",
           "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/w0rehjjrwe\/out\/v1\/69a2a7041395406b970598f61680e7cf\/cenc.mpd",
           "type": "dash",
@@ -86,6 +86,63 @@
           "rewarded": false,
           "drmScheme": "clearkey",
           "drmLicenseUrl": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8"
+        },
+        {
+          "label": "Server 5",
+          "subtitle": "Live Now",
+          "url": "https:\/\/edgestream2.pro\/hls\/JHDAJBDnjdna30.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 6",
+          "subtitle": "Live Now ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=giants=rams&s=home&sport=nfl",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 7",
+          "subtitle": "Live Now ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=giants=rams&s=away&sport=nfl",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 8",
+          "subtitle": "Live Now",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a400e8f71500528fb38cd4b\/playlist.m3u8?token=NmE0MDBlOGY3MTUwMDUyOGZiMzhjZDRiOjE3OTAwMDQ0MTg0NjY6Y2RubGl2ZXR2LnR2OmFlMmM5OWQ1ODBmM2ExZWQuMDRlZTI1OWJiYWZiODdjMDRhZmU5NmYxZmM5MzJhNzBkMWRkODZkMTg4ZGRlZGY4ODZmMTZlNmMyMzc1OTA4MQ",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 9",
+          "subtitle": "Live Now",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb59f\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNTlmOjE3OTAwMDQ0MTg1NDc6Y2RubGl2ZXR2LnR2OjQ2ODExMWFmNTlmY2FmMWQuZDAwYzNkZTU5YmY1M2I4MDBkYmRkYjhmOTNlMzFmNWM3NWZkYTIzMDQwODViNWEyMWI3MWNhZWYyYTAwN2NiOQ",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 10",
+          "subtitle": "Live Now",
+          "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-21\/nyg-lar",
+          "type": "hls",
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-21\/nyg-lar"
+          }
+        },
+        {
+          "label": "Server 11",
+          "subtitle": "Live Now",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-new-york-giants-at-los-angeles-rams\/1",
+          "type": "hls",
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-new-york-giants-at-los-angeles-rams\/1"
+          }
         }
       ]
     },
