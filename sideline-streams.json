@@ -68,6 +68,15 @@
           "rewarded": false,
           "drmScheme": "clearkey",
           "drmLicenseUrl": "d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37"
+        },
+        {
+          "label": "Main Server 3",
+          "subtitle": "Live Now",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/ihys8nw4wv\/out\/v1\/fde190f369484bc6b6117cc16cd82a9f\/cenc.mpd",
+          "type": "dash",
+          "rewarded": false,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7"
         }
       ]
     },
