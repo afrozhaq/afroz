@@ -169,48 +169,6 @@
       ]
     },
     {
-      "id": "s1789905712207",
-      "league": "nba",
-      "gameId": "",
-      "away": "LOS ANGELES SPARKS ",
-      "home": "PORTLAND FIRE ",
-      "title": "Los Angeles Sparks Vs Portland Fire ",
-      "poster": "",
-      "startsAt": 1789945200000,
-      "endsAt": 0,
-      "links": [
-        {
-          "label": "Server 1",
-          "subtitle": "Live",
-          "url": "https:\/\/edgestream2.pro\/hls\/nbekiurtghjhfza83.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 2",
-          "subtitle": "Live",
-          "url": "https:\/\/embedindia.st\/embed\/wnba\/2026-09-20\/por-la",
-          "type": "hls",
-          "rewarded": false,
-          "tokenApi": {
-            "type": "embed",
-            "api": "https:\/\/embedindia.st\/embed\/wnba\/2026-09-20\/por-la"
-          }
-        },
-        {
-          "label": "Server 3",
-          "subtitle": "Live",
-          "url": "https:\/\/embed.st\/embed\/admin\/ppv-portland-fire-vs-los-angeles-sparks\/1",
-          "type": "hls",
-          "rewarded": false,
-          "tokenApi": {
-            "type": "embed",
-            "api": "https:\/\/embed.st\/embed\/admin\/ppv-portland-fire-vs-los-angeles-sparks\/1"
-          }
-        }
-      ]
-    },
-    {
       "id": "s1789898936767",
       "league": "mlb",
       "gameId": "",
@@ -311,48 +269,6 @@
           "tokenApi": {
             "type": "embed",
             "api": "https:\/\/embed.st\/embed\/admin\/ppv-seattle-kraken-vs-calgary-flames\/1"
-          }
-        }
-      ]
-    },
-    {
-      "id": "s1789905751784",
-      "league": "nba",
-      "gameId": "",
-      "away": "LAS VEGAS ACES ",
-      "home": "SEATTLE STORM ",
-      "title": "Las Vegas Aces Vs Seattle Storm ",
-      "poster": "",
-      "startsAt": 1789952400000,
-      "endsAt": 0,
-      "links": [
-        {
-          "label": "Server 1",
-          "subtitle": "Live",
-          "url": "https:\/\/edgestream2.pro\/hls\/ioazuryeahrfvzed84.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 2",
-          "subtitle": "Live",
-          "url": "https:\/\/embedindia.st\/embed\/wnba\/2026-09-20\/sea-lv",
-          "type": "hls",
-          "rewarded": false,
-          "tokenApi": {
-            "type": "embed",
-            "api": "https:\/\/embedindia.st\/embed\/wnba\/2026-09-20\/sea-lv"
-          }
-        },
-        {
-          "label": "Server 3",
-          "subtitle": "Live",
-          "url": "https:\/\/embed.st\/embed\/admin\/ppv-seattle-storm-vs-las-vegas-aces\/1",
-          "type": "hls",
-          "rewarded": false,
-          "tokenApi": {
-            "type": "embed",
-            "api": "https:\/\/embed.st\/embed\/admin\/ppv-seattle-storm-vs-las-vegas-aces\/1"
           }
         }
       ]
