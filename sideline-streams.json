@@ -98,33 +98,40 @@
         {
           "label": "Server 2",
           "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=nationals=tigers&s=home&sport=mlb",
+          "url": "https:\/\/node-5d763f4c.4587.website\/6ab224b1.fb350a30i798bc8d0.fb50.9885cb34\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
           "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=nationals=tigers&s=away&sport=mlb",
+          "url": "https:\/\/node-5d763f4c.4587.website\/6ab224b1.66b22dc2i798bc8d0.fb5a.920264c1\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=nationals=tigers&s=home&sport=mlb",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 5",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=nationals=tigers&s=away&sport=mlb",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 6",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb629\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjI5OjE3OTAwMDQ0MTc0NzA6Y2RubGl2ZXR2LnR2OjYyYTk5M2ZhM2I3ZjY4ZTguMGJiOTMzNmZjMTczMDI4MjY3ZjhjMDE2NDljNDNlZGY4MzZiODcyOTA2NTFkMTI3NWJjYTdiOTA5OTA2MzlkNA",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2c81d8192bb76cd238\/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkMjM4OjE3OTAwMDQ0MTc1OTI6Y2RubGl2ZXR2LnR2OjYwNjZmYmRmZWY5MmQ4NDIuOTFmZTJhZDBkZjZjZmI4ZjYwNGYxYzc5YmMxMjYzNGU5ZTRjYjMzMGY3ODNiMzU4ODI0OTIzMmFmNGI4MmE1NQ",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 6",
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-21\/wsh-det",
           "type": "hls",
@@ -135,7 +142,7 @@
           }
         },
         {
-          "label": "Server 7",
+          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-washington-nationals-vs-detroit-tigers\/1",
           "type": "hls",
