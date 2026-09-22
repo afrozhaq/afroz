@@ -319,6 +319,33 @@
           "rewarded": true
         }
       ]
+    },
+    {
+      "id": "s1790078010006",
+      "league": "nhl",
+      "gameId": "",
+      "away": "BOSTON BRUINS ",
+      "home": "PHILADELPHIA FLYERS ",
+      "title": "Boston Bruins Vs Philadelphia Flyers ",
+      "poster": "",
+      "startsAt": 1790118000000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "https ",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "https ",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
