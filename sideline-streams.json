@@ -562,6 +562,33 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1790079263072",
+      "league": "nhl",
+      "gameId": "",
+      "away": "LOS ANGELES KINGS ",
+      "home": "UTAH MAMMOTH ",
+      "title": "Los Angeles Kings Vs Utah Mammoth ",
+      "poster": "",
+      "startsAt": 1790128800000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "ht",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "ht",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
