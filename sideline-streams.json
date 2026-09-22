@@ -983,28 +983,28 @@
         {
           "label": "Server 2",
           "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=marlins=cubs&s=home&sport=mlb",
+          "url": "https:\/\/node-8bba18be.4587.website\/6ab38056.ee788e89i798bc8d0.fd6e.9aaa11b7\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
           "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=marlins=cubs&s=away&sport=mlb",
+          "url": "https:\/\/node-5d763f4c.4587.website\/6ab38056.03f372b9i798bc8d0.fd9d.3e82bd33\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb631\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjMxOjE3OTAwOTA0NDg1OTc6Y2RubGl2ZXR2LnR2Ojg3MGZmNTJiNmI2NzBmZDEuY2NlMjFhODkwYWJhZDcxYTZlNDBmNmNjZjJiMTFjOGJhNDUzYmRmYWVmMGFjODM3ZTkyNWJhZWNkZDljYzkyMw",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=marlins=cubs&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb628\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjI4OjE3OTAwOTA0NDg2OTU6Y2RubGl2ZXR2LnR2OmU1ZTZiYThmNzY3ZGRkY2EuMzc4N2JhZTZmNzRhYmMxYWNhYzFlNzJjOTU3MzY5YTE5MTVjOWEyNDQxOWZjOTY0OTU1ODdlZGY0NzI2YWFiOQ",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=marlins=cubs&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
