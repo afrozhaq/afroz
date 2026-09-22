@@ -697,6 +697,33 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1790079505011",
+      "league": "nba",
+      "gameId": "",
+      "away": "LAS VEGAS ACES ",
+      "home": "LOS ANGELES SPARKS ",
+      "title": "Las Vegas Aces Vs Los Angeles Sparks ",
+      "poster": "",
+      "startsAt": 1790128800000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "ht",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "ht",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
