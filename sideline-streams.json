@@ -454,6 +454,33 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1790079023103",
+      "league": "nhl",
+      "gameId": "",
+      "away": "WINNIPEG JETS",
+      "home": "EDMONTON OILERS ",
+      "title": "Winnipeg Jets Vs Edmonton Oilers ",
+      "poster": "",
+      "startsAt": 1790121600000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "https",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "https",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
