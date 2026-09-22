@@ -346,6 +346,33 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1790078084506",
+      "league": "nhl",
+      "gameId": "",
+      "away": "NEW YORK RANGERS ",
+      "home": "NEW YORK ISLANDERS ",
+      "title": "New York Rangers Vs New York Islanders ",
+      "poster": "",
+      "startsAt": 1790118000000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live ",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live ",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
