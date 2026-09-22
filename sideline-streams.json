@@ -234,19 +234,12 @@
         {
           "label": "Server 9",
           "subtitle": "Live Now",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a400e8f71500528fb38cd4b\/playlist.m3u8?token=NmE0MDBlOGY3MTUwMDUyOGZiMzhjZDRiOjE3OTAwMDQ0MTg0NjY6Y2RubGl2ZXR2LnR2OmFlMmM5OWQ1ODBmM2ExZWQuMDRlZTI1OWJiYWZiODdjMDRhZmU5NmYxZmM5MzJhNzBkMWRkODZkMTg4ZGRlZGY4ODZmMTZlNmMyMzc1OTA4MQ",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2781d8192bb76cb354\/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzU0OjE3OTAwNDk2MzA3ODU6Y2RubGl2ZXR2LnR2OjQ4Mzg1YjNiNzlkN2FiMTQuN2QzZDk0MWM0NGE2N2UyMzFlMjVkMmQ4ODk3MTQ4Zjc2NTZlMjFkODIzZDQ1MGJiNjVjNGUzNGNiZjI0MjA2Mw",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 10",
-          "subtitle": "Live Now",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb59f\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNTlmOjE3OTAwMDQ0MTg1NDc6Y2RubGl2ZXR2LnR2OjQ2ODExMWFmNTlmY2FmMWQuZDAwYzNkZTU5YmY1M2I4MDBkYmRkYjhmOTNlMzFmNWM3NWZkYTIzMDQwODViNWEyMWI3MWNhZWYyYTAwN2NiOQ",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 11",
           "subtitle": "Live Now",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-21\/nyg-lar",
           "type": "hls",
@@ -257,7 +250,7 @@
           }
         },
         {
-          "label": "Server 12",
+          "label": "Server 11",
           "subtitle": "Live Now",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-new-york-giants-at-los-angeles-rams\/1",
           "type": "hls",
