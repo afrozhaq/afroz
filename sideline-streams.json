@@ -535,6 +535,33 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1790079202837",
+      "league": "nhl",
+      "gameId": "",
+      "away": "SAN JOSE SHARKS ",
+      "home": "VEGAS GOLDEN KNIGHTS ",
+      "title": "San Jose Sharks Vs Vegas Golden Knights ",
+      "poster": "",
+      "startsAt": 1790128800000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "ht",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "ht",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
