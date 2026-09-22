@@ -310,22 +310,22 @@
         },
         {
           "label": "Server 4",
+          "subtitle": "Live ",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb5cf\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWNmOjE3OTAwNTYxMDI2MjE6Y2RubGl2ZXR2LnR2OjEyYjA0MmFiN2E5Y2ZjZDQuY2U3YjhlZTg4YTdkNmNkODNhMDE4ZjRkN2FlYTY0ZmVmNjZkNjVmZGRlNTYxMmRmZDM2MjQxY2ZjMDQ0MmJjMw",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 5",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=twins=giants&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
+          "label": "Server 6",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=twins=giants&s=away&sport=mlb",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 6",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb61d\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjFkOjE3OTAwMDQ0MjA0Nzc6Y2RubGl2ZXR2LnR2OmFjMTFmOTM1YjNiMmI4MmMuY2Y2OTFmOGM3MjE0NDRmY2RiOTM0NzQyNTJiMjIzNGM2MTgyMjE1YjY1NjQwYTBjNTUxYTA3ZGU5ZDg5YzZhNQ",
           "type": "hls",
           "rewarded": false
         },
