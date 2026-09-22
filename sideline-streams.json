@@ -794,12 +794,19 @@
         {
           "label": "Server 6",
           "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb612\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjEyOjE3OTAwOTA0NDgxODE6Y2RubGl2ZXR2LnR2OmUwOTdmNTRiMmVjNWFhOWMuMTFlYzQwYzY0ZTZhZDkzOTQ0NzAyMjYwMWFkZDE2NDgyZmNhYWZkZDY0NDZlNzliZmE1M2JlYjM4NjcyOGI3Mw",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb612\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjEyOjE3OTAxMzI0NDIwODg6Y2RubGl2ZXR2LnR2OjEzODYwYTMzZDFkZGQ1YjcuNzZhNDlhZmU2ODM0NzU0YzA4ZWIzYWE1ZmRmYmQ3MDM2OTg3NTE0ODkwZWM0ZjYzNzUxYmM1NGQ0Y2Q3NTJlYg",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 7",
+          "subtitle": "Live ",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb617\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjE3OjE3OTAxMzI0NDE3Nzc6Y2RubGl2ZXR2LnR2OmZiZDdlZDUyZDI3MDZhODQuY2E3ZTY4YTkwYzEyZjgzODVlNjhkODcyMmE5ZTE4MTJmOTg4YTZkMzgyMjgwMzg3MjBiYmU2ODYxZTMyZDUyNA",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-22\/cin-atl",
           "type": "hls",
@@ -810,7 +817,7 @@
           }
         },
         {
-          "label": "Server 8",
+          "label": "Server 9",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-cincinnati-reds-vs-atlanta-braves\/1",
           "type": "hls",
