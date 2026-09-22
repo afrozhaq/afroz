@@ -766,33 +766,40 @@
         {
           "label": "Server 2",
           "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=reds=braves&s=home&sport=mlb",
+          "url": "https:\/\/node-025d151e.4587.website\/6ab3785a.fe21f90ci798bc8d0.fd6b.23f4a287\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
           "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=reds=braves&s=away&sport=mlb",
+          "url": "https:\/\/node-9b5feb01.4587.website\/6ab37859.c3f1f20ei798bc8d0.fd7f.0bd9927d\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=reds=braves&s=home&sport=mlb",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 5",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=reds=braves&s=away&sport=mlb",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 6",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb612\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjEyOjE3OTAwOTA0NDgxODE6Y2RubGl2ZXR2LnR2OmUwOTdmNTRiMmVjNWFhOWMuMTFlYzQwYzY0ZTZhZDkzOTQ0NzAyMjYwMWFkZDE2NDgyZmNhYWZkZDY0NDZlNzliZmE1M2JlYjM4NjcyOGI3Mw",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb617\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjE3OjE3OTAwOTA0NDgyNzc6Y2RubGl2ZXR2LnR2OmE5YThlNzdiYzAzMTczZWIuY2JkNjdiNTBkMTUxMThhZjcxYWZiNTgyOWZmN2E5NmNmZDdlZGFiYzhhYTc2NDRlZTVjYzZhYWFkMzI3NWQ2NQ",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 6",
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-22\/cin-atl",
           "type": "hls",
@@ -803,7 +810,7 @@
           }
         },
         {
-          "label": "Server 7",
+          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-cincinnati-reds-vs-atlanta-braves\/1",
           "type": "hls",
