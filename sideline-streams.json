@@ -1426,16 +1426,31 @@
         {
           "label": "Server 1",
           "subtitle": "Live",
-          "url": "ht",
+          "url": "https:\/\/edgestream2.pro\/hls\/zayrtezafgvdv68.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 2",
           "subtitle": "Live",
-          "url": "ht",
+          "url": "https:\/\/embedindia.st\/embed\/nhl\/2026-09-22\/uta-la",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/nhl\/2026-09-22\/uta-la"
+          }
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-utah-mammoth-vs-los-angeles-kings\/2",
+          "type": "hls",
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-utah-mammoth-vs-los-angeles-kings\/2"
+          }
         }
       ]
     },
