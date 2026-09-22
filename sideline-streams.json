@@ -245,33 +245,40 @@
         {
           "label": "Server 2",
           "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=cardinals=pirates&s=home&sport=mlb",
+          "url": "https:\/\/node-8bba18be.4587.website\/6ab36e6a.717cf13ai798bc8d0.fd50.d04298ab\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
           "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=cardinals=pirates&s=away&sport=mlb",
+          "url": "https:\/\/node-5d763f4c.4587.website\/6ab36e6a.7fac3bc0i798bc8d0.fd69.e9911f37\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=cardinals=pirates&s=home&sport=mlb",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 5",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=cardinals=pirates&s=away&sport=mlb",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 6",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb621\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjIxOjE3OTAwOTA0NDYzOTI6Y2RubGl2ZXR2LnR2OjM4MWQ2YmFmZTAyZmExN2IuYWJjMWZmYWFhM2ZiZTYwYzUzNzcyOTQ1MzNjNTZiZTczMGNiOTFlMWRmMTBkMGI1NzA5YjQ1MjNlY2FhNWNmNQ",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb61b\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjFiOjE3OTAwOTA0NDY1MDE6Y2RubGl2ZXR2LnR2OjQyOGIxN2QyMDllNGFiNGYuZTAzMzNhMDY4YTA4YTljZDFhMTAzMTgwNWU0MDViMDEyNjU4ZGJiYTY2NjYzYmVlMWJiMjYzNjQxNDg1ZDQ5NA",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 6",
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-22\/stl-pit",
           "type": "hls",
@@ -282,7 +289,7 @@
           }
         },
         {
-          "label": "Server 7",
+          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-st-louis-cardinals-vs-pittsburgh-pirates\/1",
           "type": "hls",
