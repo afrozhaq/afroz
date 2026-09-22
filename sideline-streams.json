@@ -1054,16 +1054,45 @@
         {
           "label": "Server 1",
           "subtitle": "Live",
-          "url": "ht",
+          "url": "https:\/\/edgestream2.pro\/hls\/bvnsqdfvgha70.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 2",
           "subtitle": "Live",
-          "url": "ht",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2781d8192bb76cb509\/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiNTA5OjE3OTAwOTA0NDgzODI6Y2RubGl2ZXR2LnR2OjMwNDk0MGM5NjY3Y2JmZGMuY2E1M2I5NWU1MjE0NjcxY2Y3MTJkZTU0ZDA1ZWU0ZGI2ZWUxMGZhZjI4NzMyNTRjOThkNzI4NjUzZTc5ZDhlNw",
           "type": "hls",
           "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2781d8192bb76cb514\/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiNTE0OjE3OTAwOTA0NDg1MDM6Y2RubGl2ZXR2LnR2OjI3YTM3YWMxOGVmYTJlZTMuMGYzY2Q5MGUyZDBhZjgxZDAwOTVkOGYxZjY1MTg3YTJkMGYxNWIzZDdhMmM5NTNkMjg5MGFkYWFhNjc0Y2FiZg",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
+          "subtitle": "Live",
+          "url": "https:\/\/embedindia.st\/embed\/wnba\/2026-09-22\/con-wsh",
+          "type": "hls",
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/wnba\/2026-09-22\/con-wsh"
+          }
+        },
+        {
+          "label": "Server 5",
+          "subtitle": "Live",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-connecticut-sun-vs-washington-mystics\/1",
+          "type": "hls",
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-connecticut-sun-vs-washington-mystics\/1"
+          }
         }
       ]
     },
