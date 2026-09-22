@@ -373,6 +373,33 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1790078813781",
+      "league": "nhl",
+      "gameId": "",
+      "away": "BUFFALO SABRES ",
+      "home": "COLOMBUS BLUE JACKETS",
+      "title": "Buffalo Sabres Vs Colombus Blue Jackets ",
+      "poster": "",
+      "startsAt": 1790118000000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "hey ",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "hey ",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
