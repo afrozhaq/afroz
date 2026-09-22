@@ -175,33 +175,40 @@
         {
           "label": "Server 2",
           "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=brewers=phillies&s=home&sport=mlb",
+          "url": "https:\/\/node-8bba18be.4587.website\/6ab36e69.16fa03f3i798bc8d0.fd57.4a6f92f6\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
           "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=brewers=phillies&s=away&sport=mlb",
+          "url": "https:\/\/node-8bba18be.4587.website\/6ab36e69.41047917i798bc8d0.fd54.7114672b\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=brewers=phillies&s=home&sport=mlb",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 5",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=brewers=phillies&s=away&sport=mlb",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 6",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6aa8d0d32d4a99e073e919b0\/playlist.m3u8?token=NmFhOGQwZDMyZDRhOTllMDczZTkxOWIwOjE3OTAwOTA0NDcwNzI6Y2RubGl2ZXR2LnR2OjAxNzRhZWYwMDVjNzIxOWIuZWM2MDI1OWNkZjJlY2M4MDUzNGM3YmFhNjg5NWQ0ZGUxNGEzYmNhMmM2NjMyMzhiYjU0YTM1NmYyNDViZWI0ZQ",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb616\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjE2OjE3OTAwOTA0NDcyMDk6Y2RubGl2ZXR2LnR2OmEyNTUwNzhjMzU0ZDgwODIuNzVlM2FlYzU5NTY3MTE4NWM4ZGYxOTcxMzBlNmU0MzMyYjFkOGFiODM5Y2VmZTBiMjNiY2Q1NDEzOGVjNTdiZA",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 6",
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-22\/mil-phi",
           "type": "hls",
@@ -212,7 +219,7 @@
           }
         },
         {
-          "label": "Server 7",
+          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-milwaukee-brewers-vs-philadelphia-phillies\/1",
           "type": "hls",
