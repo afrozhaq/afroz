@@ -213,33 +213,40 @@
         {
           "label": "Server 6",
           "subtitle": "Live Now",
-          "url": "https:\/\/edgestream2.pro\/hls\/JHDAJBDnjdna30.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "url": "https:\/\/dripcast.online\/nfl_streams\/index.php?q=los-angeles-rams.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 7",
+          "subtitle": "Live Now",
+          "url": "https:\/\/edgestream2.pro\/hls\/JHDAJBDnjdna30.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 8",
           "subtitle": "Live Now ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=giants=rams&s=home&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 8",
+          "label": "Server 9",
           "subtitle": "Live Now ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=giants=rams&s=away&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 9",
+          "label": "Server 10",
           "subtitle": "Live Now",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2781d8192bb76cb354\/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzU0OjE3OTAwNDk2MzA3ODU6Y2RubGl2ZXR2LnR2OjQ4Mzg1YjNiNzlkN2FiMTQuN2QzZDk0MWM0NGE2N2UyMzFlMjVkMmQ4ODk3MTQ4Zjc2NTZlMjFkODIzZDQ1MGJiNjVjNGUzNGNiZjI0MjA2Mw",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 10",
+          "label": "Server 11",
           "subtitle": "Live Now",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-21\/nyg-lar",
           "type": "hls",
@@ -250,7 +257,7 @@
           }
         },
         {
-          "label": "Server 11",
+          "label": "Server 12",
           "subtitle": "Live Now",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-new-york-giants-at-los-angeles-rams\/1",
           "type": "hls",
