@@ -20,20 +20,34 @@
         },
         {
           "label": "Server 2",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=nationals=tigers&s=home&sport=mlb",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=nationals=tigers&s=away&sport=mlb",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb5fb\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWZiOjE3OTAxNzE4NDU3NzI6Y2RubGl2ZXR2LnR2OmZlMzA4NWY0MmE4ZWNmY2QuNTc1MGVhNTVlMDI5MzY1NmEyZTMyOWIxZGI0YmRiZDdkYjk2OWE0YjM2MTY2ZmI0OWRjNGQyNTEzMDRhODAzNg",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 3",
+          "label": "Server 5",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb629\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjI5OjE3OTAxNzE4NDU4Nzg6Y2RubGl2ZXR2LnR2OjE0MmQwOGU1NTc3NjNiN2IuNjE2Y2M3MzRhYmVlZGU3NzA5NGFiZDYzNjZiNDRiYTZlYTYzNzY1YmUyMWEyMzgwOGQ2YTBjYThmMTMxZjQxYw",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
+          "label": "Server 6",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-23\/wsh-det",
           "type": "hls",
@@ -44,7 +58,7 @@
           }
         },
         {
-          "label": "Server 5",
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-washington-nationals-vs-detroit-tigers\/1",
           "type": "hls",
