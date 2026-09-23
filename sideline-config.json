@@ -11,7 +11,7 @@
   "announcement": "Give Us 5 Star Rate",
   "announcementUrl": "https:\/\/play.google.com\/store\/apps\/details?id=com.goalmindstudios.livescores",
   "announcementVisible": true,
-  "showApiScores": true,
+  "showApiScores": false,
   "customLeagues": [
     {
       "key": "wnba",
