@@ -961,20 +961,34 @@
         },
         {
           "label": "Server 2",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=astros=mariners&s=home&sport=mlb",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=astros=mariners&s=away&sport=mlb",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb61c\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjFjOjE3OTAxNzE4NTMzNDg6Y2RubGl2ZXR2LnR2OjU2MGM0OTk2NmExMmFhMTAuMTMyZmE0MDQzNzE3NjY4ZDJhNjljN2M2YjNiMDcyYjhlZTYxYzgyMjdhZDI1ZjNiYWY5ZWQ0YWFjMGVkOTE2ZA",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 3",
+          "label": "Server 5",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb627\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjI3OjE3OTAxNzE4NTM0NDQ6Y2RubGl2ZXR2LnR2OmFkNWQ5ZTFmNThlNTMwNmUuMjlkNzBlY2E1N2RhMGQ0MjgzNDI0OTVjODk1MjZlMjJjOWMyYWE1NzIzZTUxMDE2NmM1Njk2ODk4YzY4NDY0OQ",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
+          "label": "Server 6",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-23\/hou-sea",
           "type": "hls",
@@ -985,7 +999,7 @@
           }
         },
         {
-          "label": "Server 5",
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-houston-astros-vs-seattle-mariners\/1",
           "type": "hls",
@@ -1017,20 +1031,34 @@
         },
         {
           "label": "Server 2",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=padres=dodgers&s=home&sport=mlb",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=padres=dodgers&s=away&sport=mlb",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb626\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjI2OjE3OTAxNzE4NTMwNjY6Y2RubGl2ZXR2LnR2OjdkMDVmMjYxZjRiZTI1ZmUuMzhhMzgxZTVhMWJhMDlkMTMxYzUxYzNlNWEwODdhYzk5OTliZDcwMTI5ZGNhNmQ5MWEwNDY5M2UzY2U1ZTA5OA",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 3",
+          "label": "Server 5",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb61e\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjFlOjE3OTAxNzE4NTMxNTk6Y2RubGl2ZXR2LnR2OmNlNTFiODZhMjExODJjM2UuNGUzMTAxM2IzMmRjYTI4Yjc4NzdjNmQ4ZWYyNWEyZWQxZjI3YTg2ZGIzOWRhODA0ZmEwYjdiNDI1NDNjN2QxMg",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
+          "label": "Server 6",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-23\/sd-lad",
           "type": "hls",
@@ -1041,7 +1069,7 @@
           }
         },
         {
-          "label": "Server 5",
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-san-diego-padres-vs-los-angeles-dodgers\/1",
           "type": "hls",
