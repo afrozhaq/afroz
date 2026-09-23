@@ -821,20 +821,34 @@
         },
         {
           "label": "Server 2",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=diamondbacks=rockies&s=home&sport=mlb",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=diamondbacks=rockies&s=away&sport=mlb",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb62a\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjJhOjE3OTAxNzE4NTIwODE6Y2RubGl2ZXR2LnR2Ojg5OGY1OTc4ODliYmU3Y2IuMjgzMjA2NTJiNzY1N2MyMWI4MDJkNDI0YjdjMTVjNDg4ZDdmMTk3ZWY2N2VkYTI5YWViZjU2N2Y2ZTg3ODAyZA",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 3",
+          "label": "Server 5",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb630\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjMwOjE3OTAxNzE4NTIxODA6Y2RubGl2ZXR2LnR2OmY2NzAxYzA1MzAzODFhY2EuZjIwOGVlYWM0NWVkZThkNGZlZDA0YjI0ZTljMDNjOWY2YWY5ZGM3ODY2Y2I2NWRlNTg1ZGI3Yjk0ZDY1YWU4OQ",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
+          "label": "Server 6",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-23\/ari-col",
           "type": "hls",
@@ -845,7 +859,7 @@
           }
         },
         {
-          "label": "Server 5",
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-arizona-diamondbacks-vs-colorado-rockies\/1",
           "type": "hls",
@@ -877,20 +891,34 @@
         },
         {
           "label": "Server 2",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=angels=athletics&s=home&sport=mlb",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=angels=athletics&s=away&sport=mlb",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb622\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjIyOjE3OTAxNzE4NTI2NjU6Y2RubGl2ZXR2LnR2OjRiZjE3ZjEzNTQ0M2FmMzcuYTRhODY0OGM1MzUwNWUyYzA1MzljYmU5ZWJiMzc0MjRmYzI3ODZkMTgyZTdkMGZlY2EwMjU4ZWQzMjkyNTlhYg",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 3",
+          "label": "Server 5",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb632\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjMyOjE3OTAxNzE4NTI3NzM6Y2RubGl2ZXR2LnR2OjcwZjFkZmU2NjYzYTdmNDkuNjBkY2FjZDJjODE2NTU2NDhkMTEzODc1YWUwZDdiZTg5ZTZlZDJhNzM2MmFkNWNkYjJhODY1NTRmOWJjODBmOQ",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
+          "label": "Server 6",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-23\/laa-ath",
           "type": "hls",
@@ -901,7 +929,7 @@
           }
         },
         {
-          "label": "Server 5",
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-los-angeles-angels-vs-athletics\/1",
           "type": "hls",
