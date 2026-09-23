@@ -91,7 +91,7 @@
         {
           "label": "Server 1",
           "subtitle": "Live ",
-          "url": "https:\/\/edgestream2.pro\/hls\/ihfazugfyjcazich17.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "url": "https:\/\/instreams.live\/live\/tv401923610\/index.m3u8?st=d_NijZwd3Ymm3ijLuwbbiw&e=1790195422|Referer=https:\/\/instream.click\/livetv.php?stream=tv401923610&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/111.0.0.0 Safari\/537.36",
           "type": "hls",
           "rewarded": false
         },
@@ -112,6 +112,13 @@
         {
           "label": "Server 4",
           "subtitle": "Live ",
+          "url": "https:\/\/edgestream2.pro\/hls\/ihfazugfyjcazich17.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 5",
+          "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-23\/tor-bal",
           "type": "hls",
           "rewarded": false,
@@ -121,7 +128,7 @@
           }
         },
         {
-          "label": "Server 5",
+          "label": "Server 6",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-toronto-blue-jays-vs-baltimore-orioles\/1",
           "type": "hls",
