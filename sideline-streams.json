@@ -2013,26 +2013,6 @@
           "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
         }
       ]
-    },
-    {
-      "id": "s1790133911025",
-      "league": "wnba",
-      "gameId": "",
-      "away": "TEST",
-      "home": "TESTW",
-      "title": "wnba",
-      "poster": "",
-      "startsAt": 1790133900000,
-      "endsAt": 0,
-      "links": [
-        {
-          "label": "HD",
-          "subtitle": "fhd",
-          "url": "https",
-          "type": "hls",
-          "rewarded": false
-        }
-      ]
     }
   ]
 }
