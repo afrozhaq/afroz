@@ -21,28 +21,28 @@
         {
           "label": "Server 2",
           "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=nationals=tigers&s=home&sport=mlb",
+          "url": "https:\/\/node-025d151e.4587.website\/6ab476b3.df4d96d4i798bc8d0.ffb7.b2ccc2a2\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
           "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=nationals=tigers&s=away&sport=mlb",
+          "url": "https:\/\/node-5d763f4c.4587.website\/6ab476b3.b887a918i798bc8d0.ffba.538bfab1\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb5fb\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWZiOjE3OTAxNzE4NDU3NzI6Y2RubGl2ZXR2LnR2OmZlMzA4NWY0MmE4ZWNmY2QuNTc1MGVhNTVlMDI5MzY1NmEyZTMyOWIxZGI0YmRiZDdkYjk2OWE0YjM2MTY2ZmI0OWRjNGQyNTEzMDRhODAzNg",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=nationals=tigers&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb629\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjI5OjE3OTAxNzE4NDU4Nzg6Y2RubGl2ZXR2LnR2OjE0MmQwOGU1NTc3NjNiN2IuNjE2Y2M3MzRhYmVlZGU3NzA5NGFiZDYzNjZiNDRiYTZlYTYzNzY1YmUyMWEyMzgwOGQ2YTBjYThmMTMxZjQxYw",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=nationals=tigers&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
