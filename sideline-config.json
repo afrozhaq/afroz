@@ -5,13 +5,13 @@
   "title": "Love Dofu Stream?",
   "message": "Help us grow! A 5-star rating keeps us motivated to bring you the best live streaming.",
   "updateUrl": "https:\/\/play.google.com\/store\/apps\/details?id=com.goalmindstudios.livescores",
-  "buttonText": "Rate Now",
+  "buttonText": "Update",
   "maintenance": false,
   "maintenanceMessage": "",
   "announcement": "Give Us 5 Star Rate",
   "announcementUrl": "https:\/\/play.google.com\/store\/apps\/details?id=com.goalmindstudios.livescores",
   "announcementVisible": true,
-  "showApiScores": false,
+  "showApiScores": true,
   "customLeagues": [
     {
       "key": "wnba",
