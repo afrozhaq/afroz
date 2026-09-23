@@ -10,5 +10,13 @@
   "maintenanceMessage": "",
   "announcement": "Give Us 5 Star Rate",
   "announcementUrl": "https:\/\/play.google.com\/store\/apps\/details?id=com.goalmindstudios.livescores",
-  "announcementVisible": true
+  "announcementVisible": true,
+  "showApiScores": true,
+  "customLeagues": [
+    {
+      "key": "wnba",
+      "label": "WNBA",
+      "color": "#E8608A"
+    }
+  ]
 }
