@@ -146,20 +146,34 @@
         },
         {
           "label": "Server 2",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=twins=giants&s=home&sport=mlb",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=twins=giants&s=away&sport=mlb",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6aa8d0d32d4a99e073e919b3\/playlist.m3u8?token=NmFhOGQwZDMyZDRhOTllMDczZTkxOWIzOjE3OTAxNzE4NDcxMzI6Y2RubGl2ZXR2LnR2OjA2ZTk2ZGE4ODUyNjMyM2QuYmNkN2MxMjI4YWU1ODAzOWZhOTBiNTNlMjM0ZDExYjBhMzJlMThmN2VhMWFiZWZmYTU3N2I5NWMwYmQ5NzBiYw",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 3",
+          "label": "Server 5",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb61d\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjFkOjE3OTAxNzE4NDcyMTU6Y2RubGl2ZXR2LnR2OjQ3MWY5NmU0ZjE2NTZiZTMuYWNmYmY1NDMyYjg0MjIzMjFjZjk2MzA4OTRmNWEwNDViNGQ4NTBmYTM4NjE1Nzg0NmRhMDkzZjkzZjgxNzU2Mw",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
+          "label": "Server 6",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-23\/min-sf",
           "type": "hls",
@@ -170,7 +184,7 @@
           }
         },
         {
-          "label": "Server 5",
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-minnesota-twins-vs-san-francisco-giants\/1",
           "type": "hls",
