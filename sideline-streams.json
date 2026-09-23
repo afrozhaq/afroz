@@ -541,20 +541,34 @@
         },
         {
           "label": "Server 2",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=reds=braves&s=home&sport=mlb",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=reds=braves&s=away&sport=mlb",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb600\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjAwOjE3OTAxNzE4NDk3NjM6Y2RubGl2ZXR2LnR2OmZkMTZjYWZmODNkMjhkODcuZGYyNmFlNGY2ZTZmZjI3YzZlYmFlN2E4NmJmNDFhOWYxNGVhYmJkZmJmODc2NDBlZDZjMThlZDc2ZmEzNGI4OA",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 3",
+          "label": "Server 5",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb612\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjEyOjE3OTAxNzE4NDk4NzU6Y2RubGl2ZXR2LnR2OjMzMjI4NWQxODRhZjAzYzkuNTk5ODk5MzM5NDBjYjIwNjIxYmZlZDU5OTQyNTcyOTM5YmZjNTJkY2YwN2RjNmNjZjIzODAzN2E4NWUzMzA1Yw",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
+          "label": "Server 6",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-23\/cin-atl",
           "type": "hls",
@@ -565,7 +579,7 @@
           }
         },
         {
-          "label": "Server 5",
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-cincinnati-reds-vs-atlanta-braves\/1",
           "type": "hls",
@@ -597,20 +611,34 @@
         },
         {
           "label": "Server 2",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=whitesox=royals&s=home&sport=mlb",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=whitesox=royals&s=away&sport=mlb",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb601\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjAxOjE3OTAxNzE4NTA1MDg6Y2RubGl2ZXR2LnR2OjE1OTUyODBkZWNiYThlNWUuZDAxOTc5NjQ4ZmI2ZjU1MDEzMWZkMzA2YzA5NTI0NTE0ZjVmMjU2ZGQwZWI2MzVmYjU3ZTdhZDc5OWMwNzhlYg",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 3",
+          "label": "Server 5",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb615\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjE1OjE3OTAxNzE4NTA2MzI6Y2RubGl2ZXR2LnR2OmUzM2E2ODAwNGU3MmI3N2YuZTY3MjMxZjU5MzlmMjQ0OWRjM2UzNTBiZTU0YWQ3MjdlYzU1ZjFmMTRhYWViMDM2YTU4ZDUyNGFiMWFkYzE5NQ",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
+          "label": "Server 6",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-23\/chw-kc",
           "type": "hls",
@@ -621,7 +649,7 @@
           }
         },
         {
-          "label": "Server 5",
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-chicago-white-sox-vs-kansas-city-royals\/1",
           "type": "hls",
