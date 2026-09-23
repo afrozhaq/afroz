@@ -681,20 +681,34 @@
         },
         {
           "label": "Server 2",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=marlins=cubs&s=home&sport=mlb",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=marlins=cubs&s=away&sport=mlb",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb602\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjAyOjE3OTAxNzE4NTAwODc6Y2RubGl2ZXR2LnR2OjU2NTBlNmYyNDA5NTBiYjQuOWE1ODY1YTI2YmZlZjMzMmQ5OGRiM2Y3M2ZhNzI4NThjZTkxOGEzMGMxYWEzNDA0OTQ1OGFjOTRhNDlkNTU4ZA",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 3",
+          "label": "Server 5",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb631\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjMxOjE3OTAxNzE4NTAyMDE6Y2RubGl2ZXR2LnR2OjRkZjA5NGM1YzI0OGIyOWYuZTBiNjFiYTI1ZjgxOTA2ZDcxZDYwMGI3ZjFkMTIxZWNhZWNmMzkxN2YxNzhhYzhlMTVlYzBhNTQwZjg0MmI1NQ",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
+          "label": "Server 6",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-23\/mia-chc",
           "type": "hls",
@@ -705,7 +719,7 @@
           }
         },
         {
-          "label": "Server 5",
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-miami-marlins-vs-chicago-cubs\/1",
           "type": "hls",
@@ -737,20 +751,34 @@
         },
         {
           "label": "Server 2",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=mets=rangers&s=home&sport=mlb",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=mets=rangers&s=away&sport=mlb",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb619\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjE5OjE3OTAxNzE4NTE3NjU6Y2RubGl2ZXR2LnR2OmI4NGE0NzI2MDMwY2M2OWMuYjQyYzJkN2FkODYyYTlkNjM1OGM1NmYyNzEyYzdiZmIyYTcyZGJmNGFmMDcyNTM5ODllMmJlYTE1YTAyOTBhMg",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 3",
+          "label": "Server 5",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb625\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjI1OjE3OTAxNzE4NTE4Njk6Y2RubGl2ZXR2LnR2OjA4YjQ4NWYzMzFlYTZlZGQuZTY1MTFhNjNjMzhiY2Y3Nzk0YTJiYjQ4ODFjMGQ1NDBiMTExMmM2ZDllN2M5MDIzODQyOWM0ZjFmOGM5NTkzYw",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
+          "label": "Server 6",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-23\/nym-tex",
           "type": "hls",
@@ -761,7 +789,7 @@
           }
         },
         {
-          "label": "Server 5",
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-new-york-mets-vs-texas-rangers\/1",
           "type": "hls",
