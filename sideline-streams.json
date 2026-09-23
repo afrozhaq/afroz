@@ -478,6 +478,33 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1790157023246",
+      "league": "nba",
+      "gameId": "",
+      "away": "SEATTLE STORM ",
+      "home": "DALLAS WINGS ",
+      "title": "Seattle Storm Vs Dallas Wings ",
+      "poster": "",
+      "startsAt": 1790215200000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "https",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "https",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
