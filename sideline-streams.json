@@ -532,6 +532,33 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1790157201070",
+      "league": "nhl",
+      "gameId": "",
+      "away": "DALLAS STARS ",
+      "home": "MINNESOTA WILD ",
+      "title": "Dallas Stars Vs Minnesota Wild",
+      "poster": "",
+      "startsAt": 1790208000000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "hps",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "hps",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
