@@ -1322,28 +1322,28 @@
         {
           "label": "Server 2",
           "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=diamondbacks=rockies&s=home&sport=mlb",
+          "url": "https:\/\/node-025d151e.4587.website\/6ab38efe.1ab0b237i798bc8d0.ff2f.84bcf143\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
           "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=diamondbacks=rockies&s=away&sport=mlb",
+          "url": "https:\/\/node-025d151e.4587.website\/6ab38efe.8e6f3d1di798bc8d0.ff31.382013f9\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb62a\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjJhOjE3OTAwOTA0NTMxMjg6Y2RubGl2ZXR2LnR2OjQ0NDljNDBhNWY4NWJhNDMuMTA1YjZkZTIxMTRmZDQ2NzZhMWQ5OTg3ZjQ2N2EzOGIwZGJiNmU2MDk0ZmE3OTY4ZjgzYzg3M2VhZjRiOGJlMw",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=diamondbacks=rockies&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb630\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjMwOjE3OTAwOTA0NTMyNTE6Y2RubGl2ZXR2LnR2Ojg3MjM4OTRlMTZjNzNlNTQuOGJlOGFiMjU0Yjk1NDQ1NmY4YTFhZDJhZjE4NmIzNmExMDhmZWY3ZDE4NjY4ODM3NTNkN2M5MzY2Mzk2MDgyMQ",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=diamondbacks=rockies&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
