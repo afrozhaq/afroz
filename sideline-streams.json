@@ -1486,6 +1486,13 @@
         {
           "label": "Server 2",
           "subtitle": "Live",
+          "url": "https:\/\/instreams.live\/live\/tv401886429\/index.m3u8?st=4gwA4uk1Ryz9G1jZO_lOng&e=1790217030|Referer=https:\/\/instream.click\/livetv.php?stream=tv401886429&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/111.0.0.0 Safari\/537.36",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/delta\/live_nhl-preseason_stars-wild-live-streaming-623947968\/1",
           "type": "hls",
           "rewarded": false,
