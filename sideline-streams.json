@@ -505,6 +505,33 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1790157103424",
+      "league": "nhl",
+      "gameId": "",
+      "away": "TORONTO MAPLE LEAFS",
+      "home": "OTTAWA SENATORS",
+      "title": "",
+      "poster": "",
+      "startsAt": 1790204400000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "ht",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "ht",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
