@@ -559,6 +559,33 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1790157249816",
+      "league": "nhl",
+      "gameId": "",
+      "away": "ANAHEIM DUCKS",
+      "home": "LOS ANGELES KINGS",
+      "title": "Anaheim Ducks Vs Los Angeles Kings",
+      "poster": "",
+      "startsAt": 1790215200000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
