@@ -763,6 +763,26 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1790241688508",
+      "league": "wnba",
+      "gameId": "",
+      "away": "SPARKS",
+      "home": "VALKYRIES",
+      "title": "Sparks vs Valkyries",
+      "poster": "",
+      "startsAt": 1790301600000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "HD",
+          "subtitle": "hd",
+          "url": "http",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
