@@ -1151,28 +1151,28 @@
         {
           "label": "Server 2",
           "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=padres=dodgers&s=home&sport=mlb",
+          "url": "https:\/\/node-5d763f4c.4587.website\/6ab4ed8a.4c7e6f9bi798bc8d0.100ef.1776cf55\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
           "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=padres=dodgers&s=away&sport=mlb",
+          "url": "https:\/\/node-5d763f4c.4587.website\/6ab4ed8a.f3be5c03i798bc8d0.100fa.d5e3dc9c\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb626\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjI2OjE3OTAxNzE4NTMwNjY6Y2RubGl2ZXR2LnR2OjdkMDVmMjYxZjRiZTI1ZmUuMzhhMzgxZTVhMWJhMDlkMTMxYzUxYzNlNWEwODdhYzk5OTliZDcwMTI5ZGNhNmQ5MWEwNDY5M2UzY2U1ZTA5OA",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=padres=dodgers&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb61e\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjFlOjE3OTAxNzE4NTMxNTk6Y2RubGl2ZXR2LnR2OmNlNTFiODZhMjExODJjM2UuNGUzMTAxM2IzMmRjYTI4Yjc4NzdjNmQ4ZWYyNWEyZWQxZjI3YTg2ZGIzOWRhODA0ZmEwYjdiNDI1NDNjN2QxMg",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=padres=dodgers&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
