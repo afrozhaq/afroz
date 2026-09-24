@@ -91,28 +91,28 @@
         {
           "label": "Server 2",
           "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=whitesox=royals&s=home&sport=mlb",
+          "url": "https:\/\/node-9b5feb01.4587.website\/6ab5d561.8f64bc36i798bc8d0.10174.5b3d412a\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
           "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=whitesox=royals&s=away&sport=mlb",
+          "url": "https:\/\/node-025d151e.4587.website\/6ab5d561.3bfbefc3i798bc8d0.10175.dcea451c\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb603\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjAzOjE3OTAyNjc2NzE2NzA6Y2RubGl2ZXR2LnR2OjRkNWEwZWY2NjAzMjQ2NDAuNGQ4MDQwM2Q1NGFmNGM5ZjE1Njk0NzlmNDg1YzExZDU1ZDgxMTNkNGUzZTViMzFiYzJhODgzNTE3Zjk3YjM5Nw",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=whitesox=royals&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb615\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjE1OjE3OTAyNjc2NzE4MTM6Y2RubGl2ZXR2LnR2OmVmZjYyN2JmMmVjNTUxYzMuODAxYjY0NTczZGNjZmQ5MGU0MjcyYjk5OTQwYjU1Mjg0MGQyYWQyMDVhMThiNGU4ZDAxZTY4NzIyYjgwN2JjNw",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=whitesox=royals&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
