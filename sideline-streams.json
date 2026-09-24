@@ -336,40 +336,47 @@
         {
           "label": "Server 1",
           "subtitle": "Live",
-          "url": "https:\/\/edgestream2.pro\/hls\/bzagLHzach19.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "url": "https:\/\/dripcast.online\/nfl_streams\/index.php?q=colorado-rockies.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 2",
           "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=diamondbacks=rockies&s=home&sport=mlb",
+          "url": "https:\/\/node-8bba18be.4587.website\/6ab5e3d1.cf2c8d83i798bc8d0.10186.f248db55\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
           "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=diamondbacks=rockies&s=away&sport=mlb",
+          "url": "https:\/\/node-8bba18be.4587.website\/6ab5e3d1.ac8f93d7i798bc8d0.10188.fc0a7446\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
           "subtitle": "Live",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb606\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjA2OjE3OTAyNjc2NzMyMzA6Y2RubGl2ZXR2LnR2Ojk2M2YzYTRjMTI5ZGNkZmYuNmI5YTRmMzcxM2VhNTEzMjVkNWIzNjEyYzg2MmZhNDE4YTAzMWE4NmIxOGNiYmY5MjU1NmE0MThiZDNmZmIzNw",
+          "url": "https:\/\/edgestream2.pro\/hls\/bzagLHzach19.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
-          "subtitle": "Live",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb62a\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjJhOjE3OTAyNjc2NzMzMjQ6Y2RubGl2ZXR2LnR2OjIwYjRmOGE5MTViZmNhMmUuMTNkMzIyYzUzNGU2MTYwYTIzZDBlMDYyNGUxMWY2ODlkMGU4NjYyNTEyOGM3NzM3NzEyZWU5ZjIwNmMzMjk2YQ",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=diamondbacks=rockies&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 6",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=diamondbacks=rockies&s=away&sport=mlb",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 7",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-24\/ari-col",
           "type": "hls",
@@ -380,7 +387,7 @@
           }
         },
         {
-          "label": "Server 7",
+          "label": "Server 8",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-arizona-diamondbacks-vs-colorado-rockies\/1",
           "type": "hls",
