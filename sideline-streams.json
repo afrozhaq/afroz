@@ -833,6 +833,13 @@
         },
         {
           "label": "Server 10",
+          "subtitle": "Live ",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc172\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTcyOjE3OTAzMDg0ODY0OTY6Y2RubGl2ZXR2LnR2OmIzZDQyZTgyNTk5MmJiMTIuMTBlNTk3NThmNzg1NDA0NTM2ZTUxM2ZjOGVlMDAxNzFjYTFkMjMyNDNjNmQyYTE4MWM5NDBlZDM1N2FiOTg1NA",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 11",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-24\/atl-gb",
           "type": "hls",
@@ -843,7 +850,7 @@
           }
         },
         {
-          "label": "Server 11",
+          "label": "Server 12",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-atlanta-falcons-at-green-bay-packers\/1",
           "type": "hls",
