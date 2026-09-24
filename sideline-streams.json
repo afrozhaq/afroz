@@ -21,28 +21,28 @@
         {
           "label": "Server 2",
           "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=cardinals=pirates&s=home&sport=mlb",
+          "url": "https:\/\/node-5d763f4c.4587.website\/6ab5bf24.ef4a7158i798bc8d0.10163.a5520332\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
           "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=cardinals=pirates&s=away&sport=mlb",
+          "url": "https:\/\/node-8bba18be.4587.website\/6ab5bf24.789d5c96i798bc8d0.10170.b4d61060\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb5fd\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWZkOjE3OTAyNjc2NzA5OTg6Y2RubGl2ZXR2LnR2OjY2YzQ3N2M2NzE2Y2U1ZTEuM2U3ZWFkNWQzMjJkMGU4ZTFkZTRhNmVhMjczYTZkMjIxYTRmZjMxZDc4ZDc0YzYxMGY1NzViY2EyMWI2N2Q0ZA",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=cardinals=pirates&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb621\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjIxOjE3OTAyNjc2NzExMDM6Y2RubGl2ZXR2LnR2OjkyNDgzMWQ2M2M3NTQ4ZWIuNDVhY2U2ZTU5ZWY1OWEwNzViNjlhOTNhODI3NTZhM2YxNTRjZTU4Yjk0Nzk2OThmZGMwNzAzZDEzNzU2NTg0ZA",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=cardinals=pirates&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
