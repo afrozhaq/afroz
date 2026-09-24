@@ -1003,6 +1003,26 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1790246077702",
+      "league": "nhl",
+      "gameId": "",
+      "away": "SHARKS",
+      "home": "DUCKS",
+      "title": "Sharks vs Ducks",
+      "poster": "",
+      "startsAt": 1790301600000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "HD",
+          "subtitle": "hd",
+          "url": "http",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
