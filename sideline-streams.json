@@ -963,6 +963,26 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1790245942427",
+      "league": "nhl",
+      "gameId": "",
+      "away": "KRAKEN",
+      "home": "FLAMES",
+      "title": "Kraken vs Flames",
+      "poster": "",
+      "startsAt": 1790300400000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "HD",
+          "subtitle": "hd",
+          "url": "http",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
