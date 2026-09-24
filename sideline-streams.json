@@ -863,6 +863,26 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1790245417476",
+      "league": "nhl",
+      "gameId": "",
+      "away": "RED WINGS",
+      "home": "SABRES",
+      "title": "Red Wings vw Sabres",
+      "poster": "",
+      "startsAt": 1790290800000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "HD",
+          "subtitle": "hd",
+          "url": "http",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
