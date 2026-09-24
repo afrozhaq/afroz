@@ -903,6 +903,26 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1790245626317",
+      "league": "nhl",
+      "gameId": "",
+      "away": "FLYERS",
+      "home": "BRUINS",
+      "title": "Flyers vs Bruins",
+      "poster": "",
+      "startsAt": 1790290800000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "HD",
+          "subtitle": "hd",
+          "url": "http",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
