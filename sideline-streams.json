@@ -803,6 +803,26 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1790245139748",
+      "league": "nhl",
+      "gameId": "",
+      "away": "HURRICANES",
+      "home": "PREDATORS",
+      "title": "HURRICANES vs PREDATORS",
+      "poster": "",
+      "startsAt": 1790290860000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "HD",
+          "subtitle": "hd",
+          "url": "http",
+          "type": "dash",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
