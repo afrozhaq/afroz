@@ -886,55 +886,6 @@
       ]
     },
     {
-      "id": "s1790156967276",
-      "league": "nba",
-      "gameId": "",
-      "away": "NEW YORK LIBERTY ",
-      "home": "ATLANTA DREAM ",
-      "title": "New York Liberty Vs Atlanta Dream ",
-      "poster": "",
-      "startsAt": 1790208000000,
-      "endsAt": 0,
-      "links": [
-        {
-          "label": "Server 1",
-          "subtitle": "Live",
-          "url": "https:\/\/edgestream2.pro\/hls\/bvnsqdfvgha70.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 2",
-          "subtitle": "Live",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2781d8192bb76cb34e\/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzRlOjE3OTAyMjE4NDk5ODM6Y2RubGl2ZXR2LnR2OjU2MDM0NjIzMDJkMDM3OTguZjI4ZDhiYjQ1ZThhZDZjZWNlZmE5NGFkN2I3OGM4NGZmNmJlMTBmNzJkNzMyNjVhM2VjM2M0NjQ3YjU2YzY1Mg",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 3",
-          "subtitle": "Live",
-          "url": "https:\/\/embedindia.st\/embed\/wnba\/2026-09-23\/atl-ny",
-          "type": "hls",
-          "rewarded": false,
-          "tokenApi": {
-            "type": "embed",
-            "api": "https:\/\/embedindia.st\/embed\/wnba\/2026-09-23\/atl-ny"
-          }
-        },
-        {
-          "label": "Server 4",
-          "subtitle": "Live",
-          "url": "https:\/\/embed.st\/embed\/admin\/ppv-atlanta-dream-vs-new-york-liberty\/1",
-          "type": "hls",
-          "rewarded": false,
-          "tokenApi": {
-            "type": "embed",
-            "api": "https:\/\/embed.st\/embed\/admin\/ppv-atlanta-dream-vs-new-york-liberty\/1"
-          }
-        }
-      ]
-    },
-    {
       "id": "s1790157201070",
       "league": "nhl",
       "gameId": "",
@@ -1262,55 +1213,6 @@
           "tokenApi": {
             "type": "embed",
             "api": "https:\/\/embed.st\/embed\/admin\/ppv-houston-astros-vs-seattle-mariners\/1"
-          }
-        }
-      ]
-    },
-    {
-      "id": "s1790157023246",
-      "league": "nba",
-      "gameId": "",
-      "away": "SEATTLE STORM ",
-      "home": "DALLAS WINGS ",
-      "title": "Seattle Storm Vs Dallas Wings ",
-      "poster": "",
-      "startsAt": 1790215200000,
-      "endsAt": 0,
-      "links": [
-        {
-          "label": "Server 1",
-          "subtitle": "Live",
-          "url": "https:\/\/edgestream2.pro\/hls\/ztyarueaghj71.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 2",
-          "subtitle": "Live",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc32d\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzJkOjE3OTAxNzE4NTEwMjQ6Y2RubGl2ZXR2LnR2OjRkMzVjZThjODhjZDU3MzQuYzkxYjBlMDM1OGIyN2MxOWUyNGU2MTQ2NWRlM2RhMjRmZmRlZDNlMjllY2Y1NzliOTc3NzllOWNmZDliYjQyZQ",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 3",
-          "subtitle": "Live",
-          "url": "https:\/\/embedindia.st\/embed\/wnba\/2026-09-23\/dal-sea",
-          "type": "hls",
-          "rewarded": false,
-          "tokenApi": {
-            "type": "embed",
-            "api": "https:\/\/embedindia.st\/embed\/wnba\/2026-09-23\/dal-sea"
-          }
-        },
-        {
-          "label": "Server 4",
-          "subtitle": "Live",
-          "url": "https:\/\/embed.st\/embed\/admin\/ppv-dallas-wings-vs-seattle-storm\/1",
-          "type": "hls",
-          "rewarded": false,
-          "tokenApi": {
-            "type": "embed",
-            "api": "https:\/\/embed.st\/embed\/admin\/ppv-dallas-wings-vs-seattle-storm\/1"
           }
         }
       ]
