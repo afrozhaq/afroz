@@ -983,6 +983,26 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1790245992569",
+      "league": "nhl",
+      "gameId": "",
+      "away": "GOLDEN KNIGHTS",
+      "home": "MAMMOTH",
+      "title": "Golden Knights vs Mammoth",
+      "poster": "",
+      "startsAt": 1790301600000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "HD",
+          "subtitle": "hd",
+          "url": "https",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
