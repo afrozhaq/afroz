@@ -257,6 +257,15 @@
           "rewarded": false,
           "drmScheme": "clearkey",
           "drmLicenseUrl": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7"
+        },
+        {
+          "label": "Main Server 4",
+          "subtitle": "FHD Auto Quality",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/zbc6muqib6\/out\/v1\/f5774813052f4d5499e7611d0db33b2f\/cenc.mpd",
+          "type": "dash",
+          "rewarded": false,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8"
         }
       ]
     },
