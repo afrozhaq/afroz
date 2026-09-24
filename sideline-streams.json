@@ -883,6 +883,26 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1790245495359",
+      "league": "nhl",
+      "gameId": "",
+      "away": "LIGHTNING",
+      "home": "PANTHERS",
+      "title": "Lightning vs Panthers",
+      "poster": "",
+      "startsAt": 1790290800000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "HD",
+          "subtitle": "hd",
+          "url": "http",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
