@@ -843,6 +843,26 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1790245371034",
+      "league": "nhl",
+      "gameId": "",
+      "away": "RANGERS",
+      "home": "DEVILS",
+      "title": "Rangers vs Devils",
+      "poster": "",
+      "startsAt": 1790290800000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "HD",
+          "subtitle": "hd",
+          "url": "http",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
