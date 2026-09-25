@@ -609,11 +609,47 @@
       "endsAt": 0,
       "links": [
         {
-          "label": "Server ",
+          "label": "Server 1",
           "subtitle": "Live ",
-          "url": "https:\/\/edgestream2.pro\/hls\/jkzahzadach20.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "url": "https:\/\/edgestream2.pro\/hls\/ijfnakfidch22.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
-          "rewarded": true
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live ",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb618\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjE4OjE3OTAzNDQ4MjI2NjA6Y2RubGl2ZXR2LnR2OjQ2ZmJkMDg5MjA4MTQ3MmEuMjhkOTE3OTU0YTgyNjA4Y2Q5ZGMwMzA0Zjk4ZDE1NmNmZTI0ODMzZGY2ZjgzNTYxYzI2ZjIyMmI0YzM2ZGU3Yg",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live ",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb617\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjE3OjE3OTAzNDQ4MjI4NDQ6Y2RubGl2ZXR2LnR2OmJhYjBhMDZmZGM4OTRjOWEuZjJmYTdlODY0YTEzNDhmYWFhMmRkMmVlNjcyNWJmMTZjNzVmNzhlMzY5ZGZlNDZhNTE5YzY0NTQxNWRmYTg0YQ",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
+          "subtitle": "Live ",
+          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-25\/cin-tor",
+          "type": "hls",
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-25\/cin-tor"
+          }
+        },
+        {
+          "label": "Server 5",
+          "subtitle": "Live ",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-cincinnati-reds-vs-toronto-blue-jays\/1",
+          "type": "hls",
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-cincinnati-reds-vs-toronto-blue-jays\/1"
+          }
         }
       ]
     },
