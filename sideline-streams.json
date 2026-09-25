@@ -815,6 +815,33 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1790325741390",
+      "league": "nhl",
+      "gameId": "",
+      "away": "COLORADO AVALANCHE ",
+      "home": "WINNIPEG JETS ",
+      "title": "Colorado Avalanche Vs Winnipeg Jets ",
+      "poster": "",
+      "startsAt": 1790382600000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live ",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live ",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
