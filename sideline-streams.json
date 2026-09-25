@@ -912,7 +912,7 @@
         {
           "label": "Server 1",
           "subtitle": "Live ",
-          "url": "https:\/\/dripcast.online\/nfl_streams\/index.php?q=chicago-white-sox.m3u8",
+          "url": "https:\/\/instreams.live\/live\/tv401817080\/index.m3u8?st=6JmQlUgP_OyBBzIdqsNycA&e=1790389852|Referer=https:\/\/instream.click\/livetv.php?stream=tv401817080&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/111.0.0.0 Safari\/537.36",
           "type": "hls",
           "rewarded": false
         },
