@@ -255,7 +255,7 @@
         {
           "label": "Server 1",
           "subtitle": "Live ",
-          "url": "https:\/\/edgestream2.pro\/hls\/Czajafjihafch18.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "url": "https:\/\/dripcast.online\/nfl_streams\/index.php?q=detroit-tigers.m3u8",
           "type": "hls",
           "rewarded": false
         },
@@ -275,20 +275,27 @@
         },
         {
           "label": "Server 4",
+          "subtitle": "Live ",
+          "url": "https:\/\/edgestream2.pro\/hls\/Czajafjihafch18.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 5",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=pirates=tigers&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
+          "label": "Server 6",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=pirates=tigers&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 6",
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-25\/pit-det",
           "type": "hls",
@@ -299,7 +306,7 @@
           }
         },
         {
-          "label": "Server 7",
+          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-pittsburgh-pirates-vs-detroit-tigers\/1",
           "type": "hls",
@@ -325,7 +332,7 @@
         {
           "label": "Server 1",
           "subtitle": "Live ",
-          "url": "https:\/\/edgestream2.pro\/hls\/bzagLHzach19.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "url": "https:\/\/dripcast.online\/nfl_streams\/index.php?q=philadelphia-phillies.m3u8",
           "type": "hls",
           "rewarded": false
         },
@@ -345,20 +352,27 @@
         },
         {
           "label": "Server 4",
+          "subtitle": "Live ",
+          "url": "https:\/\/edgestream2.pro\/hls\/bzagLHzach19.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 5",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=rays=phillies&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
+          "label": "Server 6",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=rays=phillies&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 6",
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-25\/tb-phi",
           "type": "hls",
@@ -369,7 +383,7 @@
           }
         },
         {
-          "label": "Server 7",
+          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-tampa-bay-rays-vs-philadelphia-phillies\/1",
           "type": "hls",
