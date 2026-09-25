@@ -21,28 +21,6 @@
       ]
     },
     {
-      "id": "s1790104972640",
-      "league": "ncaaf",
-      "gameId": "",
-      "away": "ARMY",
-      "home": "TEM",
-      "title": "ARMY at TEM",
-      "poster": "",
-      "startsAt": 1790366400000,
-      "endsAt": 0,
-      "links": [
-        {
-          "label": "HD",
-          "subtitle": "FHD",
-          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
-          "type": "dash",
-          "rewarded": true,
-          "drmScheme": "clearkey",
-          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
-        }
-      ]
-    },
-    {
       "id": "s1790325146537",
       "league": "mlb",
       "gameId": "5060179",
@@ -139,72 +117,6 @@
           "url": "https:\/\/edgestream2.pro\/hls\/jkzahzadach20.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": true
-        }
-      ]
-    },
-    {
-      "id": "s1790104972641",
-      "league": "ncaaf",
-      "gameId": "",
-      "away": "HARV",
-      "home": "BRWN",
-      "title": "HARV at BRWN",
-      "poster": "",
-      "startsAt": 1790377200000,
-      "endsAt": 0,
-      "links": [
-        {
-          "label": "HD",
-          "subtitle": "FHD",
-          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
-          "type": "dash",
-          "rewarded": false,
-          "drmScheme": "clearkey",
-          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
-        }
-      ]
-    },
-    {
-      "id": "s1790104972642",
-      "league": "ncaaf",
-      "gameId": "",
-      "away": "HOW",
-      "home": "RUTG",
-      "title": "HOW at RUTG",
-      "poster": "",
-      "startsAt": 1790377200000,
-      "endsAt": 0,
-      "links": [
-        {
-          "label": "HD",
-          "subtitle": "FHD",
-          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
-          "type": "dash",
-          "rewarded": false,
-          "drmScheme": "clearkey",
-          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
-        }
-      ]
-    },
-    {
-      "id": "s1790104972643",
-      "league": "ncaaf",
-      "gameId": "",
-      "away": "NAVY",
-      "home": "UAB",
-      "title": "NAVY at UAB",
-      "poster": "",
-      "startsAt": 1790377200000,
-      "endsAt": 0,
-      "links": [
-        {
-          "label": "HD",
-          "subtitle": "FHD",
-          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
-          "type": "dash",
-          "rewarded": false,
-          "drmScheme": "clearkey",
-          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
         }
       ]
     },
