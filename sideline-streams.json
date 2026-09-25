@@ -325,28 +325,28 @@
         {
           "label": "Server 2",
           "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=rays=phillies&s=home&sport=mlb",
+          "url": "https:\/\/node-8bba18be.4587.website\/6ab76789.d5888c7bi798bc8d0.10389.9c5caad4\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
           "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=rays=phillies&s=away&sport=mlb",
+          "url": "https:\/\/node-025d151e.4587.website\/6ab76789.e8bc5955i798bc8d0.10393.6a01250f\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6aa8d0d32d4a99e073e919b4\/playlist.m3u8?token=NmFhOGQwZDMyZDRhOTllMDczZTkxOWI0OjE3OTAzNDQ4MjAzNTk6Y2RubGl2ZXR2LnR2OjE1NTkyZmFhNTcxZWQyYzUuY2Q3NzIwN2NjOTMyYTRhOTFmMjFjNjAxY2EzZDJkYjAwNjJkMDE5Mjg4ZTUzNmI0YTg4OGUyY2FhZTNkMmJkYg",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=rays=phillies&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb616\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjE2OjE3OTAzNDQ4MjA1MjQ6Y2RubGl2ZXR2LnR2OmU3YWEzZWY2NTk3NzI4NWYuZWY2MjZmMmRiOTcyMDIzNTU1YjNjMTdkZmFjM2NlN2JjZWJmYmMzYWM1MzA1NDhjNjUyMWI3NmMzZTJhYTc1Ng",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=rays=phillies&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
