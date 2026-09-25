@@ -659,13 +659,27 @@
         },
         {
           "label": "Server 2",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/node-025d151e.4587.website\/6ab76d83.829e65e6i798bc8d0.1038c.c7823ef9\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/node-9b5feb01.4587.website\/6ab76d83.bf16a881i798bc8d0.103a0.db4382e8\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
           "subtitle": "Live ",
           "url": "https:\/\/edgestream2.pro\/hls\/ijfnakfidch22.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 3",
+          "label": "Server 5",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-25\/cin-tor",
           "type": "hls",
@@ -676,7 +690,7 @@
           }
         },
         {
-          "label": "Server 4",
+          "label": "Server 6",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-cincinnati-reds-vs-toronto-blue-jays\/1",
           "type": "hls",
