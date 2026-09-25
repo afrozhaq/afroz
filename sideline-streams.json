@@ -1179,6 +1179,15 @@
           "rewarded": false,
           "drmScheme": "clearkey",
           "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "label": "Main Server 2",
+          "subtitle": "FHD Auto Quality",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/lhr-nitro\/live\/clients\/dash\/enc\/eecri8w9o7\/out\/v1\/073fe2757fc74d779814f66721f16800\/cenc.mpd",
+          "type": "dash",
+          "rewarded": false,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "f8d473c00573a9d64aa3263e87f714a4:572b3007bce099d88a2435d10953e252"
         }
       ]
     },
