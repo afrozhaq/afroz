@@ -596,20 +596,27 @@
         },
         {
           "label": "Server 2",
+          "subtitle": "Live ",
+          "url": "https:\/\/dripcast.online\/nfl_streams\/index.php?q=new-york-yankees.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=orioles=yankees&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 3",
+          "label": "Server 4",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=orioles=yankees&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
+          "label": "Server 5",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-25\/bal-nyy\/game-2",
           "type": "hls",
@@ -620,7 +627,7 @@
           }
         },
         {
-          "label": "Server 5",
+          "label": "Server 6",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-baltimore-orioles-vs-new-york-yankees\/2",
           "type": "hls",
