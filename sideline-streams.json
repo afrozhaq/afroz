@@ -763,6 +763,15 @@
         {
           "label": "Main Server 1",
           "subtitle": "FHD Auto Quality",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/pdx-nitro\/live\/clients\/dash\/enc\/j41nbtdv91\/out\/v1\/6e1cbf1197c5414eaf715b10549dc188\/cenc.mpd",
+          "type": "dash",
+          "rewarded": false,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "8b175d9e59c3c8a172866e78f3836a28:d6b1c20597a58e022ea0132848941431"
+        },
+        {
+          "label": "Main Server 2",
+          "subtitle": "FHD Auto Quality",
           "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/w0rehjjrwe\/out\/v1\/69a2a7041395406b970598f61680e7cf\/cenc.mpd",
           "type": "dash",
           "rewarded": false,
@@ -770,7 +779,7 @@
           "drmLicenseUrl": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
         },
         {
-          "label": "Main Server 2",
+          "label": "Main Server 3",
           "subtitle": "FHD Auto Quality",
           "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/tpdofmrr84\/out\/v1\/ad58961bd8fd48d2944e461c034b8914\/cenc.mpd",
           "type": "dash",
@@ -779,16 +788,9 @@
           "drmLicenseUrl": "d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37"
         },
         {
-          "label": "Server 3",
-          "subtitle": "Live",
-          "url": "https:\/\/node-c899cd92.4587.website\/6ab61b0b.33d0c0b6i798bc8d0.f23b.c5a2a511\/free.live.nfl\/master.m3u8",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
           "label": "Server 4",
           "subtitle": "Live",
-          "url": "https:\/\/instreams.pro\/live\/tv401872948\/index.m3u8?st=zYyk24-9gUTTLqn65-DAZQ&e=1790305260|Referer=https:\/\/instream.click\/livetv.php?stream=tv401872948&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/111.0.0.0 Safari\/537.36",
+          "url": "https:\/\/node-c899cd92.4587.website\/6ab61b0b.33d0c0b6i798bc8d0.f23b.c5a2a511\/free.live.nfl\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
