@@ -835,40 +835,47 @@
         {
           "label": "Server 1",
           "subtitle": "Live ",
-          "url": "https:\/\/edgestream2.pro\/hls\/fskjanach24.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "url": "https:\/\/dripcast.online\/nfl_streams\/index.php?q=kansas-city-royals.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 2",
+          "subtitle": "Live ",
+          "url": "https:\/\/edgestream2.pro\/hls\/fskjanach24.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=guardians=royals&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 3",
+          "label": "Server 4",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=guardians=royals&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
+          "label": "Server 5",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb615\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjE1OjE3OTAzNDQ4MjM4NTQ6Y2RubGl2ZXR2LnR2Ojk4NTM4OGRlM2I1MTAzNTMuZWViYjljYWZmN2YwYTJlYmU2NjVmNDAwY2RhYTdhOGYxYjkzZTYzYWM5ZDdkMDdmYmE0ZTg3Y2NjNzg1MjZlZg",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
+          "label": "Server 6",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb62c\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjJjOjE3OTAzNDQ4MjM5NzE6Y2RubGl2ZXR2LnR2Ojg5NWM1NmI0OWIyMzA3NDUuZWM3NTRlYWUyNjRhNWRmZDRlMGEyZDBiYmRkOTc1OGUzOTQ1ODRkNGRmZjljMjgyYjBlZmFmY2I2MzJhNDEzMQ",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 6",
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-25\/cle-kc",
           "type": "hls",
@@ -879,7 +886,7 @@
           }
         },
         {
-          "label": "Server 7",
+          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-cleveland-guardians-vs-kansas-city-royals\/1",
           "type": "hls",
@@ -905,40 +912,47 @@
         {
           "label": "Server 1",
           "subtitle": "Live ",
-          "url": "https:\/\/edgestream2.pro\/hls\/kjhfzua25.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "url": "https:\/\/dripcast.online\/nfl_streams\/index.php?q=chicago-white-sox.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 2",
+          "subtitle": "Live ",
+          "url": "https:\/\/edgestream2.pro\/hls\/kjhfzua25.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=rockies=whitesox&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 3",
+          "label": "Server 4",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=rockies=whitesox&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
+          "label": "Server 5",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb62d\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjJkOjE3OTAzNDQ4MjM0OTM6Y2RubGl2ZXR2LnR2OmU0YzQzYjNkYTlhZmYwNGYuMjkwZmRiNTBlNmNhZjg5NWJhNzI0ZTNlOWQ5ZWY0MzM0M2IxNGE3N2RmN2M1YTM0Yzg3YWEyNjNmNmJlOWQxZg",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
+          "label": "Server 6",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb62a\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjJhOjE3OTAzNDQ4MjM1OTU6Y2RubGl2ZXR2LnR2OmMzZGFmNzU4ZDc3MzM4Y2IuZjViYTc4N2NmMzI3NzViNTdhZjdhMmI1NDhhZjdmZjEzMDUwMThjNDgzODNjMmZhN2E1MjdiYjI3MWQxZjJmNA",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 6",
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-25\/col-chw",
           "type": "hls",
@@ -949,7 +963,7 @@
           }
         },
         {
-          "label": "Server 7",
+          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-colorado-rockies-vs-chicago-white-sox\/1",
           "type": "hls",
@@ -975,40 +989,47 @@
         {
           "label": "Server 1",
           "subtitle": "Live ",
-          "url": "https:\/\/edgestream2.pro\/hls\/dzjhkfazbka26.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "url": "https:\/\/dripcast.online\/nfl_streams\/index.php?q=milwaukee-brewers.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 2",
+          "subtitle": "Live ",
+          "url": "https:\/\/edgestream2.pro\/hls\/dzjhkfazbka26.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=cardinals=brewers&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 3",
+          "label": "Server 4",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=cardinals=brewers&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
+          "label": "Server 5",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb613\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjEzOjE3OTAzNDQ4MjQxMjY6Y2RubGl2ZXR2LnR2OmEyOGEzNzBhOGQ5OGU2NWMuYzQ5YmFkYWY2NDU2NDhhNDVmMTdjZGU2NWJlMDVlODlkMGExY2MwYTM3ZGZlYzMzYjI1YWVhZjIxYjMwNTNhYg",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
+          "label": "Server 6",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb61b\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjFiOjE3OTAzNDQ4MjQyNDI6Y2RubGl2ZXR2LnR2OmM4MTczNzNkNTE1MTAxYTUuNDZiNTVjNzI0NmRjZTc2MmY0ZGMxOGE0N2RiY2RiYTZhYzIxM2RlZmZlMmQ3MTg2ZTkxNWYzOTk5Mjg1ZmY2MA",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 6",
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-25\/stl-mil",
           "type": "hls",
@@ -1019,7 +1040,7 @@
           }
         },
         {
-          "label": "Server 7",
+          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-st-louis-cardinals-vs-milwaukee-brewers\/1",
           "type": "hls",
@@ -1118,40 +1139,47 @@
         {
           "label": "Server 1",
           "subtitle": "Live ",
-          "url": "https:\/\/edgestream2.pro\/hls\/jzabfazkbf27.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "url": "https:\/\/dripcast.online\/nfl_streams\/index.php?q=minnesota-twins.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 2",
+          "subtitle": "Live ",
+          "url": "https:\/\/edgestream2.pro\/hls\/jzabfazkbf27.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=rangers=twins&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 3",
+          "label": "Server 4",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=rangers=twins&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
+          "label": "Server 5",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb624\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjI0OjE3OTAzNDQ4MjU0NTE6Y2RubGl2ZXR2LnR2OmY3NGNmODlmYTMwMDhiNDAuZDU5NmYzZjQ5ZmJhOTg5ZWRjYWI3Njk4ZTdhZTkzOTE1MDM0NjFmOWIwZTRjNDQyYTEzOGFiOTE5MDE5YTZjMw",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
+          "label": "Server 6",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb619\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjE5OjE3OTAzNDQ4MjU1NzI6Y2RubGl2ZXR2LnR2OjBmOGU3Yjk5M2Q5MjQ2ZGYuMmVhZWMwZGQ2ZTViYjY3YjhiODRiNWUwNmIyYmFjNmFmMDNiNGUyZjk1ZTMzN2U1YWY3YTEzY2JiNTEzNjgwMQ",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 6",
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-25\/tex-min",
           "type": "hls",
@@ -1162,7 +1190,7 @@
           }
         },
         {
-          "label": "Server 7",
+          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-texas-rangers-vs-minnesota-twins\/1",
           "type": "hls",
