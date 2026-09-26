@@ -574,6 +574,33 @@
           "rewarded": true
         }
       ]
+    },
+    {
+      "id": "s1790410759510",
+      "league": "nhl",
+      "gameId": "",
+      "away": "SABRES",
+      "home": "PENGUINS ",
+      "title": "Sabres at Penguins ",
+      "poster": "",
+      "startsAt": 1790449200000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
