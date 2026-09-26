@@ -1158,28 +1158,28 @@
         {
           "label": "Server 2",
           "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=braves=marlins&s=home&sport=mlb",
+          "url": "https:\/\/node-88894cb5.4587.website\/6ab893ad.56612a97i798bc8d0.105d7.396b2780\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
           "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=braves=marlins&s=away&sport=mlb",
+          "url": "https:\/\/node-88894cb5.4587.website\/6ab893ad.a5946af7i798bc8d0.105d1.8f42bb13\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb602\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjAyOjE3OTA0MzUyNTAyNDQ6Y2RubGl2ZXR2LnR2OmFkMTk1MzZlOWYzZGU5ZTcuMmJkMzFlZDRiODU4NjcyOGRkZGQ1YmMyZjE5MjcxZTZiZjZhOTkwM2IxZWQxZDY1ODM3NDFiMjY2MjJjOGNiYg",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=braves=marlins&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb628\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjI4OjE3OTA0MzUyNTAzNDU6Y2RubGl2ZXR2LnR2OjhiNDNjZDczY2NmMTZiZmEuMGQ4Y2Y1ZjZmYzA0ZDc0ODliM2NkODhhNDZkMGNhMDA3MzUzMjg2Y2YyMzhjYmQ2MGM1NDBhM2Q4YTc4YzA4Yw",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=braves=marlins&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
