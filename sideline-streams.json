@@ -601,6 +601,33 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1790410829055",
+      "league": "nhl",
+      "gameId": "",
+      "away": "PREDATORS",
+      "home": "HURRICANES ",
+      "title": "Predators at Hurricanes",
+      "poster": "",
+      "startsAt": 1790449200000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live ",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live ",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
