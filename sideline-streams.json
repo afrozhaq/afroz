@@ -628,6 +628,33 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1790410876931",
+      "league": "nhl",
+      "gameId": "",
+      "away": "KINGS",
+      "home": "DUCKS",
+      "title": "Kings at Ducks ",
+      "poster": "",
+      "startsAt": 1790452800000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
