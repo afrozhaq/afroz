@@ -241,6 +241,46 @@
       ]
     },
     {
+      "id": "s1790425238588",
+      "league": "ncaaf",
+      "gameId": "",
+      "away": "USA",
+      "home": "UK",
+      "title": "South Alabama at Kentucky",
+      "poster": "",
+      "startsAt": 1790441100000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server ",
+          "subtitle": "Live ",
+          "url": "https:\/\/edgestream2.pro\/hls\/jkzahzadach20.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": true
+        }
+      ]
+    },
+    {
+      "id": "s1790425238589",
+      "league": "ncaaf",
+      "gameId": "",
+      "away": "LIN",
+      "home": "EMU",
+      "title": "LIN at Eastern Michigan",
+      "poster": "",
+      "startsAt": 1790442000000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server ",
+          "subtitle": "Live ",
+          "url": "https:\/\/edgestream2.pro\/hls\/jkzahzadach20.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": true
+        }
+      ]
+    },
+    {
       "id": "s1790407471435",
       "league": "mlb",
       "gameId": "",
@@ -249,6 +289,66 @@
       "title": "Pirates at Tigers",
       "poster": "",
       "startsAt": 1790442600000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server ",
+          "subtitle": "Live ",
+          "url": "https:\/\/edgestream2.pro\/hls\/jkzahzadach20.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": true
+        }
+      ]
+    },
+    {
+      "id": "s1790425238590",
+      "league": "ncaaf",
+      "gameId": "",
+      "away": "UCLA",
+      "home": "MD",
+      "title": "UCLA at Maryland",
+      "poster": "",
+      "startsAt": 1790443800000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server ",
+          "subtitle": "Live ",
+          "url": "https:\/\/edgestream2.pro\/hls\/jkzahzadach20.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": true
+        }
+      ]
+    },
+    {
+      "id": "s1790425238591",
+      "league": "ncaaf",
+      "gameId": "",
+      "away": "ND",
+      "home": "PUR",
+      "title": "Notre Dame at Purdue",
+      "poster": "",
+      "startsAt": 1790445600000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server ",
+          "subtitle": "Live ",
+          "url": "https:\/\/edgestream2.pro\/hls\/jkzahzadach20.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": true
+        }
+      ]
+    },
+    {
+      "id": "s1790425238592",
+      "league": "ncaaf",
+      "gameId": "",
+      "away": "NIU",
+      "home": "GAST",
+      "title": "Northern Illinois at Georgia State",
+      "poster": "",
+      "startsAt": 1790445600000,
       "endsAt": 0,
       "links": [
         {
@@ -311,6 +411,46 @@
           "url": "h",
           "type": "hls",
           "rewarded": false
+        }
+      ]
+    },
+    {
+      "id": "s1790425238593",
+      "league": "ncaaf",
+      "gameId": "",
+      "away": "CARK",
+      "home": "FSU",
+      "title": "CARK at Florida State",
+      "poster": "",
+      "startsAt": 1790449200000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server ",
+          "subtitle": "Live ",
+          "url": "https:\/\/edgestream2.pro\/hls\/jkzahzadach20.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": true
+        }
+      ]
+    },
+    {
+      "id": "s1790425238594",
+      "league": "ncaaf",
+      "gameId": "",
+      "away": "HAW",
+      "home": "WYO",
+      "title": "Hawaii at Wyoming",
+      "poster": "",
+      "startsAt": 1790449200000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server ",
+          "subtitle": "Live ",
+          "url": "https:\/\/edgestream2.pro\/hls\/jkzahzadach20.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": true
         }
       ]
     },
