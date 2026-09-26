@@ -1228,28 +1228,28 @@
         {
           "label": "Server 2",
           "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=rangers=twins&s=home&sport=mlb",
+          "url": "https:\/\/node-88894cb5.4587.website\/6ab893ad.34cba1f0i798bc8d0.105c3.6b8ac1d0\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
           "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=rangers=twins&s=away&sport=mlb",
+          "url": "https:\/\/node-88894cb5.4587.website\/6ab893ad.27193bd0i798bc8d0.105ce.a5300f29\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb624\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjI0OjE3OTA0MzUyNTA1Nzc6Y2RubGl2ZXR2LnR2OjE3ZTA3M2Q0NmY3MzRjNzIuNmJhNGE5OWM1YTg2MTkzYWVmNmNmY2I5NzEzNTZmM2FlZjVmNzFiZWZiMTk5NDA0ZDUzYTY3ZTg4MmIyODY0NA",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=rangers=twins&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb619\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjE5OjE3OTA0MzUyNTA2OTc6Y2RubGl2ZXR2LnR2OjBmMzg2OWRkZDkzYzUwZDEuNDY0ZWE1Yjg3MDY3ZTNmODkxNzAxOGZkMmQzMGI3ODc5Njk2MzdjNjhlM2Y3NDYzNGQ0NDY4YTEyODg0Nzg3ZQ",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=rangers=twins&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
