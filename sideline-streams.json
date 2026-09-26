@@ -736,6 +736,33 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1790411113840",
+      "league": "nhl",
+      "gameId": "",
+      "away": "SENATORS ",
+      "home": "CANADIENS ",
+      "title": "Senators at Canadiens ",
+      "poster": "",
+      "startsAt": 1790463600000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "u",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "u",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
