@@ -645,7 +645,7 @@
         {
           "label": "Server 1",
           "subtitle": "Live ",
-          "url": "https:\/\/dripcast.online\/nfl_streams\/index.php?q=toronto-blue-jays.m3u8",
+          "url": "https:\/\/instreams.pro\/live\/tv401817090\/index.m3u8?st=hO3Aed4-qWBz9x4T1ay5vA&e=1790460049|Referer=https:\/\/instream.click\/livetv.php?stream=tv401817090&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/111.0.0.0 Safari\/537.36",
           "type": "hls",
           "rewarded": false
         },
@@ -666,12 +666,19 @@
         {
           "label": "Server 4",
           "subtitle": "Live ",
-          "url": "https:\/\/edgestream2.pro\/hls\/16yuitzaerghbhc16.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "url": "https:\/\/dripcast.online\/nfl_streams\/index.php?q=toronto-blue-jays.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
+          "subtitle": "Live ",
+          "url": "https:\/\/edgestream2.pro\/hls\/16yuitzaerghbhc16.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 6",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-26\/cin-tor",
           "type": "hls",
@@ -682,7 +689,7 @@
           }
         },
         {
-          "label": "Server 6",
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-cincinnati-reds-vs-toronto-blue-jays\/1",
           "type": "hls",
