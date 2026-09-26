@@ -1463,29 +1463,29 @@
         },
         {
           "label": "Server 2",
+          "subtitle": "Live ( home )",
+          "url": "https:\/\/node-8bba18be.4587.website\/6ab791d0.b0224ccdi798bc8d0.104b7.9d1c0b30\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live ( away )",
+          "url": "https:\/\/node-5d763f4c.4587.website\/6ab791d0.d3f828afi798bc8d0.104b0.7c3b0da3\/free.live.espn\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=dodgers=giants&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 3",
+          "label": "Server 5",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=dodgers=giants&s=away&sport=mlb",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 4",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb61d\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjFkOjE3OTAzNDQ4MzExMTk6Y2RubGl2ZXR2LnR2OjEzYmJiYzdlNzY3ODUzY2EuYzlkNzRiNGU5Y2QzYjcxZTRhNTVlYzk3ZGI3Y2U4ZDUwMTE4N2MzNjQyNjViZTM2ZDE0ZmRlODA5NjI5Mjk0MA",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 5",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb626\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjI2OjE3OTAzNDQ4MzEyMjg6Y2RubGl2ZXR2LnR2OjYwMjlhYzg3OGU0OTI5ZWQuZTY5ZDg1Nzg2OThlNzZjMDY4MWM4MDRmNGI1MzUzYTRlM2ExZjNlYTliN2VmZjgyMWU3ZDYyMzFiODExMzc4ZA",
           "type": "hls",
           "rewarded": false
         },
