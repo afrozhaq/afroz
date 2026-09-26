@@ -898,6 +898,33 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1790412463839",
+      "league": "nhl",
+      "gameId": "",
+      "away": "SHARKS ",
+      "home": "KNIGHTS ",
+      "title": "Sharks at Knights",
+      "poster": "",
+      "startsAt": 1790474400000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
