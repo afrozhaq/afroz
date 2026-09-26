@@ -817,6 +817,33 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1790411252446",
+      "league": "nhl",
+      "gameId": "",
+      "away": "CANUCKS ",
+      "home": "KRAKEN ",
+      "title": "Canucks at Kraken ",
+      "poster": "",
+      "startsAt": 1790463600000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
