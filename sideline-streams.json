@@ -343,19 +343,12 @@
         {
           "label": "Server 4",
           "subtitle": "Live",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc161\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTYxOjE3OTA1MjIzMjg0MDQ6Y2RubGl2ZXR2LnR2OjhhMTA5YTIwMzdhNDllYTYuM2JkMmZiZTQyMjYyMGM1MjEzOGI4ODA0ODJmZWE4MTZmNTgyNjZjNTUxMzA2YmMwNjk4ZTQ1ODgzYmI1M2NjNQ",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc30f\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzBmOjE3OTA1MzcxMjAwNzM6Y2RubGl2ZXR2LnR2OmMxNjc1MzRmOGQyM2IyYjYuNmYxNjA0OTBiZDcxNWY1ODA4YTJmN2E0NDJmNzRjNmFhODViM2U3NWMyNjA4MzdmNzEwNmI4NjVlMzkyZGFjMg",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
-          "subtitle": "Live",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc30f\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzBmOjE3OTA1MjIzMjg1MjI6Y2RubGl2ZXR2LnR2OjBmNTQ2MzcyYmQ0NDM1Y2UuOGI3NmJjNzI5ZjI2NjIzMDY2ZGViZGMxYzQ0NWVhYjJmMTc5MDFmOTAxNmZmYTlmOGJhZTljMjRlMjBmMWIxNQ",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 6",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-27\/lac-buf",
           "type": "hls",
@@ -366,7 +359,7 @@
           }
         },
         {
-          "label": "Server 7",
+          "label": "Server 6",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-los-angeles-chargers-at-buffalo-bills\/1",
           "type": "hls",
