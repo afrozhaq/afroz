@@ -140,19 +140,12 @@
         {
           "label": "Server 4",
           "subtitle": "Live",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2781d8192bb76cb375\/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzc1OjE3OTA1MjIzMzI0Njk6Y2RubGl2ZXR2LnR2OjBjMWJlMjdkMWNjNjY0YjQuMmYyMjU5YjA0NmQwZjI2YTQwZjRmNzIyYmJiZTBiODMwMTZlNjk5MTYwZGM0ZmFjYWQ3MDA1YmJhZGY5NTFjOQ",
+          "url": "https:\/\/dripcast.online\/nfl_streams\/index.php?q=new-york-giants.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
-          "subtitle": "Live",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2981d8192bb76cbc97\/playlist.m3u8?token=NmEyODhkMjk4MWQ4MTkyYmI3NmNiYzk3OjE3OTA1MjIzMzI1NzM6Y2RubGl2ZXR2LnR2OmFjYTVmMWU0ZmRiYzEwOWMuOTE5MzUyM2M1ZTNhNjI0ZjIxOWZiYzIwZGNmZWE1MzQ5YWQ1YjIwYjY3NThjN2YyODZiZWEyOThlZTBiMTE3Yw",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 6",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-27\/ten-nyg",
           "type": "hls",
@@ -163,7 +156,7 @@
           }
         },
         {
-          "label": "Server 7",
+          "label": "Server 6",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-tennessee-titans-at-new-york-giants\/1",
           "type": "hls",
