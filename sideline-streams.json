@@ -722,6 +722,33 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1790509321226",
+      "league": "nfl",
+      "gameId": "",
+      "away": "NFL REDZONE ",
+      "home": "NFL REDZONE ",
+      "title": "NFL RedZone ",
+      "poster": "",
+      "startsAt": 1790527800000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
