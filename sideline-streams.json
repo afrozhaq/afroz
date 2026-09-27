@@ -163,56 +163,65 @@
       "endsAt": 0,
       "links": [
         {
-          "label": "Server 1",
+          "label": "Main Server 1",
+          "subtitle": "Live",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/lhr-nitro\/live\/clients\/dash\/enc\/494bcjlpej\/out\/v1\/a057f3e123ad4060b741d3516b914739\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": false,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "b0a0a8c4be41e0911de04f966ea5020f:09941db1486050e187a3e70c260d8d5c"
+        },
+        {
+          "label": "Server 2",
           "subtitle": "Live",
           "url": "https:\/\/dripcast.online\/nfl_streams\/index.php?q=new-york-giants.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 2",
+          "label": "Server 3",
           "subtitle": "Live",
           "url": "https:\/\/edgestream2.pro\/hls\/yetehznecs37.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 3",
+          "label": "Server 4",
           "subtitle": "Live",
           "url": "https:\/\/instreams.pro\/live\/tv401872956\/index.m3u8?st=CKBKr_3CCoZTPIXiuTS-6Q&e=1790539273|Referer=https:\/\/instream.click\/livetv.php?stream=tv401872956&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/111.0.0.0 Safari\/537.36",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
+          "label": "Server 5",
           "subtitle": "Live",
           "url": "https:\/\/dripcast.online\/flyembed-scraper\/fly\/index.m3u8?id=cbs-usa",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
+          "label": "Server 6",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=titans=giants&s=home&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 6",
+          "label": "Server 7",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=titans=giants&s=away&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 7",
+          "label": "Server 8",
           "subtitle": "Live",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2781d8192bb76cb375\/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzc1OjE3OTA1MzgwNzI2OTA6Y2RubGl2ZXR2LnR2OmNhM2YxMjE3ZWI2OTE5NzEuZDEzYjg0YmI3M2UyMTFjMzFlMzcwZmI4MTI1NzY4YWE2ZGUwZGM2NGRhOTI4Y2I5NzlhZGZiMGM3YmZmZTAzOA",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 8",
+          "label": "Server 9",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-27\/ten-nyg",
           "type": "hls",
@@ -223,7 +232,7 @@
           }
         },
         {
-          "label": "Server 9",
+          "label": "Server 10",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-tennessee-titans-at-new-york-giants\/1",
           "type": "hls",
