@@ -147,6 +147,13 @@
         {
           "label": "Server 5",
           "subtitle": "Live",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2781d8192bb76cb375\/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzc1OjE3OTA1MzgwNzI2OTA6Y2RubGl2ZXR2LnR2OmNhM2YxMjE3ZWI2OTE5NzEuZDEzYjg0YmI3M2UyMTFjMzFlMzcwZmI4MTI1NzY4YWE2ZGUwZGM2NGRhOTI4Y2I5NzlhZGZiMGM3YmZmZTAzOA",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 6",
+          "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-27\/ten-nyg",
           "type": "hls",
           "rewarded": false,
@@ -156,7 +163,7 @@
           }
         },
         {
-          "label": "Server 6",
+          "label": "Server 7",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-tennessee-titans-at-new-york-giants\/1",
           "type": "hls",
