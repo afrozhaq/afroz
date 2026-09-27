@@ -2201,19 +2201,12 @@
         {
           "label": "Server 5",
           "subtitle": "Live",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc172\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTcyOjE3OTA1MjIzMzM2MDE6Y2RubGl2ZXR2LnR2OjlmNTZkZmYzZjJlMzQ4YWUuNTFjNmZiMGU5OWMzY2VmYzRhZTI2YTMxNmM0ODIxMWM4ZmI0NjU1ZjhhNjg4NzMxMmJmYzkwNDEwYTQ5MzQzNA",
+          "url": "https:\/\/dripcast.online\/nfl_streams\/index.php?q=tampa-bay-buccaneers.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 6",
-          "subtitle": "Live",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc177\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTc3OjE3OTA1MjIzNDI1OTY6Y2RubGl2ZXR2LnR2OjIwZmEyZDhkMjBhYzA5YjkuNjc1ZThkMWFhNDljYzBkMzQ0ZTA0ZTcxZTVjOTNlMDY2ZmQ4YTBkMmNiOTM1ZGM5NzBjYWI5YjI2ZGNmYzc5Yw",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 7",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-27\/min-tb",
           "type": "hls",
@@ -2224,7 +2217,7 @@
           }
         },
         {
-          "label": "Server 8",
+          "label": "Server 7",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-minnesota-vikings-at-tampa-bay-buccaneers\/1",
           "type": "hls",
