@@ -820,40 +820,47 @@
         {
           "label": "Server 2",
           "subtitle": "Live",
-          "url": "https:\/\/dripcast.online\/nfl_streams\/index.php?q=washington-commanders.m3u8",
+          "url": "https:\/\/node-5d763f4c.4587.website\/6ab9dea8.ac6de9a4i798bc8d0.f266.a84f6f5f\/free.live.nfl\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
           "subtitle": "Live",
-          "url": "https:\/\/edgestream2.pro\/hls\/jkhazabcka36.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "url": "https:\/\/dripcast.online\/nfl_streams\/index.php?q=washington-commanders.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
           "subtitle": "Live",
-          "url": "https:\/\/instreams.live\/live\/tv401872955\/index.m3u8?st=VTSoFpx5ioHgHjVD3J4vLA&e=1790539278|Referer=https:\/\/instream.click\/livetv.php?stream=tv401872955&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/111.0.0.0 Safari\/537.36",
+          "url": "https:\/\/edgestream2.pro\/hls\/jkhazabcka36.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
+          "subtitle": "Live",
+          "url": "https:\/\/instreams.live\/live\/tv401872955\/index.m3u8?st=VTSoFpx5ioHgHjVD3J4vLA&e=1790539278|Referer=https:\/\/instream.click\/livetv.php?stream=tv401872955&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/111.0.0.0 Safari\/537.36",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 6",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=seahawks=washington&s=home&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 6",
+          "label": "Server 7",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=seahawks=washington&s=away&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 7",
+          "label": "Server 8",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-27\/sea-wsh",
           "type": "hls",
@@ -864,7 +871,7 @@
           }
         },
         {
-          "label": "Server 8",
+          "label": "Server 9",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-seattle-seahawks-at-washington-commanders\/1",
           "type": "hls",
