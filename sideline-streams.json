@@ -1513,33 +1513,47 @@
         {
           "label": "Server 2",
           "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=guardians=royals&s=home&sport=mlb",
+          "url": "https:\/\/node-9b5feb01.4587.website\/6ab9d5fb.6da3babei798bc8d0.10ab9.255d61b9\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
           "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=guardians=royals&s=away&sport=mlb",
+          "url": "https:\/\/node-9b5feb01.4587.website\/6ab9d5fb.34d02b10i798bc8d0.10ab8.879940bd\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=guardians=royals&s=home&sport=mlb",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 5",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=guardians=royals&s=away&sport=mlb",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 6",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb600\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjAwOjE3OTA1MjIzMzkzODA6Y2RubGl2ZXR2LnR2OjkxZGEzYTZlOWFjMTNlZjMuMmY3NThlYjBlNTU3MWIyZWMyNTc5MDM2YWFjZGViMzFkMmZmNjFkMDQ2MmE0MWJlNjE1MGEyY2M3NDZmNTI5OA",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb615\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjE1OjE3OTA1MjIzMzk0OTA6Y2RubGl2ZXR2LnR2OmI3ZThkNWE1YjQzZjg0ZTAuNmE0NmUwMDliZDk5MDViYTAyMzA4OGJiODk4MjkwNGNiY2E3MTMyOTM1OTE5ZmEyNzc4NjMxYjIzMTU3NjVhZg",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 6",
+          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-27\/cle-kc",
           "type": "hls",
@@ -1550,7 +1564,7 @@
           }
         },
         {
-          "label": "Server 7",
+          "label": "Server 9",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-cleveland-guardians-vs-kansas-city-royals\/1",
           "type": "hls",
