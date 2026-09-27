@@ -1639,33 +1639,47 @@
         {
           "label": "Server 2",
           "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=angels=mariners&s=home&sport=mlb",
+          "url": "https:\/\/node-5d763f4c.4587.website\/6ab9d5f8.874b14f2i798bc8d0.10816.ad2f740e\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
           "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=angels=mariners&s=away&sport=mlb",
+          "url": "https:\/\/node-025d151e.4587.website\/6ab9d5f8.f7e4cb65i798bc8d0.1080d.25d22e19\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=angels=mariners&s=home&sport=mlb",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 5",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=angels=mariners&s=away&sport=mlb",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 6",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb606\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjA2OjE3OTA1MjIzNDE2ODQ6Y2RubGl2ZXR2LnR2OjJiMWNjM2IzZDQ0MmI0OWIuOThkNGYzMjQ4NmY1NmZmNGUwNDcwODgyODYxZTYzMWI3ZWRlMjA5MDc4ZWVmMDUzMWQ2OGU2MmI3ODhkZDk3NQ",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb61c\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjFjOjE3OTA1MjIzNDE4NDg6Y2RubGl2ZXR2LnR2Ojg2NjU1NzE0NGQxMTliODAuZDFlOTJkZWE0YTJmZmM4MWQ2ZTQwMTJiZmRiZWUwMjliNTU2MzE5NWFhY2Q5NDc0YmFmYzhhY2ZmYWUzNDc1OQ",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 6",
+          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-27\/laa-sea",
           "type": "hls",
@@ -1676,7 +1690,7 @@
           }
         },
         {
-          "label": "Server 7",
+          "label": "Server 9",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-los-angeles-angels-vs-seattle-mariners\/1",
           "type": "hls",
