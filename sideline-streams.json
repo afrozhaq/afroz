@@ -2299,6 +2299,13 @@
         {
           "label": "Server 5",
           "subtitle": "Live",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2981d8192bb76cbc97\/playlist.m3u8?token=NmEyODhkMjk4MWQ4MTkyYmI3NmNiYzk3OjE3OTA1NTI3NDQwMDk6Y2RubGl2ZXR2LnR2OjQzMmQwMTViNTEyYzEzZTguOWI2MmY2NjJiMTgzNmMxMGRlY2NhNDIyY2VjYjdkNzAzNzEzZTZhYjEwYTYyN2NiZTM5MDBhNzY2NzU1Y2Q1ZQ",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 6",
+          "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-27\/bal-dal",
           "type": "hls",
           "rewarded": false,
@@ -2308,7 +2315,7 @@
           }
         },
         {
-          "label": "Server 6",
+          "label": "Server 7",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-baltimore-ravens-at-dallas-cowboys\/1",
           "type": "hls",
