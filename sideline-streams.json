@@ -2129,19 +2129,12 @@
         {
           "label": "Server 4",
           "subtitle": "Live",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc340\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzQwOjE3OTA1MjIzMzI2ODg6Y2RubGl2ZXR2LnR2Ojg4NWI1YWQyZjU4Mzk2OTMuZjU2ODE3OWUwNDVjNTY5YmNkOWJlMjkyMjcyOWYyOTE5YmUyNjI3YTNlM2YxMmNhZTI0OWZhNWZiZTc4OTRkYg",
+          "url": "https:\/\/dripcast.online\/nfl_streams\/index.php?q=san-francisco-49ers.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
-          "subtitle": "Live",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2c81d8192bb76cd23b\/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkMjNiOjE3OTA1MjIzNDIzMTI6Y2RubGl2ZXR2LnR2OjY5OWRmZGFmYjRlMzRjMzYuZWZiMDVhZGVmOGEwY2Q4NTVjZjk1OTJhNjA4MjAyZWE3YTY0ZThhM2RkNmY4ODdkZThiYTNlOGNhMWM2NDIyOA",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 6",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-27\/ari-sf",
           "type": "hls",
@@ -2152,7 +2145,7 @@
           }
         },
         {
-          "label": "Server 7",
+          "label": "Server 6",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-arizona-cardinals-at-san-francisco-49-ers\/1",
           "type": "hls",
