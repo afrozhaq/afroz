@@ -1,6 +1,489 @@
 {
   "streams": [
     {
+      "id": "s1790509321226",
+      "league": "nfl",
+      "gameId": "",
+      "away": "NFL REDZONE ",
+      "home": "NFL REDZONE ",
+      "title": "NFL RedZone ",
+      "poster": "https:\/\/blogger.googleusercontent.com\/img\/a\/AVvXsEj5HSwT9RTJRu_WinfazRlVGSOUyfwkPkitkSAudOcJz6WH-1BPAlXBZNGzQprsqMVRQvqqd0FH5RG3cWziqJldZ4KLrL7kYFDMnrsaYWALCYY-KofaNWqXRmvZUABoQhZh7fmRudOYj-4OXPQmMqJwDl6YxGBhv9ByKlg83UtXc43Y3zhsaK3b1-mXoIw=s1600",
+      "startsAt": 0,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Main Server 1",
+          "subtitle": "Live",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/lhr-nitro\/live\/clients\/dash\/enc\/jvrno3jef2\/out\/v1\/0f66f4d875f04d7d91f6210461dd7b52\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": false,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "b6e646d15d2ddfcf74c41ef6574b90fc:5c8bb38d3758dca73ad0ba63d6ba2841"
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "https:\/\/dripcast.online\/nfl_streams\/index.php?q=redzone.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live",
+          "url": "https:\/\/edgestream2.pro\/hls\/eyrennte44.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
+          "subtitle": "Live",
+          "url": "https:\/\/sidelinescorepro.com\/cracktv-scraper\/go\/nfl\/nfl-redzone.m3u8?src=1|User-Agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/126.0.0.0 Safari\/537.36&Referer=https:\/\/dervlin.me\/sd0embed\/NFL",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 5",
+          "subtitle": "Live",
+          "url": "https:\/\/embedindia.st\/embed\/nfl-redzone-29537",
+          "type": "hls",
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/nfl-redzone-29537"
+          }
+        },
+        {
+          "label": "Server 6",
+          "subtitle": "Live",
+          "url": "https:\/\/embedindia.st\/embed\/nfl-network",
+          "type": "hls",
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/nfl-network"
+          }
+        }
+      ]
+    },
+    {
+      "id": "s1790229527545",
+      "league": "nfl",
+      "gameId": "",
+      "away": "ARI",
+      "home": "SF",
+      "title": "Cardinals at 49ers",
+      "poster": "",
+      "startsAt": 1790539500000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "https:\/\/node-c899cd92.4587.website\/6ab9e1a1.abef2029i798bc8d0.f26a.f7bbea75\/free.live.nfl\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "https:\/\/edgestream2.pro\/hls\/cwxcnbscbsq39.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=cardinals=49ers&s=home&sport=nfl",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=cardinals=49ers&s=away&sport=nfl",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 5",
+          "subtitle": "Live",
+          "url": "https:\/\/dripcast.online\/nfl_streams\/index.php?q=san-francisco-49ers.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 6",
+          "subtitle": "Live",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc340\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzQwOjE3OTA1NTI1OTY0OTY6Y2RubGl2ZXR2LnR2OjkwYjFjYzFiYWRmNTk1OTkuYWYxMzgwZWMyMjg5M2Q0YzIxNDY3ZTQ0NDJiZGE3ZjUyOWU4OTQ0NGQzNmEyNDk5MzRiN2M3MjdhNjQwZTE3MA",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 7",
+          "subtitle": "Live",
+          "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-27\/ari-sf",
+          "type": "hls",
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-27\/ari-sf"
+          }
+        },
+        {
+          "label": "Server 8",
+          "subtitle": "Live",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-arizona-cardinals-at-san-francisco-49-ers\/1",
+          "type": "hls",
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-arizona-cardinals-at-san-francisco-49-ers\/1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "s1790229527553",
+      "league": "nfl",
+      "gameId": "",
+      "away": "MIN",
+      "home": "TB",
+      "title": "Vikings at Buccaneers",
+      "poster": "",
+      "startsAt": 1790539500000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Main Server 1",
+          "subtitle": "Live Now",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/w0rehjjrwe\/out\/v1\/69a2a7041395406b970598f61680e7cf\/cenc.mpd",
+          "type": "dash",
+          "rewarded": false,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "https:\/\/node-c899cd92.4587.website\/6ab9e1a1.4faf0601i798bc8d0.f26e.22f4fd86\/free.live.nfl\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live",
+          "url": "https:\/\/edgestream2.pro\/hls\/poertjnvnev40.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=vikings=buccaneers&s=home&sport=nfl",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 5",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=vikings=buccaneers&s=away&sport=nfl",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 6",
+          "subtitle": "Live",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc172\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTcyOjE3OTA1NTI2NjMxMTY6Y2RubGl2ZXR2LnR2OjFiNmEyYWU3ZTYwYzJiNDIuZTQ3MzhlZTRkZGZjZmU1ZDE5NDA1NTQ0OTQ5MzE3ZjE5ZmU3ZWIzOTQ5YzI1MWFjNjg1ZGNkZDE4MGM3OGIyZg",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 7",
+          "subtitle": "Live",
+          "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-27\/min-tb",
+          "type": "hls",
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-27\/min-tb"
+          }
+        },
+        {
+          "label": "Server 8",
+          "subtitle": "Live",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-minnesota-vikings-at-tampa-bay-buccaneers\/1",
+          "type": "hls",
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-minnesota-vikings-at-tampa-bay-buccaneers\/1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "s1790229527546",
+      "league": "nfl",
+      "gameId": "",
+      "away": "BAL",
+      "home": "DAL",
+      "title": "Ravens at Cowboys",
+      "poster": "",
+      "startsAt": 1790540700000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Spanish Server",
+          "subtitle": "Live",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/w8kwdfmlgs\/out\/v1\/3aa321e477504937a439b602e078eb18\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": false,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b"
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "https:\/\/node-5d763f4c.4587.website\/6ab9e8d2.9a5bf04ai798bc8d0.f272.9ea55519\/free.live.nfl\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live",
+          "url": "https:\/\/edgestream2.pro\/hls\/ijzriafaq41.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
+          "subtitle": "Live",
+          "url": "https:\/\/dripcast.online\/nfl_streams\/index.php?q=dallas-cowboys.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 5",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=ravens=cowboys&s=home&sport=nfl",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 6",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=ravens=cowboys&s=away&sport=nfl",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 7",
+          "subtitle": "Live",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2981d8192bb76cbc97\/playlist.m3u8?token=NmEyODhkMjk4MWQ4MTkyYmI3NmNiYzk3OjE3OTA1NTI3NDQwMDk6Y2RubGl2ZXR2LnR2OjQzMmQwMTViNTEyYzEzZTguOWI2MmY2NjJiMTgzNmMxMGRlY2NhNDIyY2VjYjdkNzAzNzEzZTZhYjEwYTYyN2NiZTM5MDBhNzY2NzU1Y2Q1ZQ",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 8",
+          "subtitle": "Live",
+          "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-27\/bal-dal",
+          "type": "hls",
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-27\/bal-dal"
+          }
+        },
+        {
+          "label": "Server 9",
+          "subtitle": "Live",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-baltimore-ravens-at-dallas-cowboys\/1",
+          "type": "hls",
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-baltimore-ravens-at-dallas-cowboys\/1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "s1790229527552",
+      "league": "nfl",
+      "gameId": "",
+      "away": "LV",
+      "home": "NO",
+      "title": "Raiders at Saints",
+      "poster": "",
+      "startsAt": 1790540700000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "https:\/\/node-5d763f4c.4587.website\/6ab9e8d2.d1cfdc77i798bc8d0.f277.7c2266e8\/free.live.nfl\/master.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "https:\/\/edgestream2.pro\/hls\/wnbcnxbcs42.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live ",
+          "url": "https:\/\/dripcast.online\/nfl_streams\/index.php?q=new-orleans-saints.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=raiders=saints&s=home&sport=nfl",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 5",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=raiders=saints&s=away&sport=nfl",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 6",
+          "subtitle": "Live",
+          "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-27\/lv-no",
+          "type": "hls",
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-27\/lv-no"
+          }
+        },
+        {
+          "label": "Server 7",
+          "subtitle": "Live",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-las-vegas-raiders-at-new-orleans-saints\/1",
+          "type": "hls",
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-las-vegas-raiders-at-new-orleans-saints\/1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "s1790325976722",
+      "league": "nfl",
+      "gameId": "",
+      "away": "LAR",
+      "home": "DEN",
+      "title": "Rams at Broncos",
+      "poster": "",
+      "startsAt": 1790554800000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Main Server 1",
+          "subtitle": "Live ",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/w0rehjjrwe\/out\/v1\/69a2a7041395406b970598f61680e7cf\/cenc.mpd",
+          "type": "dash",
+          "rewarded": false,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
+        },
+        {
+          "label": "Main Server 2",
+          "subtitle": "Live ",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/tpdofmrr84\/out\/v1\/ad58961bd8fd48d2944e461c034b8914\/cenc.mpd",
+          "type": "dash",
+          "rewarded": false,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37"
+        },
+        {
+          "label": "Main Server 3",
+          "subtitle": "Live ",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/ihys8nw4wv\/out\/v1\/fde190f369484bc6b6117cc16cd82a9f\/cenc.mpd",
+          "type": "dash",
+          "rewarded": false,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7"
+        },
+        {
+          "label": "Main Server 4",
+          "subtitle": "Live ",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/zbc6muqib6\/out\/v1\/f5774813052f4d5499e7611d0db33b2f\/cenc.mpd",
+          "type": "dash",
+          "rewarded": false,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8"
+        },
+        {
+          "label": "Server 5",
+          "subtitle": "Live ",
+          "url": "https:\/\/edgestream2.pro\/hls\/jnfezkbfz43.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 6",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=rams=broncos&s=home&sport=nfl",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 7",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=rams=broncos&s=away&sport=nfl",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 8",
+          "subtitle": "Live ",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2781d8192bb76cb3d1\/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiM2QxOjE3OTA1MjIzNDQzMDM6Y2RubGl2ZXR2LnR2OjZhZDlmZGZiMjIxY2JkZmYuZTk4MTQ3YTgyNjNiY2E0NjMxODE3Y2MyYzBlYzhhODdiYjNkMDEwYzI0MWM5MTU3MDc0OTNiNGFlMjllYzIxYw",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 9",
+          "subtitle": "Live ",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cbe8e\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNiZThlOjE3OTA1MjIzNDQ0MjU6Y2RubGl2ZXR2LnR2OmYyYmFjZGNiNGZiZTJhNDIuYjBlMDlhZGYzOWI2MmZhZGMxZTkzYjlhOTU4NDFkMmZkNWM5ZDJlYWM3OGUzZDk1NjMxNGNlMjk0Y2ZmMGJhYQ",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 10",
+          "subtitle": "Live ",
+          "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-27\/lar-den",
+          "type": "hls",
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-27\/lar-den"
+          }
+        },
+        {
+          "label": "Server 11",
+          "subtitle": "Live ",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-los-angeles-rams-at-denver-broncos\/1",
+          "type": "hls",
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-los-angeles-rams-at-denver-broncos\/1"
+          }
+        }
+      ]
+    },
+    {
       "id": "s1790229527547",
       "league": "nfl",
       "gameId": "",
@@ -2123,318 +2606,6 @@
       ]
     },
     {
-      "id": "s1790229527545",
-      "league": "nfl",
-      "gameId": "",
-      "away": "ARI",
-      "home": "SF",
-      "title": "Cardinals at 49ers",
-      "poster": "",
-      "startsAt": 1790539500000,
-      "endsAt": 0,
-      "links": [
-        {
-          "label": "Server 1",
-          "subtitle": "Live",
-          "url": "https:\/\/node-c899cd92.4587.website\/6ab9e1a1.abef2029i798bc8d0.f26a.f7bbea75\/free.live.nfl\/master.m3u8",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 2",
-          "subtitle": "Live",
-          "url": "https:\/\/edgestream2.pro\/hls\/cwxcnbscbsq39.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 3",
-          "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=cardinals=49ers&s=home&sport=nfl",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 4",
-          "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=cardinals=49ers&s=away&sport=nfl",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 5",
-          "subtitle": "Live",
-          "url": "https:\/\/dripcast.online\/nfl_streams\/index.php?q=san-francisco-49ers.m3u8",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 6",
-          "subtitle": "Live",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc340\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzQwOjE3OTA1NTI1OTY0OTY6Y2RubGl2ZXR2LnR2OjkwYjFjYzFiYWRmNTk1OTkuYWYxMzgwZWMyMjg5M2Q0YzIxNDY3ZTQ0NDJiZGE3ZjUyOWU4OTQ0NGQzNmEyNDk5MzRiN2M3MjdhNjQwZTE3MA",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 7",
-          "subtitle": "Live",
-          "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-27\/ari-sf",
-          "type": "hls",
-          "rewarded": false,
-          "tokenApi": {
-            "type": "embed",
-            "api": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-27\/ari-sf"
-          }
-        },
-        {
-          "label": "Server 8",
-          "subtitle": "Live",
-          "url": "https:\/\/embed.st\/embed\/admin\/ppv-arizona-cardinals-at-san-francisco-49-ers\/1",
-          "type": "hls",
-          "rewarded": false,
-          "tokenApi": {
-            "type": "embed",
-            "api": "https:\/\/embed.st\/embed\/admin\/ppv-arizona-cardinals-at-san-francisco-49-ers\/1"
-          }
-        }
-      ]
-    },
-    {
-      "id": "s1790229527553",
-      "league": "nfl",
-      "gameId": "",
-      "away": "MIN",
-      "home": "TB",
-      "title": "Vikings at Buccaneers",
-      "poster": "",
-      "startsAt": 1790539500000,
-      "endsAt": 0,
-      "links": [
-        {
-          "label": "Main Server 1",
-          "subtitle": "Live Now",
-          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/w0rehjjrwe\/out\/v1\/69a2a7041395406b970598f61680e7cf\/cenc.mpd",
-          "type": "dash",
-          "rewarded": false,
-          "drmScheme": "clearkey",
-          "drmLicenseUrl": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
-        },
-        {
-          "label": "Server 2",
-          "subtitle": "Live",
-          "url": "https:\/\/node-c899cd92.4587.website\/6ab9e1a1.4faf0601i798bc8d0.f26e.22f4fd86\/free.live.nfl\/master.m3u8",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 3",
-          "subtitle": "Live",
-          "url": "https:\/\/edgestream2.pro\/hls\/poertjnvnev40.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 4",
-          "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=vikings=buccaneers&s=home&sport=nfl",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 5",
-          "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=vikings=buccaneers&s=away&sport=nfl",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 6",
-          "subtitle": "Live",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc172\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTcyOjE3OTA1NTI2NjMxMTY6Y2RubGl2ZXR2LnR2OjFiNmEyYWU3ZTYwYzJiNDIuZTQ3MzhlZTRkZGZjZmU1ZDE5NDA1NTQ0OTQ5MzE3ZjE5ZmU3ZWIzOTQ5YzI1MWFjNjg1ZGNkZDE4MGM3OGIyZg",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 7",
-          "subtitle": "Live",
-          "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-27\/min-tb",
-          "type": "hls",
-          "rewarded": false,
-          "tokenApi": {
-            "type": "embed",
-            "api": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-27\/min-tb"
-          }
-        },
-        {
-          "label": "Server 8",
-          "subtitle": "Live",
-          "url": "https:\/\/embed.st\/embed\/admin\/ppv-minnesota-vikings-at-tampa-bay-buccaneers\/1",
-          "type": "hls",
-          "rewarded": false,
-          "tokenApi": {
-            "type": "embed",
-            "api": "https:\/\/embed.st\/embed\/admin\/ppv-minnesota-vikings-at-tampa-bay-buccaneers\/1"
-          }
-        }
-      ]
-    },
-    {
-      "id": "s1790229527546",
-      "league": "nfl",
-      "gameId": "",
-      "away": "BAL",
-      "home": "DAL",
-      "title": "Ravens at Cowboys",
-      "poster": "",
-      "startsAt": 1790540700000,
-      "endsAt": 0,
-      "links": [
-        {
-          "label": "Spanish Server",
-          "subtitle": "Live",
-          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/w8kwdfmlgs\/out\/v1\/3aa321e477504937a439b602e078eb18\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
-          "type": "dash",
-          "rewarded": false,
-          "drmScheme": "clearkey",
-          "drmLicenseUrl": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b"
-        },
-        {
-          "label": "Server 2",
-          "subtitle": "Live",
-          "url": "https:\/\/node-5d763f4c.4587.website\/6ab9e8d2.9a5bf04ai798bc8d0.f272.9ea55519\/free.live.nfl\/master.m3u8",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 3",
-          "subtitle": "Live",
-          "url": "https:\/\/edgestream2.pro\/hls\/ijzriafaq41.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 4",
-          "subtitle": "Live",
-          "url": "https:\/\/dripcast.online\/nfl_streams\/index.php?q=dallas-cowboys.m3u8",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 5",
-          "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=ravens=cowboys&s=home&sport=nfl",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 6",
-          "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=ravens=cowboys&s=away&sport=nfl",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 7",
-          "subtitle": "Live",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2981d8192bb76cbc97\/playlist.m3u8?token=NmEyODhkMjk4MWQ4MTkyYmI3NmNiYzk3OjE3OTA1NTI3NDQwMDk6Y2RubGl2ZXR2LnR2OjQzMmQwMTViNTEyYzEzZTguOWI2MmY2NjJiMTgzNmMxMGRlY2NhNDIyY2VjYjdkNzAzNzEzZTZhYjEwYTYyN2NiZTM5MDBhNzY2NzU1Y2Q1ZQ",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 8",
-          "subtitle": "Live",
-          "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-27\/bal-dal",
-          "type": "hls",
-          "rewarded": false,
-          "tokenApi": {
-            "type": "embed",
-            "api": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-27\/bal-dal"
-          }
-        },
-        {
-          "label": "Server 9",
-          "subtitle": "Live",
-          "url": "https:\/\/embed.st\/embed\/admin\/ppv-baltimore-ravens-at-dallas-cowboys\/1",
-          "type": "hls",
-          "rewarded": false,
-          "tokenApi": {
-            "type": "embed",
-            "api": "https:\/\/embed.st\/embed\/admin\/ppv-baltimore-ravens-at-dallas-cowboys\/1"
-          }
-        }
-      ]
-    },
-    {
-      "id": "s1790229527552",
-      "league": "nfl",
-      "gameId": "",
-      "away": "LV",
-      "home": "NO",
-      "title": "Raiders at Saints",
-      "poster": "",
-      "startsAt": 1790540700000,
-      "endsAt": 0,
-      "links": [
-        {
-          "label": "Server 1",
-          "subtitle": "Live",
-          "url": "https:\/\/node-5d763f4c.4587.website\/6ab9e8d2.d1cfdc77i798bc8d0.f277.7c2266e8\/free.live.nfl\/master.m3u8",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 2",
-          "subtitle": "Live",
-          "url": "https:\/\/edgestream2.pro\/hls\/wnbcnxbcs42.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 3",
-          "subtitle": "Live ",
-          "url": "https:\/\/dripcast.online\/nfl_streams\/index.php?q=new-orleans-saints.m3u8",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 4",
-          "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=raiders=saints&s=home&sport=nfl",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 5",
-          "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=raiders=saints&s=away&sport=nfl",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 6",
-          "subtitle": "Live",
-          "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-27\/lv-no",
-          "type": "hls",
-          "rewarded": false,
-          "tokenApi": {
-            "type": "embed",
-            "api": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-27\/lv-no"
-          }
-        },
-        {
-          "label": "Server 7",
-          "subtitle": "Live",
-          "url": "https:\/\/embed.st\/embed\/admin\/ppv-las-vegas-raiders-at-new-orleans-saints\/1",
-          "type": "hls",
-          "rewarded": false,
-          "tokenApi": {
-            "type": "embed",
-            "api": "https:\/\/embed.st\/embed\/admin\/ppv-las-vegas-raiders-at-new-orleans-saints\/1"
-          }
-        }
-      ]
-    },
-    {
       "id": "s1790499123390",
       "league": "nba",
       "gameId": "",
@@ -2472,112 +2643,6 @@
           "tokenApi": {
             "type": "embed",
             "api": "https:\/\/embed.st\/embed\/admin\/ppv-washington-mystics-vs-atlanta-dream\/1"
-          }
-        }
-      ]
-    },
-    {
-      "id": "s1790325976722",
-      "league": "nfl",
-      "gameId": "",
-      "away": "LAR",
-      "home": "DEN",
-      "title": "Rams at Broncos",
-      "poster": "",
-      "startsAt": 1790554800000,
-      "endsAt": 0,
-      "links": [
-        {
-          "label": "Main Server 1",
-          "subtitle": "Live ",
-          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/w0rehjjrwe\/out\/v1\/69a2a7041395406b970598f61680e7cf\/cenc.mpd",
-          "type": "dash",
-          "rewarded": false,
-          "drmScheme": "clearkey",
-          "drmLicenseUrl": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
-        },
-        {
-          "label": "Main Server 2",
-          "subtitle": "Live ",
-          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/tpdofmrr84\/out\/v1\/ad58961bd8fd48d2944e461c034b8914\/cenc.mpd",
-          "type": "dash",
-          "rewarded": false,
-          "drmScheme": "clearkey",
-          "drmLicenseUrl": "d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37"
-        },
-        {
-          "label": "Main Server 3",
-          "subtitle": "Live ",
-          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/ihys8nw4wv\/out\/v1\/fde190f369484bc6b6117cc16cd82a9f\/cenc.mpd",
-          "type": "dash",
-          "rewarded": false,
-          "drmScheme": "clearkey",
-          "drmLicenseUrl": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7"
-        },
-        {
-          "label": "Main Server 4",
-          "subtitle": "Live ",
-          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/zbc6muqib6\/out\/v1\/f5774813052f4d5499e7611d0db33b2f\/cenc.mpd",
-          "type": "dash",
-          "rewarded": false,
-          "drmScheme": "clearkey",
-          "drmLicenseUrl": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8"
-        },
-        {
-          "label": "Server 5",
-          "subtitle": "Live ",
-          "url": "https:\/\/edgestream2.pro\/hls\/jnfezkbfz43.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 6",
-          "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=rams=broncos&s=home&sport=nfl",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 7",
-          "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=rams=broncos&s=away&sport=nfl",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 8",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2781d8192bb76cb3d1\/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiM2QxOjE3OTA1MjIzNDQzMDM6Y2RubGl2ZXR2LnR2OjZhZDlmZGZiMjIxY2JkZmYuZTk4MTQ3YTgyNjNiY2E0NjMxODE3Y2MyYzBlYzhhODdiYjNkMDEwYzI0MWM5MTU3MDc0OTNiNGFlMjllYzIxYw",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 9",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cbe8e\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNiZThlOjE3OTA1MjIzNDQ0MjU6Y2RubGl2ZXR2LnR2OmYyYmFjZGNiNGZiZTJhNDIuYjBlMDlhZGYzOWI2MmZhZGMxZTkzYjlhOTU4NDFkMmZkNWM5ZDJlYWM3OGUzZDk1NjMxNGNlMjk0Y2ZmMGJhYQ",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 10",
-          "subtitle": "Live ",
-          "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-27\/lar-den",
-          "type": "hls",
-          "rewarded": false,
-          "tokenApi": {
-            "type": "embed",
-            "api": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-27\/lar-den"
-          }
-        },
-        {
-          "label": "Server 11",
-          "subtitle": "Live ",
-          "url": "https:\/\/embed.st\/embed\/admin\/ppv-los-angeles-rams-at-denver-broncos\/1",
-          "type": "hls",
-          "rewarded": false,
-          "tokenApi": {
-            "type": "embed",
-            "api": "https:\/\/embed.st\/embed\/admin\/ppv-los-angeles-rams-at-denver-broncos\/1"
           }
         }
       ]
@@ -2641,71 +2706,6 @@
           "url": "https:\/\/edgestream2.pro\/hls\/jkzahzadach20.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": true
-        }
-      ]
-    },
-    {
-      "id": "s1790509321226",
-      "league": "nfl",
-      "gameId": "",
-      "away": "NFL REDZONE ",
-      "home": "NFL REDZONE ",
-      "title": "NFL RedZone ",
-      "poster": "https:\/\/blogger.googleusercontent.com\/img\/a\/AVvXsEj5HSwT9RTJRu_WinfazRlVGSOUyfwkPkitkSAudOcJz6WH-1BPAlXBZNGzQprsqMVRQvqqd0FH5RG3cWziqJldZ4KLrL7kYFDMnrsaYWALCYY-KofaNWqXRmvZUABoQhZh7fmRudOYj-4OXPQmMqJwDl6YxGBhv9ByKlg83UtXc43Y3zhsaK3b1-mXoIw=s1600",
-      "startsAt": 0,
-      "endsAt": 0,
-      "links": [
-        {
-          "label": "Main Server 1",
-          "subtitle": "Live",
-          "url": "https:\/\/otte.cache.aiv-cdn.net\/lhr-nitro\/live\/clients\/dash\/enc\/jvrno3jef2\/out\/v1\/0f66f4d875f04d7d91f6210461dd7b52\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
-          "type": "dash",
-          "rewarded": false,
-          "drmScheme": "clearkey",
-          "drmLicenseUrl": "b6e646d15d2ddfcf74c41ef6574b90fc:5c8bb38d3758dca73ad0ba63d6ba2841"
-        },
-        {
-          "label": "Server 2",
-          "subtitle": "Live",
-          "url": "https:\/\/dripcast.online\/nfl_streams\/index.php?q=redzone.m3u8",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 3",
-          "subtitle": "Live",
-          "url": "https:\/\/edgestream2.pro\/hls\/eyrennte44.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 4",
-          "subtitle": "Live",
-          "url": "https:\/\/sidelinescorepro.com\/cracktv-scraper\/go\/nfl\/nfl-redzone.m3u8?src=1|User-Agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/126.0.0.0 Safari\/537.36&Referer=https:\/\/dervlin.me\/sd0embed\/NFL",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 5",
-          "subtitle": "Live",
-          "url": "https:\/\/embedindia.st\/embed\/nfl-redzone-29537",
-          "type": "hls",
-          "rewarded": false,
-          "tokenApi": {
-            "type": "embed",
-            "api": "https:\/\/embedindia.st\/embed\/nfl-redzone-29537"
-          }
-        },
-        {
-          "label": "Server 6",
-          "subtitle": "Live",
-          "url": "https:\/\/embedindia.st\/embed\/nfl-network",
-          "type": "hls",
-          "rewarded": false,
-          "tokenApi": {
-            "type": "embed",
-            "api": "https:\/\/embedindia.st\/embed\/nfl-network"
-          }
         }
       ]
     }
