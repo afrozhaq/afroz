@@ -1849,33 +1849,47 @@
         {
           "label": "Server 2",
           "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=rangers=twins&s=home&sport=mlb",
+          "url": "https:\/\/node-9b5feb01.4587.website\/6ab9d5f8.76e90837i798bc8d0.1080c.15431235\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
           "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=rangers=twins&s=away&sport=mlb",
+          "url": "https:\/\/node-5d763f4c.4587.website\/6ab9d5f9.19abd8e1i798bc8d0.10811.2be54890\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=rangers=twins&s=home&sport=mlb",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 5",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=rangers=twins&s=away&sport=mlb",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 6",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb5fd\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWZkOjE3OTA1MjIzNDA2MDU6Y2RubGl2ZXR2LnR2OjRlNjBiZDE4ZjMwN2U5OGQuZDRjMDc0NWJlZDIyNjM5NTQ1MWI1NGIxNGIwYzg3YjYwODA3ZGM2OTcxYjcyMGM5OTMwODM3MmM3NWNjNTcxMw",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb624\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjI0OjE3OTA1MjIzNDA3MjE6Y2RubGl2ZXR2LnR2OjRhMThkZGEwMWEyNjQ3MjguY2RiMTU1NjFiZTI1OTAwYzhiNzgxOWQzMGE5ZTFhZDY5ZTkxZDhmZWI2ZmUwY2JiODJmOTcxYjI3OTlhNDk1Yw",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 6",
+          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-27\/tex-min",
           "type": "hls",
@@ -1886,7 +1900,7 @@
           }
         },
         {
-          "label": "Server 7",
+          "label": "Server 9",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-texas-rangers-vs-minnesota-twins\/1",
           "type": "hls",
