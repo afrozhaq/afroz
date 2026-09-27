@@ -1099,11 +1099,47 @@
       "endsAt": 0,
       "links": [
         {
-          "label": "Server ",
+          "label": "Server 1",
           "subtitle": "Live ",
           "url": "https:\/\/edgestream2.pro\/hls\/jkzahzadach20.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
-          "rewarded": true
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live ",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb5fb\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWZiOjE3OTA1MjIzMzc4MTU6Y2RubGl2ZXR2LnR2OjczZWE3ZWZiNjU3ZTM0OWMuYTk0YmJmNjNkYWZhZTg2ZjA2OGUwNjJlYjA5NDIwY2MyN2RlNTVjNDAwMGVlY2VjYzVkYjY0YWRlNzlkYjJmNA",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live ",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb618\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjE4OjE3OTA1MjIzMzc5Mzk6Y2RubGl2ZXR2LnR2Ojk0OWQxODljMDRmNDYxMTAuNWVlMjg5MTI2NTQyMTI3OWE4NTlmNDgyMGMyNzMwN2RlODIxMTNkNjExMGE0NWY4MTczOGJmYWVjMzM3ZjdlZg",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
+          "subtitle": "Live ",
+          "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-27\/cin-tor",
+          "type": "hls",
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-27\/cin-tor"
+          }
+        },
+        {
+          "label": "Server 5",
+          "subtitle": "Live ",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-cincinnati-reds-vs-toronto-blue-jays\/1",
+          "type": "hls",
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-cincinnati-reds-vs-toronto-blue-jays\/1"
+          }
         }
       ]
     },
