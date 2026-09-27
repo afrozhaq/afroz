@@ -471,12 +471,19 @@
         {
           "label": "Server 5",
           "subtitle": "Live",
-          "url": "https:\/\/dripcast.online\/nfl_streams\/index.php?q=jacksonville-jaguars.m3u8",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc172\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTcyOjE3OTA1MzgzNDUzOTM6Y2RubGl2ZXR2LnR2OjY4ZDllZDEzMzJhNzA0MDcuZWUyYzEwOGZmMmNhN2IyZjkwZjc2OTg2ZjcxZjRhMjg1NTdjOWZhZDRlNTg1MmMzNjdiMWY0ZGFmNDZmMzEyNA",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 6",
+          "subtitle": "Live",
+          "url": "https:\/\/dripcast.online\/nfl_streams\/index.php?q=jacksonville-jaguars.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 7",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-27\/ne-jax",
           "type": "hls",
@@ -487,7 +494,7 @@
           }
         },
         {
-          "label": "Server 7",
+          "label": "Server 8",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-new-england-patriots-at-jacksonville-jaguars\/1",
           "type": "hls",
