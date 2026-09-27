@@ -1387,33 +1387,47 @@
         {
           "label": "Server 2",
           "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=diamondbacks=padres&s=home&sport=mlb",
+          "url": "https:\/\/node-5d763f4c.4587.website\/6ab9db20.b01b8359i798bc8d0.10807.03901eeb\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
           "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=diamondbacks=padres&s=away&sport=mlb",
+          "url": "https:\/\/node-9b5feb01.4587.website\/6ab9db1f.4905a26ci798bc8d0.10831.e8ad8834\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=diamondbacks=padres&s=home&sport=mlb",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 5",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=diamondbacks=padres&s=away&sport=mlb",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 6",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb604\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjA0OjE3OTA1MjIzNDExNTY6Y2RubGl2ZXR2LnR2OmRiNGM3MTUwYTk3MjY2NjIuM2U5ZTdiYmVjMjc5NTIyZmMyMmMzOTNiM2RmMjYzOTFlNjJhYjIwNTA3ODYzZWUzNTdlZjg4YjU1MjU2ZWU0Zg",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb61e\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjFlOjE3OTA1MjIzNDEyNzA6Y2RubGl2ZXR2LnR2OjM0NWIwMGYwNjRhNWZmZTYuMjQzMTg1YmFhMzM0MDQ3NDBkNDIxODgyYjk5ZmE5NTdmNDU4Y2RiOTNkMmUxNWQwOGNkMDkwYjRiNjM4ZGY3OA",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 6",
+          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-27\/ari-sd",
           "type": "hls",
@@ -1424,7 +1438,7 @@
           }
         },
         {
-          "label": "Server 7",
+          "label": "Server 9",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-arizona-diamondbacks-vs-san-diego-padres\/1",
           "type": "hls",
