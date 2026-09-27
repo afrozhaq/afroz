@@ -641,6 +641,33 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1790499082468",
+      "league": "nba",
+      "gameId": "",
+      "away": "ACES",
+      "home": "FEVER",
+      "title": "Aces at Fever ",
+      "poster": "",
+      "startsAt": 1790539200000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
