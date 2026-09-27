@@ -550,14 +550,14 @@
         {
           "label": "Server 2",
           "subtitle": "Live",
-          "url": "https:\/\/instreams.pro\/live\/tv401872957\/index.m3u8?st=SJGYNTaE0K2Z2Zq_yAYF3Q&e=1790539286|Referer=https:\/\/instream.click\/livetv.php?stream=tv401872957&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/111.0.0.0 Safari\/537.36",
+          "url": "https:\/\/dripcast.online\/nfl_streams\/index.php?q=jacksonville-jaguars.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
           "subtitle": "Live",
-          "url": "https:\/\/dripcast.online\/nfl_streams\/index.php?q=jacksonville-jaguars.m3u8",
+          "url": "https:\/\/instreams.pro\/live\/tv401872957\/index.m3u8?st=SJGYNTaE0K2Z2Zq_yAYF3Q&e=1790539286|Referer=https:\/\/instream.click\/livetv.php?stream=tv401872957&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/111.0.0.0 Safari\/537.36",
           "type": "hls",
           "rewarded": false
         },
@@ -634,14 +634,14 @@
         {
           "label": "Server 1",
           "subtitle": "Live ",
-          "url": "https:\/\/instreams.live\/live\/tv401872954\/index.m3u8?st=W4klYVlMW_z71J7LVUdlOw&e=1790539270|Referer=https:\/\/instream.click\/livetv.php?stream=tv401872954&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/111.0.0.0 Safari\/537.36",
+          "url": "https:\/\/dripcast.online\/nfl_streams\/index.php?q=detroit-lions.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 2",
           "subtitle": "Live ",
-          "url": "https:\/\/dripcast.online\/nfl_streams\/index.php?q=detroit-lions.m3u8",
+          "url": "https:\/\/instreams.live\/live\/tv401872954\/index.m3u8?st=W4klYVlMW_z71J7LVUdlOw&e=1790539270|Referer=https:\/\/instream.click\/livetv.php?stream=tv401872954&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/111.0.0.0 Safari\/537.36",
           "type": "hls",
           "rewarded": false
         },
@@ -711,14 +711,14 @@
         {
           "label": "Server 1",
           "subtitle": "Live",
-          "url": "https:\/\/instreams.live\/live\/tv401872955\/index.m3u8?st=VTSoFpx5ioHgHjVD3J4vLA&e=1790539278|Referer=https:\/\/instream.click\/livetv.php?stream=tv401872955&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/111.0.0.0 Safari\/537.36",
+          "url": "https:\/\/dripcast.online\/nfl_streams\/index.php?q=washington-commanders.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 2",
           "subtitle": "Live",
-          "url": "https:\/\/dripcast.online\/nfl_streams\/index.php?q=washington-commanders.m3u8",
+          "url": "https:\/\/instreams.live\/live\/tv401872955\/index.m3u8?st=VTSoFpx5ioHgHjVD3J4vLA&e=1790539278|Referer=https:\/\/instream.click\/livetv.php?stream=tv401872955&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/111.0.0.0 Safari\/537.36",
           "type": "hls",
           "rewarded": false
         },
