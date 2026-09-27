@@ -478,19 +478,12 @@
         {
           "label": "Server 5",
           "subtitle": "Live",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc172\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTcyOjE3OTA1MjIzMzM2MDE6Y2RubGl2ZXR2LnR2OjlmNTZkZmYzZjJlMzQ4YWUuNTFjNmZiMGU5OWMzY2VmYzRhZTI2YTMxNmM0ODIxMWM4ZmI0NjU1ZjhhNjg4NzMxMmJmYzkwNDEwYTQ5MzQzNA",
+          "url": "https:\/\/dripcast.online\/nfl_streams\/index.php?q=jacksonville-jaguars.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 6",
-          "subtitle": "Live",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc3be\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjM2JlOjE3OTA1MjIzMzM3MTM6Y2RubGl2ZXR2LnR2OjU4Mzk1ZGU4YmNmZGQwMmEuYzlmM2MyMjQ1MDJkMzc3NjRiNWIwNjQ4MDE4MTMwMDIzZDQ1OGM1MmU0M2U1MTFjMDZjNjU2MjYxZWFkMzEyNg",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 7",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-27\/ne-jax",
           "type": "hls",
@@ -501,7 +494,7 @@
           }
         },
         {
-          "label": "Server 8",
+          "label": "Server 7",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-new-england-patriots-at-jacksonville-jaguars\/1",
           "type": "hls",
@@ -548,19 +541,12 @@
         {
           "label": "Server 4",
           "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cbb70\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiYjcwOjE3OTA1MjIzMzIyOTI6Y2RubGl2ZXR2LnR2OjM4OTc0MjBjMDUxYzZiYzIuOGY0OTE5OWYyMjNhMmZiYWE1NTUzN2JlMTk0N2I1ZDcxZmVkM2Q0OWQ3NWJiYzNlNzM4Zjk2ZjU0NjNlMjJjMg",
+          "url": "https:\/\/dripcast.online\/nfl_streams\/index.php?q=detroit-lions.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2781d8192bb76cb38e\/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzhlOjE3OTA1MjIzMzIxNTA6Y2RubGl2ZXR2LnR2OjgxNGFlNTc3NGQ3ODVjNzkuMWFlZGQwOGExMmUxNTkxNTQyNWY5M2VkYjExOTgxZjc3NTliOGQ2YmZjZjFmZGNiNWM5M2QzYmM2OGQxZmZhMw",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 6",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-27\/nyj-det",
           "type": "hls",
@@ -571,7 +557,7 @@
           }
         },
         {
-          "label": "Server 7",
+          "label": "Server 6",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-new-york-jets-at-detroit-lions\/1",
           "type": "hls",
