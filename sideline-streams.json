@@ -1302,15 +1302,15 @@
         },
         {
           "label": "Server 2",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb5fb\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWZiOjE3OTA1MjIzMzc4MTU6Y2RubGl2ZXR2LnR2OjczZWE3ZWZiNjU3ZTM0OWMuYTk0YmJmNjNkYWZhZTg2ZjA2OGUwNjJlYjA5NDIwY2MyN2RlNTVjNDAwMGVlY2VjYzVkYjY0YWRlNzlkYjJmNA",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/node-025d151e.4587.website\/6ab9db1e.650ad9bbi798bc8d0.10810.62bb480a\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb618\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjE4OjE3OTA1MjIzMzc5Mzk6Y2RubGl2ZXR2LnR2Ojk0OWQxODljMDRmNDYxMTAuNWVlMjg5MTI2NTQyMTI3OWE4NTlmNDgyMGMyNzMwN2RlODIxMTNkNjExMGE0NWY4MTczOGJmYWVjMzM3ZjdlZg",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/node-9b5feb01.4587.website\/6ab9db1e.2ffe012fi798bc8d0.10827.e34269d5\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
