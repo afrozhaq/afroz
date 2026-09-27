@@ -406,6 +406,13 @@
         {
           "label": "Server 5",
           "subtitle": "Live",
+          "url": "https:\/\/dripcast.online\/nfl_streams\/index.php?q=buffalo-bills.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 6",
+          "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-27\/lac-buf",
           "type": "hls",
           "rewarded": false,
@@ -415,7 +422,7 @@
           }
         },
         {
-          "label": "Server 6",
+          "label": "Server 7",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-los-angeles-chargers-at-buffalo-bills\/1",
           "type": "hls",
@@ -611,19 +618,12 @@
         {
           "label": "Server 4",
           "subtitle": "Live",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cbfef\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNiZmVmOjE3OTA1MjIzMzI5MjI6Y2RubGl2ZXR2LnR2OjIwZWIzM2NlNDZhYmM2YmQuY2VhZjU1NDNlMWE1OGIyYTgxNjU1YjcwZGIwODdhMDU1ZGI0YzNhZTJiMjVkNTg0MDczYjM3ODhhZWE2NmExMg",
+          "url": "https:\/\/dripcast.online\/nfl_streams\/index.php?q=washington-commanders.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
-          "subtitle": "Live",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cbffc\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNiZmZjOjE3OTA1MjIzMzMwMzE6Y2RubGl2ZXR2LnR2OjUzMTY4ZTk1NWU3YTNjOTcuYzRiNTE1Nzc2Zjk3YmY5ZGQ3YTQ3NGVjZmNmYzk5ODM3YzQ1M2FhMzgyMTNmOWRjZDA1NzFlOWIzMGRiMDA2NA",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 6",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-27\/sea-wsh",
           "type": "hls",
@@ -634,7 +634,7 @@
           }
         },
         {
-          "label": "Server 7",
+          "label": "Server 6",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-seattle-seahawks-at-washington-commanders\/1",
           "type": "hls",
