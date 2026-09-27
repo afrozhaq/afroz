@@ -1009,33 +1009,47 @@
         {
           "label": "Server 2",
           "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=cubs=redsox&s=home&sport=mlb",
+          "url": "https:\/\/node-025d151e.4587.website\/6ab9db1c.8bbe3330i798bc8d0.10a93.2b31f70a\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
           "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=cubs=redsox&s=away&sport=mlb",
+          "url": "https:\/\/node-9b5feb01.4587.website\/6ab9db1c.04241151i798bc8d0.10a94.8ec68bca\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=cubs=redsox&s=home&sport=mlb",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 5",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=cubs=redsox&s=away&sport=mlb",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 6",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb62e\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjJlOjE3OTA1MjIzMzQ3Nzk6Y2RubGl2ZXR2LnR2OmMwODU1OTQ3NjJkNWVjOGIuNTNkMDU2NGM0MmQ5YTI1MWE2YmFkZGY4YjJiOTBhYTEzYjkyYTlmOTIxZDMxN2M1YTFmNWFlYjRkNDY0ZTE2Yw",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb631\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjMxOjE3OTA1MjIzMzQ4OTQ6Y2RubGl2ZXR2LnR2OmNjNzQ1MDZmMjcwMjA1NzUuMjNiOTJkMjlhZmQ0MjNjOGVlNDhjMDA5NjNmNTJmNGM0OGJiOTkyMzkzNTM5OGZmYTRhODg2MTA5MzVjYWZlNQ",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 6",
+          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-27\/chc-bos",
           "type": "hls",
@@ -1046,7 +1060,7 @@
           }
         },
         {
-          "label": "Server 7",
+          "label": "Server 9",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-chicago-cubs-vs-boston-red-sox\/1",
           "type": "hls",
