@@ -1128,13 +1128,61 @@
       "endsAt": 0,
       "links": [
         {
-          "label": "Main Server 1",
-          "subtitle": "FHD Auto Quality",
-          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cjglydxghe\/out\/v1\/8977baf175da4b94873194613dd3fe55\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
-          "type": "dash",
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "https:\/\/edgestream2.pro\/hls\/ijzriafaq41.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=ravens=cowboys&s=home&sport=nfl",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=ravens=cowboys&s=away&sport=nfl",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
+          "subtitle": "Live",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc383\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzgzOjE3OTA1MjIzNDI4NTY6Y2RubGl2ZXR2LnR2Ojg2MjdlY2ExYTQwN2UzZTIuZDkwZTEyNWE2MDRjNjU0YjBkYmE3MTk1NWQzNzU1MzU2YThmMzBkNjc4YTA0ZThhMTVlZTgwOGMzYzA0MTkxZA",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 5",
+          "subtitle": "Live",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2781d8192bb76cb375\/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzc1OjE3OTA1MjIzMzI0Njk6Y2RubGl2ZXR2LnR2OjBjMWJlMjdkMWNjNjY0YjQuMmYyMjU5YjA0NmQwZjI2YTQwZjRmNzIyYmJiZTBiODMwMTZlNjk5MTYwZGM0ZmFjYWQ3MDA1YmJhZGY5NTFjOQ",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 6",
+          "subtitle": "Live",
+          "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-27\/bal-dal",
+          "type": "hls",
           "rewarded": false,
-          "drmScheme": "clearkey",
-          "drmLicenseUrl": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-27\/bal-dal"
+          }
+        },
+        {
+          "label": "Server 7",
+          "subtitle": "Live",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-baltimore-ravens-at-dallas-cowboys\/1",
+          "type": "hls",
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-baltimore-ravens-at-dallas-cowboys\/1"
+          }
         }
       ]
     },
