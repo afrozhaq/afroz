@@ -307,20 +307,27 @@
         },
         {
           "label": "Server 3",
+          "subtitle": "Live",
+          "url": "https:\/\/dripcast.online\/flyembed-scraper\/fly\/index.m3u8?id=nfl-401872951",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=texans=colts&s=home&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
+          "label": "Server 5",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=texans=colts&s=away&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
+          "label": "Server 6",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-27\/hou-ind",
           "type": "hls",
@@ -331,7 +338,7 @@
           }
         },
         {
-          "label": "Server 6",
+          "label": "Server 7",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-houston-texans-at-indianapolis-colts\/1",
           "type": "hls",
