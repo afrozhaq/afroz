@@ -376,68 +376,6 @@
       ]
     },
     {
-      "id": "s1790410759510",
-      "league": "nhl",
-      "gameId": "",
-      "away": "SABRES",
-      "home": "PENGUINS ",
-      "title": "Sabres at Penguins ",
-      "poster": "",
-      "startsAt": 1790449200000,
-      "endsAt": 0,
-      "links": [
-        {
-          "label": "Server 1",
-          "subtitle": "Live",
-          "url": "https:\/\/edgestream2.pro\/hls\/xcxvvghzsadau86.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 2",
-          "subtitle": "Live",
-          "url": "https:\/\/embedindia.st\/embed\/nhl\/2026-09-26\/pit-buf",
-          "type": "hls",
-          "rewarded": false,
-          "tokenApi": {
-            "type": "embed",
-            "api": "https:\/\/embedindia.st\/embed\/nhl\/2026-09-26\/pit-buf"
-          }
-        }
-      ]
-    },
-    {
-      "id": "s1790410829055",
-      "league": "nhl",
-      "gameId": "",
-      "away": "PREDATORS",
-      "home": "HURRICANES ",
-      "title": "Predators at Hurricanes",
-      "poster": "",
-      "startsAt": 1790449200000,
-      "endsAt": 0,
-      "links": [
-        {
-          "label": "Server 1",
-          "subtitle": "Live ",
-          "url": "https:\/\/edgestream2.pro\/hls\/nbvevzaheafgu87.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 2",
-          "subtitle": "Live ",
-          "url": "https:\/\/embedindia.st\/embed\/nhl\/2026-09-26\/car-nsh",
-          "type": "hls",
-          "rewarded": false,
-          "tokenApi": {
-            "type": "embed",
-            "api": "https:\/\/embedindia.st\/embed\/nhl\/2026-09-26\/car-nsh"
-          }
-        }
-      ]
-    },
-    {
       "id": "s1790425238593",
       "league": "ncaaf",
       "gameId": "",
@@ -762,37 +700,6 @@
       ]
     },
     {
-      "id": "s1790410876931",
-      "league": "nhl",
-      "gameId": "",
-      "away": "KINGS",
-      "home": "DUCKS",
-      "title": "Kings at Ducks ",
-      "poster": "",
-      "startsAt": 1790452800000,
-      "endsAt": 0,
-      "links": [
-        {
-          "label": "Server 1",
-          "subtitle": "Live",
-          "url": "https:\/\/edgestream2.pro\/hls\/fghsqdgauduyagz88.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 2",
-          "subtitle": "Live",
-          "url": "https:\/\/embedindia.st\/embed\/nhl\/2026-09-26\/ana-la",
-          "type": "hls",
-          "rewarded": false,
-          "tokenApi": {
-            "type": "embed",
-            "api": "https:\/\/embedindia.st\/embed\/nhl\/2026-09-26\/ana-la"
-          }
-        }
-      ]
-    },
-    {
       "id": "s1790425573770",
       "league": "ncaaf",
       "gameId": "",
@@ -864,68 +771,6 @@
       ]
     },
     {
-      "id": "s1790410925662",
-      "league": "nhl",
-      "gameId": "",
-      "away": "FLYERS ",
-      "home": "CAPITALS ",
-      "title": "Flyers at Capitals ",
-      "poster": "",
-      "startsAt": 1790456400000,
-      "endsAt": 0,
-      "links": [
-        {
-          "label": "Server 1",
-          "subtitle": "Live",
-          "url": "https:\/\/edgestream2.pro\/hls\/ozeiruzhurfxcwas89.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 2",
-          "subtitle": "Live",
-          "url": "https:\/\/embedindia.st\/embed\/nhl\/2026-09-26\/wsh-phi",
-          "type": "hls",
-          "rewarded": false,
-          "tokenApi": {
-            "type": "embed",
-            "api": "https:\/\/embedindia.st\/embed\/nhl\/2026-09-26\/wsh-phi"
-          }
-        }
-      ]
-    },
-    {
-      "id": "s1790411026568",
-      "league": "nhl",
-      "gameId": "",
-      "away": "MAMMOTH ",
-      "home": "AVALANCHE ",
-      "title": "Mammoth at Avalanche ",
-      "poster": "",
-      "startsAt": 1790456400000,
-      "endsAt": 0,
-      "links": [
-        {
-          "label": "Server 1",
-          "subtitle": "Live",
-          "url": "https:\/\/edgestream2.pro\/hls\/dzaugyvdgazc90.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 2",
-          "subtitle": "Live",
-          "url": "https:\/\/embedindia.st\/embed\/nhl\/2026-09-26\/col-uta",
-          "type": "hls",
-          "rewarded": false,
-          "tokenApi": {
-            "type": "embed",
-            "api": "https:\/\/embedindia.st\/embed\/nhl\/2026-09-26\/col-uta"
-          }
-        }
-      ]
-    },
-    {
       "id": "s1790425573773",
       "league": "ncaaf",
       "gameId": "",
@@ -992,37 +837,6 @@
           "tokenApi": {
             "type": "embed",
             "api": "https:\/\/embedindia.st\/embed\/cfb\/2026-09-26\/wis-psu"
-          }
-        }
-      ]
-    },
-    {
-      "id": "s1790411068045",
-      "league": "nhl",
-      "gameId": "",
-      "away": "PANTHERS ",
-      "home": "TAMPA BAY ",
-      "title": "Panthers at Tampa Bay",
-      "poster": "",
-      "startsAt": 1790460000000,
-      "endsAt": 0,
-      "links": [
-        {
-          "label": "Server 1",
-          "subtitle": "Live",
-          "url": "https:\/\/edgestream2.pro\/hls\/fbnjzebjhcazhjg91.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 2",
-          "subtitle": "Live",
-          "url": "https:\/\/embedindia.st\/embed\/nhl\/2026-09-26\/tb-fla",
-          "type": "hls",
-          "rewarded": false,
-          "tokenApi": {
-            "type": "embed",
-            "api": "https:\/\/embedindia.st\/embed\/nhl\/2026-09-26\/tb-fla"
           }
         }
       ]
@@ -1155,130 +969,6 @@
           "url": "https:\/\/edgestream2.pro\/hls\/sqhdghzavbxu75.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
-        }
-      ]
-    },
-    {
-      "id": "s1790411113840",
-      "league": "nhl",
-      "gameId": "",
-      "away": "SENATORS ",
-      "home": "CANADIENS ",
-      "title": "Senators at Canadiens ",
-      "poster": "",
-      "startsAt": 1790463600000,
-      "endsAt": 0,
-      "links": [
-        {
-          "label": "Server 1",
-          "subtitle": "Live",
-          "url": "https:\/\/edgestream2.pro\/hls\/etzrezbfezjhverf93.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 2",
-          "subtitle": "Live",
-          "url": "https:\/\/embedindia.st\/embed\/nhl\/2026-09-26\/ott-mtl",
-          "type": "hls",
-          "rewarded": false,
-          "tokenApi": {
-            "type": "embed",
-            "api": "https:\/\/embedindia.st\/embed\/nhl\/2026-09-26\/ott-mtl"
-          }
-        }
-      ]
-    },
-    {
-      "id": "s1790411170764",
-      "league": "nhl",
-      "gameId": "",
-      "away": "BLACKHAWKS ",
-      "home": "BLUES ",
-      "title": "Blackhawks at Blues",
-      "poster": "",
-      "startsAt": 1790463600000,
-      "endsAt": 0,
-      "links": [
-        {
-          "label": "Server 1",
-          "subtitle": "Live",
-          "url": "https:\/\/edgestream2.pro\/hls\/hpouezruioazd96.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 2",
-          "subtitle": "Live",
-          "url": "https:\/\/embedindia.st\/embed\/nhl\/2026-09-26\/stl-chi",
-          "type": "hls",
-          "rewarded": false,
-          "tokenApi": {
-            "type": "embed",
-            "api": "https:\/\/embedindia.st\/embed\/nhl\/2026-09-26\/stl-chi"
-          }
-        }
-      ]
-    },
-    {
-      "id": "s1790411209401",
-      "league": "nhl",
-      "gameId": "",
-      "away": "RED WINGS ",
-      "home": "BLUE JACKETS",
-      "title": "Red Wings at Blue Jackets ",
-      "poster": "",
-      "startsAt": 1790463600000,
-      "endsAt": 0,
-      "links": [
-        {
-          "label": "Server 1",
-          "subtitle": "Live",
-          "url": "https:\/\/edgestream2.pro\/hls\/xwcbnfghqscxfghaz92.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 2",
-          "subtitle": "Live",
-          "url": "https:\/\/embedindia.st\/embed\/nhl\/2026-09-26\/cbj-det",
-          "type": "hls",
-          "rewarded": false,
-          "tokenApi": {
-            "type": "embed",
-            "api": "https:\/\/embedindia.st\/embed\/nhl\/2026-09-26\/cbj-det"
-          }
-        }
-      ]
-    },
-    {
-      "id": "s1790411252446",
-      "league": "nhl",
-      "gameId": "",
-      "away": "CANUCKS ",
-      "home": "KRAKEN ",
-      "title": "Canucks at Kraken ",
-      "poster": "",
-      "startsAt": 1790463600000,
-      "endsAt": 0,
-      "links": [
-        {
-          "label": "Server 1",
-          "subtitle": "Live",
-          "url": "https:\/\/edgestream2.pro\/hls\/fgjhvebazfhgazf94.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 2",
-          "subtitle": "Live",
-          "url": "https:\/\/embedindia.st\/embed\/nhl\/2026-09-26\/sea-van",
-          "type": "hls",
-          "rewarded": false,
-          "tokenApi": {
-            "type": "embed",
-            "api": "https:\/\/embedindia.st\/embed\/nhl\/2026-09-26\/sea-van"
-          }
         }
       ]
     },
@@ -1430,37 +1120,6 @@
           "url": "https:\/\/edgestream2.pro\/hls\/omljkhqsdag79.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
-        }
-      ]
-    },
-    {
-      "id": "s1790412355280",
-      "league": "nhl",
-      "gameId": "",
-      "away": "ISLANDERS ",
-      "home": "DEVILS ",
-      "title": "Islanders at Devils",
-      "poster": "",
-      "startsAt": 1790465400000,
-      "endsAt": 0,
-      "links": [
-        {
-          "label": "Server 1",
-          "subtitle": "Live",
-          "url": "https:\/\/edgestream2.pro\/hls\/wxqsdafzaengfgu97.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 2",
-          "subtitle": "Live",
-          "url": "https:\/\/embedindia.st\/embed\/nhl\/2026-09-26\/nj-nyi",
-          "type": "hls",
-          "rewarded": false,
-          "tokenApi": {
-            "type": "embed",
-            "api": "https:\/\/embedindia.st\/embed\/nhl\/2026-09-26\/nj-nyi"
-          }
         }
       ]
     },
@@ -1678,26 +1337,6 @@
       ]
     },
     {
-      "id": "s1790412404933",
-      "league": "nhl",
-      "gameId": "",
-      "away": "OILERS ",
-      "home": "FLAMES",
-      "title": "Oilers at Flames",
-      "poster": "",
-      "startsAt": 1790470800000,
-      "endsAt": 0,
-      "links": [
-        {
-          "label": "Server 1",
-          "subtitle": "Live",
-          "url": "https:\/\/edgestream2.pro\/hls\/zazezagdgfc98.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
-          "type": "hls",
-          "rewarded": false
-        }
-      ]
-    },
-    {
       "id": "s1790425864982",
       "league": "ncaaf",
       "gameId": "",
@@ -1765,37 +1404,6 @@
           "url": "https:\/\/edgestream2.pro\/hls\/yetehznecs37.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
-        }
-      ]
-    },
-    {
-      "id": "s1790412463839",
-      "league": "nhl",
-      "gameId": "",
-      "away": "SHARKS ",
-      "home": "KNIGHTS ",
-      "title": "Sharks at Knights",
-      "poster": "",
-      "startsAt": 1790474400000,
-      "endsAt": 0,
-      "links": [
-        {
-          "label": "Server 1",
-          "subtitle": "Live",
-          "url": "https:\/\/edgestream2.pro\/hls\/aetrayytufzrdtvgx99.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 2",
-          "subtitle": "Live",
-          "url": "https:\/\/embedindia.st\/embed\/nhl\/2026-09-26\/sj-vgk",
-          "type": "hls",
-          "rewarded": false,
-          "tokenApi": {
-            "type": "embed",
-            "api": "https:\/\/embedindia.st\/embed\/nhl\/2026-09-26\/sj-vgk"
-          }
         }
       ]
     },
