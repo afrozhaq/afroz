@@ -453,11 +453,13 @@
       "endsAt": 0,
       "links": [
         {
-          "label": "Server 1",
+          "label": "Main Server 1",
           "subtitle": "Live",
-          "url": "https:\/\/instreams.live\/live\/tv401872953\/index.m3u8?st=p8xz9aTauPljDOdBQJkMzw&e=1790539268|Referer=https:\/\/instream.click\/livetv.php?stream=tv401872953&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/111.0.0.0 Safari\/537.36",
-          "type": "hls",
-          "rewarded": false
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/lhr-nitro\/live\/clients\/dash\/enc\/efmuviqado\/out\/v1\/77ad525d024d48fcb990085c9a8fef12\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": false,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "02d0040025f5778145f3ec8de05bc5bb:91c56f28ddb9cebc0047c59ecfd791c3"
         },
         {
           "label": "Server 2",
