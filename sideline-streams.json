@@ -2143,6 +2143,13 @@
         {
           "label": "Server 6",
           "subtitle": "Live",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc340\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzQwOjE3OTA1NTI1OTY0OTY6Y2RubGl2ZXR2LnR2OjkwYjFjYzFiYWRmNTk1OTkuYWYxMzgwZWMyMjg5M2Q0YzIxNDY3ZTQ0NDJiZGE3ZjUyOWU4OTQ0NGQzNmEyNDk5MzRiN2M3MjdhNjQwZTE3MA",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 7",
+          "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-27\/ari-sf",
           "type": "hls",
           "rewarded": false,
@@ -2152,7 +2159,7 @@
           }
         },
         {
-          "label": "Server 7",
+          "label": "Server 8",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-arizona-cardinals-at-san-francisco-49-ers\/1",
           "type": "hls",
