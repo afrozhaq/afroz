@@ -203,19 +203,12 @@
         {
           "label": "Server 4",
           "subtitle": "Live",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc340\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzQwOjE3OTA1MjIzMzI2ODg6Y2RubGl2ZXR2LnR2Ojg4NWI1YWQyZjU4Mzk2OTMuZjU2ODE3OWUwNDVjNTY5YmNkOWJlMjkyMjcyOWYyOTE5YmUyNjI3YTNlM2YxMmNhZTI0OWZhNWZiZTc4OTRkYg",
+          "url": "https:\/\/dripcast.online\/nfl_streams\/index.php?q=pittsburgh-steelers.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
-          "subtitle": "Live",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc161\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTYxOjE3OTA1MjIzMjg0MDQ6Y2RubGl2ZXR2LnR2OjhhMTA5YTIwMzdhNDllYTYuM2JkMmZiZTQyMjYyMGM1MjEzOGI4ODA0ODJmZWE4MTZmNTgyNjZjNTUxMzA2YmMwNjk4ZTQ1ODgzYmI1M2NjNQ",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 6",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-27\/cin-pit",
           "type": "hls",
@@ -226,7 +219,7 @@
           }
         },
         {
-          "label": "Server 7",
+          "label": "Server 6",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-cincinnati-bengals-at-pittsburgh-steelers\/1",
           "type": "hls",
@@ -273,19 +266,12 @@
         {
           "label": "Server 4",
           "subtitle": "Live",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2c81d8192bb76cd29d\/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkMjlkOjE3OTA1MjIzMjg4NjI6Y2RubGl2ZXR2LnR2Ojg1YTViZTFmNTc0ZDVkYzUuYzdjZDhjOTUyOGYwNzc1NGNiZmUzZjcyZjUwNzdmM2Y5NTVlMDM3N2IzZGIzZTFkYTczZmQyMjE2ZWI1NzA2NA",
+          "url": "https:\/\/dripcast.online\/nfl_streams\/index.php?q=indianapolis-colts.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
-          "subtitle": "Live",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2c81d8192bb76cd2a8\/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkMmE4OjE3OTA1MjIzMjg5NzA6Y2RubGl2ZXR2LnR2Ojg5NTY0NmIwZTk5ZjQxOTUuNDQ1YzE4ZTkzZGYxNzVhZmE1YWM0N2Q4NDIwZThmMTBjMDU2ODFmM2RkZGI3NTYyMmI2YTY1NWU2ZDRkNzY2OA",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 6",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-27\/hou-ind",
           "type": "hls",
@@ -296,7 +282,7 @@
           }
         },
         {
-          "label": "Server 7",
+          "label": "Server 6",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-houston-texans-at-indianapolis-colts\/1",
           "type": "hls",
@@ -329,19 +315,12 @@
         {
           "label": "Server 2",
           "subtitle": "Live",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2c81d8192bb76cd29d\/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkMjlkOjE3OTA1MjIzMjg4NjI6Y2RubGl2ZXR2LnR2Ojg1YTViZTFmNTc0ZDVkYzUuYzdjZDhjOTUyOGYwNzc1NGNiZmUzZjcyZjUwNzdmM2Y5NTVlMDM3N2IzZGIzZTFkYTczZmQyMjE2ZWI1NzA2NA",
+          "url": "https:\/\/dripcast.online\/nfl_streams\/index.php?q=miami-dolphins.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
-          "subtitle": "Live",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2c81d8192bb76cd2a8\/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkMmE4OjE3OTA1MjIzMjg5NzA6Y2RubGl2ZXR2LnR2Ojg5NTY0NmIwZTk5ZjQxOTUuNDQ1YzE4ZTkzZGYxNzVhZmE1YWM0N2Q4NDIwZThmMTBjMDU2ODFmM2RkZGI3NTYyMmI2YTY1NWU2ZDRkNzY2OA",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 4",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-27\/kc-mia",
           "type": "hls",
@@ -352,7 +331,7 @@
           }
         },
         {
-          "label": "Server 5",
+          "label": "Server 4",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-kansas-city-chiefs-at-miami-dolphins\/1",
           "type": "hls",
