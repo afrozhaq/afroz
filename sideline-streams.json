@@ -417,35 +417,44 @@
       "endsAt": 0,
       "links": [
         {
-          "label": "Server 1",
+          "label": "Main Server 1",
+          "subtitle": "Live",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/lhr-nitro\/live\/clients\/dash\/enc\/mwg4zqr79u\/out\/v1\/d9102187b61d4f6f9b9f2564c5407575\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": false,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "31b5926ac9e20d55f6a1405f69539c3a:866bc2fc0c5a8661b395e762a1bb60d4"
+        },
+        {
+          "label": "Server 2",
           "subtitle": "Live",
           "url": "https:\/\/dripcast.online\/nfl_streams\/index.php?q=miami-dolphins.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 2",
+          "label": "Server 3",
           "subtitle": "Live",
           "url": "https:\/\/edgestream2.pro\/hls\/oipozuezeji33.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 3",
+          "label": "Server 4",
           "subtitle": "Live",
           "url": "https:\/\/instreams.pro\/live\/tv401872952\/index.m3u8?st=ryufsWqUlh-FpanQydcmXw&e=1790539272|Referer=https:\/\/instream.click\/livetv.php?stream=tv401872952&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/111.0.0.0 Safari\/537.36",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
+          "label": "Server 5",
           "subtitle": "Live",
           "url": "https:\/\/dripcast.online\/flyembed-scraper\/fly\/index.m3u8?id=accn-usa",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
+          "label": "Server 6",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-27\/kc-mia",
           "type": "hls",
@@ -456,7 +465,7 @@
           }
         },
         {
-          "label": "Server 6",
+          "label": "Server 7",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-kansas-city-chiefs-at-miami-dolphins\/1",
           "type": "hls",
@@ -568,6 +577,15 @@
         {
           "label": "Main Server 1",
           "subtitle": "Live Now ",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/lhr-nitro\/live\/clients\/dash\/enc\/6bbkcvciwk\/out\/v1\/cf0a2df0948a4e9ca4c26010da2c1986\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": false,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "db30d1fa3c3f5f2096a7ac0c8859dabf:9af373bec5405c72c11dda2950d52a68"
+        },
+        {
+          "label": "Main Server 2",
+          "subtitle": "Live Now ",
           "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/w0rehjjrwe\/out\/v1\/69a2a7041395406b970598f61680e7cf\/cenc.mpd",
           "type": "dash",
           "rewarded": false,
@@ -575,56 +593,56 @@
           "drmLicenseUrl": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
         },
         {
-          "label": "Server 2",
+          "label": "Server 3",
           "subtitle": "Live",
           "url": "https:\/\/dripcast.online\/nfl_streams\/index.php?q=jacksonville-jaguars.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 3",
+          "label": "Server 4",
           "subtitle": "Live",
           "url": "https:\/\/edgestream2.pro\/hls\/ysvbxwnbc38.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
+          "label": "Server 5",
           "subtitle": "Live",
           "url": "https:\/\/instreams.pro\/live\/tv401872957\/index.m3u8?st=SJGYNTaE0K2Z2Zq_yAYF3Q&e=1790539286|Referer=https:\/\/instream.click\/livetv.php?stream=tv401872957&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/111.0.0.0 Safari\/537.36",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
+          "label": "Server 6",
           "subtitle": "Live",
           "url": "https:\/\/dripcast.online\/flyembed-scraper\/fly\/index.m3u8?id=nfl-401872957",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 6",
+          "label": "Server 7",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=patriots=jaguars&s=home&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 7",
+          "label": "Server 8",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=patriots=jaguars&s=away&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 8",
+          "label": "Server 9",
           "subtitle": "Live",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc172\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTcyOjE3OTA1MzgzNDUzOTM6Y2RubGl2ZXR2LnR2OjY4ZDllZDEzMzJhNzA0MDcuZWUyYzEwOGZmMmNhN2IyZjkwZjc2OTg2ZjcxZjRhMjg1NTdjOWZhZDRlNTg1MmMzNjdiMWY0ZGFmNDZmMzEyNA",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 9",
+          "label": "Server 10",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-27\/ne-jax",
           "type": "hls",
@@ -635,7 +653,7 @@
           }
         },
         {
-          "label": "Server 10",
+          "label": "Server 11",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-new-england-patriots-at-jacksonville-jaguars\/1",
           "type": "hls",
