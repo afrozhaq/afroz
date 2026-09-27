@@ -1079,33 +1079,47 @@
         {
           "label": "Server 2",
           "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=astros=athletics&s=home&sport=mlb",
+          "url": "https:\/\/node-5d763f4c.4587.website\/6ab9db1f.7d7de60fi798bc8d0.1080a.898e1320\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
           "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=astros=athletics&s=away&sport=mlb",
+          "url": "https:\/\/node-9b5feb01.4587.website\/6ab9db1f.1a54364di798bc8d0.10833.fa00c8d2\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=astros=athletics&s=home&sport=mlb",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 5",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=astros=athletics&s=away&sport=mlb",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 6",
           "subtitle": "Live",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6aa8d0d32d4a99e073e919b7\/playlist.m3u8?token=NmFhOGQwZDMyZDRhOTllMDczZTkxOWI3OjE3OTA1MjIzMzcyNDQ6Y2RubGl2ZXR2LnR2OjNmOTY4M2FlNTIyYWQxOWMuY2Y2Mjg1NTY2ODhjNzc3NzljOWFkYjRjM2Q0YTU4NTQ1NTJhYzlkNmM5MDE0YjVmNmQ2MTBhYjVhYWY1NWE2MQ",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
+          "label": "Server 7",
           "subtitle": "Live",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb622\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjIyOjE3OTA1MjIzMzczNDA6Y2RubGl2ZXR2LnR2OjdiZWZiZmYwODdmMzkxYTQuMmEyMjYxNmFkMTliODVlNzU0NWYyM2FkYjFkMzIwMDEyNDE1NTdiZDcyMTA3ZWU3OTczNDk5ZGI4ZDNjNTcxYg",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 6",
+          "label": "Server 8",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-27\/hou-ath",
           "type": "hls",
@@ -1116,7 +1130,7 @@
           }
         },
         {
-          "label": "Server 7",
+          "label": "Server 9",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-houston-astros-vs-athletics\/1",
           "type": "hls",
