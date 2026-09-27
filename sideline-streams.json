@@ -668,6 +668,33 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1790499123390",
+      "league": "nba",
+      "gameId": "",
+      "away": "DREAM ",
+      "home": "MYSTICS ",
+      "title": "Dream at Mystics ",
+      "poster": "",
+      "startsAt": 1790550000000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live ",
+          "url": "u",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live ",
+          "url": "u",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
