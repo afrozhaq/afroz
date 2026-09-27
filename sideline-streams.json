@@ -273,28 +273,28 @@
         {
           "label": "Server 1",
           "subtitle": "Live",
-          "url": "https:\/\/edgestream2.pro\/hls\/qsdnajbq32.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "url": "https:\/\/dripcast.online\/nfl_streams\/index.php?q=indianapolis-colts.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 2",
+          "subtitle": "Live",
+          "url": "https:\/\/edgestream2.pro\/hls\/qsdnajbq32.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=texans=colts&s=home&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 3",
+          "label": "Server 4",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=texans=colts&s=away&sport=nfl",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 4",
-          "subtitle": "Live",
-          "url": "https:\/\/dripcast.online\/nfl_streams\/index.php?q=indianapolis-colts.m3u8",
           "type": "hls",
           "rewarded": false
         },
@@ -336,14 +336,14 @@
         {
           "label": "Server 1",
           "subtitle": "Live",
-          "url": "https:\/\/edgestream2.pro\/hls\/oipozuezeji33.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "url": "https:\/\/dripcast.online\/nfl_streams\/index.php?q=miami-dolphins.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 2",
           "subtitle": "Live",
-          "url": "https:\/\/dripcast.online\/nfl_streams\/index.php?q=miami-dolphins.m3u8",
+          "url": "https:\/\/edgestream2.pro\/hls\/oipozuezeji33.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
@@ -385,35 +385,35 @@
         {
           "label": "Server 1",
           "subtitle": "Live",
-          "url": "https:\/\/edgestream2.pro\/hls\/uheyztezgj34.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "url": "https:\/\/dripcast.online\/nfl_streams\/index.php?q=buffalo-bills.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 2",
+          "subtitle": "Live",
+          "url": "https:\/\/edgestream2.pro\/hls\/uheyztezgj34.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=chargers=bills&s=home&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 3",
+          "label": "Server 4",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=chargers=bills&s=away&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
-          "subtitle": "Live",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc30f\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzBmOjE3OTA1MzcxMjAwNzM6Y2RubGl2ZXR2LnR2OmMxNjc1MzRmOGQyM2IyYjYuNmYxNjA0OTBiZDcxNWY1ODA4YTJmN2E0NDJmNzRjNmFhODViM2U3NWMyNjA4MzdmNzEwNmI4NjVlMzkyZGFjMg",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
           "label": "Server 5",
           "subtitle": "Live",
-          "url": "https:\/\/dripcast.online\/nfl_streams\/index.php?q=buffalo-bills.m3u8",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc30f\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzBmOjE3OTA1MzcxMjAwNzM6Y2RubGl2ZXR2LnR2OmMxNjc1MzRmOGQyM2IyYjYuNmYxNjA0OTBiZDcxNWY1ODA4YTJmN2E0NDJmNzRjNmFhODViM2U3NWMyNjA4MzdmNzEwNmI4NjVlMzkyZGFjMg",
           "type": "hls",
           "rewarded": false
         },
