@@ -57,49 +57,58 @@
           "drmLicenseUrl": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8"
         },
         {
-          "label": "Server 6",
+          "label": "Main Server 6",
+          "subtitle": "Live spanish",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/w8kwdfmlgs\/out\/v1\/3aa321e477504937a439b602e078eb18\/cenc.mpd|User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": false,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b"
+        },
+        {
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/node-b351e589.4587.website\/6aba1c7b.1929db33i798bc8d0.f27e.9f62d9d1\/free.live.nfl\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 7",
+          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/node-f812d9ee.4587.website\/6aba1c7b.c324ce2di798bc8d0.f27f.a73c3727\/free.live.nfl\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 8",
+          "label": "Server 9",
           "subtitle": "Live ",
           "url": "https:\/\/edgestream2.pro\/hls\/jnfezkbfz43.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 9",
+          "label": "Server 10",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=rams=broncos&s=home&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 10",
+          "label": "Server 11",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=rams=broncos&s=away&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 11",
+          "label": "Server 12",
           "subtitle": "Live ",
           "url": "https:\/\/dripcast.online\/nfl_streams\/index.php?q=denver-broncos.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 12",
+          "label": "Server 13",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-27\/lar-den",
           "type": "hls",
@@ -110,7 +119,7 @@
           }
         },
         {
-          "label": "Server 13",
+          "label": "Server 14",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-los-angeles-rams-at-denver-broncos\/1",
           "type": "hls",
