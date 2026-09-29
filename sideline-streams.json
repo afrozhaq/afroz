@@ -219,6 +219,15 @@
         {
           "label": "Main Server 2",
           "subtitle": "Live Now",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/vdvoy68xd0\/out\/v1\/e20553bb54a2432380925bb88b27b466\/cenc.mpd",
+          "type": "dash",
+          "rewarded": false,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "6430e07d1e9b61ec5ad6d162e900f8cd:00a050917bf6606ef26749bb34dea0bf"
+        },
+        {
+          "label": "Main Server 3",
+          "subtitle": "Live Now",
           "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/dx5hfbpk7u\/out\/v1\/c14185a397544650b9761d43ad2e8e91\/cenc.mpd",
           "type": "dash",
           "rewarded": false,
@@ -226,7 +235,7 @@
           "drmLicenseUrl": "36a385124dcdfb2f0969935065e03afa:ccecd65514dff22eae493b975ccf9a9e"
         },
         {
-          "label": "Main Server 3",
+          "label": "Main Server 4",
           "subtitle": "Live Now",
           "url": "https:\/\/otte.cache.aiv-cdn.net\/iad-nitro\/live\/clients\/dash\/enc\/rhf2dwosdt\/out\/v1\/ee550d2a68d846c797e6ce4de2e8b76d\/cenc.mpd",
           "type": "dash",
@@ -235,28 +244,28 @@
           "drmLicenseUrl": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
         },
         {
-          "label": "Server 4",
+          "label": "Server 5",
           "subtitle": "Live ",
           "url": "https:\/\/edgestream2.pro\/hls\/ihfazugfyjcazich17.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
+          "label": "Server 6",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=redsox=yankees&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 6",
+          "label": "Server 7",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=redsox=yankees&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 7",
+          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-29\/bos-nyy",
           "type": "hls",
@@ -267,7 +276,7 @@
           }
         },
         {
-          "label": "Server 8",
+          "label": "Server 9",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-boston-red-sox-vs-new-york-yankees\/1",
           "type": "hls",
