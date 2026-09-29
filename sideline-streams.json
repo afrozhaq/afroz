@@ -65,41 +65,27 @@
         },
         {
           "label": "Server 7",
-          "subtitle": "Live",
-          "url": "https:\/\/karimianian.store\/folder2\/1|Referer=https:\/\/gsports.lat\/&Origin=https:\/\/gsports.lat&User-Agent=Mozilla\/5.0 (Linux; Android 12) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/120.0.0.0 Mobile Safari\/537.36",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 8",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=eagles=bears&s=home&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 9",
+          "label": "Server 8",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=eagles=bears&s=away&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 10",
+          "label": "Server 9",
           "subtitle": "Live",
           "url": "https:\/\/dripcast.online\/nfl_streams\/index.php?q=chicago-bears.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 11",
-          "subtitle": "Live",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc172\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTcyOjE3OTA1OTg3MjcxNDU6Y2RubGl2ZXR2LnR2OmZjYzU0MmE0NGVmZTE4MDQuMGVkZjUzYmQ1ZTQ3NzQzMmQ3OTY1YTQ5ZmI4ZTVkZDg2MzI0YzE5NGMzOTBlZGNjZTQ2NzZjOTY3MmJmOTQ5NA",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 12",
+          "label": "Server 10",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-28\/phi-chi",
           "type": "hls",
@@ -110,7 +96,7 @@
           }
         },
         {
-          "label": "Server 13",
+          "label": "Server 11",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-philadelphia-eagles-at-chicago-bears\/1",
           "type": "hls",
