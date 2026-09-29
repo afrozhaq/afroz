@@ -59,49 +59,49 @@
         {
           "label": "Server 6",
           "subtitle": "Live",
-          "url": "https:\/\/node-c899cd92.4587.website\/6abb7179.0057e673i798bc8d0.f40d.f650f812\/free.live.nfl\/master.m3u8",
+          "url": "https:\/\/node-8bba18be.4587.website\/6abb754d.dd3d6c79i798bc8d0.10b6a.95c4633e\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 7",
-          "subtitle": "Live",
-          "url": "https:\/\/node-c899cd92.4587.website\/6abb7179.e05b74d8i798bc8d0.f40e.4b137f92\/free.live.nfl\/master.m3u8",
+          "subtitle": "Live ( Español )",
+          "url": "https:\/\/node-b351e589.4587.website\/6abb754e.10f7ba31i798bc8d0.f40e.39f1ab95\/free.live.nfl\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 8",
           "subtitle": "Live",
-          "url": "https:\/\/edgestream2.pro\/hls\/JHDAJBDnjdna30.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "url": "https:\/\/node-d1d6a0d2.4587.website\/6abb754e.1f4de04ei798bc8d0.f40d.90e497fb\/free.live.nfl\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 9",
+          "subtitle": "Live",
+          "url": "https:\/\/edgestream2.pro\/hls\/JHDAJBDnjdna30.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 10",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=eagles=bears&s=home&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 10",
+          "label": "Server 11",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=eagles=bears&s=away&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 11",
-          "subtitle": "Live",
-          "url": "https:\/\/dripcast.online\/nfl_streams\/index.php?q=chicago-bears.m3u8",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
           "label": "Server 12",
           "subtitle": "Live",
-          "url": "https:\/\/fingersoon.st\/scripts\/application1|referer=https:\/\/otaghera.site\/",
+          "url": "https:\/\/dripcast.online\/nfl_streams\/index.php?q=chicago-bears.m3u8",
           "type": "hls",
           "rewarded": false
         },
