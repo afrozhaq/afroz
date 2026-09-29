@@ -288,6 +288,26 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1790647177238",
+      "league": "nba",
+      "gameId": "",
+      "away": "LIBERTY ",
+      "home": "LYNX",
+      "title": "Liberty at Lynx",
+      "poster": "",
+      "startsAt": 1790728200000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "hs",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
