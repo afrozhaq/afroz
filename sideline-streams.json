@@ -59,7 +59,7 @@
         {
           "label": "Server 6",
           "subtitle": "Live",
-          "url": "https:\/\/node-8bba18be.4587.website\/6abb74c4.746db034i798bc8d0.10b6a.73e8ca0a\/free.live.espn\/master.m3u8",
+          "url": "https:\/\/node-d1d6a0d2.4587.website\/6abb754e.1f4de04ei798bc8d0.f40d.90e497fb\/free.live.nfl\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
@@ -73,7 +73,7 @@
         {
           "label": "Server 8",
           "subtitle": "Live",
-          "url": "https:\/\/node-d1d6a0d2.4587.website\/6abb754e.1f4de04ei798bc8d0.f40d.90e497fb\/free.live.nfl\/master.m3u8",
+          "url": "https:\/\/node-8bba18be.4587.website\/6abb74c4.746db034i798bc8d0.10b6a.73e8ca0a\/free.live.espn\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
