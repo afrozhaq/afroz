@@ -101,6 +101,13 @@
         {
           "label": "Server 12",
           "subtitle": "Live",
+          "url": "https:\/\/fingersoon.st\/scripts\/application1|referer=https:\/\/otaghera.site\/",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 13",
+          "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-28\/phi-chi",
           "type": "hls",
           "rewarded": false,
@@ -110,7 +117,7 @@
           }
         },
         {
-          "label": "Server 13",
+          "label": "Server 14",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-philadelphia-eagles-at-chicago-bears\/1",
           "type": "hls",
