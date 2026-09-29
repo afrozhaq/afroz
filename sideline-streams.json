@@ -328,6 +328,26 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1790647268659",
+      "league": "nhl",
+      "gameId": "",
+      "away": "KNIGHTS ",
+      "home": "BLACKHAWKS ",
+      "title": "Knights at Blackhawks ",
+      "poster": "",
+      "startsAt": 1790735400000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live ",
+          "url": "hd",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
