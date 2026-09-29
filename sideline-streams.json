@@ -268,6 +268,26 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1790647147373",
+      "league": "nhl",
+      "gameId": "",
+      "away": "BRUINS ",
+      "home": "RANGERS ",
+      "title": "Bruins at Rangers ",
+      "poster": "",
+      "startsAt": 1790726400000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "hs",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
