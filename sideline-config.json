@@ -8,15 +8,8 @@
   "buttonText": "Update",
   "maintenance": false,
   "maintenanceMessage": "",
-  "announcement": "Help us grow 🚀 Rate Dofu 5 stars — tap here!",
-  "announcementUrl": "https:\/\/play.google.com\/store\/apps\/details?id=com.goalmindstudios.livescores",
+  "announcement": "Follow Us On Facebook",
+  "announcementUrl": "https:\/\/www.facebook.com\/share\/18FEoGQK2D\/",
   "announcementVisible": true,
-  "showApiScores": true,
-  "customLeagues": [
-    {
-      "key": "wnba",
-      "label": "WNBA",
-      "color": "#E8608A"
-    }
-  ]
+  "showApiScores": true
 }
