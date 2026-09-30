@@ -119,6 +119,26 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1790750811616",
+      "league": "nhl",
+      "gameId": "",
+      "away": "MAPLE LEAFS ",
+      "home": "ISLANDERS ",
+      "title": "Maple Leafs at Islanders ",
+      "poster": "",
+      "startsAt": 1790811000000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "ht",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
