@@ -139,6 +139,26 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1790750859928",
+      "league": "nba",
+      "gameId": "",
+      "away": "WINGS",
+      "home": "VALKYRIES ",
+      "title": "Wings at Valkyries ",
+      "poster": "",
+      "startsAt": 1790816400000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
