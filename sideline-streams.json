@@ -60,6 +60,13 @@
         {
           "label": "Server 7",
           "subtitle": "Live",
+          "url": "https:\/\/dripcast.online\/flyembed-scraper\/fly\/index.m3u8?id=mlb-braves",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 8",
+          "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-30\/phi-atl",
           "type": "hls",
           "rewarded": false,
@@ -69,7 +76,7 @@
           }
         },
         {
-          "label": "Server 8",
+          "label": "Server 9",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-philadelphia-phillies-vs-atlanta-braves\/1",
           "type": "hls",
