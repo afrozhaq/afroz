@@ -453,7 +453,7 @@
         {
           "label": "Server 9",
           "subtitle": "Live",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb623\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjIzOjE3OTA3NjU4NzAwMzM6Y2RubGl2ZXR2LnR2OmQ2OTc3MjkxMGMyNDU0ZmIuMmMyM2Y4ODQ3ODUwMTJhOTYwYWZmNjdkODk5ZjUwYzQ1ZGFkZGQ0YzdlMWFmNjE4YjQ3ZTFkZjE4MjliMzhjNA",
+          "url": "https:\/\/dripcast.online\/flyembed-scraper\/fly\/index.m3u8?id=nbc-usa",
           "type": "hls",
           "rewarded": false
         },
