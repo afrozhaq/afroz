@@ -288,6 +288,26 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1790835817091",
+      "league": "mlb",
+      "gameId": "",
+      "away": "ASTROS ",
+      "home": "WHITE SOX ",
+      "title": "Astros at White Sox ",
+      "poster": "",
+      "startsAt": 1790888400000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
