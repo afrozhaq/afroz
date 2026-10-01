@@ -515,6 +515,20 @@
         },
         {
           "label": "Server 2",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=phillies=braves&s=home&sport=mlb",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=phillies=braves&s=away&sport=mlb",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-10-01\/phi-atl",
           "type": "hls",
@@ -525,7 +539,7 @@
           }
         },
         {
-          "label": "Server 3",
+          "label": "Server 5",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-philadelphia-phillies-vs-atlanta-braves\/1",
           "type": "hls",
