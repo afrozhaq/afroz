@@ -137,6 +137,49 @@
           "rewarded": false,
           "drmScheme": "clearkey",
           "drmLicenseUrl": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7"
+        },
+        {
+          "label": "Server 4",
+          "subtitle": "Live",
+          "url": "https:\/\/edgestream2.pro\/hls\/JHDAJBDnjdna30.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 5",
+          "subtitle": "Live",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc30f\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzBmOjE3OTA4NTIwOTA3Nzg6Y2RubGl2ZXR2LnR2OjNlMWQ2ZjJjMzg0ZjUzMDIuOWU5NjcyNGZkNDBkNzkzOTIzMWU2MDkyNjFiYjA4MTI0NDAzOTdhZTBjZjA2MTAzYTNkYmRhZmFkYTMzNDY3OQ",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 6",
+          "subtitle": "Live",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc329\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzI5OjE3OTA4NTIwOTA4ODA6Y2RubGl2ZXR2LnR2OjYzOTA4YzM3YzRiNDQxMmUuOTdkYzFiYWYzMWMyMTljZDgxMTkwODdhMGI2NTBkZDc4ODJjY2VmYWYyNGRhZjI0YTY2MmFkMGMyNmI5NzI4Zg",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 7",
+          "subtitle": "Live",
+          "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-10-01\/pit-cle",
+          "type": "hls",
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/nfl\/2026-10-01\/pit-cle"
+          }
+        },
+        {
+          "label": "Server 8",
+          "subtitle": "Live",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-pittsburgh-steelers-at-cleveland-browns\/1",
+          "type": "hls",
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-pittsburgh-steelers-at-cleveland-browns\/1"
+          }
         }
       ]
     },
