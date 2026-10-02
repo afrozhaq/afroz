@@ -349,6 +349,15 @@
         {
           "label": "Main Server 3",
           "subtitle": "Live ",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/pdx-nitro\/live\/clients\/dash\/enc\/fzpnqaeaiv\/out\/v1\/d8bc53a98160487aa565dbfc95fd4436\/cenc.mpd",
+          "type": "dash",
+          "rewarded": false,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "b32d7f1e67e22bf4f83c9a17414f303d:bddb2f435ae55985e6adbc30b0604cc2"
+        },
+        {
+          "label": "Main Server 4",
+          "subtitle": "Live ",
           "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/w0rehjjrwe\/out\/v1\/69a2a7041395406b970598f61680e7cf\/cenc.mpd",
           "type": "dash",
           "rewarded": false,
@@ -356,7 +365,7 @@
           "drmLicenseUrl": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
         },
         {
-          "label": "Main Server 4",
+          "label": "Main Server 5",
           "subtitle": "Live ",
           "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/lsibpqruq1\/out\/v1\/748887d614a84913ba8bcdf3c82823e6\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
           "type": "dash",
@@ -365,7 +374,7 @@
           "drmLicenseUrl": "d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37"
         },
         {
-          "label": "Main Server 5",
+          "label": "Main Server 6",
           "subtitle": "Live ",
           "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/ihys8nw4wv\/out\/v1\/fde190f369484bc6b6117cc16cd82a9f\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
           "type": "dash",
@@ -374,63 +383,63 @@
           "drmLicenseUrl": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7"
         },
         {
-          "label": "Server 6",
+          "label": "Server 7",
           "subtitle": "Live",
           "url": "https:\/\/node-c899cd92.4587.website\/6abf637e.bcb8375ai798bc8d0.faa3.97a8a592\/free.live.nfl\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 7",
+          "label": "Server 8",
           "subtitle": "Live ( Espanol )",
           "url": "https:\/\/node-c899cd92.4587.website\/6abf637e.706960bbi798bc8d0.faa4.0dcfcb6b\/free.live.nfl\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 8",
+          "label": "Server 9",
           "subtitle": "Live",
           "url": "https:\/\/node-d1d6a0d2.4587.website\/6abf637e.8ca00612i798bc8d0.faa2.6149c0b4\/free.live.nfl\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 9",
+          "label": "Server 10",
           "subtitle": "Live",
           "url": "https:\/\/edgestream2.pro\/hls\/JHDAJBDnjdna30.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 10",
+          "label": "Server 11",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=steelers=browns&s=home&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 11",
+          "label": "Server 12",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=steelers=browns&s=away&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 12",
+          "label": "Server 13",
           "subtitle": "Live",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc30f\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzBmOjE3OTA4NTIwOTA3Nzg6Y2RubGl2ZXR2LnR2OjNlMWQ2ZjJjMzg0ZjUzMDIuOWU5NjcyNGZkNDBkNzkzOTIzMWU2MDkyNjFiYjA4MTI0NDAzOTdhZTBjZjA2MTAzYTNkYmRhZmFkYTMzNDY3OQ",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 13",
+          "label": "Server 14",
           "subtitle": "Live",
           "url": "https:\/\/dripcast.online\/flyembed-scraper\/fly\/index.m3u8?id=tsn3-ca",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 14",
+          "label": "Server 15",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-10-01\/pit-cle",
           "type": "hls",
@@ -441,7 +450,7 @@
           }
         },
         {
-          "label": "Server 15",
+          "label": "Server 16",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-pittsburgh-steelers-at-cleveland-browns\/1",
           "type": "hls",
