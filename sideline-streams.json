@@ -337,7 +337,7 @@
       "links": [
         {
           "label": "Main Server 1",
-          "subtitle": "Live ",
+          "subtitle": "Live Now",
           "url": "https:\/\/otte.cache.aiv-cdn.net\/pdx-nitro\/live\/clients\/dash\/enc\/qr5drmgd6x\/out\/v1\/1618f2e481b6413ba5c7077825d2544d\/cenc.mpd",
           "type": "dash",
           "rewarded": false,
@@ -355,7 +355,7 @@
         },
         {
           "label": "Main Server 3",
-          "subtitle": "Live ",
+          "subtitle": "Live Now",
           "url": "https:\/\/otte.cache.aiv-cdn.net\/pdx-nitro\/live\/clients\/dash\/enc\/fzpnqaeaiv\/out\/v1\/d8bc53a98160487aa565dbfc95fd4436\/cenc.mpd",
           "type": "dash",
           "rewarded": false,
@@ -364,7 +364,7 @@
         },
         {
           "label": "Main Server 4",
-          "subtitle": "Live ",
+          "subtitle": "Live Now",
           "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/w0rehjjrwe\/out\/v1\/69a2a7041395406b970598f61680e7cf\/cenc.mpd",
           "type": "dash",
           "rewarded": false,
@@ -373,7 +373,7 @@
         },
         {
           "label": "Main Server 5",
-          "subtitle": "Live ",
+          "subtitle": "Live Now",
           "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/lsibpqruq1\/out\/v1\/748887d614a84913ba8bcdf3c82823e6\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
           "type": "dash",
           "rewarded": false,
@@ -382,7 +382,7 @@
         },
         {
           "label": "Main Server 6",
-          "subtitle": "Live ",
+          "subtitle": "Live Now",
           "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/ihys8nw4wv\/out\/v1\/fde190f369484bc6b6117cc16cd82a9f\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
           "type": "dash",
           "rewarded": false,
@@ -391,7 +391,7 @@
         },
         {
           "label": "Server 7",
-          "subtitle": "Live",
+          "subtitle": "Live Now",
           "url": "https:\/\/node-c899cd92.4587.website\/6abf637e.bcb8375ai798bc8d0.faa3.97a8a592\/free.live.nfl\/master.m3u8",
           "type": "hls",
           "rewarded": false
