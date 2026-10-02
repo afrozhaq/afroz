@@ -232,6 +232,13 @@
         {
           "label": "Server 4",
           "subtitle": "Live",
+          "url": "https:\/\/dripcast.online\/flyembed-scraper\/fly\/index.m3u8?id=tsn3-ca",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 5",
+          "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/nhl\/2026-10-02\/bos-wpg",
           "type": "hls",
           "rewarded": false,
@@ -241,7 +248,7 @@
           }
         },
         {
-          "label": "Server 5",
+          "label": "Server 6",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-boston-bruins-vs-winnipeg-jets\/1",
           "type": "hls",
