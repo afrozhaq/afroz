@@ -332,19 +332,12 @@
         {
           "label": "Server 3",
           "subtitle": "Live",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2781d8192bb76cb305\/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzA1OjE3OTA5NTEzOTUyODc6Y2RubGl2ZXR2LnR2OjUwMDk3YmZjMDYyM2E2OWMuNDdmNTY4YmU3YmIwZWFhMWIxNThmYzI0MWM4NzI1YjQyMjZlMTI5MjQ3NGIyY2U4ZGU2NGFjYWU5NTlmZTJjZQ",
+          "url": "https:\/\/dripcast.online\/flyembed-scraper\/fly\/index.m3u8?id=tsn4-ca",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
-          "subtitle": "Live",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2781d8192bb76cb3b4\/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiM2I0OjE3OTA5NTEzOTUzODc6Y2RubGl2ZXR2LnR2OmQ0MWNkMzEzMmQ3MGM3ZjkuOWY0NDAxOThjN2ZjNjhjY2YwZjBiMjhhZWJlNDM1ODE5MTlhZmFlOTc1OGNmMzIzMTgzOWM2YjQ3NWJlZWUxNw",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 5",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/wnba\/2026-10-02\/dal-gs",
           "type": "hls",
@@ -355,7 +348,7 @@
           }
         },
         {
-          "label": "Server 6",
+          "label": "Server 5",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-dallas-wings-vs-golden-state-valkyries\/1",
           "type": "hls",
