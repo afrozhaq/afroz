@@ -1169,20 +1169,6 @@
         {
           "label": "Server 7",
           "subtitle": "Live",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc04b\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMDRiOjE3OTEwNDAyMjA3NjE6Y2RubGl2ZXR2LnR2OjIxZWQ0Nzc1NjU2NzM3MDEuNDk0MjgzMGE0ZDNlZmFjNDkxMjkxYTk2NDcxZGRlZmIwMzY1NjM2OTE0NmNiNThjYzdlODBmM2E1YjYwZDFkNA",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 8",
-          "subtitle": "Live",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc2b0\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMmIwOjE3OTEwNDAyMjMxODM6Y2RubGl2ZXR2LnR2OmNhMzc4ZmJjNzlkZTg3ZjAuNGMzN2M5OGEwYjAyMjFhMzc3MDExYmQ1ZTA2MWVhYjI2NTg5NmRhNjVjZmNlNDEyYmQxOGUyODY1ZWE2NWYzOQ",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 9",
-          "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-10-03\/nyy-tb",
           "type": "hls",
           "rewarded": false,
@@ -1192,7 +1178,7 @@
           }
         },
         {
-          "label": "Server 10",
+          "label": "Server 8",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-new-york-yankees-vs-tampa-bay-rays\/2",
           "type": "hls",
