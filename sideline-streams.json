@@ -260,19 +260,26 @@
         {
           "label": "Server 3",
           "subtitle": "Live",
-          "url": "https:\/\/edgestream2.pro\/hls\/lmdsjkfgv52.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "url": "https:\/\/instreams.online\/live3\/tv401891831\/index.m3u8?st=N8-PZJgAKekvN9UpPvYkrA&e=1790994649|Referer=https:\/\/instream.click\/livetv.php?stream=tv401891831&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/111.0.0.0 Safari\/537.36",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
           "subtitle": "Live",
-          "url": "https:\/\/dripcast.online\/flyembed-scraper\/fly\/index.m3u8?id=tsn3-ca",
+          "url": "https:\/\/edgestream2.pro\/hls\/lmdsjkfgv52.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
+          "subtitle": "Live",
+          "url": "https:\/\/dripcast.online\/flyembed-scraper\/fly\/index.m3u8?id=tsn3-ca",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 6",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/nhl\/2026-10-02\/bos-wpg",
           "type": "hls",
@@ -283,7 +290,7 @@
           }
         },
         {
-          "label": "Server 6",
+          "label": "Server 7",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-boston-bruins-vs-winnipeg-jets\/1",
           "type": "hls",
