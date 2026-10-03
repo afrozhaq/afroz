@@ -563,7 +563,7 @@
         {
           "label": "Server 7",
           "subtitle": "Live",
-          "url": "https:\/\/dripcast.online\/flyembed-scraper\/fly\/index.m3u8?id=espn-usa",
+          "url": "https:\/\/dripcast.online\/flyembed-scraper\/fly\/index.m3u8?id=mlb-guardians",
           "type": "hls",
           "rewarded": false
         },
