@@ -554,7 +554,7 @@
         {
           "label": "Server 6",
           "subtitle": "Live",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc04b\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMDRiOjE3OTEwNDAyMjA3NjE6Y2RubGl2ZXR2LnR2OjIxZWQ0Nzc1NjU2NzM3MDEuNDk0MjgzMGE0ZDNlZmFjNDkxMjkxYTk2NDcxZGRlZmIwMzY1NjM2OTE0NmNiNThjYzdlODBmM2E1YjYwZDFkNA",
+          "url": "https:\/\/dripcast.online\/flyembed-scraper\/fly\/index.m3u8?id=espn-usa",
           "type": "hls",
           "rewarded": false
         },
