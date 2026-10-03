@@ -517,6 +517,15 @@
         {
           "label": "Main Server 1",
           "subtitle": "Live Now",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/iad-nitro\/live\/clients\/dash\/enc\/vequhi1ypt\/out\/v1\/29a5467378a0483cbd6f33dc7e895401\/cenc.mpd",
+          "type": "dash",
+          "rewarded": false,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "df8ea1bb39c584f943f63a923a509017:b4b88cdc1980c8a9863f3880fa1a968c"
+        },
+        {
+          "label": "Main Server 2",
+          "subtitle": "Live Now",
           "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/dev1hjwzh9\/out\/v1\/a5f0ee7ad7b24906b14f43bebbbe4678\/cenc.mpd",
           "type": "dash",
           "rewarded": false,
@@ -524,42 +533,42 @@
           "drmLicenseUrl": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca"
         },
         {
-          "label": "Server 2",
+          "label": "Server 3",
           "subtitle": "Live",
           "url": "https:\/\/edgestream2.pro\/hls\/dazhfiach15.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 3",
+          "label": "Server 4",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=whitesox=guardians&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
+          "label": "Server 5",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=whitesox=guardians&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
+          "label": "Server 6",
           "subtitle": "Live",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb62c\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjJjOjE3OTEwNjA2MDExOTQ6Y2RubGl2ZXR2LnR2OjExNmZjNzU2ZTE0YTJkNDkuOTU5YzBhMGRiYzRiODdmYWRjOTBhODAzZjI1NGU4YzA5ZDY0MDE3YTU2YzViNjBjMzliODM4NDhhYTAyZWU5Mw",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 6",
+          "label": "Server 7",
           "subtitle": "Live",
           "url": "https:\/\/dripcast.online\/flyembed-scraper\/fly\/index.m3u8?id=espn-usa",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 7",
+          "label": "Server 8",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-10-03\/chw-cle",
           "type": "hls",
@@ -570,7 +579,7 @@
           }
         },
         {
-          "label": "Server 8",
+          "label": "Server 9",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-chicago-white-sox-vs-cleveland-guardians\/1",
           "type": "hls",
