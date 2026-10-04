@@ -1286,6 +1286,63 @@
           "rewarded": false,
           "drmScheme": "clearkey",
           "drmLicenseUrl": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7"
+        },
+        {
+          "label": "Server 4",
+          "subtitle": "Live",
+          "url": "https:\/\/edgestream2.pro\/hls\/jnfezkbfz43.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 5",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=lions=panthers&s=home&sport=nfl",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 6",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=lions=panthers&s=away&sport=nfl",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 7",
+          "subtitle": "Live",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2781d8192bb76cb3d1\/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiM2QxOjE3OTExMTQwMDI5MDg6Y2RubGl2ZXR2LnR2OjI0MTc3YjZkZjZiZTMwMTkuM2ViMWNkMDgyM2RlMTMxMTY0YzY0YzUwNWVjZjM3NGMxYjYzNjhlNWVlYzVkMzA3Y2EzZTk2OGRkZGY1ZTZlMQ",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 8",
+          "subtitle": "Live",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cbe8e\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNiZThlOjE3OTExMTQwMDMwNDE6Y2RubGl2ZXR2LnR2OjI2YTUxMjYxODk1NzE1ODIuMTgyNDlmMTc3NWJjNWNmMzBiZGU5ZTRkNjQ5NzdlNjNmNGZhOTYyNGZkOWQ0MGUzMjg5ZWM1ZTllMDc4MDU5NA",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 9",
+          "subtitle": "Live",
+          "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-10-04\/det-car",
+          "type": "hls",
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/nfl\/2026-10-04\/det-car"
+          }
+        },
+        {
+          "label": "Server 10",
+          "subtitle": "Live",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-detroit-lions-at-carolina-panthers\/1",
+          "type": "hls",
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-detroit-lions-at-carolina-panthers\/1"
+          }
         }
       ]
     },
