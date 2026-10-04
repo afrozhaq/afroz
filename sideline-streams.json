@@ -1642,6 +1642,26 @@
       ]
     },
     {
+      "id": "s1791090263884",
+      "league": "nhl",
+      "gameId": "",
+      "away": "WPG",
+      "home": "DET",
+      "title": "Jets at Red Wings",
+      "poster": "",
+      "startsAt": 1791133200000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server ",
+          "subtitle": "Live ",
+          "url": "https:\/\/edgestream2.pro\/hls\/jkzahzadach20.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": true
+        }
+      ]
+    },
+    {
       "id": "s1790928489873",
       "league": "nfl",
       "gameId": "",
@@ -1766,6 +1786,66 @@
       ]
     },
     {
+      "id": "s1791090263885",
+      "league": "nhl",
+      "gameId": "",
+      "away": "UTA",
+      "home": "NYR",
+      "title": "Mammoth at Rangers",
+      "poster": "",
+      "startsAt": 1791151200000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server ",
+          "subtitle": "Live ",
+          "url": "https:\/\/edgestream2.pro\/hls\/jkzahzadach20.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": true
+        }
+      ]
+    },
+    {
+      "id": "s1791090263886",
+      "league": "nhl",
+      "gameId": "",
+      "away": "CGY",
+      "home": "SEA",
+      "title": "Flames at Kraken",
+      "poster": "",
+      "startsAt": 1791158400000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server ",
+          "subtitle": "Live ",
+          "url": "https:\/\/edgestream2.pro\/hls\/jkzahzadach20.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": true
+        }
+      ]
+    },
+    {
+      "id": "s1791090263887",
+      "league": "nhl",
+      "gameId": "",
+      "away": "FLA",
+      "home": "ANA",
+      "title": "Panthers at Ducks",
+      "poster": "",
+      "startsAt": 1791158400000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server ",
+          "subtitle": "Live ",
+          "url": "https:\/\/edgestream2.pro\/hls\/jkzahzadach20.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": true
+        }
+      ]
+    },
+    {
       "id": "s1790928489877",
       "league": "nfl",
       "gameId": "",
@@ -1793,6 +1873,26 @@
           "rewarded": false,
           "drmScheme": "clearkey",
           "drmLicenseUrl": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
+        }
+      ]
+    },
+    {
+      "id": "s1791090263888",
+      "league": "nhl",
+      "gameId": "",
+      "away": "VGK",
+      "home": "VAN",
+      "title": "Golden Knights at Canucks",
+      "poster": "",
+      "startsAt": 1791162000000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server ",
+          "subtitle": "Live ",
+          "url": "https:\/\/edgestream2.pro\/hls\/jkzahzadach20.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": true
         }
       ]
     }
