@@ -21,19 +21,26 @@
         {
           "label": "Server 2",
           "subtitle": "Live",
-          "url": "https:\/\/dripcast.online\/nfl_streams\/index.php?q=redzone.m3u8",
+          "url": "https:\/\/instreams.live\/live3\/tvredzone20261004\/index.m3u8?st=SWBKGOQXePhk81wh8dFAaA&e=1791140447|Referer=https:\/\/xstream.st\/livetv.php?stream=tvredzone20261004&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/111.0.0.0 Safari\/537.36",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
           "subtitle": "Live",
-          "url": "https:\/\/edgestream2.pro\/hls\/eyrennte44.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "url": "https:\/\/dripcast.online\/nfl_streams\/index.php?q=redzone.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
+          "subtitle": "Live",
+          "url": "https:\/\/edgestream2.pro\/hls\/eyrennte44.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 5",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/nfl-redzone-29818",
           "type": "hls",
@@ -44,7 +51,7 @@
           }
         },
         {
-          "label": "Server 5",
+          "label": "Server 6",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/golf\/-20261004\/1",
           "type": "hls",
