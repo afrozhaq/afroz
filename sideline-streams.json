@@ -216,19 +216,12 @@
         {
           "label": "Server 6",
           "subtitle": "Live",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2781d8192bb76cb375\/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzc1OjE3OTExMTM5OTgxODA6Y2RubGl2ZXR2LnR2OmJjZjJhNTE2ZmJlZGRkMGEuZDQzNWExMDc1MzJjZGIyYjhlOGNiNmJhM2IyNTI2ZWVkZjI1MTUxZTI0YzUwOWZlOWFhYTkxYzkxOWI5NTc2ZQ",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2781d8192bb76cb375\/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzc1OjE3OTExNDYzNzE3Mzg6Y2RubGl2ZXR2LnR2OjczMjQ2YTQ2NWQ2Mzk4ZDYuOWNhNDQwMzgwMGYxODY2YWQzMTg3ZDM2MDExNGY3MTU3ZTdlMDRkM2E1NTg2MzUxNTA5MDg3MGQ2ZGEyYjRmZg",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 7",
-          "subtitle": "Live",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2981d8192bb76cbc97\/playlist.m3u8?token=NmEyODhkMjk4MWQ4MTkyYmI3NmNiYzk3OjE3OTExMTM5OTgyODc6Y2RubGl2ZXR2LnR2OmQxM2E0ZDkwYTkyOGNkMDUuYjk5MDVmM2M0NmM0NTg1YzJmZjliZGQ0ZWFkN2Y1NWEwMzA4ZDE2YTgwZmJlN2Y1YjIxZGViNjQ0YTg0MGNjNg",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 8",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-10-04\/ari-nyg",
           "type": "hls",
@@ -239,7 +232,7 @@
           }
         },
         {
-          "label": "Server 9",
+          "label": "Server 8",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-arizona-cardinals-at-new-york-giants\/1",
           "type": "hls",
