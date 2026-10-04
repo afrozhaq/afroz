@@ -1681,19 +1681,12 @@
         {
           "label": "Server 8",
           "subtitle": "Live",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb5c3\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWMzOjE3OTExMTM5OTk5NjI6Y2RubGl2ZXR2LnR2OjU0NmUyMGUwYzkzOWUyNjAuMjU1ZjA4YWY2NDZjMmVhNDlhOWQ5ZjQ2MDJiY2QwN2RmNTI2ZmYxMmM4YzFkZDJiMzIwMTNiOGY3MjE0YjI5Yw",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb5c3\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWMzOjE3OTExNzEzMDk4Mjc6Y2RubGl2ZXR2LnR2OmIyZjA2ZmEwYjA2N2Q0ZGUuZTRjNzcxMzNkOTIwYTMwZDQxY2M4YWIyNjhiYmU3MTMzNWEyYjUxYWVkM2EyZTEwNDBlZWJlMjU5MzdiZTg4Yg",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 9",
-          "subtitle": "Live",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc344\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzQ0OjE3OTExMTQwMDAyNTY6Y2RubGl2ZXR2LnR2OjFjOWJiNTExYmVlMTJmNWIuYzVlZjA4MzZiM2NmNTQzZWU2ZjFjZGMwZmJkODMwMmQ3ZWY1YTIwY2FjZTRmOThmNmRhNDRjNjM2YTg0MGU5Zg",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 10",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-10-04\/atl-lad",
           "type": "hls",
@@ -1704,7 +1697,7 @@
           }
         },
         {
-          "label": "Server 11",
+          "label": "Server 10",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-atlanta-braves-vs-los-angeles-dodgers\/1",
           "type": "hls",
