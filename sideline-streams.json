@@ -1369,20 +1369,6 @@
         {
           "label": "Server 6",
           "subtitle": "Live",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cbfef\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNiZmVmOjE3OTExMTQwMDExMjc6Y2RubGl2ZXR2LnR2OjVhOTBiNTE3NzYzYmUwMjQuNjJhNDZlOTJmMzNhN2QyNjRmYTA5M2ZiM2QwYTcyZDA3YjQzMjc1MjU4NTJmZDM0ZWE3OWZjZmIyMDYyNjFkYQ",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 7",
-          "subtitle": "Live",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cbffc\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNiZmZjOjE3OTExMTQwMDE0NDM6Y2RubGl2ZXR2LnR2OmM5ODFhMTZhYzBmNjJmZWEuY2FmNDY4MTBlOWRmYjYwYmNmMTY4OWMwYTliNWJlYzM1MGM0YWEwYjQyZmZmOTdiZmVmYTVlYzRhMjViNjhlMQ",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 8",
-          "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-10-04\/lac-sea",
           "type": "hls",
           "rewarded": false,
@@ -1392,7 +1378,7 @@
           }
         },
         {
-          "label": "Server 9",
+          "label": "Server 7",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-los-angeles-chargers-at-seattle-seahawks\/1",
           "type": "hls",
