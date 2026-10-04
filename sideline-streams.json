@@ -538,40 +538,47 @@
         {
           "label": "Server 1",
           "subtitle": "Live ",
-          "url": "https:\/\/edgestream2.pro\/hls\/jkhazabcka36.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "url": "https:\/\/node-f6ba8d9f.4587.website\/6ac2e478.c21d8d9di798bc8d0.ff04.23da3609\/free.live.nfl\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 2",
+          "subtitle": "Live ",
+          "url": "https:\/\/edgestream2.pro\/hls\/jkhazabcka36.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=patriots=bills&s=home&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 3",
+          "label": "Server 4",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=patriots=bills&s=away&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
+          "label": "Server 5",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc3be\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjM2JlOjE3OTExMTM5OTQxNTY6Y2RubGl2ZXR2LnR2OjNlYjAyNDllNzIzZjcyZjMuMWI4Mzk0ZDY2MDM2MjZmNGVmNmVmYzY2NTUxNTA4YmVmYzJiOGM3MjA1ZTI5ZDQyM2VlZmRlYzIyZGEwMDc4MQ",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
+          "label": "Server 6",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc162\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTYyOjE3OTExMTM5OTQyNTM6Y2RubGl2ZXR2LnR2OmJhMzViZTcxODgxOWFiNzYuZjA0MDZlMGM4ODc0MWRjZmQ1ZmQ1NmUwYjBhYjNkMzJlY2RkMGQzYjdhNDk5NTY4NGU2YzI5YTBkYTY4MWNiMg",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 6",
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-10-04\/ne-buf",
           "type": "hls",
@@ -582,7 +589,7 @@
           }
         },
         {
-          "label": "Server 7",
+          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-new-england-patriots-at-buffalo-bills\/1",
           "type": "hls",
