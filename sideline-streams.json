@@ -676,56 +676,65 @@
           "drmLicenseUrl": "c1984801106412f99dde3f22805e5659:d086b6e333551e44d4ef4c4ef9dcb556"
         },
         {
-          "label": "Server 2",
+          "label": "Main Server 2",
+          "subtitle": "Live ",
+          "url": "https:\/\/otte.live.fly.ww.aiv-cdn.net\/gru-nitro\/live\/clients\/dash\/enc\/4yiko4it8k\/out\/v1\/b77dd424c745443aba2f3f88d418f797\/cenc-sd.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": false,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3"
+        },
+        {
+          "label": "Server 3",
           "subtitle": "Live ",
           "url": "https:\/\/node-f6ba8d9f.4587.website\/6ac2e478.c21d8d9di798bc8d0.ff04.23da3609\/free.live.nfl\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 3",
+          "label": "Server 4",
           "subtitle": "Live ",
           "url": "https:\/\/instreams.online\/live3\/tv401872971\/index.m3u8?st=EhzHg0c4Tz0Gl5CHFWBp0g&e=1791144058|Referer=https:\/\/xstream.st\/livetv.php?stream=tv401872971&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/111.0.0.0 Safari\/537.36",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
+          "label": "Server 5",
           "subtitle": "Live ",
           "url": "https:\/\/dripcast.online\/nfl_streams\/index.php?q=buffalo.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
+          "label": "Server 6",
           "subtitle": "Live ",
           "url": "https:\/\/edgestream2.pro\/hls\/jkhazabcka36.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 6",
+          "label": "Server 7",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=patriots=bills&s=home&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 7",
+          "label": "Server 8",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=patriots=bills&s=away&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 8",
+          "label": "Server 9",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc3be\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjM2JlOjE3OTExNDYwNTI3ODM6Y2RubGl2ZXR2LnR2OmRlZWEyNDFhZmMzYjMzZGIuN2E4NDk3NzM3MDVmMDIzZmJlZTZlMGJlYjM2ZTY2M2Q4YTQ3ZGUzMGY2NmY2NGE5MmQ4Yjk3MmVhMTU2N2Y1Mg",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 9",
+          "label": "Server 10",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-10-04\/ne-buf",
           "type": "hls",
@@ -736,7 +745,7 @@
           }
         },
         {
-          "label": "Server 10",
+          "label": "Server 11",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-new-england-patriots-at-buffalo-bills\/1",
           "type": "hls",
