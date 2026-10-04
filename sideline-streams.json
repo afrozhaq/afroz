@@ -469,20 +469,6 @@
         {
           "label": "Server 6",
           "subtitle": "Live",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2c81d8192bb76cd29d\/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkMjlkOjE3OTExMTM5OTQ3Nzk6Y2RubGl2ZXR2LnR2OmI5YWIyMTVkYTExNDY0NWIuNmFlM2ExMzk0ODk5YTYzMDdmN2FkMTRjMmRjMTg4N2MxMjA2ZjA3MzgzNzVmYzI4MzgxMjg3YmE4YTgwZmI5ZQ",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 7",
-          "subtitle": "Live",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2c81d8192bb76cd2a8\/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkMmE4OjE3OTExMTM5OTQ5MDU6Y2RubGl2ZXR2LnR2OjFjNGZiNGEzZDQzZmUwYjYuNDY4YjBkYjY4MWVmZDhjOGI0NTI2ZGRhN2M0MTE0NDVkY2U5ZTQwN2I5NjQ5Yzg5Zjk4YWE5MzZkZDgyYjQyNA",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 8",
-          "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-10-04\/jax-cin",
           "type": "hls",
           "rewarded": false,
@@ -492,7 +478,7 @@
           }
         },
         {
-          "label": "Server 9",
+          "label": "Server 7",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-jacksonville-jaguars-at-cincinnati-bengals\/1",
           "type": "hls",
@@ -548,7 +534,7 @@
         {
           "label": "Server 5",
           "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc329\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzI5OjE3OTExNDUwMDk5MDE6Y2RubGl2ZXR2LnR2OjM0MDc5M2ExNjJmMWIzOGEuNzBlMWJlMGZhYjExZjFiNGEzY2U2YjUyYjkwNGFmZjRhZmVmOTVjOWU3YmY2ZjhjZmVjM2ZiMmMzMmYyMDJlYg",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc329\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzI5OjE3OTExNDYyODU1NDg6Y2RubGl2ZXR2LnR2OjU1NmYwNTdjMmE4MjU5MWMuYWY1MTIzNWU0ODU4OWMzZmViMmIzNzgyZTczMTVkNzg2MDk2YjFiMTI3OGJlZmRmN2QxN2E3NDJmYTQ1ZmRhMw",
           "type": "hls",
           "rewarded": false
         },
