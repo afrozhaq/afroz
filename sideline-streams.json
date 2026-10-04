@@ -510,19 +510,12 @@
         {
           "label": "Server 4",
           "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc340\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzQwOjE3OTExMTM5OTg0MzY6Y2RubGl2ZXR2LnR2OmY5MjlmMjBkMWVjNzllYzYuNmQ0YjY3NjQ5NDBmZjNkMzNmMjUxZDY2M2I4Y2FiZjAxZjQ5Y2YwYjM0MDBiNGMwZTUwNTYwMTc3MzJhYzljYQ",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc329\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzI5OjE3OTExNDUwMDk5MDE6Y2RubGl2ZXR2LnR2OjM0MDc5M2ExNjJmMWIzOGEuNzBlMWJlMGZhYjExZjFiNGEzY2U2YjUyYjkwNGFmZjRhZmVmOTVjOWU3YmY2ZjhjZmVjM2ZiMmMzMmYyMDJlYg",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc329\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzI5OjE3OTExMTM5OTMzMzU6Y2RubGl2ZXR2LnR2OjUwOGEyYjBhNTZjNzc4MDMuNTE1NzQ4ZWY5ZmEyYzNkYTYwZjE2M2YzMGM5N2Y5NTM4NDQxMTVlYzM2YjBmOWE1MGU2ZmI2MzI4ZTU0YmM4ZA",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 6",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-10-04\/lar-phi",
           "type": "hls",
@@ -533,7 +526,7 @@
           }
         },
         {
-          "label": "Server 7",
+          "label": "Server 6",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-los-angeles-rams-at-philadelphia-eagles\/1",
           "type": "hls",
