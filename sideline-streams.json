@@ -587,19 +587,12 @@
         {
           "label": "Server 5",
           "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc3be\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjM2JlOjE3OTExMTM5OTQxNTY6Y2RubGl2ZXR2LnR2OjNlYjAyNDllNzIzZjcyZjMuMWI4Mzk0ZDY2MDM2MjZmNGVmNmVmYzY2NTUxNTA4YmVmYzJiOGM3MjA1ZTI5ZDQyM2VlZmRlYzIyZGEwMDc4MQ",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc162\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTYyOjE3OTExNDQ3ODc2Njc6Y2RubGl2ZXR2LnR2OjYzZWRkOWM2MGEwZjM2ODUuODJmMmExMmE2ZTQ2ZjQ3N2Q1MWZmNDkwNjI0ZjVmNTIzOGFjZjg1MDc5ZjVkNDVjOWMyZTcxMDk5ZWJlNzUwNg",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 6",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc162\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTYyOjE3OTExMTM5OTQyNTM6Y2RubGl2ZXR2LnR2OmJhMzViZTcxODgxOWFiNzYuZjA0MDZlMGM4ODc0MWRjZmQ1ZmQ1NmUwYjBhYjNkMzJlY2RkMGQzYjdhNDk5NTY4NGU2YzI5YTBkYTY4MWNiMg",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-10-04\/ne-buf",
           "type": "hls",
@@ -610,7 +603,7 @@
           }
         },
         {
-          "label": "Server 8",
+          "label": "Server 7",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-new-england-patriots-at-buffalo-bills\/1",
           "type": "hls",
