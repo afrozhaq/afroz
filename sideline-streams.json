@@ -304,19 +304,12 @@
         {
           "label": "Server 6",
           "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc172\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTcyOjE3OTExMTM5OTkwODM6Y2RubGl2ZXR2LnR2Ojg0N2NhZTg4NzNhYjhlZWIuMWRlNmU0OWUwMmM5ZDY2OTc1ZDZmMTc5NmY0ZjM5OTY3YzNmOTUyYTViNTQzYWU0YmI2Yzc4ZmY3ODk3MDAyNQ",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc172\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTcyOjE3OTExNDYxMTQ4MTk6Y2RubGl2ZXR2LnR2OmYwOTYxMjIwNWVhOWU2ZTYuYmQ2YmIwYjEzNzZiMWMwMmY2MTk3Y2IyMzAwOWExZTViZjFlMTFlZjY5MWZiNDgyYTllZTVkYjgwYmRlMDRlMA",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 7",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc176\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTc2OjE3OTExMTM5OTkxOTE6Y2RubGl2ZXR2LnR2OmJiMzg2YzMwOThlZWQwYWUuNGM2MzhkOWIyYTQxMjZjNWQwMjIxODliNTkwNTJkMTA4ODBjNGM3NDVhZjVkOTZhODllYjY3Y2Q4NDU4ZmM1Yw",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-10-04\/dal-hou",
           "type": "hls",
@@ -327,7 +320,7 @@
           }
         },
         {
-          "label": "Server 9",
+          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-dallas-cowboys-at-houston-texans\/1",
           "type": "hls",
