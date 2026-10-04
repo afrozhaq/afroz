@@ -1653,40 +1653,47 @@
         {
           "label": "Server 4",
           "subtitle": "Live",
-          "url": "https:\/\/edgestream2.pro\/hls\/16yuitzaerghbhc16.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "url": "https:\/\/dripcast.online\/nfl_streams\/index.php?q=los-angeles-dodgers.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
+          "subtitle": "Live",
+          "url": "https:\/\/edgestream2.pro\/hls\/16yuitzaerghbhc16.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 6",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=braves=dodgers&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 6",
+          "label": "Server 7",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=braves=dodgers&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 7",
+          "label": "Server 8",
           "subtitle": "Live",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb5c3\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWMzOjE3OTExMTM5OTk5NjI6Y2RubGl2ZXR2LnR2OjU0NmUyMGUwYzkzOWUyNjAuMjU1ZjA4YWY2NDZjMmVhNDlhOWQ5ZjQ2MDJiY2QwN2RmNTI2ZmYxMmM4YzFkZDJiMzIwMTNiOGY3MjE0YjI5Yw",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 8",
+          "label": "Server 9",
           "subtitle": "Live",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc344\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzQ0OjE3OTExMTQwMDAyNTY6Y2RubGl2ZXR2LnR2OjFjOWJiNTExYmVlMTJmNWIuYzVlZjA4MzZiM2NmNTQzZWU2ZjFjZGMwZmJkODMwMmQ3ZWY1YTIwY2FjZTRmOThmNmRhNDRjNjM2YTg0MGU5Zg",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 9",
+          "label": "Server 10",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-10-04\/atl-lad",
           "type": "hls",
@@ -1697,7 +1704,7 @@
           }
         },
         {
-          "label": "Server 10",
+          "label": "Server 11",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-atlanta-braves-vs-los-angeles-dodgers\/1",
           "type": "hls",
