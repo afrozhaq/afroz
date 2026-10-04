@@ -14,12 +14,19 @@
         {
           "label": "Server 1",
           "subtitle": "Live",
-          "url": "https:\/\/edgestream2.pro\/hls\/eyrennte44.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "url": "https:\/\/node-f6ba8d9f.4587.website\/6ac2e428.6adc21d4i9ef86b6b.10e8c.e3929c0a\/free.live.nfl\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 2",
+          "subtitle": "Live",
+          "url": "https:\/\/edgestream2.pro\/hls\/eyrennte44.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/nfl-redzone-29818",
           "type": "hls",
@@ -30,7 +37,7 @@
           }
         },
         {
-          "label": "Server 3",
+          "label": "Server 4",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/golf\/-20261004\/1",
           "type": "hls",
