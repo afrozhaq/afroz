@@ -44,13 +44,6 @@
         {
           "label": "Server 5",
           "subtitle": "Live",
-          "url": "https:\/\/s3.thegamehd.top\/auth\/228.m3u8?token=2cySwn6EpUcx3IuBqUrA49A3YwoRBzxHX_hBd9YO6-CBYYSuaHYrbz1Lf76vqqjldHkAwu6XHpfFMv9rqSsLuX-Ad5CgI_bLIVjynGxxSUsxsId7Prn5_cmrldDHcfZGu274V_rPgALQautVPqRQYqWbMN8QXQwlAwmLE50qbeGuzoUvC0yjPRgFLA8NcNNtRpSIniG4WaSiyMCmtOzxwhiPsncmSHZhQs9K2lvug-EVPgw6kS6rGSrZLA7CBE5h7QHFb5ChDGdLxbttOyL__rrr9k2B8UfOzZPpTmHbQD51YQmUOXdu6C7ex__gHAfujERZzi2NGf07qiZytySXqvzNR_8Fx342H5k6YAF5keB187DOnmsTEhDEVMchhonMMhu-1NJNzZbTR36Zvjr7D5oc-FqOpWdr_o7-LTfA0ZxLyzE1Z0F3yZP9TA2B6UKIqjPVNaltaFA_l1GfdBzKWXFDObtBVmcivY34wzLY-skpLbLwNa5m-pZfnoLVIJ0HCF9gMcwd5am_-XY71bqbXYjnEIjyOPh2_ShdrXq22DsUR1zkZLur3aoPT-kH35Xbg_A4uiOtljGs3_vzPJ1LpBb--ydyIcx_CjvWUg033Uc",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 6",
-          "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/nfl-redzone-29818",
           "type": "hls",
           "rewarded": false,
@@ -60,7 +53,7 @@
           }
         },
         {
-          "label": "Server 7",
+          "label": "Server 6",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/golf\/-20261004\/1",
           "type": "hls",
