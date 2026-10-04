@@ -23,40 +23,33 @@
         {
           "label": "Server 2",
           "subtitle": "Live",
-          "url": "https:\/\/node-f6ba8d9f.4587.website\/6ac2e428.6adc21d4i9ef86b6b.10e8c.e3929c0a\/free.live.nfl\/master.m3u8",
+          "url": "https:\/\/fingersoon.st\/scripts\/application14.m3u8?|Referer=https:\/\/otaghera.site\/updatesnfl\/nfl-redzone\/&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/111.0.0.0 Safari\/537.36",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
           "subtitle": "Live",
-          "url": "https:\/\/fingersoon.st\/scripts\/application14.m3u8?|Referer=https:\/\/otaghera.site\/updatesnfl\/nfl-redzone\/&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/111.0.0.0 Safari\/537.36",
+          "url": "https:\/\/dripcast.online\/nfl_streams\/index.php?q=redzone.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
           "subtitle": "Live",
-          "url": "https:\/\/dripcast.online\/nfl_streams\/index.php?q=redzone.m3u8",
+          "url": "https:\/\/edgestream2.pro\/hls\/eyrennte44.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
           "subtitle": "Live",
-          "url": "https:\/\/edgestream2.pro\/hls\/eyrennte44.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 6",
-          "subtitle": "Live",
           "url": "https:\/\/s3.thegamehd.top\/auth\/228.m3u8?token=2cySwn6EpUcx3IuBqUrA49A3YwoRBzxHX_hBd9YO6-CBYYSuaHYrbz1Lf76vqqjldHkAwu6XHpfFMv9rqSsLuX-Ad5CgI_bLIVjynGxxSUsxsId7Prn5_cmrldDHcfZGu274V_rPgALQautVPqRQYqWbMN8QXQwlAwmLE50qbeGuzoUvC0yjPRgFLA8NcNNtRpSIniG4WaSiyMCmtOzxwhiPsncmSHZhQs9K2lvug-EVPgw6kS6rGSrZLA7CBE5h7QHFb5ChDGdLxbttOyL__rrr9k2B8UfOzZPpTmHbQD51YQmUOXdu6C7ex__gHAfujERZzi2NGf07qiZytySXqvzNR_8Fx342H5k6YAF5keB187DOnmsTEhDEVMchhonMMhu-1NJNzZbTR36Zvjr7D5oc-FqOpWdr_o7-LTfA0ZxLyzE1Z0F3yZP9TA2B6UKIqjPVNaltaFA_l1GfdBzKWXFDObtBVmcivY34wzLY-skpLbLwNa5m-pZfnoLVIJ0HCF9gMcwd5am_-XY71bqbXYjnEIjyOPh2_ShdrXq22DsUR1zkZLur3aoPT-kH35Xbg_A4uiOtljGs3_vzPJ1LpBb--ydyIcx_CjvWUg033Uc",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 7",
+          "label": "Server 6",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/nfl-redzone-29818",
           "type": "hls",
@@ -67,7 +60,7 @@
           }
         },
         {
-          "label": "Server 8",
+          "label": "Server 7",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/golf\/-20261004\/1",
           "type": "hls",
