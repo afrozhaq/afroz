@@ -1098,27 +1098,34 @@
         },
         {
           "label": "Server 4",
+          "subtitle": "Live",
+          "url": "https:\/\/fingersoon.st\/scripts\/application9.m3u8?|Referer=https:\/\/otaghera.site\/updatesnfl\/miami-dolphins-vs-minnesota-vikings\/&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/111.0.0.0 Safari\/537.36",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 5",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=dolphins=vikings&s=home&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
+          "label": "Server 6",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=dolphins=vikings&s=away&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 6",
+          "label": "Server 7",
           "subtitle": "Live",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2781d8192bb76cb38e\/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzhlOjE3OTExMTM5OTQ0Nzg6Y2RubGl2ZXR2LnR2OmU1NmYxMTlkMWVhMDc0MDkuM2JjZDc1NTA5ZDQ3MTY3MWQxODU4YWViYzBkZWU5OGU0ZmU1YTdmZmRlMjk5OTgyODM1OTBlOTMwMzVkNGQ4MQ",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 7",
+          "label": "Server 8",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-10-04\/mia-min",
           "type": "hls",
@@ -1129,7 +1136,7 @@
           }
         },
         {
-          "label": "Server 8",
+          "label": "Server 9",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-miami-dolphins-at-minnesota-vikings\/1",
           "type": "hls",
