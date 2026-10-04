@@ -650,19 +650,12 @@
         {
           "label": "Server 4",
           "subtitle": "Live",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2781d8192bb76cb38e\/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzhlOjE3OTExMTM5OTQ0Nzg6Y2RubGl2ZXR2LnR2OmU1NmYxMTlkMWVhMDc0MDkuM2JjZDc1NTA5ZDQ3MTY3MWQxODU4YWViYzBkZWU5OGU0ZmU1YTdmZmRlMjk5OTgyODM1OTBlOTMwMzVkNGQ4MQ",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2781d8192bb76cb38e\/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzhlOjE3OTExNDQ4ODQ2Mzk6Y2RubGl2ZXR2LnR2OjQwOWEzM2QzNDc1MDlhZWUuNjBkZTUxMGVlOWQ1MzQwMDg0MjEwMjA1ZjhiYzM0ZDA1ZTUwY2Q1MWZhYmM0ZTQ2MzNlZGE3ODIwZWNmNDI2Yg",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
-          "subtitle": "Live",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cbb70\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiYjcwOjE3OTExMTM5OTQ2MzA6Y2RubGl2ZXR2LnR2OmNkMjgyOTJjZTUwMzE4M2YuNGI1MTVmNzk0ZTI2MDYxMjE3ZTdmMjM1NjYzZTIzNjRiZGJlZGI2ZTdlMGJhZmQ2Y2FhYWIxOWM2OTc2MDI3NA",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 6",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-10-04\/nyj-chi",
           "type": "hls",
@@ -673,7 +666,7 @@
           }
         },
         {
-          "label": "Server 7",
+          "label": "Server 6",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-new-york-jets-at-chicago-bears\/1",
           "type": "hls",
