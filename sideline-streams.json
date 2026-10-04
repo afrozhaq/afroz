@@ -159,6 +159,63 @@
           "rewarded": false,
           "drmScheme": "clearkey",
           "drmLicenseUrl": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live ",
+          "url": "https:\/\/edgestream2.pro\/hls\/qsdnajbq32.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=cowboys=texans&s=home&sport=nfl",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=cowboys=texans&s=away&sport=nfl",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 5",
+          "subtitle": "Live ",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc172\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTcyOjE3OTExMTM5OTkwODM6Y2RubGl2ZXR2LnR2Ojg0N2NhZTg4NzNhYjhlZWIuMWRlNmU0OWUwMmM5ZDY2OTc1ZDZmMTc5NmY0ZjM5OTY3YzNmOTUyYTViNTQzYWU0YmI2Yzc4ZmY3ODk3MDAyNQ",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 6",
+          "subtitle": "Live ",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc176\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTc2OjE3OTExMTM5OTkxOTE6Y2RubGl2ZXR2LnR2OmJiMzg2YzMwOThlZWQwYWUuNGM2MzhkOWIyYTQxMjZjNWQwMjIxODliNTkwNTJkMTA4ODBjNGM3NDVhZjVkOTZhODllYjY3Y2Q4NDU4ZmM1Yw",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 7",
+          "subtitle": "Live ",
+          "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-10-04\/dal-hou",
+          "type": "hls",
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/nfl\/2026-10-04\/dal-hou"
+          }
+        },
+        {
+          "label": "Server 8",
+          "subtitle": "Live ",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-dallas-cowboys-at-houston-texans\/1",
+          "type": "hls",
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-dallas-cowboys-at-houston-texans\/1"
+          }
         }
       ]
     },
