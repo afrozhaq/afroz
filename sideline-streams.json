@@ -88,47 +88,54 @@
         {
           "label": "Server 4",
           "subtitle": "Live",
-          "url": "https:\/\/instreams.live\/live3\/tv401872965\/index.m3u8?st=m71XjxyIF1suaijiI0oZQA&e=1791133944|Referer=https:\/\/xstream.st\/livetv.php?stream=tv401872965&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/111.0.0.0 Safari\/537.36",
+          "url": "https:\/\/node-cff538bd.4587.website\/6ac2e479.ebbb8380i798bc8d0.feeb.bc541c89\/free.live.nfl\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
           "subtitle": "Live",
-          "url": "https:\/\/edgestream2.pro\/hls\/JHDAJBDnjdna30.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "url": "https:\/\/instreams.live\/live3\/tv401872965\/index.m3u8?st=m71XjxyIF1suaijiI0oZQA&e=1791133944|Referer=https:\/\/xstream.st\/livetv.php?stream=tv401872965&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/111.0.0.0 Safari\/537.36",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 6",
           "subtitle": "Live",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc329\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzI5OjE3OTExMzQ3NTE0ODQ6Y2RubGl2ZXR2LnR2OmMwNjVlNzk0MTFjNDA5YWIuNGRhYmJiODE1YjBmYWIyM2UxM2MzNWNiYTMwMjVlZmE5MTUxNjkzMTZkYmI5MzM4Njg0MTZjMmJkNmE0Y2IyNw",
+          "url": "https:\/\/edgestream2.pro\/hls\/JHDAJBDnjdna30.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 7",
+          "subtitle": "Live",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc329\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzI5OjE3OTExMzQ3NTE0ODQ6Y2RubGl2ZXR2LnR2OmMwNjVlNzk0MTFjNDA5YWIuNGRhYmJiODE1YjBmYWIyM2UxM2MzNWNiYTMwMjVlZmE5MTUxNjkzMTZkYmI5MzM4Njg0MTZjMmJkNmE0Y2IyNw",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 8",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=colts=washington&s=home&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 8",
+          "label": "Server 9",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=colts=washington&s=away&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 9",
+          "label": "Server 10",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2b81d8192bb76ccb14\/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjYjE0OjE3OTExMzM0NDA0MDY6Y2RubGl2ZXR2LnR2OjM1ODIzNjUxZGU2NjUwMWYuMzgxMTc4MGEwZTI1NjJjNGI2NTlhMzVkNGY3OTdiMTBhMDcyZDZmZDVmMjY2MWQ3NTgwZjc5ZGE5YjFkYzY4MQ",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 10",
+          "label": "Server 11",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-10-04\/ind-wsh",
           "type": "hls",
@@ -139,7 +146,7 @@
           }
         },
         {
-          "label": "Server 11",
+          "label": "Server 12",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-indianapolis-colts-at-washington-commanders\/1",
           "type": "hls",
