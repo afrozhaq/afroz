@@ -706,6 +706,40 @@
           "rewarded": true
         }
       ]
+    },
+    {
+      "id": "s1791091110200",
+      "league": "nba",
+      "gameId": "",
+      "away": "CLIPPERS ",
+      "home": "WARRIORS ",
+      "title": "Clippers at Warriors",
+      "poster": "",
+      "startsAt": 1791154800000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
