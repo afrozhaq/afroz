@@ -1,30 +1,6 @@
 {
   "streams": [
     {
-      "id": "s1791013670740",
-      "league": "ncaaf",
-      "gameId": "",
-      "away": "SJSU",
-      "home": "HAW",
-      "title": "San Jose State at Hawaii",
-      "poster": "",
-      "startsAt": 1791086340000,
-      "endsAt": 0,
-      "links": [
-        {
-          "label": "Server 1",
-          "subtitle": "Live ",
-          "url": "https:\/\/embed.st\/embed\/delta\/live_cfb_hawaii-san-jose-st-live-streaming-663672960\/1",
-          "type": "hls",
-          "rewarded": false,
-          "tokenApi": {
-            "type": "embed",
-            "api": "https:\/\/embed.st\/embed\/delta\/live_cfb_hawaii-san-jose-st-live-streaming-663672960\/1"
-          }
-        }
-      ]
-    },
-    {
       "id": "s1790928489864",
       "league": "nfl",
       "gameId": "",
