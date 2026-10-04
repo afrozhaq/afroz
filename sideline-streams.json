@@ -1036,19 +1036,12 @@
         {
           "label": "Server 6",
           "subtitle": "Live",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb5c3\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWMzOjE3OTExMTM5OTk5NjI6Y2RubGl2ZXR2LnR2OjU0NmUyMGUwYzkzOWUyNjAuMjU1ZjA4YWY2NDZjMmVhNDlhOWQ5ZjQ2MDJiY2QwN2RmNTI2ZmYxMmM4YzFkZDJiMzIwMTNiOGY3MjE0YjI5Yw",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb613\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjEzOjE3OTExNTgzNzA2MTc6Y2RubGl2ZXR2LnR2OmFlZTdmZDE2OTZkZDc1YTMuMGI0NTgyMDdiYWQ3OTUzZTMzZTY0MzA1YmExMTJiYjgxM2MyZTkwZjJiZTgxYzg1MGRmMGVmNWNjYTgxOTQ1OQ",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 7",
-          "subtitle": "Live",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc347\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzQ3OjE3OTExMTQwMDAwNzg6Y2RubGl2ZXR2LnR2OjU4ZDZiMzY3ZDg4MzU4Y2UuMDVkZTE5NTIxMmNlMGY4OWQxZGY5MTEzM2EwNDdjYTZjNGE2MTY1N2Y3NmUzZDY1ODRhZmYyM2ZkZGY0NjA4MA",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 8",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-10-04\/sd-mil",
           "type": "hls",
@@ -1059,7 +1052,7 @@
           }
         },
         {
-          "label": "Server 9",
+          "label": "Server 8",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-san-diego-padres-vs-milwaukee-brewers\/1",
           "type": "hls",
