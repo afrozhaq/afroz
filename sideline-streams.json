@@ -647,35 +647,44 @@
       "endsAt": 0,
       "links": [
         {
-          "label": "Server 1",
+          "label": "Main Server 1",
+          "subtitle": "Live",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/lhr-nitro\/live\/clients\/dash\/enc\/tlg8sbcups\/out\/v1\/600a5b389973496ba283ab05e49ccb17\/cenc.mpd",
+          "type": "dash",
+          "rewarded": false,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "055bf741de27b01f47126e85dc254645:73b5665d0ce9960b887b2ba6fec5a6ed"
+        },
+        {
+          "label": "Server 2",
           "subtitle": "Live",
           "url": "https:\/\/edgestream2.pro\/hls\/yetehznecs37.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 2",
+          "label": "Server 3",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=jets=bears&s=home&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 3",
+          "label": "Server 4",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=jets=bears&s=away&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
+          "label": "Server 5",
           "subtitle": "Live",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2781d8192bb76cb38e\/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzhlOjE3OTExNDQ4ODQ2Mzk6Y2RubGl2ZXR2LnR2OjQwOWEzM2QzNDc1MDlhZWUuNjBkZTUxMGVlOWQ1MzQwMDg0MjEwMjA1ZjhiYzM0ZDA1ZTUwY2Q1MWZhYmM0ZTQ2MzNlZGE3ODIwZWNmNDI2Yg",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
+          "label": "Server 6",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-10-04\/nyj-chi",
           "type": "hls",
@@ -686,7 +695,7 @@
           }
         },
         {
-          "label": "Server 6",
+          "label": "Server 7",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-new-york-jets-at-chicago-bears\/1",
           "type": "hls",
