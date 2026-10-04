@@ -1215,19 +1215,12 @@
         {
           "label": "Server 8",
           "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc383\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzgzOjE3OTExMTM5OTI5MDc6Y2RubGl2ZXR2LnR2OjlkMjhhMTI3MDY3MzZhYmYuNzhjMTcyZmE0N2JiODIzZDM4MzZkMWEzZjk0ODIzMTYzNzU4ODBkOTc3ZjFhMjNjNGY1MzkyOWJhZjcxY2NiNg",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc172\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTcyOjE3OTExNTc4NTAxNjM6Y2RubGl2ZXR2LnR2OmZiNGYyYjFjMDU3YzNjZWEuZWMyYjg3MzAyYzRjMTNkYzhkMGM3ZGM1NmIyZTNmZjA1Y2FjZGZhOTgzM2JmYzkyODY2YWM4YjIzMjE4M2UxZQ",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 9",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc31d\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzFkOjE3OTExMTM5OTMyMTk6Y2RubGl2ZXR2LnR2OmZmYzlhY2ExY2E3NzM1NDMuZTU0OTZjNTM2Njc0ZGJjYTE3NTE5MmQ4ZDU1OWNmYjZlODJlM2M1M2I2NzI0YTdlM2E0YzczYzg4NTg0MDg5Mg",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 10",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-10-04\/den-sf",
           "type": "hls",
@@ -1238,7 +1231,7 @@
           }
         },
         {
-          "label": "Server 11",
+          "label": "Server 10",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-denver-broncos-at-san-francisco-49-ers\/1",
           "type": "hls",
