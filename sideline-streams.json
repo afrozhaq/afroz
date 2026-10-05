@@ -344,16 +344,24 @@
         {
           "label": "Server 1",
           "subtitle": "Live",
-          "url": "h",
+          "url": "https:\/\/embedindia.st\/embed\/nhl\/2026-10-05\/phi-tb",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/nhl\/2026-10-05\/phi-tb"
+          }
         },
         {
           "label": "Server 2",
           "subtitle": "Live",
-          "url": "h",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-philadelphia-flyers-vs-tampa-bay-lightning\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-philadelphia-flyers-vs-tampa-bay-lightning\/1"
+          }
         }
       ]
     },
@@ -371,16 +379,24 @@
         {
           "label": "Server 1",
           "subtitle": "Live",
-          "url": "h",
+          "url": "https:\/\/embedindia.st\/embed\/nhl\/2026-10-05\/ott-bos",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/nhl\/2026-10-05\/ott-bos"
+          }
         },
         {
           "label": "Server 2",
           "subtitle": "Live",
-          "url": "h",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-ottawa-senators-vs-boston-bruins\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-ottawa-senators-vs-boston-bruins\/1"
+          }
         }
       ]
     },
