@@ -275,6 +275,33 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1791191856773",
+      "league": "nba",
+      "gameId": "",
+      "away": "KINGS",
+      "home": "LAKERS",
+      "title": "Kings at Lakers",
+      "poster": "",
+      "startsAt": 1791252000000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
