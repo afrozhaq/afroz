@@ -200,33 +200,40 @@
         {
           "label": "Server 10",
           "subtitle": "Live",
-          "url": "https:\/\/dripcast.online\/flyembed-scraper\/fly\/index.m3u8?id=nbc-usa",
+          "url": "https:\/\/fingersoon.st\/scripts\/application3.m3u8?|Referer=https:\/\/otaghera.site\/updatesnfl\/detroit-lions-vs-carolina-panthers\/&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/111.0.0.0 Safari\/537.36",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 11",
+          "subtitle": "Live",
+          "url": "https:\/\/dripcast.online\/flyembed-scraper\/fly\/index.m3u8?id=nbc-usa",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 12",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=lions=panthers&s=home&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 12",
+          "label": "Server 13",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=lions=panthers&s=away&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 13",
+          "label": "Server 14",
           "subtitle": "Live",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc172\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTcyOjE3OTExNzE1Njc0MDI6Y2RubGl2ZXR2LnR2OmY0YWVjOTk2NWM5MzJlYmIuNWIwODZkZjVmMjg5YWY5MWVmODdjYjcyNTc3ZDYzNzk1YjMyN2VlMjZhODYxZDBhNTdiNTMzMGQ4MmQ5MmQyZA",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 14",
+          "label": "Server 15",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-10-04\/det-car",
           "type": "hls",
@@ -237,7 +244,7 @@
           }
         },
         {
-          "label": "Server 15",
+          "label": "Server 16",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-detroit-lions-at-carolina-panthers\/1",
           "type": "hls",
