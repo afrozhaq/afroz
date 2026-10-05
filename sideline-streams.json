@@ -46,6 +46,56 @@
           "rewarded": false,
           "drmScheme": "clearkey",
           "drmLicenseUrl": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8"
+        },
+        {
+          "label": "Server 5",
+          "subtitle": "Live",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb59e\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNTllOjE3OTEyMTM2MjAyMzE6Y2RubGl2ZXR2LnR2OmU5YTE1MDNmMDRjMzRmYjMuNjVjOGViYTNiMWMwNjY5ZWRlYWQwM2Y3NTc0YTEyMDZmM2UwNTJjZjQ3YjExYTM2ODlkZjY2ZjE4YTZkNzlkMg",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 6",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=falcons=saints&s=home&sport=nfl",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 7",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=falcons=saints&s=away&sport=nfl",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 8",
+          "subtitle": "Live",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb59c\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNTljOjE3OTEyMTM2MjA0MjY6Y2RubGl2ZXR2LnR2OjgwN2VhN2U5YjBmYjViZTkuNjM4M2ZiOTIwMTI1NzI3NWJhMTU5ZDZhMDRmZmUzNzUxOWRmYjFmYzIzY2NkNDg2NGZmNmE3MTcyNDM2ZjJkMA",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 9",
+          "subtitle": "Live",
+          "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-10-05\/atl-no",
+          "type": "hls",
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/nfl\/2026-10-05\/atl-no"
+          }
+        },
+        {
+          "label": "Server 10",
+          "subtitle": "Live",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-atlanta-falcons-at-new-orleans-saints\/1",
+          "type": "hls",
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-atlanta-falcons-at-new-orleans-saints\/1"
+          }
         }
       ]
     },
