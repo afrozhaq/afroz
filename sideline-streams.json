@@ -221,6 +221,33 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1791191761953",
+      "league": "nba",
+      "gameId": "",
+      "away": "BUCKS",
+      "home": "TIMBERWOLVES ",
+      "title": "Bucks at Timberwolves ",
+      "poster": "",
+      "startsAt": 1791244800000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live ",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live ",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
