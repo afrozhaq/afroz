@@ -576,14 +576,23 @@
       "endsAt": 0,
       "links": [
         {
-          "label": "Server 1",
+          "label": "Main Server 1",
+          "subtitle": "Live Now",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/m6sqanvm2m\/out\/v1\/f6beb46c6e9a4132ad739f3ca27df6aa\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": false,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
+        },
+        {
+          "label": "Server 2",
           "subtitle": "Live",
           "url": "https:\/\/edgestream2.pro\/hls\/lmdsjkfgv52.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 2",
+          "label": "Server 3",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/nhl\/2026-10-05\/wpg-pit",
           "type": "hls",
@@ -594,7 +603,7 @@
           }
         },
         {
-          "label": "Server 3",
+          "label": "Server 4",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-winnipeg-jets-vs-pittsburgh-penguins\/1",
           "type": "hls",
