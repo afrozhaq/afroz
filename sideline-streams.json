@@ -129,11 +129,11 @@
         {
           "label": "Main Server 2",
           "subtitle": "Live Now",
-          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/cizlveblk4\/out\/v1\/e5c36c41621e4384b80427d87199433a\/cenc.mpd",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/iad-nitro\/live\/clients\/dash\/enc\/t5hl6b2bzs\/out\/v1\/29a5467378a0483cbd6f33dc7e895401\/cenc.mpd",
           "type": "dash",
           "rewarded": false,
           "drmScheme": "clearkey",
-          "drmLicenseUrl": "d7d78ea2021a29541136bd5dc8352fe7:6425ac4c0cdf906fe0cce5cf40dc8933"
+          "drmLicenseUrl": "5548f2c66b2fccd255f55abcccaa96ae:42605ff2377e028899aa2231b6b2ff53"
         },
         {
           "label": "Server 3",
