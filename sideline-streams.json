@@ -309,16 +309,24 @@
         {
           "label": "Server 1",
           "subtitle": "Live",
-          "url": "h",
+          "url": "https:\/\/embedindia.st\/embed\/nba\/2026-10-05\/ny-phi",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/nba\/2026-10-05\/ny-phi"
+          }
         },
         {
           "label": "Server 2",
           "subtitle": "Live",
-          "url": "h",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-new-york-knicks-vs-philadelphia-76-ers\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-new-york-knicks-vs-philadelphia-76-ers\/1"
+          }
         }
       ]
     },
@@ -417,16 +425,24 @@
         {
           "label": "Server 1",
           "subtitle": "Live ",
-          "url": "h",
+          "url": "https:\/\/embedindia.st\/embed\/nba\/2026-10-05\/min-mil",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/nba\/2026-10-05\/min-mil"
+          }
         },
         {
           "label": "Server 2",
           "subtitle": "Live ",
-          "url": "h",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-minnesota-timberwolves-vs-milwaukee-bucks\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-minnesota-timberwolves-vs-milwaukee-bucks\/1"
+          }
         }
       ]
     },
