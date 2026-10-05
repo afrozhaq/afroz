@@ -86,6 +86,33 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1791191384253",
+      "league": "nba",
+      "gameId": "",
+      "away": "SUNS",
+      "home": "PISTONS",
+      "title": "Suns at Pistons",
+      "poster": "",
+      "startsAt": 1791241200000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
