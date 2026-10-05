@@ -414,16 +414,24 @@
         {
           "label": "Server 1",
           "subtitle": "Live ",
-          "url": "h",
+          "url": "https:\/\/embedindia.st\/embed\/nhl\/2026-10-05\/wpg-pit",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/nhl\/2026-10-05\/wpg-pit"
+          }
         },
         {
           "label": "Server 2",
           "subtitle": "Live ",
-          "url": "h",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-winnipeg-jets-vs-pittsburgh-penguins\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-winnipeg-jets-vs-pittsburgh-penguins\/1"
+          }
         }
       ]
     },
@@ -476,16 +484,24 @@
         {
           "label": "Server 1",
           "subtitle": "Live",
-          "url": "h",
+          "url": "https:\/\/embedindia.st\/embed\/nhl\/2026-10-05\/sj-dal",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/nhl\/2026-10-05\/sj-dal"
+          }
         },
         {
           "label": "Server 2",
           "subtitle": "Live",
-          "url": "h",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-san-jose-sharks-vs-dallas-stars\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-san-jose-sharks-vs-dallas-stars\/1"
+          }
         }
       ]
     },
