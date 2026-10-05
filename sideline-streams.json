@@ -248,6 +248,33 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1791191805714",
+      "league": "nhl",
+      "gameId": "",
+      "away": "STARS",
+      "home": "SHARKS",
+      "title": "Stars at Sharks",
+      "poster": "",
+      "startsAt": 1791244800000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
