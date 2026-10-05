@@ -239,16 +239,24 @@
         {
           "label": "Server 1",
           "subtitle": "Live",
-          "url": "h",
+          "url": "https:\/\/embedindia.st\/embed\/nba\/2026-10-05\/mem-atl",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/nba\/2026-10-05\/mem-atl"
+          }
         },
         {
           "label": "Server 2",
           "subtitle": "Live",
-          "url": "h",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-memphis-grizzlies-vs-atlanta-hawks\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-memphis-grizzlies-vs-atlanta-hawks\/1"
+          }
         }
       ]
     },
@@ -266,16 +274,24 @@
         {
           "label": "Server 1",
           "subtitle": "Live",
-          "url": "h",
+          "url": "https:\/\/embedindia.st\/embed\/nba\/2026-10-05\/phx-det",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/nba\/2026-10-05\/phx-det"
+          }
         },
         {
           "label": "Server 2",
           "subtitle": "Live",
-          "url": "h",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-phoenix-suns-vs-detroit-pistons\/1",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-phoenix-suns-vs-detroit-pistons\/1"
+          }
         }
       ]
     },
