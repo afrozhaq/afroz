@@ -113,6 +113,33 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1791191485048",
+      "league": "nba",
+      "gameId": "",
+      "away": "76ERS",
+      "home": "KNICKS",
+      "title": "76ers at Knicks",
+      "poster": "",
+      "startsAt": 1791241200000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
