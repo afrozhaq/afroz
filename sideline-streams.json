@@ -50,33 +50,40 @@
         {
           "label": "Server 5",
           "subtitle": "Live",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb59e\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNTllOjE3OTEyMTM2MjAyMzE6Y2RubGl2ZXR2LnR2OmU5YTE1MDNmMDRjMzRmYjMuNjVjOGViYTNiMWMwNjY5ZWRlYWQwM2Y3NTc0YTEyMDZmM2UwNTJjZjQ3YjExYTM2ODlkZjY2ZjE4YTZkNzlkMg",
+          "url": "https:\/\/edgestream2.pro\/hls\/JHDAJBDnjdna30.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 6",
+          "subtitle": "Live",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb59e\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNTllOjE3OTEyMTM2MjAyMzE6Y2RubGl2ZXR2LnR2OmU5YTE1MDNmMDRjMzRmYjMuNjVjOGViYTNiMWMwNjY5ZWRlYWQwM2Y3NTc0YTEyMDZmM2UwNTJjZjQ3YjExYTM2ODlkZjY2ZjE4YTZkNzlkMg",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 7",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=falcons=saints&s=home&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 7",
+          "label": "Server 8",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=falcons=saints&s=away&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 8",
+          "label": "Server 9",
           "subtitle": "Live",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb59c\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNTljOjE3OTEyMTM2MjA0MjY6Y2RubGl2ZXR2LnR2OjgwN2VhN2U5YjBmYjViZTkuNjM4M2ZiOTIwMTI1NzI3NWJhMTU5ZDZhMDRmZmUzNzUxOWRmYjFmYzIzY2NkNDg2NGZmNmE3MTcyNDM2ZjJkMA",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 9",
+          "label": "Server 10",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/nfl\/2026-10-05\/atl-no",
           "type": "hls",
@@ -87,7 +94,7 @@
           }
         },
         {
-          "label": "Server 10",
+          "label": "Server 11",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-atlanta-falcons-at-new-orleans-saints\/1",
           "type": "hls",
