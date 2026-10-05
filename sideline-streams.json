@@ -310,12 +310,19 @@
         {
           "label": "Server 1",
           "subtitle": "Live",
-          "url": "https:\/\/edgestream2.pro\/hls\/mlkijfezag65.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "url": "https:\/\/dripcast.online\/nfl_streams\/index.php?q=hawks.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 2",
+          "subtitle": "Live",
+          "url": "https:\/\/edgestream2.pro\/hls\/mlkijfezag65.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/nba\/2026-10-05\/mem-atl",
           "type": "hls",
@@ -326,7 +333,7 @@
           }
         },
         {
-          "label": "Server 3",
+          "label": "Server 4",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-memphis-grizzlies-vs-atlanta-hawks\/1",
           "type": "hls",
@@ -352,12 +359,19 @@
         {
           "label": "Server 1",
           "subtitle": "Live",
-          "url": "https:\/\/edgestream2.pro\/hls\/wfazgsqtrezu66.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "url": "https:\/\/dripcast.online\/nfl_streams\/index.php?q=pistons.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 2",
+          "subtitle": "Live",
+          "url": "https:\/\/edgestream2.pro\/hls\/wfazgsqtrezu66.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/nba\/2026-10-05\/phx-det",
           "type": "hls",
@@ -368,7 +382,7 @@
           }
         },
         {
-          "label": "Server 3",
+          "label": "Server 4",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-phoenix-suns-vs-detroit-pistons\/1",
           "type": "hls",
@@ -394,12 +408,19 @@
         {
           "label": "Server 1",
           "subtitle": "Live",
-          "url": "https:\/\/edgestream2.pro\/hls\/hfsdqtaxvb67.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "url": "https:\/\/dripcast.online\/nfl_streams\/index.php?q=76ers.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 2",
+          "subtitle": "Live",
+          "url": "https:\/\/edgestream2.pro\/hls\/hfsdqtaxvb67.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/nba\/2026-10-05\/ny-phi",
           "type": "hls",
@@ -410,7 +431,7 @@
           }
         },
         {
-          "label": "Server 3",
+          "label": "Server 4",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-new-york-knicks-vs-philadelphia-76-ers\/1",
           "type": "hls",
