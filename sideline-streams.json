@@ -167,6 +167,33 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1791191626269",
+      "league": "nhl",
+      "gameId": "",
+      "away": "BRUINS ",
+      "home": "SENATORS ",
+      "title": "Bruins at Senators",
+      "poster": "",
+      "startsAt": 1791243000000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
