@@ -228,6 +228,33 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1791271703843",
+      "league": "nba",
+      "gameId": "",
+      "away": "THUNDER ",
+      "home": "PELICANS ",
+      "title": "Thunder at Pelicans",
+      "poster": "",
+      "startsAt": 1791331200000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
