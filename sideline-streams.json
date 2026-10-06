@@ -39,6 +39,33 @@
           "rewarded": true
         }
       ]
+    },
+    {
+      "id": "s1791271100804",
+      "league": "nba",
+      "gameId": "",
+      "away": "NETS",
+      "home": "HORNETS ",
+      "title": "NETs at Hornets ",
+      "poster": "",
+      "startsAt": 1791327600000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
