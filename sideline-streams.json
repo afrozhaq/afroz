@@ -93,6 +93,33 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1791271489091",
+      "league": "nhl",
+      "gameId": "",
+      "away": "SABRES",
+      "home": "WILD",
+      "title": "Sabres at Wild",
+      "poster": "",
+      "startsAt": 1791327600000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
