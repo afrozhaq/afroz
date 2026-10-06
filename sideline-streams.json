@@ -329,6 +329,33 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1791271876944",
+      "league": "nhl",
+      "gameId": "",
+      "away": "KRAKEN ",
+      "home": "GOLDEN KNIGHTS ",
+      "title": "Kraken at Golden Knights ",
+      "poster": "",
+      "startsAt": 1791337200000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
