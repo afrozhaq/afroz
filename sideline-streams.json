@@ -356,6 +356,33 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1791271920588",
+      "league": "nba",
+      "gameId": "",
+      "away": "WARRIORS ",
+      "home": "LAKERS",
+      "title": "Warriors at Lakers ",
+      "poster": "",
+      "startsAt": 1791338400000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
