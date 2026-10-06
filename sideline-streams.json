@@ -66,6 +66,33 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1791271400064",
+      "league": "nhl",
+      "gameId": "",
+      "away": "DEVILS ",
+      "home": "MAMMOTH ",
+      "title": "Devils at Mammoth ",
+      "poster": "",
+      "startsAt": 1791327600000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
