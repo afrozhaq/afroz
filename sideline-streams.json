@@ -482,6 +482,13 @@
         {
           "label": "Server 2",
           "subtitle": "Live",
+          "url": "https:\/\/dripcast.online\/flyembed-scraper\/fly\/index.m3u8?id=nba-401898389",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/nba\/2026-10-06\/no-okc",
           "type": "hls",
           "rewarded": false,
@@ -491,7 +498,7 @@
           }
         },
         {
-          "label": "Server 3",
+          "label": "Server 4",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-new-orleans-pelicans-vs-oklahoma-city-thunder\/1",
           "type": "hls",
