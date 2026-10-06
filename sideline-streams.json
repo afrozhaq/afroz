@@ -383,6 +383,33 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1791272011507",
+      "league": "nhl",
+      "gameId": "",
+      "away": "KINGS",
+      "home": "PANTHERS ",
+      "title": "Kings at Panthers ",
+      "poster": "",
+      "startsAt": 1791338400000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
