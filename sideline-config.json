@@ -1,6 +1,6 @@
 {
-  "minVersionCode": 13,
-  "latestVersionCode": 13,
+  "minVersionCode": 1,
+  "latestVersionCode": 1,
   "force": false,
   "title": "⚠️ Update Required",
   "message": "You’re using an older version of the app. This version may stop working soon.\n\nPlease update to the latest version now for a better and uninterrupted experience.",
