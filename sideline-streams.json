@@ -742,6 +742,13 @@
         },
         {
           "label": "Server 2",
+          "subtitle": "Live ",
+          "url": "https:\/\/instreams.pro\/live3\/tv401892448\/index.m3u8?st=-NBIyz_AapCDGtT9PA6nZg&e=1791255400|Referer=https:\/\/xstream.st\/livetv.php?stream=tv401892448&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/111.0.0.0 Safari\/537.36",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/nhl\/2026-10-05\/sj-dal",
           "type": "hls",
@@ -752,7 +759,7 @@
           }
         },
         {
-          "label": "Server 3",
+          "label": "Server 4",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-san-jose-sharks-vs-dallas-stars\/1",
           "type": "hls",
