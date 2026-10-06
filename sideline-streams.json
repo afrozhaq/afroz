@@ -120,6 +120,33 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1791271539731",
+      "league": "nhl",
+      "gameId": "",
+      "away": "CANADIENS ",
+      "home": "HURRICANES ",
+      "title": "Canadiens at Hurricanes ",
+      "poster": "",
+      "startsAt": 1791327600000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live ",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live ",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
