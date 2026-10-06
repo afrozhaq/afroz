@@ -139,6 +139,13 @@
         {
           "label": "Server 3",
           "subtitle": "Live",
+          "url": "https:\/\/dripcast.online\/nfl_streams\/index.php?q=hornets.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
+          "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/nba\/2026-10-06\/bkn-cha",
           "type": "hls",
           "rewarded": false,
@@ -148,7 +155,7 @@
           }
         },
         {
-          "label": "Server 4",
+          "label": "Server 5",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-brooklyn-nets-vs-charlotte-hornets\/1",
           "type": "hls",
