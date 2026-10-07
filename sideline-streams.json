@@ -193,6 +193,33 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1791360692384",
+      "league": "nba",
+      "gameId": "",
+      "away": "MAGIC",
+      "home": "GRIZZLIES ",
+      "title": "Magic at Grizzlies ",
+      "poster": "",
+      "startsAt": 1791417600000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
