@@ -625,27 +625,13 @@
         },
         {
           "label": "Server 9",
-          "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=brewers=padres&s=home&sport=mlb",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 10",
-          "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=brewers=padres&s=away&sport=mlb",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 11",
           "subtitle": "Live",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb613\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjEzOjE3OTEzNTAzNzMxOTY6Y2RubGl2ZXR2LnR2OmVjNmFiMzA2NWQxYjBmNjQuYWY1NGMxOTBiZjVjNzI3MWE3YWYxYTQwMjFlZjkzMzkwMzdkNzEwNjkzNWMwNzdkOTRiNDliY2I2OTg4MjMyOQ",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 12",
+          "label": "Server 10",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-milwaukee-brewers-vs-san-diego-padres\/1",
           "type": "hls",
@@ -656,7 +642,7 @@
           }
         },
         {
-          "label": "Server 13",
+          "label": "Server 11",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-10-06\/mil-sd",
           "type": "hls",
