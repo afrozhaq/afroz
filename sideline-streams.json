@@ -51,19 +51,12 @@
         {
           "label": "Server 6",
           "subtitle": "Live",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb62d\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjJkOjE3OTEzODUxNTEyNDc6Y2RubGl2ZXR2LnR2OmFkMGY2NWFhYWUwNzZlZjIuMDU2YmJlMTZiMDVjM2M0YTRiNjM3NWM1ZjgzNDg0MjZlN2U0MjVmM2IwOGJiOTM3NGU1ZDk0ZTcyNTc4NGNkZg",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc344\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzQ0OjE3OTE0MTYwMTM4MDI6Y2RubGl2ZXR2LnR2OmQxNDlhZGEwNzAxMjFhOWEuODk0N2I4Y2Q1MGIzMWQ2NDAzYWY3OTZlNjg1ZWE2YzkxZmM1OWI4NGIwMDFjZTA3MWEzYzBmYmQyZTAzNDFmYw",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 7",
-          "subtitle": "Live",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb62c\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjJjOjE3OTEzODUxNTEzNTg6Y2RubGl2ZXR2LnR2OmI2NDAxMjc5ZDVmZjQxMjMuYzhkY2E2Y2NiZmQ1YWI5YmY2MGU4ZWM0NDkzZDE3N2IxZGMwN2FmZDJlZTMwMjE0NDE3NDIwMzJmMGVmZmUyMg",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 8",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-10-07\/cle-chw",
           "type": "hls",
@@ -74,7 +67,7 @@
           }
         },
         {
-          "label": "Server 9",
+          "label": "Server 8",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-cleveland-guardians-vs-chicago-white-sox\/1",
           "type": "hls",
