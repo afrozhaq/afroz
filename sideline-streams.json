@@ -527,6 +527,13 @@
         {
           "label": "Server 2",
           "subtitle": "Live",
+          "url": "https:\/\/dripcast.online\/flyembed-scraper\/fly\/index.m3u8?id=espn2-usa",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/golf\/1999\/1",
           "type": "hls",
           "rewarded": false,
