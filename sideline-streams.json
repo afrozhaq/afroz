@@ -41,6 +41,46 @@
       ]
     },
     {
+      "id": "s1791358535748",
+      "league": "nhl",
+      "gameId": "",
+      "away": "COL",
+      "home": "WPG",
+      "title": "Avalanche at Jets",
+      "poster": "",
+      "startsAt": 1791415800000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server ",
+          "subtitle": "Live ",
+          "url": "https:\/\/edgestream2.pro\/hls\/jkzahzadach20.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": true
+        }
+      ]
+    },
+    {
+      "id": "s1791358535749",
+      "league": "nhl",
+      "gameId": "",
+      "away": "PIT",
+      "home": "WSH",
+      "title": "Penguins at Capitals",
+      "poster": "",
+      "startsAt": 1791415800000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server ",
+          "subtitle": "Live ",
+          "url": "https:\/\/edgestream2.pro\/hls\/jkzahzadach20.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": true
+        }
+      ]
+    },
+    {
       "id": "s1791358526550",
       "league": "mlb",
       "gameId": "",
@@ -67,6 +107,26 @@
       "away": "MIL",
       "home": "SD",
       "title": "Brewers at Padres",
+      "poster": "",
+      "startsAt": 1791424800000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server ",
+          "subtitle": "Live ",
+          "url": "https:\/\/edgestream2.pro\/hls\/jkzahzadach20.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": true
+        }
+      ]
+    },
+    {
+      "id": "s1791358535750",
+      "league": "nhl",
+      "gameId": "",
+      "away": "EDM",
+      "home": "ANA",
+      "title": "Oilers at Ducks",
       "poster": "",
       "startsAt": 1791424800000,
       "endsAt": 0,
