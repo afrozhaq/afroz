@@ -594,16 +594,45 @@
         {
           "label": "Server 1",
           "subtitle": "Live",
-          "url": "h",
+          "url": "https:\/\/edgestream2.pro\/hls\/ztyarueaghj71.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 2",
           "subtitle": "Live",
-          "url": "h",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc176\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTc2OjE3OTEzODUxNTQ0MzQ6Y2RubGl2ZXR2LnR2OmNhZjNmYmFmZTk5NjIxNjcuNWMzNzRiNzAwYmJjNDE5YTM5OWE2YTFiYWIwNmY4YTYwZmIwNGViZjkzZWY1YzMzZjg1NWE1MDlhYjVkMDcwZQ",
           "type": "hls",
           "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc179\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTc5OjE3OTEzODUxNTQ3NTY6Y2RubGl2ZXR2LnR2OjVhOGQxZmE1MGZkYzYwOTUuMzVlMzM5NmNkZGFkZTk5ODEwMGZlYWRjOTEwNGRiNmIyZTk1OGFkMDkxNTZhODg5ZTI3ZDFhMDcxZWRkODZhNA",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
+          "subtitle": "Live",
+          "url": "https:\/\/embedindia.st\/embed\/wnba\/2026-10-07\/lv-gs",
+          "type": "hls",
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/wnba\/2026-10-07\/lv-gs"
+          }
+        },
+        {
+          "label": "Server 5",
+          "subtitle": "Live",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-las-vegas-aces-vs-golden-state-valkyries\/1",
+          "type": "hls",
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-las-vegas-aces-vs-golden-state-valkyries\/1"
+          }
         }
       ]
     },
