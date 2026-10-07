@@ -112,62 +112,6 @@
       ]
     },
     {
-      "id": "s1791271100804",
-      "league": "nba",
-      "gameId": "",
-      "away": "NETS",
-      "home": "HORNETS ",
-      "title": "Nets at Hornets ",
-      "poster": "",
-      "startsAt": 1791327600000,
-      "endsAt": 0,
-      "links": [
-        {
-          "label": "Server 1",
-          "subtitle": "Live",
-          "url": "https:\/\/instreams.live\/live3\/tv401901820\/index.m3u8?st=UWGFYoESGlxbMRRBsfrbHg&e=1791336616|Referer=https:\/\/xstream.st\/livetv.php?stream=tv401901820&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/111.0.0.0 Safari\/537.36",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 2",
-          "subtitle": "Live",
-          "url": "https:\/\/edgestream2.pro\/hls\/mlkijfezag65.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 3",
-          "subtitle": "Live",
-          "url": "https:\/\/dripcast.online\/nfl_streams\/index.php?q=hornets.m3u8",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 4",
-          "subtitle": "Live",
-          "url": "https:\/\/embedindia.st\/embed\/nba\/2026-10-06\/bkn-cha",
-          "type": "hls",
-          "rewarded": false,
-          "tokenApi": {
-            "type": "embed",
-            "api": "https:\/\/embedindia.st\/embed\/nba\/2026-10-06\/bkn-cha"
-          }
-        },
-        {
-          "label": "Server 5",
-          "subtitle": "Live",
-          "url": "https:\/\/embed.st\/embed\/admin\/ppv-brooklyn-nets-vs-charlotte-hornets\/1",
-          "type": "hls",
-          "rewarded": false,
-          "tokenApi": {
-            "type": "embed",
-            "api": "https:\/\/embed.st\/embed\/admin\/ppv-brooklyn-nets-vs-charlotte-hornets\/1"
-          }
-        }
-      ]
-    },
-    {
       "id": "s1791271400064",
       "league": "nhl",
       "gameId": "",
@@ -462,62 +406,6 @@
       ]
     },
     {
-      "id": "s1791271703843",
-      "league": "nba",
-      "gameId": "",
-      "away": "THUNDER ",
-      "home": "PELICANS ",
-      "title": "Thunder at Pelicans",
-      "poster": "",
-      "startsAt": 1791331200000,
-      "endsAt": 0,
-      "links": [
-        {
-          "label": "Server 1",
-          "subtitle": "Live",
-          "url": "https:\/\/instreams.online\/live3\/tv401898389\/index.m3u8?st=fI49_kOnaoHgIjVE-Q9ZTw&e=1791340208|Referer=https:\/\/xstream.st\/livetv.php?stream=tv401898389&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/111.0.0.0 Safari\/537.36",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 2",
-          "subtitle": "Live",
-          "url": "https:\/\/edgestream2.pro\/hls\/wfazgsqtrezu66.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 3",
-          "subtitle": "Live",
-          "url": "https:\/\/dripcast.online\/flyembed-scraper\/fly\/index.m3u8?id=nba-401898389",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 4",
-          "subtitle": "Live",
-          "url": "https:\/\/embedindia.st\/embed\/nba\/2026-10-06\/no-okc",
-          "type": "hls",
-          "rewarded": false,
-          "tokenApi": {
-            "type": "embed",
-            "api": "https:\/\/embedindia.st\/embed\/nba\/2026-10-06\/no-okc"
-          }
-        },
-        {
-          "label": "Server 5",
-          "subtitle": "Live",
-          "url": "https:\/\/embed.st\/embed\/admin\/ppv-new-orleans-pelicans-vs-oklahoma-city-thunder\/1",
-          "type": "hls",
-          "rewarded": false,
-          "tokenApi": {
-            "type": "embed",
-            "api": "https:\/\/embed.st\/embed\/admin\/ppv-new-orleans-pelicans-vs-oklahoma-city-thunder\/1"
-          }
-        }
-      ]
-    },
-    {
       "id": "s1791271773940",
       "league": "ncaaf",
       "gameId": "",
@@ -704,62 +592,6 @@
       ]
     },
     {
-      "id": "s1791271830124",
-      "league": "nba",
-      "gameId": "",
-      "away": "UTAH JAZZ",
-      "home": "NUGGETS ",
-      "title": "Utah Jazz at Nuggets ",
-      "poster": "",
-      "startsAt": 1791334800000,
-      "endsAt": 0,
-      "links": [
-        {
-          "label": "Server 1",
-          "subtitle": "Live",
-          "url": "https:\/\/instreams.live\/live3\/tv401914128\/index.m3u8?st=4YyXwt6GPF-yMekkgOxMVQ&e=1791343863|Referer=https:\/\/xstream.st\/livetv.php?stream=tv401914128&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/111.0.0.0 Safari\/537.36",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 2",
-          "subtitle": "Live",
-          "url": "https:\/\/edgestream2.pro\/hls\/hfsdqtaxvb67.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 3",
-          "subtitle": "Live",
-          "url": "https:\/\/dripcast.online\/flyembed-scraper\/fly\/index.m3u8?id=nba-401914128",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 4",
-          "subtitle": "Live",
-          "url": "https:\/\/embedindia.st\/embed\/nba\/2026-10-06\/den-utah",
-          "type": "hls",
-          "rewarded": false,
-          "tokenApi": {
-            "type": "embed",
-            "api": "https:\/\/embedindia.st\/embed\/nba\/2026-10-06\/den-utah"
-          }
-        },
-        {
-          "label": "Server 5",
-          "subtitle": "Live",
-          "url": "https:\/\/embed.st\/embed\/admin\/ppv-denver-nuggets-vs-utah-jazz\/1",
-          "type": "hls",
-          "rewarded": false,
-          "tokenApi": {
-            "type": "embed",
-            "api": "https:\/\/embed.st\/embed\/admin\/ppv-denver-nuggets-vs-utah-jazz\/1"
-          }
-        }
-      ]
-    },
-    {
       "id": "s1791271876944",
       "league": "nhl",
       "gameId": "",
@@ -804,55 +636,6 @@
           "tokenApi": {
             "type": "embed",
             "api": "https:\/\/embed.st\/embed\/admin\/ppv-vegas-golden-knights-vs-seattle-kraken\/1"
-          }
-        }
-      ]
-    },
-    {
-      "id": "s1791271920588",
-      "league": "nba",
-      "gameId": "",
-      "away": "WARRIORS ",
-      "home": "LAKERS",
-      "title": "Warriors at Lakers ",
-      "poster": "",
-      "startsAt": 1791338400000,
-      "endsAt": 0,
-      "links": [
-        {
-          "label": "Server 1",
-          "subtitle": "Live",
-          "url": "https:\/\/edgestream2.pro\/hls\/zayrtezafgvdv68.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 2",
-          "subtitle": "Live",
-          "url": "https:\/\/dripcast.online\/flyembed-scraper\/fly\/index.m3u8?id=nbc-sports-bayarea",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 3",
-          "subtitle": "Live",
-          "url": "https:\/\/embedindia.st\/embed\/nba\/2026-10-06\/lal-gs",
-          "type": "hls",
-          "rewarded": false,
-          "tokenApi": {
-            "type": "embed",
-            "api": "https:\/\/embedindia.st\/embed\/nba\/2026-10-06\/lal-gs"
-          }
-        },
-        {
-          "label": "Server 4",
-          "subtitle": "Live",
-          "url": "https:\/\/embed.st\/embed\/admin\/ppv-los-angeles-lakers-vs-golden-state-warriors\/1",
-          "type": "hls",
-          "rewarded": false,
-          "tokenApi": {
-            "type": "embed",
-            "api": "https:\/\/embed.st\/embed\/admin\/ppv-los-angeles-lakers-vs-golden-state-warriors\/1"
           }
         }
       ]
