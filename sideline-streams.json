@@ -58,6 +58,13 @@
         {
           "label": "Server 7",
           "subtitle": "Live",
+          "url": "https:\/\/dripcast.online\/flyembed-scraper\/fly\/index.m3u8?id=tbs-usa",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 8",
+          "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-10-07\/cle-chw",
           "type": "hls",
           "rewarded": false,
@@ -67,7 +74,7 @@
           }
         },
         {
-          "label": "Server 8",
+          "label": "Server 9",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-cleveland-guardians-vs-chicago-white-sox\/1",
           "type": "hls",
