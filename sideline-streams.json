@@ -274,6 +274,33 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1791360802413",
+      "league": "wnba",
+      "gameId": "",
+      "away": "ACES",
+      "home": "VALKYRIES ",
+      "title": "Aces at Valkyries ",
+      "poster": "",
+      "startsAt": 1791423000000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
