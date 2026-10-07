@@ -602,7 +602,7 @@
         {
           "label": "Server 7",
           "subtitle": "Live",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb61a\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjFhOjE3OTEzODUxNTU1MTk6Y2RubGl2ZXR2LnR2OmNkYjJkMGZmYzNlMWI0MDIuMzUzZDEzMDZkMjZkMTBkNzY3OTQ1NDZkYjk0NmI2NjI2MzAwZDg1ZDVmNjZkZjRhYzZiM2FlMjUyNDAxZjY0MQ",
+          "url": "https:\/\/dripcast.online\/flyembed-scraper\/fly\/index.m3u8?id=tbs-usa",
           "type": "hls",
           "rewarded": false
         },
