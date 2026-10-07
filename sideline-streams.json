@@ -565,15 +565,6 @@
         {
           "label": "Main Server 1",
           "subtitle": "Live Now",
-          "url": "https:\/\/otte.cache.aiv-cdn.net\/iad-nitro\/live\/clients\/dash\/enc\/gr58py7tgd\/out\/v1\/51f566fff0204d0698194088fa2f63cf\/cenc.mpd",
-          "type": "dash",
-          "rewarded": false,
-          "drmScheme": "clearkey",
-          "drmLicenseUrl": "2228bca0ec00cd660c2fb2e246515654:b02e6c1502d7b0d1bb133c16337df094"
-        },
-        {
-          "label": "Main Server 2",
-          "subtitle": "Live Now",
           "url": "https:\/\/otte.cache.aiv-cdn.net\/iad-nitro\/live\/clients\/dash\/enc\/rhf2dwosdt\/out\/v1\/ee550d2a68d846c797e6ce4de2e8b76d\/cenc.mpd",
           "type": "dash",
           "rewarded": false,
@@ -581,56 +572,56 @@
           "drmLicenseUrl": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
         },
         {
-          "label": "Server 3",
+          "label": "Server 2",
           "subtitle": "Live",
           "url": "https:\/\/instreams.live\/live3\/tv401907987\/index.m3u8?st=GDUEOHwpNUJEdNhogJ8h7g&e=1791426605|Referer=https:\/\/xstream.st\/livetv.php?stream=tv401907987&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/111.0.0.0 Safari\/537.36",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
+          "label": "Server 3",
           "subtitle": "Live",
           "url": "https:\/\/dripcast.online\/nfl_streams\/index.php?q=new-york-yankees.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
+          "label": "Server 4",
           "subtitle": "Live",
           "url": "https:\/\/edgestream2.pro\/hls\/b0h5fNwDKH.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 6",
+          "label": "Server 5",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=rays=yankees&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 7",
+          "label": "Server 6",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=rays=yankees&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 8",
+          "label": "Server 7",
           "subtitle": "Live",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2e81d8192bb76ce884\/playlist.m3u8?token=NmEyODhkMmU4MWQ4MTkyYmI3NmNlODg0OjE3OTE0MzA2ODQ1MDc6Y2RubGl2ZXR2LnR2OmU4NTk5YmRiMDdiZDUyOTUuM2ZhZmE0Nzc2MDA3MTdhZDg3Zjg2MWZlMjczMTE5MjlkNDhjZmY4MzE4MzIyMzJkZjM0ZmU0ZWZiZTRjMGQ1Yg",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 9",
+          "label": "Server 8",
           "subtitle": "Live",
           "url": "https:\/\/dripcast.online\/flyembed-scraper\/fly\/index.m3u8?id=tbs-usa",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 10",
+          "label": "Server 9",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-10-07\/tb-nyy",
           "type": "hls",
@@ -641,7 +632,7 @@
           }
         },
         {
-          "label": "Server 11",
+          "label": "Server 10",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-tampa-bay-rays-vs-new-york-yankees\/1",
           "type": "hls",
