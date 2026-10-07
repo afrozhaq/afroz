@@ -247,6 +247,33 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1791360763777",
+      "league": "nba",
+      "gameId": "",
+      "away": "SUNS",
+      "home": "BULLS ",
+      "title": "Suns at Bulls",
+      "poster": "",
+      "startsAt": 1791417600000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
