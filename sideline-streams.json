@@ -402,6 +402,33 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1791447074958",
+      "league": "nba",
+      "gameId": "",
+      "away": "NETS",
+      "home": "76ERS",
+      "title": "Nets at 76ers",
+      "poster": "",
+      "startsAt": 1791502200000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
