@@ -1080,6 +1080,13 @@
         {
           "label": "Server 2",
           "subtitle": "Live",
+          "url": "https:\/\/dripcast.online\/flyembed-scraper\/fly\/index.m3u8?id=nbatv-usa",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/nba\/2026-10-07\/gs-por",
           "type": "hls",
           "rewarded": false,
@@ -1089,7 +1096,7 @@
           }
         },
         {
-          "label": "Server 3",
+          "label": "Server 4",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-golden-state-warriors-vs-portland-trail-blazers\/1",
           "type": "hls",
