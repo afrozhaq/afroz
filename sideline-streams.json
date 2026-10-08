@@ -947,40 +947,47 @@
         {
           "label": "Server 6",
           "subtitle": "Live ",
-          "url": "https:\/\/edgestream2.pro\/hls\/sqdahach1ax.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "url": "https:\/\/dripcast.online\/nfl_streams\/index.php?q=san-diego-padres.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 7",
+          "subtitle": "Live ",
+          "url": "https:\/\/edgestream2.pro\/hls\/sqdahach1ax.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 8",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=brewers=padres&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 8",
+          "label": "Server 9",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=brewers=padres&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 9",
+          "label": "Server 10",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb61e\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjFlOjE3OTEzODUxNTY0OTI6Y2RubGl2ZXR2LnR2OmYwMzVkZjViYmM4ZWFhYWIuN2IwODk5MjE1MGUxNTZjNTEzMTE2NmM4YWExN2M1ZTA2MTEwMGI5NWViOWFiMzMxMzk5N2U3YjM3Zjc3MWMwNg",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 10",
+          "label": "Server 11",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb613\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjEzOjE3OTEzODUxNTY2MTU6Y2RubGl2ZXR2LnR2OjE4NWIwZGJmZmQ2YTg4MTguNzU0OTJkNjNlYThhYmI2ZTJlOWZlNDEwMDA0ODZlNGNmNTBjZjVhZThlNzgxYzMwNjgxZWY5ZTFmMjE4MjQzYw",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 11",
+          "label": "Server 12",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/mlb\/2026-10-07\/mil-sd",
           "type": "hls",
@@ -991,7 +998,7 @@
           }
         },
         {
-          "label": "Server 12",
+          "label": "Server 13",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-milwaukee-brewers-vs-san-diego-padres\/1",
           "type": "hls",
