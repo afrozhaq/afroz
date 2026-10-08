@@ -867,13 +867,6 @@
         {
           "label": "Server 4",
           "subtitle": "Live",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc176\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTc2OjE3OTE0MzcyNjQzMDk6Y2RubGl2ZXR2LnR2OjJmMDJkZjYxOWJkNTFiNmMuNzg0NjdkYmY1YmI5OWM5N2ZjMDY2MjY5NmNhODgwMzcwMjM1ODYyZDg4ZDViODJlNjU1ODRjYmQyZjkxZWM5Yg",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 5",
-          "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/wnba\/2026-10-07\/lv-gs",
           "type": "hls",
           "rewarded": false,
@@ -883,7 +876,7 @@
           }
         },
         {
-          "label": "Server 6",
+          "label": "Server 5",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-las-vegas-aces-vs-golden-state-valkyries\/1",
           "type": "hls",
