@@ -245,6 +245,13 @@
         {
           "label": "Server 3",
           "subtitle": "Live",
+          "url": "https:\/\/dripcast.online\/flyembed-scraper\/fly\/index.m3u8?id=nhl-401892457",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
+          "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/nhl\/2026-10-08\/uta-bos",
           "type": "hls",
           "rewarded": false,
@@ -254,7 +261,7 @@
           }
         },
         {
-          "label": "Server 4",
+          "label": "Server 5",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-utah-mammoth-vs-boston-bruins\/1",
           "type": "hls",
