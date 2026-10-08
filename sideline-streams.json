@@ -684,22 +684,30 @@
       "home": "MAVERICKS ",
       "title": "Rockets at Mavericks ",
       "poster": "",
-      "startsAt": 1791504000000,
+      "startsAt": 1791547200000,
       "endsAt": 0,
       "links": [
         {
           "label": "Server 1",
           "subtitle": "Live",
-          "url": "h",
+          "url": "https:\/\/embedindia.st\/embed\/nba\/2026-10-09\/hou-dal",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embedindia.st\/embed\/nba\/2026-10-09\/hou-dal"
+          }
         },
         {
           "label": "Server 2",
           "subtitle": "Live",
-          "url": "h",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-houston-rockets-vs-dallas-mavericks\/2",
           "type": "hls",
-          "rewarded": false
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-houston-rockets-vs-dallas-mavericks\/2"
+          }
         }
       ]
     }
