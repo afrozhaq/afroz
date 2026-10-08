@@ -429,6 +429,33 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1791447122293",
+      "league": "nba",
+      "gameId": "",
+      "away": "HAWKS",
+      "home": "SAN ANTONIO ",
+      "title": "Hawks at San Antonio ",
+      "poster": "",
+      "startsAt": 1791504000000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "j",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "j",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
