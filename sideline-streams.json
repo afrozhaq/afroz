@@ -830,12 +830,19 @@
         {
           "label": "Server 1",
           "subtitle": "Live ",
-          "url": "https:\/\/edgestream2.pro\/hls\/zayrtezafgvdv68.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "url": "https:\/\/instreams.pro\/live3\/tv401906508\/index.m3u8?st=VoXj2kFhPZH6_vpas6OReQ&e=1791511218|Referer=https:\/\/xstream.st\/livetv.php?stream=tv401906508&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/111.0.0.0 Safari\/537.36",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 2",
+          "subtitle": "Live ",
+          "url": "https:\/\/edgestream2.pro\/hls\/zayrtezafgvdv68.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/nba\/2026-10-08\/wsh-ny",
           "type": "hls",
@@ -846,7 +853,7 @@
           }
         },
         {
-          "label": "Server 3",
+          "label": "Server 4",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-washington-wizards-vs-new-york-knicks\/1",
           "type": "hls",
