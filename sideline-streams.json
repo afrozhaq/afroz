@@ -963,6 +963,13 @@
         {
           "label": "Server 3",
           "subtitle": "Live",
+          "url": "https:\/\/dripcast.online\/flyembed-scraper\/fly\/index.m3u8?id=nba-401901823",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
+          "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/nba\/2026-10-08\/phi-bkn",
           "type": "hls",
           "rewarded": false,
@@ -972,7 +979,7 @@
           }
         },
         {
-          "label": "Server 4",
+          "label": "Server 5",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-philadelphia-76-ers-vs-brooklyn-nets\/1",
           "type": "hls",
