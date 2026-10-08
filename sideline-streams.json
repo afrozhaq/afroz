@@ -375,6 +375,33 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1791447037611",
+      "league": "nba",
+      "gameId": "",
+      "away": "HEAT",
+      "home": "PELICANS ",
+      "title": "Heat at Pelicans ",
+      "poster": "",
+      "startsAt": 1791502200000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live ",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live ",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
