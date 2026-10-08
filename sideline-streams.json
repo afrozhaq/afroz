@@ -674,12 +674,19 @@
         {
           "label": "Server 1",
           "subtitle": "Live",
-          "url": "https:\/\/servergremlin.s3.us-east-1.amazonaws.com\/magic.m3u8?|Referer=https:\/\/sportspass.click\/nba\/magic.html&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/111.0.0.0 Safari\/537.36",
+          "url": "https:\/\/dripcast.online\/nfl_streams\/index.php?q=grizzlies.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 2",
+          "subtitle": "Live",
+          "url": "https:\/\/servergremlin.s3.us-east-1.amazonaws.com\/magic.m3u8?|Referer=https:\/\/sportspass.click\/nba\/magic.html&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/111.0.0.0 Safari\/537.36",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/nba\/2026-10-07\/orl-mem",
           "type": "hls",
@@ -690,7 +697,7 @@
           }
         },
         {
-          "label": "Server 3",
+          "label": "Server 4",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-orlando-magic-vs-memphis-grizzlies\/1",
           "type": "hls",
@@ -716,12 +723,19 @@
         {
           "label": "Server 1",
           "subtitle": "Live",
-          "url": "https:\/\/edgestream2.pro\/hls\/hfsdqtaxvb67.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "url": "https:\/\/dripcast.online\/nfl_streams\/index.php?q=thunder.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 2",
+          "subtitle": "Live",
+          "url": "https:\/\/edgestream2.pro\/hls\/hfsdqtaxvb67.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/nba\/2026-10-07\/mil-okc",
           "type": "hls",
@@ -732,7 +746,7 @@
           }
         },
         {
-          "label": "Server 3",
+          "label": "Server 4",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-milwaukee-bucks-vs-oklahoma-city-thunder\/1",
           "type": "hls",
@@ -758,12 +772,19 @@
         {
           "label": "Server 1",
           "subtitle": "Live",
-          "url": "https:\/\/edgestream2.pro\/hls\/zayrtezafgvdv68.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "url": "https:\/\/dripcast.online\/nfl_streams\/index.php?q=bulls.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 2",
+          "subtitle": "Live",
+          "url": "https:\/\/edgestream2.pro\/hls\/zayrtezafgvdv68.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
           "subtitle": "Live",
           "url": "https:\/\/embedindia.st\/embed\/nba\/2026-10-07\/phx-chi",
           "type": "hls",
@@ -774,7 +795,7 @@
           }
         },
         {
-          "label": "Server 3",
+          "label": "Server 4",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-phoenix-suns-vs-chicago-bulls\/1",
           "type": "hls",
