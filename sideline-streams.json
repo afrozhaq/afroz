@@ -597,16 +597,38 @@
         {
           "label": "Server 1",
           "subtitle": "Live",
-          "url": "h",
+          "url": "https:\/\/edgestream2.pro\/hls\/sdghjvqazhvg80.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 2",
           "subtitle": "Live",
-          "url": "h",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cb59c\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNTljOjE3OTE1NTY5MzgyMDI6Y2RubGl2ZXR2LnR2OjUzYmE1MjcwYzA4NDFmODYuZDdkNjc3MWNkNGVkNjUzZjNkN2M4ZDc2OTFkMzAzMTAwOGUyOTgyZGVkMzc0Mzg2NDIzNDc3NWVjYmE2MzVkMQ",
           "type": "hls",
           "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live",
+          "url": "https:\/\/taifood-blog.asia\/embed\/wnba\/2026-10-09\/atl-ny",
+          "type": "hls",
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/taifood-blog.asia\/embed\/wnba\/2026-10-09\/atl-ny"
+          }
+        },
+        {
+          "label": "Server 4",
+          "subtitle": "Live",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-atlanta-dream-vs-new-york-liberty\/1",
+          "type": "hls",
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-atlanta-dream-vs-new-york-liberty\/1"
+          }
         }
       ]
     },
