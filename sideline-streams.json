@@ -1006,12 +1006,19 @@
         {
           "label": "Server 3",
           "subtitle": "Live ",
-          "url": "https:\/\/dripcast.online\/flyembed-scraper\/fly\/index.m3u8?id=nba-401906508",
+          "url": "https:\/\/dripcast.online\/nfl_streams\/index.php?q=knicks.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
+          "subtitle": "Live ",
+          "url": "https:\/\/dripcast.online\/flyembed-scraper\/fly\/index.m3u8?id=nba-401906508",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 5",
           "subtitle": "Live ",
           "url": "https:\/\/embedindia.st\/embed\/nba\/2026-10-08\/wsh-ny",
           "type": "hls",
@@ -1022,7 +1029,7 @@
           }
         },
         {
-          "label": "Server 5",
+          "label": "Server 6",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-washington-wizards-vs-new-york-knicks\/1",
           "type": "hls",
