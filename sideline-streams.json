@@ -666,6 +666,15 @@
       "links": [
         {
           "label": "Main Server 1",
+          "subtitle": "Live Now ( 4k )",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/pdx-nitro\/live\/clients\/dash\/enc\/qr5drmgd6x\/out\/v1\/1618f2e481b6413ba5c7077825d2544d\/cenc.mpd",
+          "type": "dash",
+          "rewarded": false,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "8b175d9e59c3c8a172866e78f3836a28:d6b1c20597a58e022ea0132848941431"
+        },
+        {
+          "label": "Main Server 2",
           "subtitle": "Live Now",
           "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/w0rehjjrwe\/out\/v1\/69a2a7041395406b970598f61680e7cf\/cenc.mpd",
           "type": "dash",
@@ -674,26 +683,8 @@
           "drmLicenseUrl": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
         },
         {
-          "label": "Main Server 2",
-          "subtitle": "Live Now",
-          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/lsibpqruq1\/out\/v1\/748887d614a84913ba8bcdf3c82823e6\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
-          "type": "dash",
-          "rewarded": false,
-          "drmScheme": "clearkey",
-          "drmLicenseUrl": "d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37"
-        },
-        {
           "label": "Main Server 3",
-          "subtitle": "Live Now",
-          "url": "https:\/\/otte.cache.aiv-cdn.net\/pdx-nitro\/live\/clients\/dash\/enc\/qr5drmgd6x\/out\/v1\/1618f2e481b6413ba5c7077825d2544d\/cenc.mpd",
-          "type": "dash",
-          "rewarded": false,
-          "drmScheme": "clearkey",
-          "drmLicenseUrl": "8b175d9e59c3c8a172866e78f3836a28:d6b1c20597a58e022ea0132848941431"
-        },
-        {
-          "label": "Main Server 4",
-          "subtitle": "Live Now",
+          "subtitle": "Live Now ( 4k )",
           "url": "https:\/\/otte.cache.aiv-cdn.net\/pdx-nitro\/live\/clients\/dash\/enc\/o2dl2cv3lj\/out\/v1\/bc6d1f2a80904e3b998081c1298d73ae\/cenc.mpd",
           "type": "dash",
           "rewarded": false,
@@ -701,13 +692,22 @@
           "drmLicenseUrl": "338e0eb838525ddb9f1a2fd0bf2a55c2:12b0e53f4f3ce67ab623076792bf0b2b"
         },
         {
-          "label": "Main Server 5",
-          "subtitle": "Live Now",
+          "label": "Main Server 4",
+          "subtitle": "Live Now ( Espanol )",
           "url": "https:\/\/otte.cache.aiv-cdn.net\/pdx-nitro\/live\/clients\/dash\/enc\/idea99faqv\/out\/v1\/1468ffb6d34249cca93ffa3bbd593e45\/cenc.mpd",
           "type": "dash",
           "rewarded": false,
           "drmScheme": "clearkey",
           "drmLicenseUrl": "b32d7f1e67e22bf4f83c9a17414f303d:bddb2f435ae55985e6adbc30b0604cc2"
+        },
+        {
+          "label": "Main Server 5",
+          "subtitle": "Live Now",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/lsibpqruq1\/out\/v1\/748887d614a84913ba8bcdf3c82823e6\/cenc.mpd|user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36",
+          "type": "dash",
+          "rewarded": false,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37"
         },
         {
           "label": "Server 6",
