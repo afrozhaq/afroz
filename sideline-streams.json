@@ -646,16 +646,38 @@
         {
           "label": "Server 1",
           "subtitle": "Live",
-          "url": "h",
+          "url": "https:\/\/edgestream2.pro\/hls\/dsqhjbjhsqd81.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 2",
           "subtitle": "Live",
-          "url": "h",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc30f\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzBmOjE3OTE1NTY5NDI1NDk6Y2RubGl2ZXR2LnR2OjZiMGY3YTRiMzIxMzJhZjEuNDRjZDIzOGI3OTQwMzk4YjUzOWRmZjUyOTliMTJiNzljZDJhZTEzNTBhM2MyZDgxZjg5NTYxNTZiMDY5ODE5ZQ",
           "type": "hls",
           "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live",
+          "url": "https:\/\/taifood-blog.asia\/embed\/wnba\/2026-10-09\/gs-lv",
+          "type": "hls",
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/taifood-blog.asia\/embed\/wnba\/2026-10-09\/gs-lv"
+          }
+        },
+        {
+          "label": "Server 4",
+          "subtitle": "Live",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-golden-state-valkyries-vs-las-vegas-aces\/1",
+          "type": "hls",
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-golden-state-valkyries-vs-las-vegas-aces\/1"
+          }
         }
       ]
     },
