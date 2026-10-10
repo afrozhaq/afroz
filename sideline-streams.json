@@ -2227,6 +2227,13 @@
         {
           "label": "Server 2",
           "subtitle": "Live",
+          "url": "https:\/\/instreams.live\/live3\/tv401891805\/index.m3u8?st=4WzB2G6qQeeb3JiNRYthSA&e=1791678623|Referer=https:\/\/xstream.st\/livetv.php?stream=tv401891805&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/111.0.0.0 Safari\/537.36",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live",
           "url": "https:\/\/taifood-blog.asia\/embed\/nhl\/2026-10-10\/min-fla",
           "type": "hls",
           "rewarded": false,
@@ -2236,7 +2243,7 @@
           }
         },
         {
-          "label": "Server 3",
+          "label": "Server 4",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-minnesota-wild-vs-florida-panthers\/1",
           "type": "hls",
