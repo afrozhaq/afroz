@@ -1203,6 +1203,33 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1791621217471",
+      "league": "nba",
+      "gameId": "",
+      "away": "HEAT",
+      "home": "TIMBERWOLVES ",
+      "title": "Heat at Timberwolves ",
+      "poster": "",
+      "startsAt": 1791676800000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
