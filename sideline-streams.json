@@ -181,6 +181,246 @@
       ]
     },
     {
+      "id": "s1791620898986",
+      "league": "ncaaf",
+      "gameId": "",
+      "away": "DUKE",
+      "home": "GT",
+      "title": "Duke at Georgia Tech",
+      "poster": "",
+      "startsAt": 1791660600000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server ",
+          "subtitle": "Live ",
+          "url": "https:\/\/edgestream2.pro\/hls\/jkzahzadach20.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": true
+        }
+      ]
+    },
+    {
+      "id": "s1791620898987",
+      "league": "ncaaf",
+      "gameId": "",
+      "away": "HOU",
+      "home": "KSU",
+      "title": "Houston at Kansas State",
+      "poster": "",
+      "startsAt": 1791660600000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server ",
+          "subtitle": "Live ",
+          "url": "https:\/\/edgestream2.pro\/hls\/jkzahzadach20.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": true
+        }
+      ]
+    },
+    {
+      "id": "s1791620898988",
+      "league": "ncaaf",
+      "gameId": "",
+      "away": "ILL",
+      "home": "MSU",
+      "title": "Illinois at Michigan State",
+      "poster": "",
+      "startsAt": 1791660600000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server ",
+          "subtitle": "Live ",
+          "url": "https:\/\/edgestream2.pro\/hls\/jkzahzadach20.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": true
+        }
+      ]
+    },
+    {
+      "id": "s1791620898989",
+      "league": "ncaaf",
+      "gameId": "",
+      "away": "MISS",
+      "home": "VAN",
+      "title": "Ole Miss at Vanderbilt",
+      "poster": "",
+      "startsAt": 1791660600000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server ",
+          "subtitle": "Live ",
+          "url": "https:\/\/edgestream2.pro\/hls\/jkzahzadach20.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": true
+        }
+      ]
+    },
+    {
+      "id": "s1791620898990",
+      "league": "ncaaf",
+      "gameId": "",
+      "away": "STAN",
+      "home": "ND",
+      "title": "Stanford at Notre Dame",
+      "poster": "",
+      "startsAt": 1791660600000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server ",
+          "subtitle": "Live ",
+          "url": "https:\/\/edgestream2.pro\/hls\/jkzahzadach20.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": true
+        }
+      ]
+    },
+    {
+      "id": "s1791620898991",
+      "league": "ncaaf",
+      "gameId": "",
+      "away": "TEX",
+      "home": "OU",
+      "title": "Texas at Oklahoma",
+      "poster": "",
+      "startsAt": 1791660600000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server ",
+          "subtitle": "Live ",
+          "url": "https:\/\/edgestream2.pro\/hls\/jkzahzadach20.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": true
+        }
+      ]
+    },
+    {
+      "id": "s1791620898992",
+      "league": "ncaaf",
+      "gameId": "",
+      "away": "TLSA",
+      "home": "NAVY",
+      "title": "Tulsa at Navy",
+      "poster": "",
+      "startsAt": 1791660600000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server ",
+          "subtitle": "Live ",
+          "url": "https:\/\/edgestream2.pro\/hls\/jkzahzadach20.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": true
+        }
+      ]
+    },
+    {
+      "id": "s1791620898993",
+      "league": "ncaaf",
+      "gameId": "",
+      "away": "UCLA",
+      "home": "ORE",
+      "title": "UCLA at Oregon",
+      "poster": "",
+      "startsAt": 1791660600000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server ",
+          "subtitle": "Live ",
+          "url": "https:\/\/edgestream2.pro\/hls\/jkzahzadach20.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": true
+        }
+      ]
+    },
+    {
+      "id": "s1791620898994",
+      "league": "ncaaf",
+      "gameId": "",
+      "away": "VT",
+      "home": "CAL",
+      "title": "Virginia Tech at California",
+      "poster": "",
+      "startsAt": 1791660600000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server ",
+          "subtitle": "Live ",
+          "url": "https:\/\/edgestream2.pro\/hls\/jkzahzadach20.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": true
+        }
+      ]
+    },
+    {
+      "id": "s1791620898995",
+      "league": "ncaaf",
+      "gameId": "",
+      "away": "CONN",
+      "home": "TEM",
+      "title": "Connecticut at Temple",
+      "poster": "",
+      "startsAt": 1791661500000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server ",
+          "subtitle": "Live ",
+          "url": "https:\/\/edgestream2.pro\/hls\/jkzahzadach20.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": true
+        }
+      ]
+    },
+    {
+      "id": "s1791620898996",
+      "league": "ncaaf",
+      "gameId": "",
+      "away": "MD",
+      "home": "OSU",
+      "title": "Maryland at Ohio State",
+      "poster": "",
+      "startsAt": 1791663300000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server ",
+          "subtitle": "Live ",
+          "url": "https:\/\/edgestream2.pro\/hls\/jkzahzadach20.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": true
+        }
+      ]
+    },
+    {
+      "id": "s1791620898997",
+      "league": "ncaaf",
+      "gameId": "",
+      "away": "TENN",
+      "home": "ARK",
+      "title": "Tennessee at Arkansas",
+      "poster": "",
+      "startsAt": 1791663300000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server ",
+          "subtitle": "Live ",
+          "url": "https:\/\/edgestream2.pro\/hls\/jkzahzadach20.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": true
+        }
+      ]
+    },
+    {
       "id": "s1791620573665",
       "league": "mlb",
       "gameId": "",
