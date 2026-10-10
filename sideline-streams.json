@@ -35,6 +35,17 @@
             "type": "embed",
             "api": "https:\/\/embed.st\/embed\/golf\/2031\/1"
           }
+        },
+        {
+          "label": "Server 4",
+          "subtitle": "Live",
+          "url": "https:\/\/embed.st\/embed\/golf\/2031\/1",
+          "type": "hls",
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/golf\/2031\/1"
+          }
         }
       ]
     },
