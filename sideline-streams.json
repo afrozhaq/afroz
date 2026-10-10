@@ -244,6 +244,13 @@
         {
           "label": "Server 2",
           "subtitle": "Live ",
+          "url": "https:\/\/dripcast.online\/flyembed-scraper\/fly\/index.m3u8?id=espn-usa",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live ",
           "url": "https:\/\/taifood-blog.asia\/embed\/cfb\/2026-10-10\/unc-pitt",
           "type": "hls",
           "rewarded": false,
@@ -253,7 +260,7 @@
           }
         },
         {
-          "label": "Server 3",
+          "label": "Server 4",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-north-carolina-tar-heels-at-pittsburgh-panthers\/1",
           "type": "hls",
