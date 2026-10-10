@@ -1642,6 +1642,33 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1791622120059",
+      "league": "nhl",
+      "gameId": "",
+      "away": "KINGS",
+      "home": "GOLDEN KNIGHTS ",
+      "title": "Kings at Golden Knights ",
+      "poster": "",
+      "startsAt": 1791684000000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
