@@ -101,6 +101,13 @@
         {
           "label": "Server 2",
           "subtitle": "Live ",
+          "url": "https:\/\/dripcast.online\/flyembed-scraper\/fly\/index.m3u8?id=abc-usa",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live ",
           "url": "https:\/\/taifood-blog.asia\/embed\/cfb\/2026-10-10\/tam-miz",
           "type": "hls",
           "rewarded": false,
@@ -110,7 +117,7 @@
           }
         },
         {
-          "label": "Server 3",
+          "label": "Server 4",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-texas-a-m-aggies-at-missouri-tigers\/1",
           "type": "hls",
