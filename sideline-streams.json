@@ -1345,6 +1345,33 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1791621720494",
+      "league": "nhl",
+      "gameId": "",
+      "away": "DEVILS",
+      "home": "CANUCKS ",
+      "title": "Devils at Canucks ",
+      "poster": "",
+      "startsAt": 1791660600000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
