@@ -1176,6 +1176,33 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1791621174541",
+      "league": "nba",
+      "gameId": "",
+      "away": "WIZARDS ",
+      "home": "PISTONS",
+      "title": "Wizards at Pistons ",
+      "poster": "",
+      "startsAt": 1791673200000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
