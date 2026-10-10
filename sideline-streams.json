@@ -1480,6 +1480,33 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1791621903457",
+      "league": "nhl",
+      "gameId": "",
+      "away": "SENATORS ",
+      "home": "PREDATORS ",
+      "title": "Senators at Predators ",
+      "poster": "",
+      "startsAt": 1791673200000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
