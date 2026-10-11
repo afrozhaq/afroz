@@ -571,19 +571,12 @@
         {
           "label": "Server 7",
           "subtitle": "Live",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc172\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTcyOjE3OTE3MjE4MTgzMTE6Y2RubGl2ZXR2LnR2OjNhYzcyNWMwMWU5MWNhY2YuODMwY2FmODg0NjAzYTkzMjM1OGRjMWNkNjY2ODJkNDdmZWExYTljODRiNGZkYTBkMDZjZTQzNDhkNmRhN2UzYQ",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc172\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTcyOjE3OTE3NDg3MjYzOTg6Y2RubGl2ZXR2LnR2OjJlMjQ1ODAyMmIwYTBkOTguOGI3ZTZmMmM2MDVmNGU5YmQ1MTlmY2UwNWQ5OWJkMGRjZWU0OGUyOGY0ZTg5NGQ4M2M3ZmZmYjVjZTczMjYzYQ",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 8",
-          "subtitle": "Live",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc176\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTc2OjE3OTE3MjE4MTg1MDQ6Y2RubGl2ZXR2LnR2OmRjYmQ2MTJkYWU3OTc4ZjMuYWMwMjU4NWI5ZGZkMTc1YjhkNDM0YThlNWZhODYxMTFlNTgwYjY3OWVhNDk3MmRmNTg1MzRlMjAzMGYyNmE0ZA",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 9",
           "subtitle": "Live",
           "url": "https:\/\/taifood-blog.asia\/embed\/nfl\/2026-10-11\/ind-pit",
           "type": "hls",
@@ -594,7 +587,7 @@
           }
         },
         {
-          "label": "Server 10",
+          "label": "Server 9",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-indianapolis-colts-at-pittsburgh-steelers\/1",
           "type": "hls",
