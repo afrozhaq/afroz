@@ -242,6 +242,13 @@
         {
           "label": "Server 7",
           "subtitle": "Live",
+          "url": "https:\/\/dash.bobsteam.info\/live\/espn-401872990\/index.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 8",
+          "subtitle": "Live",
           "url": "https:\/\/taifood-blog.asia\/embed\/nfl\/2026-10-11\/chi-gb",
           "type": "hls",
           "rewarded": false,
@@ -251,7 +258,7 @@
           }
         },
         {
-          "label": "Server 8",
+          "label": "Server 9",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-chicago-bears-at-green-bay-packers\/1",
           "type": "hls",
