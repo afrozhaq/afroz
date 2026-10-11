@@ -235,19 +235,12 @@
         {
           "label": "Server 6",
           "subtitle": "Live",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc340\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzQwOjE3OTE3MjE4MTI3OTg6Y2RubGl2ZXR2LnR2OmI5YjFmYTAwYjliNjg4ZjUuODRkMDBjODQ1MGYyMGQ0N2NhNmNiYmI1OTU5MWMwYzY0ZGU1OTBhZjEyM2JlZmQ1OWJjMjE3NTZmNWQyNDY1MA",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc340\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzQwOjE3OTE3NDg4NTE1NzA6Y2RubGl2ZXR2LnR2OjUyOTRhOGQwYmNjZjYzZjQuYTRkZTZiNDJjNWU5MzQ1Y2MyMWYxMmM0YmY3Njg0MmUwMmFjNjE5YWJiMDQwNGUxOWRmYzUwZTZjMTk5MTM0MQ",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 7",
-          "subtitle": "Live",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc30f\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzBmOjE3OTE3MjE4MTA2OTQ6Y2RubGl2ZXR2LnR2OmM0OGM5M2ZiNGRiNTlhYTAuMjY2MTdlYjVkZTBiNzRlMWRiMmI2ZDA1YzU5NGE3ZGI0MzlhMTU3NTQ3OGM1YTFlZTI5YWFjZjI1ZTY2MWMyYg",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 8",
           "subtitle": "Live",
           "url": "https:\/\/taifood-blog.asia\/embed\/nfl\/2026-10-11\/chi-gb",
           "type": "hls",
@@ -258,7 +251,7 @@
           }
         },
         {
-          "label": "Server 9",
+          "label": "Server 8",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-chicago-bears-at-green-bay-packers\/1",
           "type": "hls",
