@@ -1709,6 +1709,15 @@
         {
           "label": "Main Server 1",
           "subtitle": "Live Now",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/pdx-nitro\/live\/clients\/dash\/enc\/mwzj1sd5ec\/out\/v1\/45a513a41b504ba0a02bf1845d3fc37a\/cenc.mpd",
+          "type": "dash",
+          "rewarded": false,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "37e2ed3f2f58940862a6a5728e7d9c9c:49304c6698fcf98973a1c0e88c31f8d2"
+        },
+        {
+          "label": "Main Server 2",
+          "subtitle": "Live Now",
           "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/w0rehjjrwe\/out\/v1\/69a2a7041395406b970598f61680e7cf\/cenc.mpd",
           "type": "dash",
           "rewarded": false,
@@ -1716,7 +1725,25 @@
           "drmLicenseUrl": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
         },
         {
-          "label": "Main Server 2",
+          "label": "Main Server 3",
+          "subtitle": "Live Now",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/dub-nitro\/live\/clients\/dash\/enc\/fx25cr0hrb\/out\/v1\/211f2eb2efbc4f1cbd0e72e50bf83624\/cenc.mpd",
+          "type": "dash",
+          "rewarded": false,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "c3df5e88e918ce6b08e36ba18e490ff0:e1435dcbd984ea2d402fbd4c1f7b88be"
+        },
+        {
+          "label": "Main Server 4",
+          "subtitle": "Live Now",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/dx5hfbpk7u\/out\/v1\/c14185a397544650b9761d43ad2e8e91\/cenc.mpd",
+          "type": "dash",
+          "rewarded": false,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "36a385124dcdfb2f0969935065e03afa:ccecd65514dff22eae493b975ccf9a9e"
+        },
+        {
+          "label": "Main Server 5",
           "subtitle": "Live Now",
           "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/tpdofmrr84\/out\/v1\/ad58961bd8fd48d2944e461c034b8914\/cenc.mpd",
           "type": "dash",
@@ -1725,7 +1752,7 @@
           "drmLicenseUrl": "d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37"
         },
         {
-          "label": "Main Server 3",
+          "label": "Main Server 6",
           "subtitle": "Live Now",
           "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/ihys8nw4wv\/out\/v1\/fde190f369484bc6b6117cc16cd82a9f\/cenc.mpd",
           "type": "dash",
@@ -1734,7 +1761,7 @@
           "drmLicenseUrl": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7"
         },
         {
-          "label": "Main Server 4",
+          "label": "Main Server 7",
           "subtitle": "Live Now",
           "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/zbc6muqib6\/out\/v1\/f5774813052f4d5499e7611d0db33b2f\/cenc.mpd",
           "type": "dash",
@@ -1743,63 +1770,63 @@
           "drmLicenseUrl": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8"
         },
         {
-          "label": "Server 5",
+          "label": "Server 8",
           "subtitle": "Live ( Español )",
           "url": "https:\/\/node-b351e589.4587.website\/6acc8fcb.b1080e04i798bc8d0.10f27.3768ce91\/free.live.nfl\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 6",
+          "label": "Server 9",
           "subtitle": "Live",
           "url": "https:\/\/node-f6ba8d9f.4587.website\/6acc8fcb.ee85ed59i798bc8d0.10f26.e9ccafd9\/free.live.nfl\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 7",
+          "label": "Server 10",
           "subtitle": "Live",
           "url": "https:\/\/dripcast.online\/nfl_streams\/index.php?q=atlanta.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 8",
+          "label": "Server 11",
           "subtitle": "Live",
           "url": "https:\/\/edgestream2.pro\/hls\/wnbcnxbcs42.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 9",
+          "label": "Server 12",
           "subtitle": "Live",
           "url": "https:\/\/dash.bobsteam.info\/live\/espn-401872993\/index.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 10",
+          "label": "Server 13",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=ravens=falcons&s=home&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 11",
+          "label": "Server 14",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=ravens=falcons&s=away&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 12",
+          "label": "Server 15",
           "subtitle": "Live",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc179\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTc5OjE3OTE3NzY1ODg4NDA6Y2RubGl2ZXR2LnR2OjdmMWRhOTg5YmY0ZThjMjIuM2U0ZDRjMjY2MDZiMTI1M2ZhODJhMjIyYzMwNDAxM2Y2NGU2OGM4ODY5OTFjMmQ4MzExYTA3ZjQ0ZDY3YTQ1Nw",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 13",
+          "label": "Server 16",
           "subtitle": "Live",
           "url": "https:\/\/taifood-blog.asia\/embed\/nfl\/2026-10-11\/bal-atl",
           "type": "hls",
@@ -1810,7 +1837,7 @@
           }
         },
         {
-          "label": "Server 14",
+          "label": "Server 17",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-baltimore-ravens-at-atlanta-falcons\/1",
           "type": "hls",
