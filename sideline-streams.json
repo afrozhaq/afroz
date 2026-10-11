@@ -1782,26 +1782,33 @@
         {
           "label": "Server 2",
           "subtitle": "Live",
-          "url": "https:\/\/dash.bobsteam.info\/live\/espn-401898401\/index.m3u8",
+          "url": "https:\/\/dripcast.online\/nfl_streams\/index.php?q=cavaliers.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
           "subtitle": "Live",
-          "url": "https:\/\/edgestream2.pro\/hls\/wfazgsqtrezu66.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "url": "https:\/\/dash.bobsteam.info\/live\/espn-401898401\/index.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
           "subtitle": "Live",
-          "url": "https:\/\/dripcast.online\/flyembed-scraper\/fly\/index.m3u8?id=espn-usa",
+          "url": "https:\/\/edgestream2.pro\/hls\/wfazgsqtrezu66.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
+          "subtitle": "Live",
+          "url": "https:\/\/dripcast.online\/flyembed-scraper\/fly\/index.m3u8?id=espn-usa",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 6",
           "subtitle": "Live",
           "url": "https:\/\/taifood-blog.asia\/embed\/nba\/2026-10-11\/orl-cle",
           "type": "hls",
@@ -1812,7 +1819,7 @@
           }
         },
         {
-          "label": "Server 6",
+          "label": "Server 7",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-orlando-magic-vs-cleveland-cavaliers\/1",
           "type": "hls",
