@@ -1189,26 +1189,33 @@
         {
           "label": "Server 3",
           "subtitle": "Live",
-          "url": "https:\/\/edgestream2.pro\/hls\/dazhfiach15.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "url": "https:\/\/instreams.xyz\/live3\/tv401907994\/index.m3u8?st=LghbctWoY-QejbZTM74wWA&e=1791685808|Referer=https:\/\/xstream.st\/livetv.php?stream=tv401907994&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/111.0.0.0 Safari\/537.36",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
+          "subtitle": "Live",
+          "url": "https:\/\/edgestream2.pro\/hls\/dazhfiach15.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 5",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=whitesox=guardians&s=home&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
+          "label": "Server 6",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=whitesox=guardians&s=away&sport=mlb",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 6",
+          "label": "Server 7",
           "subtitle": "Live",
           "url": "https:\/\/taifood-blog.asia\/embed\/mlb\/2026-10-10\/chw-cle",
           "type": "hls",
@@ -1219,7 +1226,7 @@
           }
         },
         {
-          "label": "Server 7",
+          "label": "Server 8",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-chicago-white-sox-vs-cleveland-guardians\/1",
           "type": "hls",
