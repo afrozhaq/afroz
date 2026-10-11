@@ -816,19 +816,12 @@
         {
           "label": "Server 7",
           "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2881d8192bb76cbb70\/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiYjcwOjE3OTE3MjE4MTg3MzA6Y2RubGl2ZXR2LnR2OjZiYjlhZTk2MzFkMDc5MDAuZDMyZDE5MmViMWMzNTU5MWZhODE5YjM3N2E1Y2E0ZmU4MmE2ODk3NDAwNDVkNjRmYjhjY2ExZWU3ZTQ4YjQzNQ",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2781d8192bb76cb38e\/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzhlOjE3OTE3NDg3OTg4NTU6Y2RubGl2ZXR2LnR2OjBjMjlkOTMzNzNlNzdlMDUuYzlhMjgyYmZlNjdlZjFlMDNlMzRkOTJiNWE4ZTQ1MThlNWZkNWE0YWFiMTkxYTk0OTBjN2JmMzQxNDIzYzY4NA",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 8",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2781d8192bb76cb38e\/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzhlOjE3OTE3MjE4MTg5OTg6Y2RubGl2ZXR2LnR2OjlmMjZiNGIzY2ZlMjY4ZmIuY2ZkYzc2MTNkODIzYWRjODc5NmY1NzA3NzBlNGU2ZTFiNGZiM2Y0OTdjNWI3ZTA5NmZiNDgxMWY3ZTY0NjA3Nw",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 9",
           "subtitle": "Live ",
           "url": "https:\/\/taifood-blog.asia\/embed\/nfl\/2026-10-11\/nyg-wsh",
           "type": "hls",
@@ -839,7 +832,7 @@
           }
         },
         {
-          "label": "Server 10",
+          "label": "Server 9",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-new-york-giants-at-washington-commanders\/1",
           "type": "hls",
