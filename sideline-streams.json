@@ -1793,40 +1793,47 @@
         {
           "label": "Server 11",
           "subtitle": "Live",
-          "url": "https:\/\/edgestream2.pro\/hls\/wnbcnxbcs42.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "url": "https:\/\/dash.bobsteam.info\/live\/espn-401872993\/index.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 12",
           "subtitle": "Live",
-          "url": "https:\/\/dash.bobsteam.info\/live\/espn-401872993\/index.m3u8",
+          "url": "https:\/\/edgestream2.pro\/hls\/wnbcnxbcs42.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 13",
+          "subtitle": "Live",
+          "url": "https:\/\/fingersoon.st\/scripts\/application1.m3u8?|Referer=https:\/\/otaghera.site\/updatesnfl\/baltimore-ravens-vs-atlanta-falcons\/&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/111.0.0.0 Safari\/537.36",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 14",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=ravens=falcons&s=home&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 14",
+          "label": "Server 15",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=ravens=falcons&s=away&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 15",
+          "label": "Server 16",
           "subtitle": "Live",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc179\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTc5OjE3OTE3NzY1ODg4NDA6Y2RubGl2ZXR2LnR2OjdmMWRhOTg5YmY0ZThjMjIuM2U0ZDRjMjY2MDZiMTI1M2ZhODJhMjIyYzMwNDAxM2Y2NGU2OGM4ODY5OTFjMmQ4MzExYTA3ZjQ0ZDY3YTQ1Nw",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 16",
+          "label": "Server 17",
           "subtitle": "Live",
           "url": "https:\/\/taifood-blog.asia\/embed\/nfl\/2026-10-11\/bal-atl",
           "type": "hls",
@@ -1837,7 +1844,7 @@
           }
         },
         {
-          "label": "Server 17",
+          "label": "Server 18",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-baltimore-ravens-at-atlanta-falcons\/1",
           "type": "hls",
