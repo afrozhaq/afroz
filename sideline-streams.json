@@ -373,6 +373,66 @@
       ]
     },
     {
+      "id": "s1791704645804",
+      "league": "nhl",
+      "gameId": "",
+      "away": "SEA",
+      "home": "WSH",
+      "title": "Kraken at Capitals",
+      "poster": "",
+      "startsAt": 1791752400000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server ",
+          "subtitle": "Live ",
+          "url": "https:\/\/edgestream2.pro\/hls\/jkzahzadach20.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": true
+        }
+      ]
+    },
+    {
+      "id": "s1791704645805",
+      "league": "nhl",
+      "gameId": "",
+      "away": "VAN",
+      "home": "NYR",
+      "title": "Canucks at Rangers",
+      "poster": "",
+      "startsAt": 1791756000000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server ",
+          "subtitle": "Live ",
+          "url": "https:\/\/edgestream2.pro\/hls\/jkzahzadach20.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": true
+        }
+      ]
+    },
+    {
+      "id": "s1791704645806",
+      "league": "nhl",
+      "gameId": "",
+      "away": "CAR",
+      "home": "PHI",
+      "title": "Hurricanes at Flyers",
+      "poster": "",
+      "startsAt": 1791759600000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server ",
+          "subtitle": "Live ",
+          "url": "https:\/\/edgestream2.pro\/hls\/jkzahzadach20.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": true
+        }
+      ]
+    },
+    {
       "id": "s1791704632853",
       "league": "mlb",
       "gameId": "",
