@@ -493,56 +493,65 @@
       "endsAt": 0,
       "links": [
         {
-          "label": "Server 1",
+          "label": "Main Server 1",
+          "subtitle": "Live Now",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/lhr-nitro\/live\/clients\/dash\/enc\/qydmdhqoiq\/out\/v1\/53b9013dc88c463cafe4a8e708f4a191\/cenc.mpd",
+          "type": "dash",
+          "rewarded": false,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "cd1c5091e5aa3d5ceaecd735dbd79d80:9cbb20826e097123163447471227afb3"
+        },
+        {
+          "label": "Server 2",
           "subtitle": "Live ",
           "url": "https:\/\/node-f6ba8d9f.4587.website\/6acc19c2.9412bb22i798bc8d0.10db1.8a8ce473\/free.live.nfl\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 2",
+          "label": "Server 3",
           "subtitle": "Live ",
           "url": "https:\/\/fingersoon.st\/scripts\/application2.m3u8?|Referer=https:\/\/otaghera.site\/updatesnfl\/houston-texans-vs-tennessee-titans\/&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/111.0.0.0 Safari\/537.36",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 3",
+          "label": "Server 4",
           "subtitle": "Live ",
           "url": "https:\/\/edgestream2.pro\/hls\/oipozuezeji33.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
+          "label": "Server 5",
           "subtitle": "Live ",
           "url": "https:\/\/dripcast.online\/nfl_streams\/index.php?q=tennessee.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
+          "label": "Server 6",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=texans=titans&s=home&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 6",
+          "label": "Server 7",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=texans=titans&s=away&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 7",
+          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/dash.bobsteam.info\/live\/espn-401872984\/index.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 8",
+          "label": "Server 9",
           "subtitle": "Live ",
           "url": "https:\/\/taifood-blog.asia\/embed\/nfl\/2026-10-11\/hou-ten",
           "type": "hls",
@@ -553,7 +562,7 @@
           }
         },
         {
-          "label": "Server 9",
+          "label": "Server 10",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-houston-texans-at-tennessee-titans\/1",
           "type": "hls",
