@@ -879,63 +879,72 @@
       "endsAt": 0,
       "links": [
         {
-          "label": "Server 1",
+          "label": "Main Server 1",
+          "subtitle": "Live Now",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/lhr-nitro\/live\/clients\/dash\/enc\/ivbn4gk6dy\/out\/v1\/8de5800fa87245bbb63b50c015a2ff01\/cenc.mpd",
+          "type": "dash",
+          "rewarded": false,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "4ddd466263fb864a59327dac4e0bb836:a7d9ed9df1bf62118246e48f1f7df151"
+        },
+        {
+          "label": "Server 2",
           "subtitle": "Live ",
           "url": "https:\/\/node-f812d9ee.4587.website\/6acc19c2.d84e77e2i798bc8d0.10db5.c19eb165\/free.live.nfl\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 2",
+          "label": "Server 3",
           "subtitle": "Live ",
           "url": "https:\/\/fingersoon.st\/scripts\/application8.m3u8?|Referer=https:\/\/otaghera.site\/updatesnfl\/new-york-giants-vs-washington-commanders\/&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/111.0.0.0 Safari\/537.36",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 3",
+          "label": "Server 4",
           "subtitle": "Live ",
           "url": "https:\/\/edgestream2.pro\/hls\/yetehznecs37.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
+          "label": "Server 5",
           "subtitle": "Live ",
           "url": "https:\/\/dripcast.online\/nfl_streams\/index.php?q=washington.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
+          "label": "Server 6",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=giants=washington&s=home&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 6",
+          "label": "Server 7",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=giants=washington&s=away&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 7",
+          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2781d8192bb76cb38e\/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzhlOjE3OTE3NDg3OTg4NTU6Y2RubGl2ZXR2LnR2OjBjMjlkOTMzNzNlNzdlMDUuYzlhMjgyYmZlNjdlZjFlMDNlMzRkOTJiNWE4ZTQ1MThlNWZkNWE0YWFiMTkxYTk0OTBjN2JmMzQxNDIzYzY4NA",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 8",
+          "label": "Server 9",
           "subtitle": "Live ",
           "url": "https:\/\/dash.bobsteam.info\/live\/espn-401872988\/index.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 9",
+          "label": "Server 10",
           "subtitle": "Live ",
           "url": "https:\/\/taifood-blog.asia\/embed\/nfl\/2026-10-11\/nyg-wsh",
           "type": "hls",
@@ -946,7 +955,7 @@
           }
         },
         {
-          "label": "Server 10",
+          "label": "Server 11",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-new-york-giants-at-washington-commanders\/1",
           "type": "hls",
