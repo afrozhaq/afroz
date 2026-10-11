@@ -1766,19 +1766,12 @@
         {
           "label": "Server 8",
           "subtitle": "Live",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc179\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTc5OjE3OTE3MjE4MTA0MzE6Y2RubGl2ZXR2LnR2OjFjYTAwYmY2MGVkNzRiMjkuNjhiNjYxNDg2MDE1MDAwMDhiY2YzYWY1MmQ5ZTI4YmFjNDg3ODYxYTEzYjE5ZTRhYjFhN2E0NjkyOTBlYjBjYg",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc179\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTc5OjE3OTE3NzY1ODg4NDA6Y2RubGl2ZXR2LnR2OjdmMWRhOTg5YmY0ZThjMjIuM2U0ZDRjMjY2MDZiMTI1M2ZhODJhMjIyYzMwNDAxM2Y2NGU2OGM4ODY5OTFjMmQ4MzExYTA3ZjQ0ZDY3YTQ1Nw",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 9",
-          "subtitle": "Live",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2781d8192bb76cb3d1\/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiM2QxOjE3OTE3MjE4MjA5MzI6Y2RubGl2ZXR2LnR2OjE0OTk1MjgzNzc0NDcyMDMuYzdjMWJjOGQyMzc4N2IyYjFjN2MwZDBjNjEwZjkwYjA4YTNiYWY4NDU0NTMxMzk2OGU1YWNjMDc0OWM1NTU4Ng",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 10",
           "subtitle": "Live",
           "url": "https:\/\/taifood-blog.asia\/embed\/nfl\/2026-10-11\/bal-atl",
           "type": "hls",
@@ -1789,7 +1782,7 @@
           }
         },
         {
-          "label": "Server 11",
+          "label": "Server 10",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-baltimore-ravens-at-atlanta-falcons\/1",
           "type": "hls",
