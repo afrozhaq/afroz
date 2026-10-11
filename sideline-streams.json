@@ -1030,40 +1030,61 @@
         {
           "label": "Server 1",
           "subtitle": "Live ",
-          "url": "https:\/\/edgestream2.pro\/hls\/cwxcnbscbsq39.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "url": "https:\/\/node-d1d6a0d2.4587.website\/6acc54e6.ed6bb646i798bc8d0.10f15.2e206911\/free.live.nfl\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 2",
-          "subtitle": "Live ( Home )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=broncos=chargers&s=home&sport=nfl",
+          "subtitle": "Live ",
+          "url": "https:\/\/dripcast.online\/nfl_streams\/index.php?q=chargers.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
-          "subtitle": "Live ( Away )",
-          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=broncos=chargers&s=away&sport=nfl",
+          "subtitle": "Live ",
+          "url": "https:\/\/fingersoon.st\/scripts\/application9.m3u8?|Referer=https:\/\/otaghera.site\/updatesnfl\/denver-broncos-vs-los-angeles-chargers\/&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/111.0.0.0 Safari\/537.36",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 4",
           "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2e81d8192bb76ce884\/playlist.m3u8?token=NmEyODhkMmU4MWQ4MTkyYmI3NmNlODg0OjE3OTE3MjE4MTkxNDM6Y2RubGl2ZXR2LnR2OjQ4MWMxZTdmM2RkYzBhMDUuOGJhZGRiYzA2OGM0Y2FlOTRhZTQwYzIyYjgzYTRhN2ExN2ZmODA0ZjBkYWRjMTNjYzNkN2U4NmRkYTQ5ZWNhYQ",
+          "url": "https:\/\/edgestream2.pro\/hls\/cwxcnbscbsq39.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 5",
           "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2e81d8192bb76ce95e\/playlist.m3u8?token=NmEyODhkMmU4MWQ4MTkyYmI3NmNlOTVlOjE3OTE3MjE4MTc5MDk6Y2RubGl2ZXR2LnR2OjE5ZGFiOGM5NDZmNmMzY2UuNDc3MTAxYzE4MDdhZTEwOTYwZmRlM2VmNjUwZDQ5N2RlYjVhZGJkOGFkODgyZmEzYTY4ZmY3YzIxNDA3NDEzYQ",
+          "url": "https:\/\/dash.bobsteam.info\/live\/espn-401872989\/index.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 6",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=broncos=chargers&s=home&sport=nfl",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 7",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=broncos=chargers&s=away&sport=nfl",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 8",
+          "subtitle": "Live ",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2e81d8192bb76ce884\/playlist.m3u8?token=NmEyODhkMmU4MWQ4MTkyYmI3NmNlODg0OjE3OTE3NjE2NjI4NjM6Y2RubGl2ZXR2LnR2OjE3NDNlOGVjNDIyNzBlM2MuMDc1YTNhMzQ5MTIyODNkMTgxYTQzMDI5MWY5NGQ2NmJhM2I0NTRiNTFkYjc2OGY0N2EwN2YyYWUxYjM1ZTJlNA",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 9",
           "subtitle": "Live ",
           "url": "https:\/\/taifood-blog.asia\/embed\/nfl\/2026-10-11\/den-lac",
           "type": "hls",
@@ -1074,7 +1095,7 @@
           }
         },
         {
-          "label": "Server 7",
+          "label": "Server 10",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-denver-broncos-at-los-angeles-chargers\/1",
           "type": "hls",
