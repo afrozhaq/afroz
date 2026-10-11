@@ -1947,12 +1947,19 @@
         {
           "label": "Server 2",
           "subtitle": "Live",
-          "url": "https:\/\/edgestream2.pro\/hls\/wxqsdafzaengfgu97.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "url": "https:\/\/dripcast.online\/nfl_streams\/index.php?q=heat.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
+          "subtitle": "Live",
+          "url": "https:\/\/edgestream2.pro\/hls\/wxqsdafzaengfgu97.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
           "subtitle": "Live",
           "url": "https:\/\/taifood-blog.asia\/embed\/nba\/2026-10-10\/min-mia",
           "type": "hls",
@@ -1963,7 +1970,7 @@
           }
         },
         {
-          "label": "Server 4",
+          "label": "Server 5",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-minnesota-timberwolves-vs-miami-heat\/1",
           "type": "hls",
@@ -1996,12 +2003,19 @@
         {
           "label": "Server 2",
           "subtitle": "Live",
-          "url": "https:\/\/edgestream2.pro\/hls\/zazezagdgfc98.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "url": "https:\/\/dripcast.online\/nfl_streams\/index.php?q=celtics.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
+          "subtitle": "Live",
+          "url": "https:\/\/edgestream2.pro\/hls\/zazezagdgfc98.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
           "subtitle": "Live",
           "url": "https:\/\/taifood-blog.asia\/embed\/nba\/2026-10-10\/phi-bos",
           "type": "hls",
@@ -2012,7 +2026,7 @@
           }
         },
         {
-          "label": "Server 4",
+          "label": "Server 5",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-philadelphia-76-ers-vs-boston-celtics\/1",
           "type": "hls",
@@ -2045,12 +2059,19 @@
         {
           "label": "Server 2",
           "subtitle": "Live",
-          "url": "https:\/\/edgestream2.pro\/hls\/aetrayytufzrdtvgx99.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "url": "https:\/\/dripcast.online\/nfl_streams\/index.php?q=warriors.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 3",
+          "subtitle": "Live",
+          "url": "https:\/\/edgestream2.pro\/hls\/aetrayytufzrdtvgx99.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
           "subtitle": "Live",
           "url": "https:\/\/taifood-blog.asia\/embed\/nba\/2026-10-10\/sac-gs",
           "type": "hls",
@@ -2061,7 +2082,7 @@
           }
         },
         {
-          "label": "Server 4",
+          "label": "Server 5",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-sacramento-kings-vs-golden-state-warriors\/1",
           "type": "hls",
