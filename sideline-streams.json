@@ -473,20 +473,6 @@
         {
           "label": "Server 7",
           "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2c81d8192bb76cd2a8\/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkMmE4OjE3OTE3MjE4MTM4NjM6Y2RubGl2ZXR2LnR2OjA3ODM1MGZjZTU3M2FlNDYuZTk1ZjIwMDRmZGYxOGMxYjkyOTE0NTM4NDljOTRlOWE4MzhiNzcwYWQ5ZWY4Y2UwY2NlZGFhMmYxOWU1MjBmYQ",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 8",
-          "subtitle": "Live ",
-          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2c81d8192bb76cd2b3\/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkMmIzOjE3OTE3MjE4MTM5NzM6Y2RubGl2ZXR2LnR2OjA1M2UwOTI5N2RiZGE2M2MuZTMyNjc5MDg2YTFlM2IzZGQzMDdhZWRhZGE5NDAwOWFjNjk0MGRmMzIxN2ZmZjA0NTk4MjdmYzU3MmViOTJlZQ",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 9",
-          "subtitle": "Live ",
           "url": "https:\/\/taifood-blog.asia\/embed\/nfl\/2026-10-11\/hou-ten",
           "type": "hls",
           "rewarded": false,
@@ -496,7 +482,7 @@
           }
         },
         {
-          "label": "Server 10",
+          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-houston-texans-at-tennessee-titans\/1",
           "type": "hls",
