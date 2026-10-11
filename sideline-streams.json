@@ -586,63 +586,72 @@
       "endsAt": 0,
       "links": [
         {
-          "label": "Server 1",
+          "label": "Main Server 1",
+          "subtitle": "Live Now",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/lhr-nitro\/live\/clients\/dash\/enc\/s7pn4tqrvk\/out\/v1\/f4716182ceae4d98b5f402688bbebf1b\/cenc.mpd",
+          "type": "dash",
+          "rewarded": false,
+          "drmScheme": "clearkey",
+          "drmLicenseUrl": "a52a830e1b76c34e09037b79b6875f3a:9c297b707638fc8b498754d4bb68771a"
+        },
+        {
+          "label": "Server 2",
           "subtitle": "Live",
           "url": "https:\/\/node-f812d9ee.4587.website\/6acc19c2.9f0efbeci798bc8d0.10dad.3cfd9e9e\/free.live.nfl\/master.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 2",
+          "label": "Server 3",
           "subtitle": "Live",
           "url": "https:\/\/fingersoon.st\/scripts\/application7.m3u8?|Referer=https:\/\/otaghera.site\/updatesnfl\/indianapolis-colts-vs-pittsburgh-steelers\/&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/111.0.0.0 Safari\/537.36",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 3",
+          "label": "Server 4",
           "subtitle": "Live",
           "url": "https:\/\/edgestream2.pro\/hls\/uheyztezgj34.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 4",
+          "label": "Server 5",
           "subtitle": "Live",
           "url": "https:\/\/dripcast.online\/nfl_streams\/index.php?q=pittsburgh.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 5",
+          "label": "Server 6",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=colts=steelers&s=home&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 6",
+          "label": "Server 7",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=colts=steelers&s=away&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 7",
+          "label": "Server 8",
           "subtitle": "Live",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc172\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTcyOjE3OTE3NDg3MjYzOTg6Y2RubGl2ZXR2LnR2OjJlMjQ1ODAyMmIwYTBkOTguOGI3ZTZmMmM2MDVmNGU5YmQ1MTlmY2UwNWQ5OWJkMGRjZWU0OGUyOGY0ZTg5NGQ4M2M3ZmZmYjVjZTczMjYzYQ",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 8",
+          "label": "Server 9",
           "subtitle": "Live",
           "url": "https:\/\/dash.bobsteam.info\/live\/espn-401872985\/index.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 9",
+          "label": "Server 10",
           "subtitle": "Live",
           "url": "https:\/\/taifood-blog.asia\/embed\/nfl\/2026-10-11\/ind-pit",
           "type": "hls",
@@ -653,7 +662,7 @@
           }
         },
         {
-          "label": "Server 10",
+          "label": "Server 11",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-indianapolis-colts-at-pittsburgh-steelers\/1",
           "type": "hls",
