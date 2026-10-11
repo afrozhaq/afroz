@@ -531,6 +531,13 @@
         {
           "label": "Server 2",
           "subtitle": "Live",
+          "url": "https:\/\/fingersoon.st\/scripts\/application5.m3u8?|Referer=https:\/\/otaghera.site\/updates\/nba-games5\/&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/111.0.0.0 Safari\/537.36",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live",
           "url": "https:\/\/taifood-blog.asia\/embed\/nba\/2026-10-11\/dal-hou",
           "type": "hls",
           "rewarded": false,
@@ -540,7 +547,7 @@
           }
         },
         {
-          "label": "Server 3",
+          "label": "Server 4",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-dallas-mavericks-vs-houston-rockets\/1",
           "type": "hls",
