@@ -509,6 +509,33 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1791705429620",
+      "league": "nba",
+      "gameId": "",
+      "away": "MAGIC",
+      "home": "CAVALIERS ",
+      "title": "Magic at Cavaliers ",
+      "poster": "",
+      "startsAt": 1791757800000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
