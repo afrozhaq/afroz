@@ -746,6 +746,13 @@
         {
           "label": "Server 7",
           "subtitle": "Live",
+          "url": "https:\/\/dash.bobsteam.info\/live\/espn-401872987\/index.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 8",
+          "subtitle": "Live",
           "url": "https:\/\/taifood-blog.asia\/embed\/nfl\/2026-10-11\/min-no",
           "type": "hls",
           "rewarded": false,
@@ -755,7 +762,7 @@
           }
         },
         {
-          "label": "Server 8",
+          "label": "Server 9",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-minnesota-vikings-at-new-orleans-saints\/1",
           "type": "hls",
