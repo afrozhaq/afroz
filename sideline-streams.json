@@ -2066,6 +2066,13 @@
         {
           "label": "Server 3",
           "subtitle": "Live",
+          "url": "https:\/\/dripcast.online\/flyembed-scraper\/fly\/index.m3u8?id=espn-usa",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
+          "subtitle": "Live",
           "url": "https:\/\/taifood-blog.asia\/embed\/nba\/2026-10-11\/chi-den",
           "type": "hls",
           "rewarded": false,
@@ -2075,7 +2082,7 @@
           }
         },
         {
-          "label": "Server 4",
+          "label": "Server 5",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-chicago-bulls-vs-denver-nuggets\/1",
           "type": "hls",
