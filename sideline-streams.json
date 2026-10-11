@@ -2059,6 +2059,13 @@
         {
           "label": "Server 2",
           "subtitle": "Live",
+          "url": "https:\/\/dash.bobsteam.info\/live\/espn-401908941\/index.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live",
           "url": "https:\/\/taifood-blog.asia\/embed\/nba\/2026-10-11\/chi-den",
           "type": "hls",
           "rewarded": false,
@@ -2068,7 +2075,7 @@
           }
         },
         {
-          "label": "Server 3",
+          "label": "Server 4",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-chicago-bulls-vs-denver-nuggets\/1",
           "type": "hls",
