@@ -410,6 +410,13 @@
         {
           "label": "Server 8",
           "subtitle": "Live ",
+          "url": "https:\/\/dash.bobsteam.info\/live\/espn-401872983\/index.m3u8",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 9",
+          "subtitle": "Live ",
           "url": "https:\/\/taifood-blog.asia\/embed\/nfl\/2026-10-11\/cle-nyj",
           "type": "hls",
           "rewarded": false,
@@ -419,7 +426,7 @@
           }
         },
         {
-          "label": "Server 9",
+          "label": "Server 10",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-cleveland-browns-at-new-york-jets\/1",
           "type": "hls",
