@@ -58,20 +58,6 @@
         {
           "label": "Server 7",
           "subtitle": "Live ",
-          "url": "https:\/\/admin2.formaturamaxi.com.br\/redzone.m3u8",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 8",
-          "subtitle": "Live ",
-          "url": "https:\/\/temp.formaturamaxi.com.br\/redzonealt.m3u8",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 9",
-          "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/golf\/-20261011\/1",
           "type": "hls",
           "rewarded": false,
@@ -81,7 +67,7 @@
           }
         },
         {
-          "label": "Server 10",
+          "label": "Server 8",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/golf\/-20261011\/2",
           "type": "hls",
@@ -267,54 +253,47 @@
         {
           "label": "Server 5",
           "subtitle": "Live",
-          "url": "https:\/\/admin2.formaturamaxi.com.br\/nfl.m3u8",
+          "url": "https:\/\/fingersoon.st\/scripts\/application1.m3u8?|Referer=https:\/\/otaghera.site\/updatesnfl\/chicago-bears-vs-green-bay-packers\/&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/111.0.0.0 Safari\/537.36",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 6",
           "subtitle": "Live",
-          "url": "https:\/\/fingersoon.st\/scripts\/application1.m3u8?|Referer=https:\/\/otaghera.site\/updatesnfl\/chicago-bears-vs-green-bay-packers\/&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/111.0.0.0 Safari\/537.36",
+          "url": "https:\/\/edgestream2.pro\/hls\/ysvbxwnbc38.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 7",
           "subtitle": "Live",
-          "url": "https:\/\/edgestream2.pro\/hls\/ysvbxwnbc38.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 8",
-          "subtitle": "Live",
           "url": "https:\/\/dripcast.online\/flyembed-scraper\/fly\/index.m3u8?id=nfl-401872990",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 9",
+          "label": "Server 8",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=bears=packers&s=home&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 10",
+          "label": "Server 9",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=bears=packers&s=away&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 11",
+          "label": "Server 10",
           "subtitle": "Live",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc340\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzQwOjE3OTE3NDg4NTE1NzA6Y2RubGl2ZXR2LnR2OjUyOTRhOGQwYmNjZjYzZjQuYTRkZTZiNDJjNWU5MzQ1Y2MyMWYxMmM0YmY3Njg0MmUwMmFjNjE5YWJiMDQwNGUxOWRmYzUwZTZjMTk5MTM0MQ",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 12",
+          "label": "Server 11",
           "subtitle": "Live",
           "url": "https:\/\/taifood-blog.asia\/embed\/nfl\/2026-10-11\/chi-gb",
           "type": "hls",
@@ -325,7 +304,7 @@
           }
         },
         {
-          "label": "Server 13",
+          "label": "Server 12",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-chicago-bears-at-green-bay-packers\/1",
           "type": "hls",
@@ -388,40 +367,33 @@
         {
           "label": "Server 6",
           "subtitle": "Live",
-          "url": "https:\/\/admin2.formaturamaxi.com.br\/nfl4.m3u8",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 7",
-          "subtitle": "Live",
           "url": "https:\/\/edgestream2.pro\/hls\/sfjnzabacah31.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 8",
+          "label": "Server 7",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=bengals=dolphins&s=home&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 9",
+          "label": "Server 8",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=bengals=dolphins&s=away&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 10",
+          "label": "Server 9",
           "subtitle": "Live ",
           "url": "https:\/\/dash.bobsteam.info\/live\/espn-401872982\/index.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 11",
+          "label": "Server 10",
           "subtitle": "Live",
           "url": "https:\/\/taifood-blog.asia\/embed\/nfl\/2026-10-11\/cin-mia",
           "type": "hls",
@@ -432,7 +404,7 @@
           }
         },
         {
-          "label": "Server 12",
+          "label": "Server 11",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-cincinnati-bengals-at-miami-dolphins\/1",
           "type": "hls",
@@ -501,41 +473,27 @@
         },
         {
           "label": "Server 7",
-          "subtitle": "Live ",
-          "url": "https:\/\/temp.formaturamaxi.com.br\/nfl7.m3u8",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 8",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=browns=jets&s=home&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 9",
+          "label": "Server 8",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=browns=jets&s=away&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 10",
+          "label": "Server 9",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2981d8192bb76cbc97\/playlist.m3u8?token=NmEyODhkMjk4MWQ4MTkyYmI3NmNiYzk3OjE3OTE3NDg2NjYyNzA6Y2RubGl2ZXR2LnR2OmY5NmQ4YTc0YjNkZTQwYmEuZjk2MTE3YmM4MzM3NzczMzdjNWE0YTBlMzFkMjNhNWY0NWNjYjBkZWUxOTU2MWYzM2ZlYmM5ODRlYjE3NDY4Nw",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 11",
-          "subtitle": "Live ",
-          "url": "https:\/\/dash.bobsteam.info\/live\/espn-401872983\/index.m3u8",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 12",
+          "label": "Server 10",
           "subtitle": "Live ",
           "url": "https:\/\/taifood-blog.asia\/embed\/nfl\/2026-10-11\/cle-nyj",
           "type": "hls",
@@ -546,7 +504,7 @@
           }
         },
         {
-          "label": "Server 13",
+          "label": "Server 11",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-cleveland-browns-at-new-york-jets\/1",
           "type": "hls",
@@ -602,47 +560,40 @@
         {
           "label": "Server 5",
           "subtitle": "Live ",
-          "url": "https:\/\/tedesco.formaturamaxi.com.br\/nfl3.m3u8",
+          "url": "https:\/\/dripcast.online\/flyembed-scraper\/fly\/index.m3u8?id=nfl-401872984",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 6",
           "subtitle": "Live ",
-          "url": "https:\/\/dripcast.online\/flyembed-scraper\/fly\/index.m3u8?id=nfl-401872984",
+          "url": "https:\/\/fingersoon.st\/scripts\/application2.m3u8?|Referer=https:\/\/otaghera.site\/updatesnfl\/houston-texans-vs-tennessee-titans\/&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/111.0.0.0 Safari\/537.36",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 7",
           "subtitle": "Live ",
-          "url": "https:\/\/fingersoon.st\/scripts\/application2.m3u8?|Referer=https:\/\/otaghera.site\/updatesnfl\/houston-texans-vs-tennessee-titans\/&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/111.0.0.0 Safari\/537.36",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 8",
-          "subtitle": "Live ",
           "url": "https:\/\/edgestream2.pro\/hls\/oipozuezeji33.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 9",
+          "label": "Server 8",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=texans=titans&s=home&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 10",
+          "label": "Server 9",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=texans=titans&s=away&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 11",
+          "label": "Server 10",
           "subtitle": "Live ",
           "url": "https:\/\/taifood-blog.asia\/embed\/nfl\/2026-10-11\/hou-ten",
           "type": "hls",
@@ -653,7 +604,7 @@
           }
         },
         {
-          "label": "Server 12",
+          "label": "Server 11",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-houston-texans-at-tennessee-titans\/1",
           "type": "hls",
@@ -709,54 +660,40 @@
         {
           "label": "Server 5",
           "subtitle": "Live",
-          "url": "https:\/\/admin2.formaturamaxi.com.br\/nfl8.m3u8",
+          "url": "https:\/\/fingersoon.st\/scripts\/application7.m3u8?|Referer=https:\/\/otaghera.site\/updatesnfl\/indianapolis-colts-vs-pittsburgh-steelers\/&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/111.0.0.0 Safari\/537.36",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 6",
           "subtitle": "Live",
-          "url": "https:\/\/fingersoon.st\/scripts\/application7.m3u8?|Referer=https:\/\/otaghera.site\/updatesnfl\/indianapolis-colts-vs-pittsburgh-steelers\/&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/111.0.0.0 Safari\/537.36",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 7",
-          "subtitle": "Live",
           "url": "https:\/\/edgestream2.pro\/hls\/uheyztezgj34.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 8",
+          "label": "Server 7",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=colts=steelers&s=home&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 9",
+          "label": "Server 8",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=colts=steelers&s=away&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 10",
+          "label": "Server 9",
           "subtitle": "Live",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc172\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTcyOjE3OTE3NDg3MjYzOTg6Y2RubGl2ZXR2LnR2OjJlMjQ1ODAyMmIwYTBkOTguOGI3ZTZmMmM2MDVmNGU5YmQ1MTlmY2UwNWQ5OWJkMGRjZWU0OGUyOGY0ZTg5NGQ4M2M3ZmZmYjVjZTczMjYzYQ",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 11",
-          "subtitle": "Live",
-          "url": "https:\/\/dash.bobsteam.info\/live\/espn-401872985\/index.m3u8",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 12",
+          "label": "Server 10",
           "subtitle": "Live",
           "url": "https:\/\/taifood-blog.asia\/embed\/nfl\/2026-10-11\/ind-pit",
           "type": "hls",
@@ -767,7 +704,7 @@
           }
         },
         {
-          "label": "Server 13",
+          "label": "Server 11",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-indianapolis-colts-at-pittsburgh-steelers\/1",
           "type": "hls",
@@ -823,54 +760,40 @@
         {
           "label": "Server 5",
           "subtitle": "Live",
-          "url": "https:\/\/tedesco.formaturamaxi.com.br\/nfl5.m3u8",
+          "url": "https:\/\/fingersoon.st\/scripts\/application4.m3u8?|Referer=https:\/\/otaghera.site\/updatesnfl\/las-vegas-raiders-vs-new-england-patriots\/&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/111.0.0.0 Safari\/537.36",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 6",
           "subtitle": "Live",
-          "url": "https:\/\/fingersoon.st\/scripts\/application4.m3u8?|Referer=https:\/\/otaghera.site\/updatesnfl\/las-vegas-raiders-vs-new-england-patriots\/&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/111.0.0.0 Safari\/537.36",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 7",
-          "subtitle": "Live",
           "url": "https:\/\/edgestream2.pro\/hls\/jnknjfzbk35.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 8",
+          "label": "Server 7",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=raiders=patriots&s=home&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 9",
+          "label": "Server 8",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=raiders=patriots&s=away&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 10",
+          "label": "Server 9",
           "subtitle": "Live",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc3be\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjM2JlOjE3OTE3NDg1MzA4NDM6Y2RubGl2ZXR2LnR2OjUzYTAyNjhkMWI3MTQ1NjAuMjFjMTlhOTZkZGJmMjY2MWJkYjgwYmY4YmMwMDdmMTA3Nzk5N2FmZjAzZmY4MTE4Mzk4MzVjMDFmMTI4YzlmZA",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 11",
-          "subtitle": "Live",
-          "url": "https:\/\/dash.bobsteam.info\/live\/espn-401872986\/index.m3u8",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 12",
+          "label": "Server 10",
           "subtitle": "Live",
           "url": "https:\/\/taifood-blog.asia\/embed\/nfl\/2026-10-11\/lv-ne",
           "type": "hls",
@@ -881,7 +804,7 @@
           }
         },
         {
-          "label": "Server 13",
+          "label": "Server 11",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-las-vegas-raiders-at-new-england-patriots\/1",
           "type": "hls",
@@ -937,54 +860,40 @@
         {
           "label": "Server 5",
           "subtitle": "Live",
-          "url": "https:\/\/admin2.formaturamaxi.com.br\/nfl6.m3u8",
+          "url": "https:\/\/fingersoon.st\/scripts\/application5.m3u8?|Referer=https:\/\/otaghera.site\/updatesnfl\/minnesota-vikings-vs-new-orleans-saints\/&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/111.0.0.0 Safari\/537.36",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 6",
           "subtitle": "Live",
-          "url": "https:\/\/fingersoon.st\/scripts\/application5.m3u8?|Referer=https:\/\/otaghera.site\/updatesnfl\/minnesota-vikings-vs-new-orleans-saints\/&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/111.0.0.0 Safari\/537.36",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 7",
-          "subtitle": "Live",
           "url": "https:\/\/edgestream2.pro\/hls\/jkhazabcka36.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 8",
+          "label": "Server 7",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=vikings=saints&s=home&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 9",
+          "label": "Server 8",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=vikings=saints&s=away&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 10",
+          "label": "Server 9",
           "subtitle": "Live",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc330\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzMwOjE3OTE3NDg2MDMzNTY6Y2RubGl2ZXR2LnR2OjU2ZjM0ZmVjM2E1NTQ4MjQuNDJhMGY3Y2E4OTU0YWJlMjk1NjhhNDJmYTU3NDI5YTE3NzVjNDg1MWU5YWRjNTk3Y2E2ZGRiZGY2N2E0OTkxMg",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 11",
-          "subtitle": "Live",
-          "url": "https:\/\/dash.bobsteam.info\/live\/espn-401872987\/index.m3u8",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 12",
+          "label": "Server 10",
           "subtitle": "Live",
           "url": "https:\/\/taifood-blog.asia\/embed\/nfl\/2026-10-11\/min-no",
           "type": "hls",
@@ -995,7 +904,7 @@
           }
         },
         {
-          "label": "Server 13",
+          "label": "Server 11",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-minnesota-vikings-at-new-orleans-saints\/1",
           "type": "hls",
@@ -1051,47 +960,40 @@
         {
           "label": "Server 5",
           "subtitle": "Live ",
-          "url": "https:\/\/admin2.formaturamaxi.com.br\/nfl9.m3u8",
+          "url": "https:\/\/fingersoon.st\/scripts\/application8.m3u8?|Referer=https:\/\/otaghera.site\/updatesnfl\/new-york-giants-vs-washington-commanders\/&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/111.0.0.0 Safari\/537.36",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 6",
           "subtitle": "Live ",
-          "url": "https:\/\/fingersoon.st\/scripts\/application8.m3u8?|Referer=https:\/\/otaghera.site\/updatesnfl\/new-york-giants-vs-washington-commanders\/&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/111.0.0.0 Safari\/537.36",
-          "type": "hls",
-          "rewarded": false
-        },
-        {
-          "label": "Server 7",
-          "subtitle": "Live ",
           "url": "https:\/\/edgestream2.pro\/hls\/yetehznecs37.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 8",
+          "label": "Server 7",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=giants=washington&s=home&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 9",
+          "label": "Server 8",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=giants=washington&s=away&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 10",
+          "label": "Server 9",
           "subtitle": "Live ",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2781d8192bb76cb38e\/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzhlOjE3OTE3NDg3OTg4NTU6Y2RubGl2ZXR2LnR2OjBjMjlkOTMzNzNlNzdlMDUuYzlhMjgyYmZlNjdlZjFlMDNlMzRkOTJiNWE4ZTQ1MThlNWZkNWE0YWFiMTkxYTk0OTBjN2JmMzQxNDIzYzY4NA",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 11",
+          "label": "Server 10",
           "subtitle": "Live ",
           "url": "https:\/\/taifood-blog.asia\/embed\/nfl\/2026-10-11\/nyg-wsh",
           "type": "hls",
@@ -1102,7 +1004,7 @@
           }
         },
         {
-          "label": "Server 12",
+          "label": "Server 11",
           "subtitle": "Live ",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-new-york-giants-at-washington-commanders\/1",
           "type": "hls",
