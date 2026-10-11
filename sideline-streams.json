@@ -1171,11 +1171,11 @@
         {
           "label": "Main Server 1",
           "subtitle": "Live Now",
-          "url": "https:\/\/otte.cache.aiv-cdn.net\/iad-nitro\/live\/clients\/dash\/enc\/rhf2dwosdt\/out\/v1\/ee550d2a68d846c797e6ce4de2e8b76d\/cenc.mpd",
+          "url": "https:\/\/otte.cache.aiv-cdn.net\/iad-nitro\/live\/clients\/dash\/enc\/8tbkqk1pop\/out\/v1\/29a5467378a0483cbd6f33dc7e895401\/cenc.mpd",
           "type": "dash",
           "rewarded": false,
           "drmScheme": "clearkey",
-          "drmLicenseUrl": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
+          "drmLicenseUrl": "e9dfdfd343f5ff74e32fc63ea6f20d41:cd77b972027a6a62f3fcb3b1e935fc8c"
         },
         {
           "label": "Main Server 2",
