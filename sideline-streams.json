@@ -267,47 +267,54 @@
         {
           "label": "Server 5",
           "subtitle": "Live",
-          "url": "https:\/\/fingersoon.st\/scripts\/application1.m3u8?|Referer=https:\/\/otaghera.site\/updatesnfl\/chicago-bears-vs-green-bay-packers\/&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/111.0.0.0 Safari\/537.36",
+          "url": "https:\/\/admin2.formaturamaxi.com.br\/nfl.m3u8",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 6",
           "subtitle": "Live",
-          "url": "https:\/\/edgestream2.pro\/hls\/ysvbxwnbc38.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "url": "https:\/\/fingersoon.st\/scripts\/application1.m3u8?|Referer=https:\/\/otaghera.site\/updatesnfl\/chicago-bears-vs-green-bay-packers\/&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/111.0.0.0 Safari\/537.36",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 7",
           "subtitle": "Live",
-          "url": "https:\/\/dripcast.online\/flyembed-scraper\/fly\/index.m3u8?id=nfl-401872990",
+          "url": "https:\/\/edgestream2.pro\/hls\/ysvbxwnbc38.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
           "rewarded": false
         },
         {
           "label": "Server 8",
+          "subtitle": "Live",
+          "url": "https:\/\/dripcast.online\/flyembed-scraper\/fly\/index.m3u8?id=nfl-401872990",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 9",
           "subtitle": "Live ( Home )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=bears=packers&s=home&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 9",
+          "label": "Server 10",
           "subtitle": "Live ( Away )",
           "url": "https:\/\/dripcast.online\/ninjastream\/webcast.php?id=bears=packers&s=away&sport=nfl",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 10",
+          "label": "Server 11",
           "subtitle": "Live",
           "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc340\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzQwOjE3OTE3NDg4NTE1NzA6Y2RubGl2ZXR2LnR2OjUyOTRhOGQwYmNjZjYzZjQuYTRkZTZiNDJjNWU5MzQ1Y2MyMWYxMmM0YmY3Njg0MmUwMmFjNjE5YWJiMDQwNGUxOWRmYzUwZTZjMTk5MTM0MQ",
           "type": "hls",
           "rewarded": false
         },
         {
-          "label": "Server 11",
+          "label": "Server 12",
           "subtitle": "Live",
           "url": "https:\/\/taifood-blog.asia\/embed\/nfl\/2026-10-11\/chi-gb",
           "type": "hls",
@@ -318,7 +325,7 @@
           }
         },
         {
-          "label": "Server 12",
+          "label": "Server 13",
           "subtitle": "Live",
           "url": "https:\/\/embed.st\/embed\/admin\/ppv-chicago-bears-at-green-bay-packers\/1",
           "type": "hls",
