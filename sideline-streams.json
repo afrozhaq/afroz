@@ -113,6 +113,33 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1791799740075",
+      "league": "nba",
+      "gameId": "",
+      "away": "NETS ",
+      "home": "WIZARDS ",
+      "title": "Nets at Wizards ",
+      "poster": "",
+      "startsAt": 1791846000000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "j",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "j",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
