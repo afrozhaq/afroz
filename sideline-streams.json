@@ -194,6 +194,33 @@
           "rewarded": false
         }
       ]
+    },
+    {
+      "id": "s1791799866226",
+      "league": "nba",
+      "gameId": "",
+      "away": "KNICKS ",
+      "home": "TIMBERWOLVES ",
+      "title": "Knicks at Timberwolves ",
+      "poster": "",
+      "startsAt": 1791847800000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
