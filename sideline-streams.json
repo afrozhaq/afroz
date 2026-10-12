@@ -59,6 +59,33 @@
           "rewarded": true
         }
       ]
+    },
+    {
+      "id": "s1791799658439",
+      "league": "nhl",
+      "gameId": "",
+      "away": "SABRES ",
+      "home": "PANTHERS ",
+      "title": "Sabres at Panthers ",
+      "poster": "",
+      "startsAt": 1791824400000,
+      "endsAt": 0,
+      "links": [
+        {
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live",
+          "url": "h",
+          "type": "hls",
+          "rewarded": false
+        }
+      ]
     }
   ]
 }
