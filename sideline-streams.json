@@ -440,11 +440,61 @@
       "endsAt": 0,
       "links": [
         {
-          "label": "Server ",
-          "subtitle": "Live ",
-          "url": "https:\/\/edgestream2.pro\/hls\/jkzahzadach20.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
+          "label": "Server 1",
+          "subtitle": "Live",
+          "url": "https:\/\/edgestream2.pro\/hls\/16yuitzaerghbhc16.m3u8?|Referer=https:\/\/streame.center&Origin=https:\/\/streame.center&User-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36 Edg\/134.0.0.0",
           "type": "hls",
-          "rewarded": true
+          "rewarded": false
+        },
+        {
+          "label": "Server 2",
+          "subtitle": "Live ( Home )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=guardians=rays&s=home&sport=mlb",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 3",
+          "subtitle": "Live ( Away )",
+          "url": "https:\/\/dripcast.online\/ninjastream\/ns\/wc.php?id=guardians=rays&s=away&sport=mlb",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 4",
+          "subtitle": "Live",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc347\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzQ3OjE3OTE4MTQ5Mjg1NTE6Y2RubGl2ZXR2LnR2OmI2Yjk5OWExNDg2M2VjMWYuZDFmMDY1NGExMTNlOTkwZTAwNzNmNzI5NmIyZDJjMjM0N2EwOTgxM2M4OGFmZGMzZjI1ZWYwZTAyOGZjMTcyNw",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 5",
+          "subtitle": "Live",
+          "url": "https:\/\/cdnlivetv.tv\/secure\/api\/v1\/6a288d2a81d8192bb76cc162\/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTYyOjE3OTE4MTQ5MjY4OTM6Y2RubGl2ZXR2LnR2OjllNWQ3NzIzNWM4NDRjMWUuMmM2OWMxOGI1YjYwNmZlNzg4NGNhMDkwZDRiMmY0NDE5MWU2YmQ5YmZkNGE5NWQ1YTlkNjdjYmFhNjEwMThlYg",
+          "type": "hls",
+          "rewarded": false
+        },
+        {
+          "label": "Server 6",
+          "subtitle": "Live",
+          "url": "https:\/\/taifood-blog.asia\/embed\/mlb\/2026-10-12\/cle-tb",
+          "type": "hls",
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/taifood-blog.asia\/embed\/mlb\/2026-10-12\/cle-tb"
+          }
+        },
+        {
+          "label": "Server 7",
+          "subtitle": "Live",
+          "url": "https:\/\/embed.st\/embed\/admin\/ppv-cleveland-guardians-vs-tampa-bay-rays\/1",
+          "type": "hls",
+          "rewarded": false,
+          "tokenApi": {
+            "type": "embed",
+            "api": "https:\/\/embed.st\/embed\/admin\/ppv-cleveland-guardians-vs-tampa-bay-rays\/1"
+          }
         }
       ]
     },
